@@ -140,43 +140,7 @@ def handle_scene_done(conn: Connection, msg: EnterSceneDoneReq):
         PlayerLocationInfo(uid=conn.player.uid, pos=cur_avatar.motion, rot=cur_avatar.rotation)
     ]
 
-    scene_entity_appear_notify_monster_test = SceneEntityAppearNotify()
-    scene_entity_appear_notify_monster_test.appear_type = VisionType.VISION_NONE
-    scene_entity_appear_notify_monster_test.entity_list = []
-    test_monster = SceneEntityInfo()
-    test_monster.entity_type = ProtEntityType(2)
-    test_monster.entity_id = 33554678
-    test_monster.name = 'Hili_None_01'
-    #test_monster.prop_map = {
-    #    1: PropValue(1, ival=8),
-    #    2: PropValue(2, ival=0)
-    #}
-    test_monster.motion_info.pos = Vector(2747, 194, -1720)
-    test_monster.motion_info.rot = Vector(0, 0, 0)
-    test_monster.life_state = 1
-    test_monster.monster = SceneMonsterInfo()
-    test_monster.monster.monster_id = 21010201
-    #test_monster.monster.group_id = 3001
-    #test_monster.monster.config_id = 1
-    #test_monster.monster.authority_peer_id = 1
-    test_monster.monster.affix_list = []
-    test_monster.monster.is_elite = 1
-    test_monster.monster.owner_entity_id = 33554678
-    #test_monster.monster.summoned_tag = 1
-    #test_monster.monster.summon_tag_map.update({1: 1})
-    #test_monster.monster.pose_id = 1
-    test_monster.monster.born_type = MonsterBornType(1)
-    test_monster.ai_info = SceneEntityAiInfo()
-    test_monster.ai_info.is_ai_open = 1
-    test_monster.ai_info.born_pos = Vector(2747, 194, -1720)
-    test_monster.renderer_changed_info = EntityRendererChangedInfo()
-    #test_monster.last_move_reliable_seq = 1
-    #test_monster.last_move_scene_time_ms = 1
-    scene_entity_appear_notify_monster_test.entity_list.append(test_monster)
-
-
     conn.send(scene_entity_appear_notify)
-    conn.send(scene_entity_appear_notify_monster_test)
     conn.send(scene_player_location_notify)
     conn.send(EnterSceneDoneRsp(retcode=0))
 
@@ -283,6 +247,37 @@ def handle_DungeonEntryInfo(conn: Connection, msg: DungeonEntryInfoReq):
         dungeon_entry_info_rsp.recommend_dungeon_id = rec
         
         conn.send(dungeon_entry_info_rsp)
+
+@router(CmdID.CombatInvocationsNotify)
+def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitNotify):
+    combat_invocations_notify = CombatInvocationsNotify()
+    combat_invocations_notify.invoke_list = CombatInvokeEntry()
+    combat_invocations_notify.invoke_list.forward_type = ForwardType(1)
+    combat_invocations_notify.invoke_list.argument_type = CombatTypeArgument(1)
+    combat_invocations_notify.invoke_list.combat_data = msg.invoke_list.combat_data
+    conn.send(combat_invocations_notify)
+
+@router(CmdID.EvtBeingHitsCombineNotify)
+def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitsCombineNotify):
+    combat_invocations_notify = EvtBeingHitsCombineNotify()
+    combat_invocations_notify.forward_type = ForwardType(1)
+    combat_invocations_notify.argument_type = EvtBeingHitInfo(1)
+    combat_invocations_notify.evt_being_hit_info_list = EvtBeingHitInfo()
+    combat_invocations_notify.evt_being_hit_info_list.peer_id = 1
+    combat_invocations_notify.evt_being_hit_info_list.attack_result = AttackResult()
+    combat_invocations_notify.evt_being_hit_info_list.attack_result.attacker_id = 10000005
+    combat_invocations_notify.evt_being_hit_info_list.attack_result.damage = 1
+    combat_invocations_notify.evt_being_hit_info_list.attack_result.defense_id = 1
+    combat_invocations_notify.evt_being_hit_info_list.attack_result.is_crit = 1
+    combat_invocations_notify.evt_being_hit_info_list.element_type = 1
+    combat_invocations_notify.evt_being_hit_info_list.damage_percentage = 100
+    combat_invocations_notify.evt_being_hit_info_list.damage_extra = 1
+    combat_invocations_notify.evt_being_hit_info_list.bonus_critical = 1
+    combat_invocations_notify.evt_being_hit_info_list.bonus_critical_hurt = 1
+    combat_invocations_notify.evt_being_hit_info_list.use_gadget_damage_action = 0
+    combat_invocations_notify.evt_being_hit_info_list.strike_type = 1
+    combat_invocations_notify.evt_being_hit_info_list.hit_collision = HitCollision()
+    conn.send(combat_invocations_notify)
 
 @router(CmdID.PersonalSceneJumpReq)
 def handle_PersonalSceneJump(conn: Connection, msg: PersonalSceneJumpReq):

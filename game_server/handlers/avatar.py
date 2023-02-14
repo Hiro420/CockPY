@@ -1,6 +1,6 @@
 from game_server.protocol.cmd_id import CmdID
 from game_server import HandlerRouter,Connection
-from lib.proto import SceneReliquaryInfo,ProtEntityType,SceneWeaponInfo, AvatarEquipChangeNotify,PathfindingEnterSceneRsp,PathfindingEnterSceneReq,WearEquipReq,WearEquipRsp,SetUpAvatarTeamReq,SetUpAvatarTeamRsp,SceneTeamUpdateNotify,AvatarTeamUpdateNotify,SceneTeamAvatar,SceneEntityAppearNotify,SceneEntityDisappearNotify,VisionType,ChangeAvatarReq,ChangeAvatarRsp
+from lib.proto import *
 from game_server.handlers.avatar import *
 from game_server.game.world import World
 from game_server.protocol.reader import BinaryReader
