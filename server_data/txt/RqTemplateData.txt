@@ -1,0 +1,19 @@
+父任务ID	[要素]1昵称	[要素]1池子ID	[要素]2昵称	[要素]2池子ID	[要素]3昵称	[要素]3池子ID	[要素]4昵称	[要素]4池子ID	[要素]5昵称	[要素]5池子ID	[要素]6昵称	[要素]6池子ID
+30000	{QuestNpcID}	3000101	{QuestRescuePos}	3000102	{QuestGatherID}	3000104	{PatternID}	3000105	{QuestGatherNum}	3000106		
+30001	{QuestNpcID}	3000101	{QuestRescuePos}	3000102	{QuestGatherID}	3000104	{PatternID}	3000105	{QuestGatherNum}	3000106	{PlayerLevel},{MonsterLevel}	3000107
+30002	{QuestNpcID}	3000201	{QuestRescuePos}	3000202	{QuestGatherID}	3000204	{PatternID}	3000105	{QuestGatherNum}	3000106	{PlayerLevel},{MonsterLevel}	3000107
+30003	{QuestNpcID}	3000301	{QuestRescuePos}	3000302	{QuestGatherID}	3000304	{PatternID}	3000105	{QuestGatherNum}	3000106	{PlayerLevel},{MonsterLevel}	3000107
+30004	{QuestNpcID}	3000401	{QuestRescuePos}	3000402	{QuestGatherID}	3000404	{PatternID}	3000105	{QuestGatherNum}	3000106	{PlayerLevel},{MonsterLevel}	3000107
+30005	{QuestNpcID}	3000501	{QuestRescuePos}	3000502	{QuestGatherID}	3000504	{PatternID}	3000105	{QuestGatherNum}	3000106	{PlayerLevel},{MonsterLevel}	3000107
+30006	{QuestNpcID}	3000601	{QuestRescuePos}	3000602	{QuestGatherID}	3000604	{PatternID}	3000105	{QuestGatherNum}	3000106	{PlayerLevel},{MonsterLevel}	3000107
+30007	{QuestNpcID}	3000701	{QuestRescuePos}	3000102	{QuestGatherID}	3000704	{PatternID}	3000105	{QuestGatherNum}	3000106	{PlayerLevel},{MonsterLevel}	3000107
+30011	{QuestNpcID}	3001101	{QuestRescuePos}	3000102	{QuestGatherID},{QuestGatherNum},{QuestGatherID2}	3001103						
+30012	{QuestNpcID}	3001201	{QuestRescuePos}	3001202	{QuestGatherID},{QuestGatherNum},{QuestGatherID2}	3001103						
+30013	{QuestNpcID}	3001301	{QuestRescuePos}	3000102	{QuestGatherID},{QuestGatherNum},{QuestGatherID2}	3001103						
+30014	{QuestNpcID}	3001401	{QuestRescuePos}	3001402	{QuestGatherID},{QuestGatherNum},{QuestGatherID2}	3001103						
+30015	{QuestNpcID}	3001501	{QuestRescuePos}	3000102	{QuestGatherID},{QuestGatherNum},{QuestGatherID2}	3001103						
+30021	{QuestNpcID}	3002101	{QuestRescuePos}	3002102	{QuestNpcID2},{NPCPos},{QuestNpcID3}	3002103						
+30022	{QuestNpcID}	3002201	{QuestRescuePos}	3002202	{QuestNpcID2},{NPCPos},{QuestNpcID3}	3002203						
+30023	{QuestNpcID}	3002301	{QuestRescuePos}	3000102	{QuestNpcID2},{NPCPos},{QuestNpcID3}	3002303						
+30024	{QuestNpcID}	3002401	{QuestRescuePos}	3002402	{QuestNpcID2},{NPCPos},{QuestNpcID3}	3002403						
+30025	{QuestNpcID}	3002501	{QuestRescuePos}	3000102	{QuestNpcID2},{NPCPos},{QuestNpcID3}	3002503						

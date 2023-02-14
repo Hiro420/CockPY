@@ -1,0 +1,85 @@
+{
+  "sceneId": 20008,
+  "monsters": [
+    {
+      "groupId": 220008001,
+      "mapInstId": 1,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 2.0
+    },
+    {
+      "groupId": 220008001,
+      "mapInstId": 2,
+      "routeId": 0,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 2.0
+    },
+    {
+      "groupId": 220008001,
+      "mapInstId": 4,
+      "routeId": 0,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 5.0
+    },
+    {
+      "groupId": 220008003,
+      "mapInstId": 7,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 5.0
+    },
+    {
+      "groupId": 220008003,
+      "mapInstId": 8,
+      "routeId": 0,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.0
+    },
+    {
+      "groupId": 220008004,
+      "mapInstId": 9,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 1.3
+    },
+    {
+      "groupId": 220008005,
+      "mapInstId": 26,
+      "routeId": 0,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.0
+    },
+    {
+      "groupId": 220008004,
+      "mapInstId": 29,
+      "routeId": 1,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.4
+    },
+    {
+      "groupId": 220008005,
+      "mapInstId": 27,
+      "routeId": 0,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.0
+    },
+    {
+      "groupId": 220008004,
+      "mapInstId": 30,
+      "routeId": 2,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.4
+    }
+  ]
+}

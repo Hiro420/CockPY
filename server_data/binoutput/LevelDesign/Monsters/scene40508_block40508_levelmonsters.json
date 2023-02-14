@@ -1,0 +1,173 @@
+{
+  "sceneId": 40508,
+  "monsters": [
+    {
+      "groupId": 240508005,
+      "mapInstId": 5001,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5002,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5003,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5004,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5005,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5006,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5007,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5008,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5009,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5010,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5011,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5012,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5013,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5014,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5015,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5016,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5017,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5019,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5020,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5029,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5030,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5031,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5032,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 240508005,
+      "mapInstId": 5033,
+      "aiGroupID": 240508005,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    }
+  ]
+}

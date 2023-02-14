@@ -1,0 +1,8 @@
+效果名字	效果类型	优先级权重
+ElementBurning		
+ElementWet		
+ElementGrassGrowing		
+ElementFrozen	1	1
+Paralyze	1	2
+LockHP 		
+ElementShock		

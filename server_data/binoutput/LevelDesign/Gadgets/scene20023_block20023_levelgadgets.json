@@ -1,0 +1,30 @@
+{
+  "sceneId": 20023,
+  "blockId": 20023,
+  "gadgets": [
+    {
+      "groupId": 220023003,
+      "mapInstId": 3004,
+      "followMove_AttachPoint": "RootNode",
+      "followMove_targetInstanceId": 3007
+    },
+    {
+      "groupId": 220023003,
+      "mapInstId": 3005,
+      "followMove_AttachPoint": "RootNode",
+      "followMove_targetInstanceId": 3008
+    },
+    {
+      "groupId": 220023003,
+      "mapInstId": 3006,
+      "followMove_AttachPoint": "RootNode",
+      "followMove_targetInstanceId": 3009
+    },
+    {
+      "groupId": 220023013,
+      "mapInstId": 13001,
+      "followMove_AttachPoint": "RootNode",
+      "followMove_targetInstanceId": 19
+    }
+  ]
+}

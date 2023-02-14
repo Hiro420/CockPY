@@ -1,0 +1,86 @@
+{
+  "sceneId": 20000,
+  "blockId": 20000,
+  "gadgets": [
+    {
+      "groupId": 220000005,
+      "mapInstId": 5006,
+      "followMove_targetInstanceId": 34,
+      "billboard_HasUIBar": true,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000005,
+      "mapInstId": 5009,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000007,
+      "mapInstId": 7004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000008,
+      "mapInstId": 31,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000026,
+      "mapInstId": 67,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000034,
+      "mapInstId": 90,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000054,
+      "mapInstId": 290,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000055,
+      "mapInstId": 303,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000056,
+      "mapInstId": 316,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000057,
+      "mapInstId": 326,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000059,
+      "mapInstId": 277,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000068,
+      "mapInstId": 471,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 220000076,
+      "mapInstId": 547,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    }
+  ]
+}

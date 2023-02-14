@@ -1,0 +1,12 @@
+{
+  "sceneId": 20020,
+  "monsters": [
+    {
+      "groupId": 220020001,
+      "mapInstId": 1001,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting",
+      "billboard_HideUIBarDis": 240.0
+    }
+  ]
+}

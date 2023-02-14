@@ -1,0 +1,317 @@
+父任务ID	任务类型	启用模式	Lua脚本路径	推荐等级	可重复	任务奖励RewardID	章节ID	事件ID	$#VersionBegin	$#VersionEnd
+347	7	1								0.1
+348	7	1			1					0.1
+349	7	1			1					0.1
+350	7	1	Actor/Quest/AQ350							0.1
+351	0	1	Actor/Quest/AQ351			100351				
+362	7	1	Actor/Quest/MQ362							0.1
+352	0	1	Actor/Quest/AQ352			100352	1001			
+353	0	1	Actor/Quest/AQ353			100353	1001			
+361	7	1	Actor/Quest/AQ361							0.1
+355	0	1	Actor/Quest/AQ355			100355	1001			
+354	0	1	Actor/Quest/AQ354			100354	1001			
+360	0	1	Actor/Quest/AQ360			100360	1001			
+356	0	1	Actor/Quest/AQ356			100356	1001			
+357	0	1	Actor/Quest/AQ357			100357	1001			
+358	0	1	Actor/Quest/AQ358			100358	1001			
+359	0	1	Actor/Quest/AQ359							0.1
+306	0	1	Actor/Quest/AQ306			100306	1001			
+307	0	1	Actor/Quest/AQ307			100307	1001			
+308	0	1	Actor/Quest/AQ308			100308	1001			
+309	0	1	Actor/Quest/AQ309				1001			0.1
+310	7	1								0.1
+311	0	1	Actor/Quest/AQ311							0.1
+312	0	1				100312				0.1
+363	0	1					1001			0.1
+370	0	1	Actor/Quest/MQ370			100370	1002			
+371	0	1	Actor/Quest/MQ371			100371	1002			
+372	0	1	Actor/Quest/MQ372			100372	1002			
+373	0	1	Actor/Quest/MQ373			100373	1002			
+374	0	1	Actor/Quest/MQ374			100374	1002			
+375	0	1	Actor/Quest/MQ375			100375	1002			
+376	0	1	Actor/Quest/MQ376			100376	1002			
+377	0	1	Actor/Quest/MQ377			100377	1002			
+378	0	1	Actor/Quest/MQ378				1002			
+395	0	1	Actor/Quest/MQ395				1002			
+20101	0	1	Actor/Quest/IQ20101			120101	1002			
+379	0	1	Actor/Quest/MQ379			100379	1002			
+385	0	1	Actor/Quest/MQ385							0.1
+386	0	1				100386				
+387	0	1				100387				
+380	0	1	Actor/Quest/MQ380			100380	1002			
+381	0	1	Actor/Quest/MQ381			100381	1002			
+382	0	1	Actor/Quest/MQ382			100382	1002			
+383	0	1	Actor/Quest/MQ383			100383	1002			
+384	0	1	Actor/Quest/MQ384			100384	1002			
+397	0	1	Actor/Quest/MQ397			100397	1003			0.1
+388	0	1	Actor/Quest/MQ388			100388	1003			
+389	0	1	Actor/Quest/MQ389			100389	1003			
+390	0	1	Actor/Quest/MQ390			100390	1003			
+391	0	1	Actor/Quest/MQ391				1003			
+392	0	1	Actor/Quest/MQ392				1003			
+393	0	1	Actor/Quest/MQ393			100393	1003			
+394	0	1	Actor/Quest/MQ394			100394	1003			
+396	0	1	Actor/Quest/MQ396			100396	1003			
+303	7	1								0.1
+318	7	1	Actor/Quest/IQ318							
+407	7	1	Actor/Quest/SQ407			100407				
+408	7	1	Actor/Quest/SQ408			100408				
+409	7	1	Actor/Quest/SQ409			100409				
+410	7	1	Actor/Quest/SQ410			100400				0.1
+416	7	1	Actor/Quest/SQ416							
+418	7									
+419	7	1	Actor/Quest/MQ419							
+420	7	1	Actor/Quest/MQ420							
+421	7	1	Actor/Quest/MQ421							0.1
+422	7	1	Actor/Quest/MQ422							
+423	2	1								
+424	7	1	Actor/Quest/SQ424							0.1
+425	7	1	Actor/Quest/SQ425							
+426	7	1	Actor/Quest/SQ426							
+428	7	1	Actor/Quest/SQ428							
+429	7	1	Actor/Quest/SQ429							
+451	2	1	Actor/Quest/LQ451			100451	2005		0.2	
+452	2	1	Actor/Quest/LQ452			100452	2005		0.2	
+453	2	1	Actor/Quest/LQ453			100453	2005		0.2	
+454	2	1	Actor/Quest/LQ454			100454	2005		0.2	
+461	2	1	Actor/Quest/LQ461			100461	2001			
+462	2	1	Actor/Quest/LQ462			100462	2001			
+463	2	1	Actor/Quest/LQ463			100463	2001			
+464	2	1	Actor/Quest/LQ464			100464	2002		0.2	
+465	2	1	Actor/Quest/LQ465			100465	2002		0.2	
+466	2	1	Actor/Quest/LQ466			100466	2002		0.2	
+491	7	1	Actor/Quest/IQ491				2002			0.1
+467	7	1	Actor/Quest/IQ467			100467				0.1
+468	7	1								
+469	7	1	Actor/Quest/IQ469			100469				
+470	5	1	Actor/Quest/IQ470			100470				0.1
+471	7	1	Actor/Quest/IQ471							0.1
+481	2	1	Actor/Quest/LQ481			100481	2003			
+480	2	1	Actor/Quest/LQ480			100480	2003			
+482	2	1	Actor/Quest/LQ482				2003			
+427	2	1	Actor/Quest/SQ427			100427	2003			
+484	2	1	Actor/Quest/LQ484			100484	2003			
+485	2	1	Actor/Quest/LQ485			100485	2003			
+486	2	1	Actor/Quest/LQ486			100486	2006		0.2	
+487	2	1	Actor/Quest/LQ487			100487	2006		0.2	
+488	2	1	Actor/Quest/LQ488			100488	2006		0.2	
+489	2	1	Actor/Quest/LQ489			100489	2006		0.2	
+490	2	1	Actor/Quest/LQ490			100490	2006		0.2	
+492	2	1					2006		0.2	
+991	7	1	Actor/Quest/SQ991							0.1
+992	7	1	Actor/Quest/SQ992							0.1
+993	7	1	Actor/Quest/SQ993							0.1
+994	7	1	Actor/Quest/SQ994							0.1
+995	7	1								0.1
+996	7	1	Actor/Quest/SQ996							0.1
+997	7	1	Actor/Quest/SQ997							0.1
+998	7	1	Actor/Quest/SQ998			100400				0.1
+999	7	1	Actor/Quest/SQ999			100400				0.1
+1005	0	1							0.2	
+1000	0	1	Actor/Quest/MQ1000			101000	1101		0.2	
+1001	0	1	Actor/Quest/MQ1001				1101			0.1
+1002	0	1	Actor/Quest/MQ1002			101002	1101		0.2	
+1003	0	1	Actor/Quest/MQ1003			101003	1101		0.2	
+1004	0	1					1101			0.1
+10100	2	1	Actor/Quest/LQ10100			110100	2004		0.2	
+10101	2	1	Actor/Quest/LQ10101			110101	2004		0.2	
+10200	2	1	Actor/Quest/LQ10200			110200	2009		0.2	
+10201	2	1	Actor/Quest/LQ10201			110201	2009		0.2	
+10202	2	1	Actor/Quest/LQ10202			110202	2009		0.2	
+10203	2	1	Actor/Quest/LQ10203							0.1
+10300	7	1								
+10400	7	1	Actor/Quest/LQ10400							0.1
+11000	2	1	Actor/Quest/LQ11000			111000	2007			
+11001	2	1	Actor/Quest/LQ11001			111001	2007			
+11002	2	1	Actor/Quest/LQ11002			111002	2007			
+11003	2	1	Actor/Quest/LQ11003			111003	2007			
+11004	2	1	Actor/Quest/LQ11004			111004	2007			
+11005	2	1	Actor/Quest/LQ11005			111005	2007			
+11006	2	1								
+11007	2	1								
+12000	2	1	Actor/Quest/LQ12000			112000	2008		0.3	0.3
+12001	2	1	Actor/Quest/LQ12001			112001	2008		0.3	0.3
+12002	2	1	Actor/Quest/LQ12002			112002	2008		0.3	0.3
+12003	2	1	Actor/Quest/LQ12003			112003	2008		0.3	0.3
+13001	2	1	Actor/Quest/LQ13001						0.3	0.3
+13002	2	1	Actor/Quest/LQ13002						0.3	0.3
+13003	2	1	Actor/Quest/LQ13003						0.3	0.3
+13004	2	1	Actor/Quest/LQ13004						0.3	0.3
+20000	7		Actor/Quest/IQ20000							
+20001	5		Actor/Quest/IQ20001		1	500011		20500		
+20002	7	1			1					
+20003	7									
+20004	7		Actor/Quest/IQ20004							
+20005	5		Actor/Quest/IQ20005		1			20400		
+20006	5		Actor/Quest/IQ20006		1	501000		20300		
+20007	5		Actor/Quest/IQ20007		1			20100		
+20008	5		Actor/Quest/IQ20008		1			20200		
+20009	5		Actor/Quest/IQ20009		1	0,500001		20700		
+20010	5		Actor/Quest/IQ20010		1	0,500001		20701		
+20016	5		Actor/Quest/IQ20016		1	501001		20301		
+20011	5		Actor/Quest/IQ20011		1	500009		20501		
+20012	5		Actor/Quest/IQ20012		1	500010		20502		
+20013	5		Actor/Quest/IQ20013		1	500012		20503		
+20015	5		Actor/Quest/IQ20015		1	0,500001		20702		
+20017	5		Actor/Quest/IQ20017		1			20101		
+20018	5		Actor/Quest/IQ20018		1			20102		
+20019	5		Actor/Quest/IQ20019		1			20403		
+20020	5	1	Actor/Quest/IQ20020							
+20023	5		Actor/Quest/IQ20023		1			22600		
+20024	5				1			22300		
+20025	5		Actor/Quest/IQ20025		1			20401		
+20026	5		Actor/Quest/IQ20026		1	501002		20302		
+20027	5		Actor/Quest/IQ20027		1			20201		
+20028	5		Actor/Quest/IQ20028		1			20202		
+20035	5		Actor/Quest/IQ20035		1			20402	0.2	
+20036	5		Actor/Quest/IQ20036		1	500011		21000		
+20037	5		Actor/Quest/IQ20037		1			21100		
+20038	5		Actor/Quest/IQ20038		1			20900		
+20039	5		Actor/Quest/IQ20039		1	500031,500032,500033,500034		21200		
+20040	5		Actor/Quest/IQ20040		1	500013		20600		
+20041	5				1			21300		
+20042	5		Actor/Quest/IQ20042		1			21400		
+20043	5		Actor/Quest/IQ20043		1	500004		21500		
+20044	5				1			21600		
+20047	5		Actor/Quest/IQ20047		1			21800		
+20048	5		Actor/Quest/IQ20048		1	0,500014		21700		
+20049	5		Actor/Quest/IQ20049		1			21900		
+20050	5				1			21601		
+20051	5		Actor/Quest/IQ20051		1	500001,500015,500016,500017,500018,500019,500020,500021,500022,500023,500024,500025,500026,500027,500028,500029,500030		22000		
+20052	5				1			20203		
+20053	5				1			21602		
+20054	5		Actor/Quest/IQ20054		1	500011,500001,500004,500018,500003		22100		
+20058	5		Actor/Quest/IQ20058		1	500100,500101		22200		
+20059	5		Actor/Quest/IQ20059		1	500102,500103,500104		22900		
+20060	5		Actor/Quest/IQ20060		1			22500		
+20061	5		Actor/Quest/IQ20061		1			22700		
+20062	5		Actor/Quest/IQ20062		1	500035,500036		22400		
+20063	5		Actor/Quest/IQ20063		1			22800		
+20064	5		Actor/Quest/IQ20064		1			22400		
+20065	5				1			21603		
+20066	5				1			21604		
+22000	5		Actor/Quest/IQ22000		1			26100		
+22001	5		Actor/Quest/IQ22001		1			26200		
+22002	5		Actor/Quest/IQ22002		1			26300		
+22003	5		Actor/Quest/IQ22003		1			26400		
+22004	5		Actor/Quest/IQ22004		1			26500		
+22100	5				1			25300		
+22101	5				1			25301		
+22102	5				1			25302		
+22103	5				1			25400		
+22104	5				1			25401		
+22105	5				1			25402		
+22106	5		Actor/Quest/IQ22106		1			25100		
+22107	5		Actor/Quest/IQ22107		1			25200		
+22108	5				1			25000		
+22109	5				1			25001		
+22110	5				1			25002		
+22111	7					122111				
+22112	5		Actor/Quest/IQ22112		1			26600		
+22113	5		Actor/Quest/IQ22113		1			26700		
+22300	5		Actor/Quest/IQ22300		1	0,500105,500106		25500		
+22301	5		Actor/Quest/IQ22301		1	500107,500108,500109		25600		
+22302	5		Actor/Quest/IQ22302		1			25700		
+22303	5		Actor/Quest/IQ22303		1	500110		25800		
+22304	5		Actor/Quest/IQ22304		1	500111		25900		
+22305	5		Actor/Quest/IQ22305		1	500112,500113,500114,500115,500116,500117,500118,500119,500120,500121,500122,500123,500124,500125		26000		
+22306	5		Actor/Quest/IQ22306		1	500111		25901		
+22307	5		Actor/Quest/IQ22307		1	500111		25902		
+20030	7	1	Actor/Quest/IQ20030			120030			0.2	
+20031	7		Actor/Quest/IQ20031			120031			0.2	
+20032	2		Actor/Quest/IQ20032							0.1
+20033	7	1	Actor/Quest/IQ20033		1					
+20500	7	1	Actor/Quest/IQ20500							0.1
+20501	7		Actor/Quest/IQ20501						0.2	
+20502	7		Actor/Quest/IQ20502						0.2	0.2
+20503	7	1	Actor/Quest/IQ20503						0.2	
+20504	7	1	Actor/Quest/IQ20504						0.2	
+20505	7	1	Actor/Quest/IQ20505						0.2	
+20506	7	1	Actor/Quest/IQ20506						0.2	
+20507	7	1	Actor/Quest/IQ20507							0.1
+20508	7	1	Actor/Quest/IQ20508							0.1
+20509	7	1	Actor/Quest/IQ20509							0.1
+20510	7	1				120510				0.1
+20100	7	1				120100				0.1
+21001	7									0.1
+21002	7								0.3	
+21003	7	1				121003				
+21004	7		Actor/Quest/IQ21004			121004				
+21005	7		Actor/Quest/IQ21005							
+21007	7	1				121007				
+21008	7					121008				
+21009	7	1				121009				
+21010	7	1								
+21011	7	1							0.3	
+21012	7	1	Actor/Quest/IQ21012			121012				
+21013	7	1							0.3	
+21014	7	1	Actor/Quest/IQ21014						0.3	
+21015	7		Actor/Quest/LQ21015			121015				
+21016	7		Actor/Quest/IQ21016							
+21017	7		Actor/Quest/IQ21017							
+21018	7		Actor/Quest/IQ21018			121018				
+21019	7		Actor/Quest/LQ21019			121019				
+21020	7					121020				
+25000	7	1					50000			
+25001	7	1				125001	50000			
+25002	7	1					50001			
+25003	7	1				125003	50001			
+25004	7	1					50002			
+25005	7	1				125005	50002			
+25006	7	1					50003			
+25007	7	1				125007	50003			
+25008	7	1					50004			
+25009	7	1				125009	50004			
+25010	7	1					50005			
+25011	7	1				125011	50005			
+25012	7	1					50006			
+25013	7	1				125013	50006			
+60000	6	1								
+60001	6	1								
+60002	6	1								
+60003	6	1								
+60101	6	1								
+60102	6	1								
+60103	6	1								
+60104	6	1								
+60105	6	1								
+60106	6	1								
+60107	6	1								
+60201	6	1								
+60202	6	1								
+60203	6	1								
+60204	6	1								
+60205	6	1								
+60206	6	1								
+60207	6	1								
+60208	6	1								
+60209	6	1								
+61000	6	1								
+61001	6	1								
+61002	6	1								
+61003	6	1								
+61101	6	1								
+61102	6	1								
+61103	6	1								
+61104	6	1								
+61105	6	1								
+61106	6	1								
+61201	6	1								
+61202	6	1								
+61203	6	1								
+61204	6	1								
+61205	6	1								
+61206	6	1								
+61207	6	1								
+61208	6	1								
+71001	7									
+71002	7									0.1
+40001	3	1	Actor/Quest/EQ40001			460201	10001			
+40002	3	1	Actor/Quest/EQ40002			460202	10002			
+40003	3	1	Actor/Quest/EQ40003			460203	10003			
+40004	3	1	Actor/Quest/EQ40004			460204	10004			
+40005	3	1	Actor/Quest/EQ40005			460205	10005			
+40006	3	1	Actor/Quest/EQ40006							
+40007	3	1	Actor/Quest/EQ40007							
+40008	3	1				460208				
+40009	3	1				460200				

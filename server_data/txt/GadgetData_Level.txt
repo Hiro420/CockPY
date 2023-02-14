@@ -1,0 +1,750 @@
+ID	默认阵营	类型	JSON名称	能否移动	是否有音响	是否能装备	能否交互	视距等级	服务器脚本	ItemJSON名称	$#VersionBegin	$#VersionEnd
+70000001	9001	10	Grass01		1					Default_Item		
+70000002	9002	20	Water01		1					Default_Item		
+70000003	9001	36	Tree01		1					Default_Item		
+70000004	9001	37	Bush01		1					Default_Item		
+70000005	9001	37	Bush02		1					Default_Item		
+70000006	9001	37	Foxtail_Grass01		1					Default_Item		
+70000007	9001	37	Foxtail_Grass02		1							
+70000008	9001	37	Bush_Yellow		1							
+70000009	9001	39	Storm_Lightning		1							
+70010001	0	13								Default_Item		
+70010002	0	15								Default_Item		
+70010003	0	15								Default_Item		
+70010004	0	15								Default_Item		
+70010005	0	15								Default_Item		
+70010006	0	18	LocalTrigger							Default_Item		
+70020001	4001	19	Enviro01					3		Default_Item		
+70020002	4001	19	Enviro02					3		Default_Item		
+70020003	4001	19	Enviro03					3		Default_Item		
+70110001	0	13	SceneObj_Resident_Goddess		1							
+70110002	0	15	SceneObj_Resident_Teleport		1							
+70110003	0	15										
+70110004	0	13	SceneObj_Resident_Goddess_LY		1							
+70110005	0	15	SceneObj_Resident_WormHoleGate02									
+70120001	5001	15	SceneObj_Resident_DungeonEntry_MengDe01		1							
+70120002	5001	15	SceneObj_Resident_DungeonEntry_MengDe02		1							
+70120003	0	15	SceneObj_Resident_CheckPoint					1				
+70120004	0	15						1				
+70120005	0	15	DungeonEntry_Dvalin					1				
+70120006	5001	15	SceneObj_Resident_DungeonEntry_Temp		1							
+70120007	5001	15	SceneObj_Resident_DungeonEntry_Temp_3d		1							
+70130001	5001	19	Windmill	1				2				
+70130002	5001	19	Windmill	1				2				
+70130003	5001	19	Windmill	1				2				
+70200011	5001	19	HealingBarrel							Default_Item		
+70210001	5001	26	SceneObj_Chest_NormalChest		1		1	1	Chest_Interact	Default_Item		
+70210002	5001	26	SceneObj_Chest_NormalChest		1		1	1	Chest_Interact	Default_Item		
+70210003	5001	26	SceneObj_Chest_NormalChest		1		1	1	Chest_Interact	Default_Item		
+70210004	5001	26	SceneObj_Chest_NormalChest		1		1	1	Chest_Interact	Default_Item		
+70210005	5001	26	SceneObj_Chest_NormalChest		1		1	1	Chest_Interact	Default_Item		
+70210006	5001	26	SceneObj_Chest_NormalChest		1		1		Chest_Interact	Default_Item		
+70210007	5001	26	SceneObj_Chest_Test_FM02	1	1		1		Chest_Interact	Default_Item		
+70210008	5001	26	SceneObj_Chest_Drop_Chest		1		1	1	Chest_Drop_Interact	Default_Item		
+70210011	5001	26	SceneObj_Chest_Default_Lv1		1		1	2			0.2	
+70210012	5001	26	SceneObj_Chest_Locked_Lv1		1		1	2			0.2	
+70210013	5001	26	SceneObj_Chest_Bramble_Lv1		1		1	2	Chest_Interact		0.2	
+70210014	5001	26	SceneObj_Chest_Frozen_Lv1		1		1	2	Chest_Interact		0.2	
+70210021	5001	26	SceneObj_Chest_Default_Lv2		1		1	2			0.2	
+70210022	5001	26	SceneObj_Chest_Locked_Lv2		1		1	2			0.2	
+70210023	5001	26	SceneObj_Chest_Bramble_Lv2		1		1	2	Chest_Interact		0.2	
+70210024	5001	26	SceneObj_Chest_Frozen_Lv2		1		1	2	Chest_Interact		0.2	
+70210031	5001	26	SceneObj_Chest_Default_Lv3		1		1	2			0.2	
+70210032	5001	26	SceneObj_Chest_Locked_Lv3		1		1	2			0.2	
+70210033	5001	26	SceneObj_Chest_Bramble_Lv3		1		1	2	Chest_Interact		0.2	
+70210034	5001	26	SceneObj_Chest_Frozen_Lv3		1		1	2	Chest_Interact		0.2	
+70210041	5001	26	SceneObj_Chest_Default_Lv4		1		1	2			0.2	
+70210042	5001	26	SceneObj_Chest_Locked_Lv4		1		1	2			0.2	
+70210043	5001	26	SceneObj_Chest_Bramble_Lv4		1		1	2	Chest_Interact		0.2	
+70210044	5001	26	SceneObj_Chest_Frozen_Lv4		1		1	2	Chest_Interact		0.2	
+70210051	5001	26	SceneObj_Chest_Default_Lv5		1		1	2			0.2	
+70210052	5001	26	SceneObj_Chest_Locked_Lv5		1		1	2			0.2	
+70210053	5001	26	SceneObj_Chest_Bramble_Lv5		1		1	2	Chest_Interact		0.2	
+70210054	5001	26	SceneObj_Chest_Frozen_Lv5		1		1	2	Chest_Interact		0.2	
+70210055	5001	19	SceneObj_Gear_Other_ElementRune_Rock		1				ElementRune	Default_Item		
+70210056	5001	26	SceneObj_Chest_FollowMove_Chest	1	1		1	1	Chest_Interact	Default_Item		
+70210057	5001	19	SceneObj_Gear_Other_ElementRune_Water		1				ElementRune	Default_Item		
+70210058	5001	19	SceneObj_Gear_Other_ElementRune_Fire		1				ElementRune	Default_Item		
+70210059	5001	19	SceneObj_Gear_Other_ElementRune_Wind		1				ElementRune	Default_Item		
+70210060	5001	19	SceneObj_Gear_Other_ElementRune_Electric		1				ElementRune	Default_Item		
+70210061	5001	19	SceneObj_Gear_Other_ElementRune_Grass		1				ElementRune	Default_Item		
+70210062	5001	19	SceneObj_Gear_Other_ElementRune_Ice		1				ElementRune	Default_Item		
+70210063	5001	26	SceneObj_Chest_Rock_Lv1		1		1	2	Chest_Interact		0.2	
+70210101	5001	26	SearchPoint				1			Default_Item		
+70210102	5001	26	SearchPoint				1			Default_Item		
+70210103	5001	19	SceneObj_CombatInteraction_ElementSmoke		1			1		Default_Item		
+70210104	5001	26	SearchPoint_Invisible				1					
+70210105	5001	26	SearchPoint_OnWater				1					
+70210106	5001	26	SceneObj_Chest_Flora				1					
+70210107	5001	26	SearchPoint_Rock				1			Default_Item		
+70210108	5001	26	SearchPoint_Rock				1			Default_Item		
+70211001	5001	26	SceneObj_Chest_Default_Lv2		1		1				0.2	
+70211002	5001	26	SceneObj_Chest_Locked_Lv2		1		1	1			0.2	
+70211011	5001	26	SceneObj_Chest_Default_Lv3		1		1				0.2	
+70211012	5001	26	SceneObj_Chest_Locked_Lv3		1		1	1			0.2	
+70211021	5001	26	SceneObj_Chest_Default_Lv4		1		1				0.2	
+70211022	5001	26	SceneObj_Chest_Locked_Lv4		1		1	1			0.2	
+70211031	5001	26	SceneObj_Chest_Default_Lv5		1		1				0.2	
+70211032	5001	26	SceneObj_Chest_Locked_Lv5		1		1	1			0.2	
+70211101	5001	26	SceneObj_Chest_Default_Lv2		1		1				0.2	
+70211102	5001	26	SceneObj_Chest_Locked_Lv2		1		1	1			0.2	
+70211103	5001	26	SceneObj_Chest_Bramble_Lv2		1		1		Chest_Interact		0.2	
+70211104	5001	26	SceneObj_Chest_Frozen_Lv2		1		1		Chest_Interact		0.2	
+70211111	5001	26	SceneObj_Chest_Default_Lv3		1		1				0.2	
+70211112	5001	26	SceneObj_Chest_Locked_Lv3		1		1	1			0.2	
+70211121	5001	26	SceneObj_Chest_Default_Lv4		1		1				0.2	
+70211122	5001	26	SceneObj_Chest_Locked_Lv4		1		1	1			0.2	
+70211123	5001	26	SceneObj_Chest_Default_Lv4		1		1	1			0.2	
+70211131	5001	26	SceneObj_Chest_Default_Lv5		1		1				0.2	
+70211132	5001	26	SceneObj_Chest_Locked_Lv5		1		1	1			0.2	
+70216666	5001	26	SceneObj_Chest_DropTest				1					
+70217001	5001	26	SceneObj_Chest_Calibur_Mitsurugi				1	1			0.2	
+70217002	5001	26	SceneObj_Chest_Carlibur_Noire				1	1				
+70220001	5001	19	SceneObj_Environment_GrassMaterial_LeaveStacks		1		1			Default_Item		
+70220002	5001	19	SceneObj_Environment_GrassMaterial_LeafBlanket		1		1			Default_Item		
+70220003	5001	19	SceneObj_Environment_WoodenMaterial_BrambleWall01		1		1			Default_Item		
+70220004	5001	19	SceneObj_CombatInteraction_PumpkinBomb				1			Default_Item		
+70220005	5001	19	SceneObj_CombatInteraction_BombBox	1						Default_Item		
+70220034	5001	19	SceneObj_CombatInteraction_BombBox01	1						Default_Item		
+70220006	5001	19	SceneObj_Environment_Rock_StonePillar		1					Default_Item		
+70220007	5001	19	SceneObj_Environment_Rock_StoneWall		1					Default_Item		
+70220008	5001	19	SceneObj_Environment_Rock_StonePile		1					Default_Item		
+70220009	5001	19	SceneObj_Environment_Rock_Stone	1						Default_Item		
+70220010	5001	19	SceneObj_Amber_WaterAmber		1		1			Default_Item		
+70220011	5001	33	SceneObj_Amber_WindAmber		1					Default_Item		
+70220012	5001	33	SceneObj_Amber_WindAmber_Inactive							Default_Item		
+70220013	5001	19	SceneObj_Environment_WoodenMaterial_WoodenObject		1			4	SubfieldDrop_WoodenObject_Broken	Default_Item		
+70220014	5001	19	SceneObj_Environment_WoodenMaterial_WoodenObject					4	SubfieldDrop_WoodenObject_Broken	Default_Item		
+70220015	5001	19	SceneObj_Environment_GrassMaterial_GrassStacks		1		1	4		Default_Item		
+70220016	5001	19	SceneObj_Environment_GrassMaterial_GrassStacks		1		1	4		Default_Item		
+70220017	5001	19	SceneObj_Environment_WoodenMaterial_FirewoodStacks		1		1	4		Default_Item		
+70220018	5001	19	SceneObj_Environment_Rock_StonePillar		1					Default_Item		
+70220019	5001	19	SceneObj_Environment_Rock_StonePillar_Unclimbable_UnDestroyable		1					Default_Item		
+70220020	5001	19	SceneObj_Environment_WoodenMaterial_BrambleWorld		1		1			Default_Item		
+70220021	5001	19	SceneObj_Environment_Rock_StonePileWorld		1					Default_Item		
+70220022	5001	19	Oil		1					Default_Item		
+70220023	5001	19	SceneObj_Environment_GrassMaterial_LeafBlanket02									
+70220024	5001	19	SceneObj_Environment_Rock_StonePileWorld		1					Default_Item		
+70220025	5001	19	SceneObj_Environment_GrassMaterial_LeafBlanket		1							
+70220026	5001	19	SceneObj_Environment_WoodenMaterial_WoodenObject		1			4	SubfieldDrop_WoodenObject_Broken	Default_Item		
+70220027	5001	19	SceneObj_Environment_Rock_StonePileWorld01		1					Default_Item		
+70220028	5001	19	SceneObj_Trap_Rake									
+70220029	5001	19	SceneObj_Riddle_Torch_Hint									
+70220030	5001	19	SceneObj_Riddle_Torch_Collider									
+70220031	5001	19	SceneObj_Environment_FireMaterial_FireBasin		1				Fire_Source	Default_Item		
+70220032	5001	25	SceneObj_Gear_Windmill01		1				SceneObj_Gear_Windmill01			
+70220033	5001	25	SceneObj_Gear_Windmill02						SceneObj_Gear_Windmill01			
+70220035	5001	19	SceneObj_CombatInteraction_BombBox_WithEye	1						Default_Item		
+70270001	5001	19	RainyCloud							Default_Item		
+70270002	5001	19	WaterAmber_Mist		1					Default_Item		
+70270003	5001	23	WindAmberField		1					Default_Item		
+70290001	5001	19	SceneObj_Environment_WoodenMaterial_AppleTree						tree	Default_Item		
+70290002	5001	19	SceneObj_Environment_WoodenMaterial_AppleTree		1			1	tree	Default_Item		
+70290003	1001	19								Default_Item		
+70290004	1001	19						1		Default_Item		
+70290005	1001	19										
+70290006	1001	19										
+70290007	1001	19										
+70290008	1001	19										
+70290009	1001	19										
+70290010	1001	19										
+70290011	1001	19										
+70290012	5001	19	SceneObj_Environment_WoodenMaterial_GinSengTree		1				GinsengTree	Default_Item		
+70290013	5001	19										
+70290014	5001	19										
+70290015	5001	19										
+70290016	5001	19										
+70290017	5001	19										
+70290018	5001	19										
+70290019	5001	19										
+70290020	5001	19										
+70290021	5001	19										
+70300001	1001	22	SceneObj_Gather_Default_Gather							Default_Item		
+70300002	1001	22	SceneObj_Gather_Default_Gather							Default_Item		
+70300075	4001	19	SceneObj_Event_RoadBlock		1					Default_Item	0.2	
+70300076	4001	19	SceneObj_Event_RoadBlock02		1					Default_Item	0.2	
+70300077	4001	19	SceneObj_Event_QQTent		1					Default_Item	0.2	
+70300078	4001	19	SceneObj_Event_QQTent02		1					Default_Item	0.2	
+70300079	1001	19	SceneObj_Event_StableCart							Default_Item	0.2	
+70300080	1001	3	Task_Trap							Task_Trap	0.2	
+70300081	4001	19	SceneObj_Event_RoadBlock03		1					Default_Item	0.2	
+70300083	4001	19	SceneObj_Event_RoadBlock05		1					Default_Item	0.2	
+70300084	4001	19	SceneObj_Event_RoadBlock04							Default_Item	0.2	
+70300085	4001	19	SceneObj_Event_QQPlatform							Default_Item	0.2	
+70300086	4001	19	SceneObj_Event_QQPile							Default_Item	0.2	
+70300087	4001	19	SceneObj_Event_QQPot		1					Default_Item	0.2	
+70300088	4001	19	SceneObj_Event_QQTarget		1					Default_Item	0.2	
+70300089	4001	19	SceneObj_Event_QQTotem		1					Default_Item	0.2	
+70300090	4001	19	SceneObj_Event_WatchTower01							Default_Item	0.2	
+70300091	4001	19	SceneObj_Event_WatchTower02		1					Default_Item	0.2	
+70300092	1001	19	SceneObj_Event_HumanCart		1					Default_Item	0.2	
+70300093	1001	19	SceneObj_Event_HumanCart_Broken							Default_Item	0.2	
+70300094	1001	19	SceneObj_Event_HumanCart_Goods							Default_Item	0.2	
+70300095	1001	19	SceneObj_Event_Spoils							Default_Item	0.2	
+70300096	1001	19	SceneObj_Event_Spoils							Default_Item	0.2	
+70300097	1001	19	SceneObj_Event_Spoils							Default_Item	0.2	
+70300098	5001	19	SceneObj_Environment_FireMaterial_Bornfires		1				Fire_Source	Default_Item		0.1
+70300099	5001	19	SceneObj_Environment_Ceremony_Fires		1				Fire_Source	Default_Item		0.1
+70300100	4001	19	SceneObj_Event_QQTotem		1					Default_Item		0.1
+70300101	4001	19	SceneObj_Event_WatchTower02		1					Default_Item		0.1
+70300102	4001	19	SceneObj_Event_QQPlatform		1					Default_Item		0.1
+70300103	1001	19	SceneObj_Event_Spoils							Default_Item		0.1
+70300104	1001	19								Default_Item	0.2	
+70300105	1001	19								Default_Item	0.2	
+70300106	4001	19	SceneObj_Event_QQTarget		1					Default_Item		0.1
+70300107	5001	19	SceneObj_Environment_Ceremony_Fires		1				Fire_Source	Default_Item	0.2	
+70300108	4001	19	SceneObj_Event_QQTarget		1					Default_Item	0.2	
+70300109	1001	19	SceneObj_Event_ElementTrack							Default_Item	0.2	
+70300110	1001	19								Default_Item		
+70300111	4001	19	SceneObj_Event_QQTotem		1					Default_Item	0.2	
+70300112	5001	19	SceneObj_Event_DuckEat					1		Default_Item	0.2	
+70300113	4001	19	SceneObj_Event_QQTotem		1					Default_Item	0.2	
+70300114	4001	19	SceneObj_Event_Kelee_Seal		1					Default_Item	0.2	
+70300115	5001	19			1					Default_Item	0.2	
+70300116	5001	19	SceneObj_Event_Stain		1					Default_Item	0.2	
+70300117	5001	19			1							
+70300118	5001	19	SceneObj_Event_TargetPoint		1							
+70310001	5001	19	SceneObj_Environment_FireMaterial_FireBasin		1			4	SetGadgetState	Default_Item		
+70310002	5001	19	SceneObj_Environment_FireMaterial_Torch01		1				SetGadgetState	Default_Item		
+70310003	5001	19	SceneObj_Environment_FireMaterial_FireBasin		1			1	SetGadgetState	Default_Item		
+70310004	5001	19	SceneObj_Environment_FireMaterial_Bornfires		1				SetGadgetState	Default_Item		
+70310005	5001	19	GearWater		1					Default_Item		
+70310006	5001	19	SceneObj_Environment_FireMaterial_CookingPot		1				SetGadgetState	Default_Item		
+70310007	5001	19	SceneObj_Environment_Other_AreaGuardian		1					Default_Item		
+70310008	5001	19								Default_Item		
+70310009	5001	19	SceneObj_Environment_FireMaterial_CookingPot		1				SetGadgetState	Default_Item		
+70310010	5001	19	SceneObj_Environment_FireMaterial_CookingPot_NoLight		1				SetGadgetState	Default_Item		
+70310011	5001	19	SceneObj_Environment_FireMaterial_ImmortalFire		1				ImmortalFire	Default_Item		
+70310012	5001	19	SceneObj_Gear_TorchPuzzle_Base		1				ImmortalFire	Default_Item		
+70310013	5001	19	SceneObj_Environment_Rock_FlyFloor		1					Default_Item	0.2	
+70320001	5001	25	SceneObj_Gear_Combat_Spray_Fire_Rotating		1				gear_keep_spray	Default_Item		
+70320002	5001	25	SceneObj_Gear_Combat_Spray_Fire		1				gear_keep_spray	Default_Item		
+70320003	5001	25			1				gear_keep_spray	Default_Item		
+70330001	5001	25	SceneObj_Gear_ElemForce_Base						ElemForce_Base			
+70330002	5001	19	SceneObj_Gear_ElemForce_Water					2	ElementForce			
+70330003	5001	19	SceneObj_Gear_ElemForce_Fire					2	ElementForce			
+70330004	5001	19	SceneObj_Gear_ElemForce_Fire_Hit					2	ElementForce			
+70330010	1001	3	SceneObj_Gear_ElemForce_Bullet	1						Default_Item		
+70330011	4001	19	SceneObj_Gear_ElementField_ElectricController		1					Default_Item		0.1
+70330012	4001	19	SceneObj_Gear_ElementField_FireController		1					Default_Item		0.1
+70330013	4001	19	SceneObj_Gear_ElementField_IceController		1					Default_Item		0.1
+70330014	4001	19	SceneObj_Gear_ElementField_WaterController		1					Default_Item		0.1
+70330015	4001	19	ElementField_Water_HealRain		1					Default_Item		0.1
+70330016	1001	3	SceneObj_Gear_ElementField_Bullet	1				2		Default_Item		0.1
+70330017	5001	19	SceneObj_Gear_ElemForce_Rock					2				
+70330018	1001	3	SceneObj_Gear_RockForce_Bullet	1						Default_Item		
+70330019	5001	30	SceneObj_Gear_ElemForce_Base_Rock				1		SetGadgetState			
+70330020	5001	3	SceneObj_Gear_ElemForce_Rock_AbsorbBullet	1								0.1
+70340011	5001	41	SceneObj_Gear_Operator_DungeonRewardPoint_Thunder		1			2		Default_Item		
+70340012	5001	41	SceneObj_Gear_Operator_DungeonRewardPoint_Fire		1			2		Default_Item		
+70340013	5001	41	SceneObj_Gear_Operator_DungeonRewardPoint_Ice		1			2		Default_Item		
+70340014	5001	41	SceneObj_Gear_Operator_DungeonRewardPoint_Water		1			2		Default_Item		
+70350001	5001	25	SceneObj_Gear_Gate_DungeonGate01		1					Default_Item		
+70350002	5001	25	SceneObj_Gear_Gate_DungeonGate02		1			1		Default_Item		
+70350003	5001	25	SceneObj_Gear_Gate_DungeonGate03		1			1		Default_Item		
+70350004	5001	25	SceneObj_Gear_Gate_IronFence		1					Default_Item		
+70350005	5001	25	SceneObj_Gear_Gate_PfDungeon_Door02		1			1		Default_Item		
+70350006	5001	25	SceneObj_Gear_Gate_IronFence		1					Default_Item		
+70350007	5001	25	SceneObj_Gear_Gate_HiliSleepingGroup02		1					Default_Item		
+70350008	1001	40										
+70350009	5001	25	SceneObj_Gear_Gate_DungeonGate04		1			1		Default_Item		
+70350010	5001	25	SceneObj_Gear_Other_MonsterCreater		1					Default_Item		0.1
+70350011	5001	25	SceneObj_Gear_Other_DungeonLightLamp		1					Default_Item		0.1
+70350012	5001	25	SceneObj_Gear_Other_IceWindEff		1					Default_Item		0.1
+70350013	5001	25	SceneObj_Gear_Gate_DungeonGate04		1			1		Default_Item		
+70350014	5001	25	SceneObj_Gear_Gate_DungeonGate04		1			1		Default_Item		
+70350015	5001	19	SceneObj_Gear_Other_DungeonFog		1					Default_Item		0.2
+70350016	5001	30	SceneObj_Gear_Operator_Normal_FollowMove_Operator	1	1		1			Default_Item		0.2
+70350017	5001	19	SceneObj_Environment_Collision_IceWall		1					Default_Item		0.2
+70350018	5001	19	SceneObj_Environment_Collision_IceWall02		1					Default_Item		0.2
+70350019	4001	19	SceneObj_Gear_Combat_Xiangling_IceGear_Controller		1					Default_Item		0.2
+70350020	4001	19	SceneObj_Environment_Rock_StonePileDungeon		1					Default_Item		0.2
+70350021	4001	3	SceneObj_Gear_Combat_DropIce_Bullet	1								0.2
+70350022	5001	19	SceneObj_Environment_Collision_IcePile		1					Default_Item		0.2
+70350023	1001	30	SceneObj_Gear_Operator_Mamolu		1		1		SetGadgetState	Default_Item	0.2	
+70350024	5001	19	SceneObj_Gear_Other_DungeonRock_Controller		1					Default_Item		0.2
+70350025	5001	25	SceneObj_Gear_Gate_DungeonGate04		1			1		Default_Item		0.2
+70350026	5001	19	SceneObj_Gear_Other_XianglingDungeon_Controller		1			3		Default_Item		0.2
+70350027	4001	19	SceneObj_Gear_Combat_EnergyTmp						SubfieldDrop_DropIce			0.2
+70350028	4001	19	SceneObj_Gear_Combat_MonseterPowerUp		1					Default_Item		0.2
+70350029	4001	19			1					Default_Item		0.2
+70350030	4001	19	SceneObj_Environment_Rock_StoneStackDungeon		1					Default_Item		0.2
+70350031	4001	19	SceneObj_Gear_Combat_MonseterPowerUp_Thorns		1					Default_Item	0.2	
+70350032	4001	19	SceneObj_Gear_Combat_MonseterPowerUp_RandomThunder		1					Default_Item	0.2	
+70350033	4001	19	SceneObj_Gear_Combat_MonseterPowerUp_EnergyLeakage		1					Default_Item	0.2	
+70350034	4001	19	SceneObj_Gear_Combat_MonseterPowerUp_CoolDown_Increase		1					Default_Item	0.2	
+70350035	1001	30	SceneObj_Gear_Operator_Mamolu_Entity		1					Default_Item		0.2
+70350036	1001	30	SceneObj_Gear_Operator_Mamolu_Entity		1					Default_Item		0.2
+70350037	5001	25	SceneObj_Gear_Gate_IronFence		1			1		Default_Item		
+70350038	5001	19	SceneObj_Gear_Other_Dvalin_Controller		1			3	SetGadgetState	Default_Item		0.2
+70360001	5001	30	SceneObj_Gear_Operator_Invisible_Operator				1	4		Default_Item		
+70360002	5001	30	SceneObj_Gear_Operator_Normal_Operator		1		1			Default_Item		
+70360003	5001	30	SceneObj_Quest_Clue01				1	2		Default_Item		
+70360004	5001	30	SceneObj_Gear_Operator_Monster_LupiBoreas				1	4		Default_Item		
+70360005	5001	25	SceneObj_Gear_Other_Test_Gravity_Board_Small						TestGravity		0.2	
+70360006	5001	25	SceneObj_Gear_Other_Test_Gravity_Board_Middle						TestGravity		0.2	
+70360007	5001	25	SceneObj_Gear_Other_Test_Gravity_Board_Great						TestGravity		0.2	
+70360008	5001	30	SceneObj_Gear_Other_Balloon_Tree		1		1		BalloonTree	Default_Item	0.2	
+70360009	5001	3	SceneObj_Gear_Other_Balloon_Bullet	1								0.2
+70360010	5001	30	SceneObj_Gear_Operator_ElementDungeon_Operator		1		1	2		Default_Item	0.2	
+70360011	5001	19	SceneObj_Gear_Other_Balloon_Destination1		1				SetGadgetState	Default_Item	0.2	
+70360012	5001	19	SceneObj_Gear_Other_Balloon_Destination2		1				SetGadgetState	Default_Item	0.2	
+70360013	5001	19	SceneObj_Gear_Other_Balloon_Destination3		1				SetGadgetState	Default_Item	0.2	
+70360014	5001	32	SceneObj_Gear_Platform_BalloonTree_MovingTarget	1					Gear_MovingTarget		0.2	
+70360015	5001	30	SceneObj_Gear_Other_Mole_Hole		1		1		SetGadgetState	Default_Item	0.2	
+70360016	5001	25	SceneObj_Gear_Combat_Electric_Pile02				1	3		Default_Item	0.2	
+70360017	5001	25	SceneObj_Gear_Combat_Electric_Pile02				1	3		Default_Item	0.2	
+70360018	5001	25	SceneObj_Gear_Combat_Electric_Pile02				1	3		Default_Item	0.2	
+70360019	1001	25	SceneObj_Gear_Other_Electric_Switch				1	3	SetGadgetState		0.2	
+70360020	5001	25	SceneObj_Gear_Combat_Power_Charge				1	3	SetGadgetState	Default_Item	0.2	
+70360021	4001	32	SceneObj_Gear_Combat_Shooter_Laser_Moveable	1	1						0.2	
+70360022	4001	25	SceneObj_Gear_Combat_Shooter_Laser_Stable_HitPlayer								0.2	
+70360023	1001	25	SceneObj_Gear_Other_LaserSwitch						LaserSwitch		0.2	
+70360024	5001	19	SceneObj_Gear_Other_LimitRing		1				LimitRing	Default_Item	0.2	
+70360025	5001	19	SceneObj_Gear_Other_LimitDestination		1					Default_Item	0.2	
+70360026	5001	3	SceneObj_Gear_Other_Mole_Bullet	1							0.2	
+70360027	5001	19	SceneObj_Gear_Other_Mole_Destination		1				SetGadgetState	Default_Item	0.2	
+70360028	5001	30	SceneObj_Gear_Other_RuinsTreasure		1		1			Default_Item	0.2	
+70360029	5001	19	SceneObj_Gear_Other_Floor		1					Default_Item	0.2	
+70360030	5001	19	SceneObj_Gear_Other_Floor		1					Default_Item	0.2	
+70360031	5001	19	SceneObj_Gear_Other_Floor		1					Default_Item	0.2	
+70360032	5001	25	SceneObj_Gear_Operator_WaterController		1			1	WaterController			0.2
+70360033	5001	25	SceneObj_Gear_Operator_GrassController		1			1	GrassController			0.2
+70360034	5001	25	SceneObj_Gear_Operator_RockController		1			1	RockController			0.2
+70360035	5001	25	SceneObj_Gear_Operator_FireController		1			1	FireController			0.2
+70360036	5001	25	SceneObj_Gear_Operator_ElecController		1			1	ElecController			0.2
+70360037	5001	25	SceneObj_Gear_Operator_IceController		1			1	IceController			0.2
+70360038	5001	25	SceneObj_Gear_Operator_WindController	1	1			1	WindController			0.2
+70360039	5001	3	SceneObj_Gear_Other_Mole_OriginBullet							Default_Item	0.2	
+70360040	5001	19	SceneObj_Gear_Other_NPC_Hint		1				LimitRing	Default_Item	0.2	
+70360041	5001	19	SceneObj_Gear_Gate_Temple01		1			1	SetGadgetState	Default_Item	0.2	
+70360042	5001	19	SceneObj_Gear_Gate_Temple02_Electric		1					Default_Item	0.2	
+70360043	5001	19	SceneObj_Gear_Gate_Temple02_Rock		1					Default_Item	0.2	
+70360044	5001	19	SceneObj_Gear_Gate_Temple02_Wind		1					Default_Item	0.2	
+70360045	5001	19	SceneObj_Amber_GoldenAmber		1				SetGadgetState	Default_Item	0.2	
+70360046	5001	19	SceneObj_Gear_Other_Spring		1					Default_Item	0.2	
+70360047	5001	26	SceneObj_Chest_Hero_Treasure		1		1		SetGadgetState		0.2	
+70360048	5001	30	SceneObj_Gear_Other_Compass		1		1		SetGadgetState	Default_Item	0.2	
+70360049	5001	19			1					Default_Item	0.2	
+70360050	5001	19	SceneObj_Gear_Other_Compass_FarHint		1			3		Default_Item	0.2	
+70360051	5001	19	SceneObj_Gear_Other_Compass_FarLine01		1			3		Default_Item	0.2	
+70360052	5001	19	SceneObj_Gear_Other_Compass_FarLine02		1			3		Default_Item	0.2	
+70360053	5001	19	SceneObj_Gear_Other_Compass_FarLine03		1			3		Default_Item	0.2	
+70710002	0	32	SceneObj_Gear_Platform_NormalPlatform	1				1				0.1
+70710003	0	32	SceneObj_Gear_Platform_NormalPlatform	1				1				0.2
+70710006	5001	30	SceneObj_Gear_Other_Lamp_Post		1		1		SetGadgetState	Default_Item	0.2	
+70710007	1001	19	ElfTrack							Default_Item	0.2	
+70710010	0	32	SceneObj_Gear_Platform_Seelie	1	1			1			0.2	
+70380001	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1							
+70380002	5001	32	SceneObj_Gear_Platform_MovingTarget	1					Gear_MovingTarget			
+70380003	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1							
+70380004	3001	32	SceneObj_Item_Moving_Gardencart	1	1							
+70380005	5001	32	SceneObj_Gear_Platform_NormalPlatform	1	1			1				
+70380006	5001	32	SceneObj_Item_Moving_Trap	1								
+70380007	5001	32	SceneObj_Gear_Platform_NormalPlatform	1	1			1				
+70380008	5001	41	SceneObj_Gear_Operator_DungeonRewardPoint		1				Fire_Source	Default_Item	0.2	
+70380009	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1							
+70380010	5001	32	SceneObj_Gear_Platform_NormalPlatform	1	1			1				
+70380011	5001	32	SceneObj_Gear_Platform_NormalPlatform	1	1			1				
+70380012	5001	32	SceneObj_Gear_Platform_NormalPlatform	1	1			1				
+70380013	5001	32	SceneObj_Gear_Platform_NormalPlatform	1	1			3				
+70380014	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1							
+70400001	5001	19	SceneObj_World_HintEffect_LY					2				
+70400002	5001	19						2				
+70500000	1001	21								Default_Item		
+70500001	1001	21						2		Default_Item		
+70510001	5001	22	SceneObj_Gather_KapokFlower				1		Gather_KapokFlower	Default_Item		
+70510002	5001	22	SceneObj_Gather_FireFlower01		1				Gather_FireFlower01	Default_Item		
+70510003	5001	22	SceneObj_Gather_ElectricRock01		1		1		Gather_ElectricRock01	Default_Item		
+70510004	5001	22	SceneObj_Gather_Fuchsia01				1			Default_Item		
+70510005	5001	22	SceneObj_Gather_ElectricRock02		1				SubfieldDrop_ElectricRock_Destroy	Default_Item		
+70510006	5001	22	SceneObj_Gather_FireFlower02		1				ElementFlora	Default_Item		
+70510007	5001	22	SceneObj_Gather_IceFlower02		1				ElementFlora	Default_Item		
+70510008	5001	22	SceneObj_Gather_WaterFlower01		1					Default_Item		
+70510009	5001	22	SceneObj_Gather_Dandelion		1				ElementFlora	Default_Item		
+70510010	5001	3	SceneObj_Gather_Dandelion_Flora	1	1					Default_Item		
+70510011	5001	22	SceneObj_Gather_SlimeFlower		1		1			Default_Item		
+70510012	5001	22	SceneObj_Gather_ElementRock		1				ElementRock	Default_Item	0.2	
+70510013	5001	30	SceneObj_Gather_ImitationMonster		1		1		ElementRock	Default_Item	0.2	
+70510014	5001	30	SceneObj_Gather_ImitationMonster		1		1		ElementRock	Default_Item	0.2	
+70520001	5001	22	SceneObj_Gather_Default_Ore		1				SubfieldDrop_Ore_Dig	Default_Item		
+70520002	5001	22	SceneObj_Gather_Default_Mithril		1				SubfieldDrop_Ore_Mithril	Default_Item		
+70520003	5001	22	SceneObj_Gather_Advance_Ore		1				SubfieldDrop_Ore_Crystal	Default_Item		
+70520004	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70520005	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70520006	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70520007	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70520008	1001	22	SceneObj_Gather_Big							SceneObj_Item_Big		
+70520009	1001	22	SceneObj_Gather_Big							SceneObj_Item_Big		
+70520010	1001	22	SceneObj_Gather_Big							SceneObj_Item_Small		
+70520011	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70520012	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70520013	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70520014	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70520015	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70520016	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70520017	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70520018	5001	22	SceneObj_Gather_Advance_Ore		1				SubfieldDrop_Ore_Crystal	Default_Item		
+70540001	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70540002	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70540003	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70540004	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70540005	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70540006	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70540007	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70540008	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540009	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540010	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540011	1001	22								SceneObj_Item_Small	0.2	
+70540012	1001	22	SceneObj_Gather_GlazedLily						GlazedLily	SceneObj_Item_Small	0.2	
+70540013	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540014	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540015	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540016	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540017	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540018	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540019	1001	22	SceneObj_Gather_WindmilDaisy							SceneObj_Item_Small	0.2	
+70540020	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540021	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540022	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540023	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540024	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540025	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540026	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540027	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540028	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70540029	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small	0.2	
+70560001	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70560002	1001	22	SceneObj_Gather_Small_Ore							SceneObj_Item_Small_Ore		
+70560003	1001	22	SceneObj_Gather_Small_Ore							SceneObj_Item_Small_Ore		
+70560004	1001	22	SceneObj_Gather_Small_Ore							SceneObj_Item_Small_Ore		
+70560005	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70590001	1001	22	SceneObj_Gather_Default_Gather							Default_Item		
+70590002	1001	22	SceneObj_Gather_Default_Gather							Default_Item		
+70590003	1001	22	SceneObj_Gather_Small		1					SceneObj_Item_Small		
+70590004	1001	22	SceneObj_Gather_WindCrystal_Gather		1					SceneObj_Gather_Radar_Gather		
+70590005	1001	22	SceneObj_Gather_Default_Gather		1					SceneObj_Gather_Default_Gather		
+70590006	9001	34	SceneObj_Gather_Butterfly				1			SceneObj_Gather_Butterfly		
+70590007	9001	34	SceneObj_Gather_Butterfly2				1			SceneObj_Gather_Butterfly2		
+70590008	9001	34	SceneObj_Gather_Firefly				1			SceneObj_Gather_Firefly		
+70590009	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70590010	1001	22	SceneObj_Gather_Big							SceneObj_Item_Big		
+70590011	1001	19								Default_Mora		
+70590012	1001	19								Default_UncarvedGem		
+70590013	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70590014	1001	19								Default_UncarvedGem		
+70590015	1001	19								Default_UncarvedGem		
+70590016	1001	19								Default_UncarvedGem		
+70590017	1001	19								Default_UncarvedGem		
+70590018	1001	19								Default_UncarvedGem		
+70590019	1001	19								Default_UncarvedGem		
+70590020	1001	19								Default_UncarvedGem		
+70590021	1001	22	SceneObj_Gather_RockCrystal_Gather		1					SceneObj_Gather_Radar_Gather		
+70590022	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70590023	1001	22	SceneObj_Gather_Small							SceneObj_Item_Small		
+70600001	1001	19								Lv2_Item		
+70600002	1001	19								Lv3_Item		
+70600003	1001	19								Lv4_Item		
+70600004	1001	19								Lv5_Item		
+70600011	1001	19								Lv1_Item		
+70600012	1001	19								Lv2_Item		
+70600013	1001	19								Lv3_Item		
+70600014	1001	19								Lv4_Item		
+70600021	1001	19								Lv2_Item		
+70600022	1001	19								Lv3_Item		
+70600023	1001	19								Lv4_Item		
+70600031	1001	19								Lv1_Item		
+70600032	1001	19								Lv2_Item		
+70600033	1001	19								Lv3_Item		
+70600041	1001	19								Lv1_Item		
+70600042	1001	19								Lv2_Item		
+70600043	1001	19								Lv3_Item		
+70600044	1001	19								Lv4_Item		
+70600045	1001	19								Lv5_Item		
+70600051	1001	19								Lv1_Item		
+70600052	1001	19								Lv2_Item		
+70600053	1001	19								Lv3_Item		
+70600054	1001	19								Lv4_Item		
+70600055	1001	19								Lv5_Item		
+70600064	1001	22	SceneObj_Gather_Default_Gather					2		Default_Item		
+70610001	1001	27	SceneObj_Gather_Element_Ball_Small_Fire							SceneObj_Gather_Element_Ball_Small_Fire		
+70610002	1001	27	SceneObj_Gather_Element_Ball_Small_Water							SceneObj_Gather_Element_Ball_Small_Water		
+70610003	1001	27	SceneObj_Gather_Element_Ball_Small_Grass							SceneObj_Gather_Element_Ball_Small_Grass		
+70610004	1001	27	SceneObj_Gather_Element_Ball_Small_Electric							SceneObj_Gather_Element_Ball_Small_Electric		
+70610005	1001	27	SceneObj_Gather_Element_Ball_Small_Wind							SceneObj_Gather_Element_Ball_Small_Wind		
+70610006	1001	27	SceneObj_Gather_Element_Ball_Small_Ice							SceneObj_Gather_Element_Ball_Small_Ice		
+70610007	1001	27	SceneObj_Gather_Element_Ball_Small_Rock							SceneObj_Gather_Element_Ball_Small_Rock		
+70610008	1001	27	SceneObj_Gather_Element_Ball_Small_Common							SceneObj_Gather_Element_Ball_Small_Common		
+70610009	1001	27	SceneObj_Gather_Element_Ball_Big_Fire							SceneObj_Gather_Element_Ball_Big_Fire		
+70610010	1001	27	SceneObj_Gather_Element_Ball_Big_Water							SceneObj_Gather_Element_Ball_Big_Water		
+70610011	1001	27	SceneObj_Gather_Element_Ball_Big_Grass							SceneObj_Gather_Element_Ball_Big_Grass		
+70610012	1001	27	SceneObj_Gather_Element_Ball_Big_Electric							SceneObj_Gather_Element_Ball_Big_Electric		
+70610013	1001	27	SceneObj_Gather_Element_Ball_Big_Wind							SceneObj_Gather_Element_Ball_Big_Wind		
+70610014	1001	27	SceneObj_Gather_Element_Ball_Big_Ice							SceneObj_Gather_Element_Ball_Big_Ice		
+70610015	1001	27	SceneObj_Gather_Element_Ball_Big_Rock							SceneObj_Gather_Element_Ball_Big_Rock		
+70610016	1001	27	SceneObj_Gather_Element_Ball_Big_Common							SceneObj_Gather_Element_Ball_Big_Common		
+70610101	1001	23								Default_Item		
+70610102	1001	23								Default_Item		
+70610103	1001	23								Default_Item		
+70610104	1001	23								Default_Item		
+70610201	1001	23	Airflow_Block3001							Default_Item		
+70620001	5001	19	SceneObj_Environment_WindField_PushField01							Default_Item		
+70620002	5001	19	SceneObj_Environment_WindField_PushField02							Default_Item		
+70620003	5001	19	SceneObj_Environment_WindField_PushField03							Default_Item		
+70620004	5001	19	SceneObj_Environment_WindField_DragonNest_Barrier					3				
+70620005	5001	19	SceneObj_Environment_WindField_DragonNest_StrongWind					1		Default_Item		
+70620006	5001	19	SceneObj_Environment_WindField_DragonNest_Tornado_Tiny					1				
+70620007	5001	19	SceneObj_Environment_WindField_DragonNest_Barrier					1				
+70630001	5001	3	SceneObj_Environment_WindField_DragonNest_Tornado_Bullet	1				2				
+70680001	5001	25	SceneObj_Environment_WindField_AirflowAgent							Default_Item		
+70680002	5001	25	SceneObj_Environment_WindField_AirflowAgent2							Default_Item		
+70680003	5001	25	SceneObj_Environment_WindField_AirflowAgent3							Default_Item		
+70680004	5001	25	SceneObj_Environment_WindField_AirflowAgent4							Default_Item		
+70680005	5001	25	SceneObj_Environment_WindField_AirflowAgent5							Default_Item		
+70690001	5001	24	SceneObj_Environment_WindField_SpeedupField							Default_Item		
+70690002	5001	24	SceneObj_Environment_WindField_SpeedupField							Default_Item		
+70690003	5001	24	SceneObj_Environment_WindField_CannonField							Default_Item		
+70690004	5001	23	SceneObj_Environment_WindField_AirflowField							Default_Item		
+70690005	5001	23	SceneObj_Environment_WindField_PeriodWindField							Default_Item		
+70690006	5001	23	SceneObj_Environment_WindField_PeriodWindField_Continue							Default_Item		
+70690007	5001	25	SceneObj_Environment_DungeonWindField_Controller							Default_Item		
+70690008	5001	23	SceneObj_Environment_WindField_PeriodWindField_Continue							Default_Item		
+70690009	5001	25	SceneObj_Environment_WindField_PeriodWindField_Plus						AirflowAgent			
+70690010	5001	23	SceneObj_Environment_WindField_PeriodWindField_H50							Default_Item		
+70800001	5001	35	SceneObj_Gear_Operator_DragonNest_Seal		1		1	1		Default_NoDrop_Item		
+70800002	0	19	MsgBoard							Default_Item		
+70800003	1001	19	SceneObj_Gather_WindCrystal_Fly_Gather		1					Default_Item		
+70800004	5001	19	SceneObj_Environment_Collision_World_Barrier		1			1				
+70800005	1001	19	WindDevice01		1			2				
+70800006	5001	35	SceneObj_Gear_Operator_IceController		1				IceController			0.1
+70800007	5001	25	Dvalin_Tower_Seal_Ring					2				0.1
+70800008	5001	19	SceneObj_Environment_Collision_World_Barrier_M		1			1				0.1
+70800009	5001	19	SceneObj_Environment_Collision_World_Barrier_S		1			1				0.1
+70800010	5001	19										0.1
+70800011	5001	19						2				0.1
+70800012	1001	35	SceneObj_Gear_Operator_Seal02		1		1			Default_NoDrop_Item		0.1
+70800013	1001	19	SceneObj_World_VisionPuzzle									
+70800014	1001	19										
+70800015	1001	19	SceneObj_Gather_RockCrystal_Fly_Gather		1					Default_Item		
+70800016	5001	19	SceneObj_Environment_Field_30						SceneObj_Environment_Field			
+70800017	5001	19	SceneObj_Activity_UseLamp					2		SceneObj_Activity_UseLamp		
+70800018	5001	19						2				
+70800019	5001	19						2				
+70800020	5001	19	SceneObj_Activity_BigLamp					2				
+70800021	5001	25	SceneObj_Gear_Gate_Seal_Ring					2				0.1
+70800022	5001	3	SceneObj_Activity_Lamp_Bullet	1								0.1
+70800023	5001	3	SceneObj_Activity_Lamp_Bullet_Middle	1								0.1
+70800024	5001	3	SceneObj_Activity_Lamp_Bullet_Slow	1								0.1
+70800025	5001	19	SceneObj_Environment_Collision_World_Barrier_XS		1			1				0.1
+70800026	5001	19						2				
+70900001	1001	22	SceneObj_Gather_Default_Gather							Default_Item		0.1
+70900002	1001	19								Default_Item		0.1
+70900003	1001	19	SceneObj_Gather_Gather_Clue					2	Clue_Source	SceneObj_Quest_Clue01		
+70900005	5001	28	Element_Crystal							Element_Crystal		
+70900006	5001	25	SceneObj_Gear_Combat_Shooter_Elec		1					Default_Item		
+70900007	5001	25	SceneObj_Gear_Operator_FireTablet		1			1	FireController			
+70900008	5001	25	SceneObj_Gear_Operator_ElectricTablet		1			1	ElecController			
+70900009	5001	25	SceneObj_Gear_Operator_IceTablet		1			1	IceController			
+70900010	5001	25	Test_Rotation02									
+70900011	5001	25	Test_Rotation02						Test_Rotation			
+70900012	5001	25	SceneObj_Gear_Combat_Test_FM03	1								
+70900013	5001	25	SceneObj_Gear_Combat_Test_FM01	1	1				gear_keep_spray	Default_Item		
+70900014	5001	25										
+70900015	5001	25										
+70900016	5001	25										
+70900017	5001	25										
+70900018	5001	25										
+70900019	5001	25										
+70900022	5001	25								Default_Item		
+70900023	5001	19								Default_Item		
+70900024	5001	19	SceneObj_Environment_WaterMaterial_Poison							Default_Item		
+70900025	5001	19										
+70900026	5001	19	SceneObj_Gear_Gate_DungeonGate01									
+70900027	5001	19	SceneObj_Gear_Other_Test_MoveGear	1								0.1
+70900028	5001	25	SceneObj_Gear_Other_Test_StayGear									0.1
+70900029	9001	18	SceneObj_Gear_Combat_SpikeTrap							Default_Item		
+70900031	5001	25	SceneObj_Gear_Other_Test_FollowMoveGadget	1			1			Default_Item		0.1
+70900033	5001	25	SceneObj_Gear_Other_Test_Gravity_Board						TestGravity			
+70900034	5001	19	SceneObj_Environment_WindField_DragonNest_Barrier					2				
+70900035	5001	19	SceneObj_Environment_WindField_DragonNest_Barrier					2				
+70900036	5001	25	SceneObj_Gear_Other_Test_Sculpture									
+70900037	5001	25	SceneObj_Gear_Combat_Spray_Fire_Reform							Default_Item		
+70900038	5001	25	SceneObj_Gear_Combat_ElemCore_Reform	1						Default_Item		
+70900039	5001	25	SceneObj_Gear_Operator_WindTablet	1	1			1	WindController			
+70900040	5001	19	SceneObj_Environment_WoodenMaterial_Barrel							Default_Item		
+70900041	9001	18	SceneObj_Gear_Combat_GroupTrigger							Default_Item		
+70900042	5001	25	SceneObj_Resident_ElementView									
+70900043	5001	25										
+70900044	5001	19	SceneObj_Resident_Fountain					2				
+70900045	5001	19	Cold_WhiteBox_ChargeDummy	1				3		Default_Item		0.1
+70900046	5001	19	Test_WhiteBox_AirFlow_Grass									0.1
+70900047	5001	19	Test_WhiteBox_AirFlow_FireGrass									0.1
+70900048	5001	26	SceneObj_Test_Chest_ShootingStar		1		1	1				0.1
+70900049	5001	25	SceneObj_Gear_Operator_WaterTablet		1			1	WaterController			
+70900050	5001	25	SceneObj_Gear_Operator_GrassTablet		1			1	GrassController			
+70900051	5001	25	SceneObj_Gear_Operator_RockTablet		1			1	RockController			
+70900052	5001	25	SceneObj_Gear_Operator_WaterTablet		1			1	WaterController			
+70900053	5001	25	SceneObj_Gear_Operator_GrassTablet		1			1	GrassController			
+70900054	5001	25	SceneObj_Gear_Operator_RockTablet		1			1	RockController			
+70900055	5001	25	SceneObj_Gear_Operator_FireTablet		1			1	FireController			
+70900056	5001	25	SceneObj_Gear_Operator_ElectricTablet		1			1	ElecController			
+70900057	5001	25	SceneObj_Gear_Operator_IceTablet		1			1	IceController			
+70900058	5001	25	SceneObj_Gear_Operator_WindTablet	1				1	WindController			
+70900059	5001	25	SceneObj_Gear_Operator_Invisible_Controller		1			1	RockController			
+70900060	5001	25	SceneObj_Gear_Operator_Invisible_Controller		1			1	IceController			
+70900061	5001	25	SceneObj_Gear_Operator_Invisible_Controller		1			1	FireController			
+70900062	5001	25	SceneObj_Gear_Operator_Invisible_Controller		1			1	WindController			
+70900063	5001	25	SceneObj_Gear_Operator_Invisible_Controller		1			1	AllElemController			
+70900100	5001	30	SceneObj_Gear_Test_Bitwise				1					
+70900201	5001	19	Guide_Point_UI					2				
+70900202	5001	19	Guide_Point_Scene					2				
+70900205	5001	19						3				0.1
+70900206	5001	25	SceneObj_Gear_Combat_WindCreate_Gear							Default_Item		0.1
+70900207	5001	25	SceneObj_Gear_Combat_Power_Charge							Default_Item		0.1
+70900208	5001	25	SceneObj_Gear_Combat_Electric_Pile02							Default_Item		0.1
+70900209	5001	25	SceneObj_Gear_Other_PowerCharge							Default_Item		0.1
+70900210	5001	32	SceneObj_Gear_Platform_ElecElf	1								0.1
+70900211	5001	32	SceneObj_Gear_Platform_IceElf	1								0.1
+70900212	5001	32	SceneObj_Gear_Platform_FireElf	1								0.1
+70900213	5001	25	SceneObj_Gear_Combat_Shooter_Laser		1					Default_Item		0.1
+70900214	5001	3	SceneObj_Gear_Other_Bullet_ShoterGear_Electric	1						Default_Item		0.1
+70900215	5001	3	SceneObj_Gear_Other_Bullet_ShoterGear_Fire	1						Default_Item		0.1
+70900216	5001	19	SceneObj_Environment_Rock_StoneWall									0.1
+70900217	5001	25	SceneObj_Gear_Combat_DropIce									0.1
+70900218	5001	3	SceneObj_Gear_Combat_DropIce_Bullet	1								0.1
+70900219	5001	25	SceneObj_Gear_Combat_DropedIce									0.1
+70900220	5001	19	SceneObj_Gear_Other_WarmArea									0.1
+70900221	5001	25	SceneObj_Gear_Combat_Shooter_Laser_Stable									0.1
+70900222	5001	3	SceneObj_Gear_Other_Bullet_ShoterGear_None	1								0.1
+70900223	1001	25	SceneObj_Gear_Other_LaserSwitch									0.1
+70900224	1001	25	SceneObj_Gear_Other_Electric_Switch									0.1
+70900225	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1							0.1
+70900226	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1							0.1
+70900227	5001	32	SceneObj_Gear_Combat_Shooter_Laser_Moveable	1	1							0.1
+70900228	0	32	SceneObj_Gear_Platform_NormalPlatform	1	1							0.1
+70900229	0	32	SceneObj_Gear_Combat_Shooter_Laser_Moveable_Test	1	1							0.1
+70900230	5001	32	SceneObj_Gear_Combat_Electric_Pile_Moveable	1	1					Default_Item		0.1
+70900231	4001	3	Hili_Electric_Throw_Test			1				Default_Item		0.1
+70900232	5001	25	SceneObj_Gear_Combat_Power_Charge_Tmp							Default_Item		0.1
+70900233	5001	19	SceneObj_Gather_FireFlower03		1				ElementFlora02	Default_Item		0.1
+70900234	5001	22	SceneObj_Gather_Small		1					Default_Item		0.1
+70900235	5001	22	SceneObj_Gather_Small		1					Default_Item		0.1
+70900236	5001	19	SceneObj_Gather_Mimosa		1				MimosaTrigger	Default_Item		0.1
+70900237	5001	22	SceneObj_Gather_ElectricRock03		1				Gather_ElectricRock03	Default_Item		0.1
+70900238	5001	19	SceneObj_Gear_Other_ElementCube		1					Default_Item		0.1
+70900239	5001	3	SceneObj_Gear_Other_ElementCube_Bullet	1								0.1
+70900240	5001	22	SceneObj_Gather_ElementRock		1				ElementRock	Default_Item		0.1
+70900241	0	32	SceneObj_Gear_Platform_Gravity	1	1							0.1
+70900242	0	32	SceneObj_Gear_Platform_MoveStone	1	1				MoveingStone			0.1
+70900243	5001	32	SceneObj_Gear_Platform_Bubble	1	1							0.1
+70900244	5001	19	SceneObj_Gear_Other_Badminton_Shooter		1				BadmintonBall	Default_Item		0.1
+70900245	5001	3	SceneObj_Gear_Other_Badminton_Bullet	1								0.1
+70900246	5001	19	SceneObj_Gear_Other_Badminton_Border		1					Default_Item		0.1
+70900247	5001	3	SceneObj_Gear_Other_ElementCube_Bullet	1								0.1
+70900248	5001	25	SceneObj_Gear_Combat_Power_Charge_Dungeon							Default_Item		0.1
+70900249	5001	25	SceneObj_Gear_Combat_Electric_Pile_Dungeon							Default_Item		0.1
+70900250	5001	19	SceneObj_Gear_Other_Rope_Skipping		1				RopeSkipping	Default_Item		0.1
+70900251	5001	19	SceneObj_Gear_Other_Badminton_Border		1					Default_Item		0.1
+70900252	5001	19	SceneObj_Gear_Other_Badminton_Shooter_QA		1				BadmintonBall	Default_Item		0.1
+70900253	5001	3	SceneObj_Gear_Other_Badminton_Bullet_QA	1								0.1
+70900254	5001	19	SceneObj_Gear_Other_Spring		1					Default_Item		0.1
+70900255	4001	19	Shaman_Water_Evn_HealRain_Field		1					Default_Item		0.1
+70900256	5001	3	SceneObj_Gear_Other_Badminton_Bullet2	1								0.1
+70900257	5001	3	SceneObj_Gear_Other_Badminton_Bullet3	1								0.1
+70900258	5001	19	SceneObj_Gear_Combat_Piranha		1					Default_Item		0.1
+70900259	5001	3	SceneObj_Gear_Combat_Piranha_Bullet	1								0.1
+70900260	5001	19	SceneObj_Gear_Other_Mole		1				Mole_DigHole	Default_Item		0.1
+70900261	5001	3	SceneObj_Gear_Other_Mole_Bullet	1								0.1
+70900262	5001	30	SceneObj_Gear_Other_Mole_Hole		1		1			Default_Item		0.1
+70900263	5001	19	SceneObj_Gear_Other_Mole_Destination		1					Default_Item		0.1
+70900264	5001	19	SceneObj_Gear_Other_Badminton_Barrel					4		Default_Item		0.1
+70900265	5001	3	SceneObj_Gear_Other_Badminton_Barrel_Bullet	1								0.1
+70900266	5001	19	Shaman_Water_Evn_HealRain_Field_Control		1		1			Default_Item		0.1
+70900267	4001	19	Shaman_Water_Evn_HealRain_Field_Circle		1					Default_Item		0.1
+70900268	5001	19	SceneObj_Gear_Other_Badminton_Camera_Dummy	1						Default_Item		0.1
+70900269	4001	19	SceneObj_Gear_Other_ThunderBall	1						Default_Item		0.1
+70900270	5001	19	SceneObj_Gear_Other_FireWorks		1		1			Default_Item		0.1
+70900271	5001	3	SceneObj_Gear_Other_FireWorks_Bullet	1								0.1
+70900272	5001	30	SceneObj_Chest_Hero_Treasure		1		1					0.1
+70900273	5001	26	SceneObj_Chest_Empty		1		1		Chest_Interact	Default_Item		0.1
+70900274	5001	19	SceneObj_Gear_Other_Lamp_Post		1		1			Default_Item		0.1
+70900275	4001	19	SceneObj_Gear_Other_DungeonThunder_Controller		1			3		Default_Item		0.1
+70900276	5001	19	SceneObj_CombatInteraction_ElectricFlora							Default_Item		0.1
+70900277	5001	19	SceneObj_Gear_Other_FireCracker		1				SubfieldDrop_ElementBall	Default_Item		0.1
+70900278	5001	19	SceneObj_Gear_Other_Windmill		1					Default_Item		0.1
+70900279	5001	19	SceneObj_Gear_Other_BoxStrange		1					Default_Item		0.1
+70900280	5001	19	SceneObj_Gear_Other_Crack		1					Default_Item		0.1
+70900281	5001	25	SceneObj_Gear_Combat_Shooter_Laser_Stable_HitPlayer									0.1
+70900282	5001	3	SceneObj_Gear_Other_Bullet_ShoterGear_None_HitPlayer	1								0.1
+70900283	5001	19	SceneObj_Gear_Other_Fountain		1		1			Default_Item		0.1
+70900284	5001	22	SceneObj_Gather_Ginseng	1	1				Ginseng	Default_Item		0.1
+70900285	5001	19	SceneObj_Gear_WhiteBox_Weight							Default_Item		0.1
+70900286	5001	22	SceneObj_Gather_Ginseng_Stable		1				GinsengOnTree	Default_Item		0.1
+70900287	5001	19	SceneObj_Chest_RigidMove_WhiteBox	1			1			Default_Item		0.1
+70900288	5001	26	SceneObj_Gather_ImitationGrass	1			1		Chest_Interact	Default_Item		0.1
+70900289	5001	19	SceneObj_Gear_Other_ElementRune_Wind		1				ElementRune	Default_Item		0.1
+70900290	5001	19	SceneObj_Gear_Other_DungeonFire_Controller		1			3		Default_Item		0.1
+70900291	5001	19	SceneObj_Gear_Other_DungeonWater_Controller		1			3		Default_Item		0.1
+70900292	5001	19	SceneObj_Gear_Other_DungeonIce_Controller		1			3		Default_Item		0.1
+70900293	5001	19	SceneObj_Gear_Other_ElementRune_Rock		1				ElementRune	Default_Item		0.1
+70900294	5001	19	SceneObj_Gear_Other_Balloon_Tree		1				BalloonTree	Default_Item		0.1
+70900295	5001	3	SceneObj_Gear_Other_Balloon_Bullet	1								0.1
+70900296	5001	19	SceneObj_Gear_Other_Balloon_Destination1		1					Default_Item		0.1
+70900297	5001	19	SceneObj_Gear_Other_Balloon_Destination2		1					Default_Item		0.1
+70900298	5001	19	SceneObj_Gear_Other_Balloon_Destination3		1					Default_Item		0.1
+70900299	4001	19	Shaman_Water_Evn_HealRain_Field_Constant		1					Default_Item		0.1
+70900300	5001	19	SceneObj_Gear_Other_Floor		1					Default_Item		0.1
+70900301	5001	19	SceneObj_Environment_Broken_StonePile		1					Default_Item		0.1
+70900302	5001	19	SceneObj_Gear_Other_TriggerPlant		1				TriggerPlant	Default_Item		0.1
+70900303	5001	19	SceneObj_Gear_Other_View		1				ViewPoint	Default_Item		0.1
+70900304	5001	19	SceneObj_Gear_Other_Test_OneStrokeBoard	1			1		OneStroke_Test	Default_Item		0.1
+70900305	5001	19	SceneObj_Gather_Ginseng_Ground		1					Default_Item		0.1
+70900306	5001	19	SceneObj_Gear_Other_Compass		1				CompassTrigger	Default_Item		0.1
+70900307	5001	19	SceneObj_Gear_Other_Test_TreeRoot	1			1		TreeRoot	Default_Item		0.1
+70900308	5001	32	SceneObj_Gear_Platform_Jigsaw	1	1					Default_Item		0.1
+70900309	5001	30	SceneObj_Gear_Operator_Jigsaw_Operator		1		1			Default_Item		0.1
+70900310	5001	19	SceneObj_Gear_Other_ViewTrigger		1				ViewPointTrigger	Default_Item		0.1
+70900311	5001	32	SceneObj_Gear_Platform_Jigsaw	1	1					Default_Item		0.1
+70900312	5001	32	SceneObj_Gear_Platform_Jigsaw	1	1					Default_Item		0.1
+70900313	4001	19	SceneObj_Item_Moving_Gardencart_Test							Default_Item		0.1
+70900314	5001	19	SceneObj_Environment_RockHashi		1					Default_Item		0.1
+70900315	5001	19	SceneObj_Environment_Rock_FlyFloor		1					Default_Item	0.2	
+70900316	5001	15	SceneObj_Resident_DungeonEntry_MengDe01		1			3				
+70900317	5001	15	SceneObj_Resident_DungeonEntry_MengDe02		1			3				
+70900318	0	15	SceneObj_Resident_Teleport		1							
+70900320	5001	19	Element_WindSeed_Custom							Default_Item		
+70900321	5001	23	Element_SeedWind		1					Default_Item		
+70900322	5001	19	Element_WindSeed_Fixed							Default_Item		
+70900325	5001	3	Element_WindFragment	1						Default_Item		
+70900326	5001	19	Element_AbsorptiveWind							Default_Item		
+70900327	5001	3	Element_AbsorptiveWind_Seed	1						Default_Item		
+70900328	5001	3	Element_AbsorptiveWind_Seed_Follow	1						Default_Item		
+70900329												
+70900330	5001	19	Element_WindFragment_Controller							Default_Item		
+70900331	5001	19	Element_WindCream	1						Default_Item		
+70900332	5001	43	SceneObj_Gear_GrassWind							Default_Item		
+70900333	1001	3	SceneObj_Gear_GrassWind_Bullet	1				2		Default_Item		
+70900334	1001	3	SceneObj_Gear_GrassWind_Bullet02	1				2		Default_Item		
+70900335	1001	3	SceneObj_Gear_GrassWind_Bullet03	1				2		Default_Item		
+70900336	5001	43	SceneObj_Gear_GrassWind_Fake							Default_Item		
+70900337	5001	19	SceneObj_Gear_Gate_Temple02_Electric		1					Default_Item	0.2	
+70900338	5001	19	SceneObj_Gear_Gate_Temple02_Rock		1					Default_Item	0.2	
+70900339	5001	19	SceneObj_Gear_Gate_Temple02_Wind		1					Default_Item	0.2	
+70900340	5001	19	Element_WindSeed_Controller						SetGadgetState	Default_Item		
+70950001	5001	25	DropLight									0.1
+70950002	5001	3	DropLight_Bullet	1								0.1
+70950003	5001	3	DropLight_Bullet02	1								0.1
+70950004	5001	25	SceneObj_Gear_Other_SpeedUper							Default_Item		0.1
+70950005	1001	3	Test_LightLock_Bullet	1				2		Default_Item		0.1
+70950006	5001	19	Test_LightLock_Point					2	Test_LightLock_Point	Default_Item		0.1
+70950007	5001	19	Test_LightLock_Seal_Logic					1	Test_LightLock			0.1
+70950008	5001	35	Test_LightLock_Seal		1		1	2		Default_NoDrop_Item		0.1
+70950009	5001	19						2				0.1
+70950010	5001	19						2				0.1
+70950011	5001	19						2				0.1
+71000004	5001	19	SceneObj_Amber_RockAmber							Default_Item		
+80000001	0	18	Drop_HP							Default_Item		
+90000001	0	6	Camera							Default_Item		
+90000002	0	6	Team							Default_Item		
+90000003	0	19	NPC_Guide_Paimon	1	1					Default_Item		
+90000004	0	6	MPLevel							Default_Item		

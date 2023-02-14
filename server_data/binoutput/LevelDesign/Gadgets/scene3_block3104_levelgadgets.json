@@ -1,0 +1,822 @@
+{
+  "sceneId": 3,
+  "blockId": 3104,
+  "gadgets": [
+    {
+      "groupId": 133104005,
+      "mapInstId": 5005,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104006,
+      "mapInstId": 6007,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104022,
+      "mapInstId": 22004,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104026,
+      "mapInstId": 57,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104031,
+      "mapInstId": 62,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104034,
+      "mapInstId": 65,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104037,
+      "mapInstId": 68,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104040,
+      "mapInstId": 71,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104041,
+      "mapInstId": 72,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104046,
+      "mapInstId": 86,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104066,
+      "mapInstId": 684,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104068,
+      "mapInstId": 68008,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104079,
+      "mapInstId": 79002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104080,
+      "mapInstId": 175,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104097,
+      "mapInstId": 205,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104110,
+      "mapInstId": 307,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104112,
+      "mapInstId": 308,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104113,
+      "mapInstId": 309,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104122,
+      "mapInstId": 122004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104130,
+      "mapInstId": 412,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104138,
+      "mapInstId": 442,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104138,
+      "mapInstId": 443,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104138,
+      "mapInstId": 444,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104147,
+      "mapInstId": 509,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104161,
+      "mapInstId": 533,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104162,
+      "mapInstId": 537,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104167,
+      "mapInstId": 563,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104169,
+      "mapInstId": 169001,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104171,
+      "mapInstId": 579,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104180,
+      "mapInstId": 651,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104184,
+      "mapInstId": 673,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104190,
+      "mapInstId": 726,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104204,
+      "mapInstId": 204004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104215,
+      "mapInstId": 215004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104227,
+      "mapInstId": 227004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104264,
+      "mapInstId": 264004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104266,
+      "mapInstId": 266002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104270,
+      "mapInstId": 270004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104271,
+      "mapInstId": 271004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104272,
+      "mapInstId": 272008,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104273,
+      "mapInstId": 273002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104278,
+      "mapInstId": 278004,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104286,
+      "mapInstId": 286008,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104289,
+      "mapInstId": 289002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104290,
+      "mapInstId": 290002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104291,
+      "mapInstId": 291002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104293,
+      "mapInstId": 293002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104294,
+      "mapInstId": 294002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104302,
+      "mapInstId": 302004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104304,
+      "mapInstId": 304002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104310,
+      "mapInstId": 310003,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104313,
+      "mapInstId": 313004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104315,
+      "mapInstId": 315004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104324,
+      "mapInstId": 324004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104350,
+      "mapInstId": 350004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104352,
+      "mapInstId": 352002,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104354,
+      "mapInstId": 354008,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104356,
+      "mapInstId": 356008,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104359,
+      "mapInstId": 359004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104363,
+      "mapInstId": 363002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104371,
+      "mapInstId": 371004,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104373,
+      "mapInstId": 373003,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104374,
+      "mapInstId": 374004,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104375,
+      "mapInstId": 375002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104379,
+      "mapInstId": 379002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104393,
+      "mapInstId": 393002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104394,
+      "mapInstId": 394002,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104395,
+      "mapInstId": 395030,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104395,
+      "mapInstId": 395031,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104401,
+      "mapInstId": 401005,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104408,
+      "mapInstId": 408009,
+      "targetIndicator_TaskID": 15504,
+      "targetIndicator_Type": "TASK"
+    },
+    {
+      "groupId": 133104408,
+      "mapInstId": 408010,
+      "targetIndicator_TaskID": 15504,
+      "targetIndicator_Type": "TASK"
+    },
+    {
+      "groupId": 133104409,
+      "mapInstId": 409009,
+      "targetIndicator_TaskID": 15505,
+      "targetIndicator_Type": "TASK"
+    },
+    {
+      "groupId": 133104409,
+      "mapInstId": 409010,
+      "targetIndicator_TaskID": 15505,
+      "targetIndicator_Type": "TASK"
+    },
+    {
+      "groupId": 133104414,
+      "mapInstId": 414004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104415,
+      "mapInstId": 415008,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104417,
+      "mapInstId": 417002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104419,
+      "mapInstId": 419006,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104427,
+      "mapInstId": 427004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104430,
+      "mapInstId": 430001,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104432,
+      "mapInstId": 432002,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104434,
+      "mapInstId": 434001,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104435,
+      "mapInstId": 435002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104436,
+      "mapInstId": 436001,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104438,
+      "mapInstId": 438002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104439,
+      "mapInstId": 439002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104440,
+      "mapInstId": 440001,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104440,
+      "mapInstId": 440002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104440,
+      "mapInstId": 440003,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104441,
+      "mapInstId": 441002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104446,
+      "mapInstId": 446001,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104447,
+      "mapInstId": 447001,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104448,
+      "mapInstId": 448002,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104454,
+      "mapInstId": 454002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104455,
+      "mapInstId": 455001,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104463,
+      "mapInstId": 463003,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104464,
+      "mapInstId": 464001,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104465,
+      "mapInstId": 465008,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104466,
+      "mapInstId": 466002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104474,
+      "mapInstId": 474002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104474,
+      "mapInstId": 474005,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104474,
+      "mapInstId": 474006,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104476,
+      "mapInstId": 476004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104477,
+      "mapInstId": 477002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104479,
+      "mapInstId": 479006,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104481,
+      "mapInstId": 481004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104482,
+      "mapInstId": 482002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104484,
+      "mapInstId": 484002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104490,
+      "mapInstId": 490002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104495,
+      "mapInstId": 495003,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104500,
+      "mapInstId": 500004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104501,
+      "mapInstId": 501006,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104504,
+      "mapInstId": 504001,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104513,
+      "mapInstId": 513006,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104517,
+      "mapInstId": 517002,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104520,
+      "mapInstId": 520002,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104526,
+      "mapInstId": 526006,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104527,
+      "mapInstId": 527002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104528,
+      "mapInstId": 528001,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104530,
+      "mapInstId": 530004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104534,
+      "mapInstId": 534002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104535,
+      "mapInstId": 535006,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104536,
+      "mapInstId": 536002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104539,
+      "mapInstId": 539006,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104540,
+      "mapInstId": 540002,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104541,
+      "mapInstId": 541002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104542,
+      "mapInstId": 542003,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104549,
+      "mapInstId": 549004,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104550,
+      "mapInstId": 550003,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104551,
+      "mapInstId": 551002,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104551,
+      "mapInstId": 551005,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104551,
+      "mapInstId": 551006,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104552,
+      "mapInstId": 552002,
+      "gadgetMisc_ChestShowMoment": "OnUnlock",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104554,
+      "mapInstId": 554004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104566,
+      "mapInstId": 566004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    },
+    {
+      "groupId": 133104567,
+      "mapInstId": 567004,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    }
+  ]
+}

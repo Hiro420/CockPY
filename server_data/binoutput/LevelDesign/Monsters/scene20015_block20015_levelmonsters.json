@@ -1,0 +1,40 @@
+{
+  "sceneId": 20015,
+  "monsters": [
+    {
+      "groupId": 220015002,
+      "mapInstId": 2001,
+      "aiGroupID": 220015002,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220015002,
+      "mapInstId": 2002,
+      "aiGroupID": 220015002,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220015002,
+      "mapInstId": 2003,
+      "aiGroupID": 220015002,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220015002,
+      "mapInstId": 2004,
+      "aiGroupID": 220015002,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220015002,
+      "mapInstId": 2005,
+      "aiGroupID": 220015002,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    }
+  ]
+}

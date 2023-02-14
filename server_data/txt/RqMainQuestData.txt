@@ -1,0 +1,19 @@
+父任务ID	任务类型	Lua脚本路径	推荐等级	可重复	启用模式	章节ID	任务奖励RewardID	$#VersionBegin	$#VersionEnd
+30000	7	Actor/Quest/RQ30000			1				
+30001	7	Actor/Quest/RQ30001							
+30002	7	Actor/Quest/RQ30002							
+30003	7	Actor/Quest/RQ30003							
+30004	7	Actor/Quest/RQ30004							
+30005	7	Actor/Quest/RQ30005							
+30006	7	Actor/Quest/RQ30006							
+30007	7	Actor/Quest/RQ30007							
+30011	7	Actor/Quest/RQ30011							
+30012	7	Actor/Quest/RQ30012							
+30013	7	Actor/Quest/RQ30013							
+30014	7	Actor/Quest/RQ30014							
+30015	7	Actor/Quest/RQ30015							
+30021	7	Actor/Quest/RQ30021							
+30022	7	Actor/Quest/RQ30022							
+30023	7	Actor/Quest/RQ30023							
+30024	7	Actor/Quest/RQ30024							
+30025	7	Actor/Quest/RQ30025							

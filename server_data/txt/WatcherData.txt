@@ -1,0 +1,59 @@
+ID	[触发条件]类型	[触发条件]参数1	[触发条件]参数2	[断言条件]1类型	[断言条件]1参数1	[断言条件]1参数2	[断言条件]2类型	[断言条件]2参数1	进度
+1001	1	watcher_test_modifier		1	35101				1
+1002	1	Watcher_EleReaction_Wet		1	35403				1
+1003	1	Watcher_EleReaction_Ice							1
+1004	1	Watcher_EleReaction_Fire		1	35403				1
+1005	1	Watcher_EleReaction_StickRock							1
+1006	1	Watcher_EleReaction_Frozen		1	35403				1
+1007	1	Watcher_EleReaction_FreezeWater							1
+1008	1	Watcher_EleReaction_Stream_ByModifierAdd		1	35403				1
+1009	1	Watcher_EleReaction_Stream_ByHit		1	35403				1
+1010	1	Watcher_EleReaction_Shock		1	35403				1
+1011	1	Watcher_EleReaction_ConductShock		1	35403				1
+1012	1	Watcher_EleReaction_Electrified_Water		1	35403				1
+1013	1	Watcher_EleReaction_Explode		1	35403				1
+1014	1	Watcher_EleReaction_Superconductor		1	35403				1
+1015	1	Watcher_EleReaction_Burning		1	35403				1
+1016	1	Watcher_EleReaction_Swirl		1	35403				2
+1018	1	Watcher_Avatar_Use_ElementalBurst		1	35311				1
+1019	3			1	35311				1
+1020	1	Watcher_Avatar_Hit_Ore							1
+1021	1	Watcher_Avatar_AddShield							1
+1022	1	Watcher_Avatar_HitHead		2	2	12			1
+1023	1	Watcher_Avatar_Weakness		2	2	12			1
+1025	1	Watcher_Avatar_Use_ElementalArt		2	1	10000021			1
+1026	5			1	35725				1
+1027	1	Watcher_Avatar_HP_Change							1
+1028	1	Watcher_EleReaction_Melt_ByModifierAdd		1	35403				1
+1029	1	Watcher_EleReaction_Melt_ByHit		1	35403				1
+1030	1	Watcher_GetFirstWindBullet							1
+1031	1	Watcher_GetSecondWindBullet							1
+1032	1	Watcher_SpawnWindFieldByWindBullet							1
+2009	6	20010901							1
+2015	6	20011501							1
+2016	6	20020101							1
+2019	6	21010301							1
+2027	6	21020101							1
+2032	6	22010101							1
+2033	6	22010201							1
+2034	6	22010301							1
+2035	6	24010101							1
+2036	6	20040101							1
+2039	6	24010201							1
+2042	6	21011201							1
+2043	6	21020301							1
+2044	6	20040201							1
+2045	6	20040301							1
+2046	6	21030401							1
+3001	7	1							1
+3002	7	2							1
+3003	7	3							1
+3004	7	4							1
+3005	7	5							1
+3006	7	6							1
+3007	7	7							1
+3008	7	8							1
+3009	10	48							1
+3010	11	2		1	35311				1
+4001	8	1028							1
+4002	8	1029							1

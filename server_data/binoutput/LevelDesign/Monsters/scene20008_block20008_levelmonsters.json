@@ -1,0 +1,83 @@
+{
+  "sceneId": 20008,
+  "monsters": [
+    {
+      "groupId": 220008001,
+      "mapInstId": 39,
+      "aiGroupID": 1,
+      "routeId": 1,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220008001,
+      "mapInstId": 43,
+      "aiGroupID": 1,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220008001,
+      "mapInstId": 44,
+      "aiGroupID": 1,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220008002,
+      "mapInstId": 61,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220008002,
+      "mapInstId": 63,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220008003,
+      "mapInstId": 50,
+      "aiGroupID": 220008003,
+      "routeId": 3,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220008012,
+      "mapInstId": 12001,
+      "aiGroupID": 220008003,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220008012,
+      "mapInstId": 12002,
+      "aiGroupID": 220008003,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220008012,
+      "mapInstId": 12003,
+      "aiGroupID": 220008003,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220008012,
+      "mapInstId": 12004,
+      "aiGroupID": 220008003,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    }
+  ]
+}

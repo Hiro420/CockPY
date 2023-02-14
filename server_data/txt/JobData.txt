@@ -1,0 +1,72 @@
+{
+	"jobMapData" :
+	{
+		0 :
+		{
+			0 ://CameraMove
+			{
+				"isForceMainThread": false,
+				"scheduleType": "I_LATE_POST_UPDATE",
+				"groupId": 1,
+			},
+			1 ://ENTITY_COMMON_MOVE
+			{
+				"scheduleType": "I_LATE_POST_UPDATE",
+				"maxNodeNum": 20
+			},
+			2 ://ENTITY_AI
+			{
+				"scheduleType": "I_LATE_POST_UPDATE",
+				"maxNodeNum": 20
+			},
+			3 ://I_AFTER_RES_TO_UPDATE_END
+			{
+				"scheduleType": "I_AFTER_RES_TO_UPDATE_END"
+			},
+			4 ://ALLOC_GUID
+			{
+				"scheduleType": "I_RENDER_TO_NEXT_BEFORE_RES"
+			},
+			5 ://SIGNIFICANCE
+			{
+				"scheduleType": "I_RENDER_TO_NEXT_BEFORE_LATE_UPDATE"
+			},
+			7 ://DYNAMIC_BONE_ARRAY
+			{
+				"scheduleType": "I_LATE_POST_UPDATE_TO_NEXT_BEFORE_LATE_UPDATE",
+				"maxNodeNum": 20
+			},
+			8 ://TERRAIN_GRASS
+			{
+				"scheduleType": "I_LATE_POST_UPDATE_TO_NEXT_BEFORE_LATE_UPDATE",
+				"maxNodeNum": 4
+			},
+			9 ://AUDIO_MANAGER
+			{
+				"scheduleType": "G_RENDER_TO_NEXT_BEFORE_LATE_UPDATE"
+			},
+			10 ://SECTR_MANAGER
+			{
+				"scheduleType": "I_AFTER_RES_TO_UPDATE_END",
+				"maxNodeNum": 2
+			},
+			11 ://SECTR_MANAGER
+			{
+				"scheduleType": "I_AFTER_RES_TO_UPDATE_END",
+				"maxNodeNum": 2
+			},
+			12 ://SECTR_MANAGER
+			{
+				"scheduleType": "I_AFTER_RES_TO_UPDATE_END"
+			},
+			13 ://SECTR_MANAGER
+			{
+				"scheduleType": "I_AFTER_RES_TO_UPDATE_END"
+			},
+			15 ://LEVEL_AI_MANAGER
+			{
+				"scheduleType": "I_LATE_PRE_UPDATE"
+			}
+		}
+	}
+}

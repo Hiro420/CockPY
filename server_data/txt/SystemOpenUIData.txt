@@ -1,0 +1,10 @@
+ID	名称$text_name_Name	icon路径	描述$text_name_Desc	教程ID
+1	祈愿	Ui_SystemOpenIcon_Gacha	祈愿已解锁。向这个世界的群星祈愿，获得各异的角色与武器吧	
+2	海灯节	Ui_SystemOpenIcon_SeaLampGiving	璃月正筹备着盛大的节日。欢腾与喜庆中，也充满了新的机遇。请尽情参与其中吧	
+3	深境螺旋·解锁	Ui_SystemOpenIcon_Obscurae	深入危机四伏的深境螺旋，挑战自己的极限，赢得掩藏其中的宝藏吧	
+4	祝圣秘境·解锁	Ui_SystemOpenIcon_Domain	接受祝圣秘境的挑战，赢取拥有强大属性与独特效果的圣遗物吧	
+5	藏金秘境·解锁	Ui_SystemOpenIcon_Domain	接受藏金秘境的挑战，赢取其中的可观财富吧	
+6	精通秘境·解锁	Ui_SystemOpenIcon_Domain	接受精通秘境的挑战，赢取能提升角色天赋等级的宝贵素材吧	
+7	启示秘境·解锁	Ui_SystemOpenIcon_Domain	接受启示秘境的挑战，赢取能大量提升角色经验的道具吧	
+8	炼武秘境·解锁	Ui_SystemOpenIcon_Domain	接受炼武秘境的挑战，获得能为武器带来突破的珍稀道具吧	
+9	多人游戏·解锁	Ui_SystemOpenIcon_MultiPlayer	世界间的通路已经开启。加入他人的世界，或是迎接其他世界来的旅人，共同冒险吧	

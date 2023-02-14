@@ -1,0 +1,120 @@
+{
+  "radius": 100.0,
+  "points": {
+    "1": {
+      "type": "NORMAL",
+      "$type": "PersonalSceneJumpPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 4.514344,
+        "y": -2.63943672E-16,
+        "z": 4.26000738
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 268.999817,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranSceneId": 3,
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_ANGELSHARE",
+      "triggerSize": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1.5
+      },
+      "open_time": 0.0,
+      "close_time": 24.0,
+      "tranPos": {
+        "x": 2302.124,
+        "y": 214.0912,
+        "z": -922.9132
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 320.0,
+        "z": 0.0
+      }
+    },
+    "2": {
+      "type": "NORMAL",
+      "$type": "PersonalSceneJumpPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": -4.758655,
+        "y": 0.409793228,
+        "z": 1.48465538
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 91.58381,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranSceneId": 3,
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_ANGELSHARE",
+      "triggerSize": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1.5
+      },
+      "open_time": 0.0,
+      "close_time": 24.0,
+      "tranPos": {
+        "x": 2313.2,
+        "y": 215.3,
+        "z": -929.8
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 146.0,
+        "z": 0.0
+      }
+    },
+    "3": {
+      "type": "NORMAL",
+      "$type": "PersonalSceneJumpPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 0.0184125938,
+        "y": 4.89661026,
+        "z": 8.859965
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 178.43718,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranSceneId": 3,
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_ANGELSHARE",
+      "triggerSize": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1.5
+      },
+      "open_time": 0.0,
+      "close_time": 24.0,
+      "tranPos": {
+        "x": 2302.116,
+        "y": 219.0,
+        "z": -929.348
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 227.0,
+        "z": 0.0
+      }
+    }
+  },
+  "areas": {},
+  "forces": {},
+  "entities": {},
+  "doors": {}
+}

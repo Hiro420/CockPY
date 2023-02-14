@@ -1,0 +1,12 @@
+{
+  "sceneId": 1016,
+  "blockId": 1016,
+  "gadgets": [
+    {
+      "groupId": 201016005,
+      "mapInstId": 5001,
+      "gadgetMisc_ChestShowMoment": "OnCreate",
+      "gadgetMisc_ChestShowUIRemind": "Normal"
+    }
+  ]
+}

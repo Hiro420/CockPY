@@ -1,0 +1,230 @@
+ID	默认阵营	类型	JSON名称	能否移动	是否有音响	是否能装备	能否交互	视距等级	服务器脚本	ItemJSON名称	$#VersionBegin	$#VersionEnd
+70300003	1001	19	FlyRaceCoin							Default_Item		
+70300004	1001	19	FlyRaceCoin							Default_Item		
+70300005	1001	19	FlyRaceCoin							Default_Item		
+70300006	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		0.1
+70300007	1001	22	SceneObj_Gather_Default_Gather							Default_Item		
+70300008	1001	22	SceneObj_Gather_Default_Gather							Default_Item		
+70300009	1001	22	SceneObj_Gather_Default_Gather							Default_Item		
+70300010	1001	22	SceneObj_Gather_Default_Gather							Default_Item		
+70300011	1001	22	SceneObj_Gather_Default_Gather							Default_Item		
+70300012	1001	22	SceneObj_Gather_Default_Gather							Default_Item		
+70300013	5001	19	DragonFeather		1			2		Default_Item		
+70300014	5001	19	DragonFeather_HP		1			1		DragonFeather_HP		0.1
+70300015	5001	19	DragonFeather_HP		1			1		DragonFeather_HP		0.1
+70300016	5001	19	DragonFeather_HP		1			1		DragonFeather_HP		0.1
+70300017	1001	18	Dummy_Safe	1	1					Default_Item		0.1
+70300018	5001	19	DragonFeather							Default_Item		0.1
+70300020	1001	22								Default_Item		
+70300021	1001	19								Default_Item		
+70300022	1001	19								Default_Item		
+70300023	1001	19								Default_Item		
+70300024	1001	19								Default_Item		
+70300031	1001	19						2		Default_Item		
+70300032	1001	19								Default_Item		
+70300036	1001	3	Sneak_Crouch_Throw	1	1					Default_Item		
+70300037	1001	19	ElementTrack							Default_Item		
+70300038	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+70300039	5001	19	DragonFeather					2		Default_Item		
+70300040	1001	19								Default_Item		
+70300041	1001	19								Default_Item		
+70300042	1001	19								Default_Item		
+70300043	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+70300044	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+70300045	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+70300046	5001	19	DragonFeather					1		Default_Item		0.1
+70300047	5001	19	TransparentHitSphere					1		TransparentHitSphere		0.1
+70300048	1001	19										
+70300049	1001	19								Default_Item		
+70300050	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+70300051	5001	19						3		Default_NoDrop_Item		0.1
+70300052	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70300053	5001	19	SceneObj_Gear_Platform_NormalPlatform								0.2	
+70300054	5001	19	DragonFeather_HP		1			1		DragonFeather_HP		
+70300055	1001	19	SceneObj_Environment_Quest_GrapeStick							Default_Item		
+70300056	5001	32	DragonFeather_Move	1				1		DragonFeather_Move		
+70300057	5001	19	Guide_Point_Move	1				3		Guide_Point_Move		
+70300058	1001	23	AirflowFieldBlue					3		Default_Item		
+70300059	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+70300060	1001	19								Default_Item		
+70300061	1001	19								Default_Item		
+70300062	1001	19								Default_Item		
+70300063	1001	19								Default_Item		
+70300064	1001	19	FlyRaceCoin							Default_Item		0.1
+70300065	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		0.1
+70300066	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+70300067	1001	23	AirflowFieldBlue					3		Default_Item		
+70300068	1001	23	AirflowFieldBlue					3		Default_Item		
+70300069	1001	19						2		Default_Item		
+70300070	1001	19	AmborTaskTrack							Default_Item		
+70300071	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70300072	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70300073	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70300074	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item		
+70700003	9001	19						2		Default_Item		0.1
+70700004	9001	19	Env_Mengde_WindDragon_01					3		Env_Mengde_WindDragon_01		0.1
+70700005	1001	38	LisaBookGather				1			Default_NoDrop_Item	0.2	
+70700006	1001	19	LisaCompass							Default_Item		0.1
+70700007	1001	38	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+70700008	1001	38	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+70700009	1001	38	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+70700010	1001	19								Default_Item		0.1
+70700011	1001	19								Default_Item		0.1
+70700012	1001	19	SceneObj_DvalinEntry_Shake									0.1
+70700013	1001	19										0.1
+70700014	1001	19										0.1
+70700015	1001	38	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+70700016	1001	38	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+70700017	1001	19										0.1
+70710004	1001	23	AirflowFieldBlue					2		Default_Item		0.1
+70710005	1001	23	AirflowFieldBlue					2		Default_Item		0.1
+70710008	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710009	1001	38	SceneObj_Gather_Default_Gather				1	2		Default_NoDrop_Item	0.2	
+70710011	1001	38	SceneObj_Gather_Default_Gather							Default_Item		
+70710012	1001	38	SceneObj_Gather_Default_Gather							Default_Item		
+70710013	1001	38	SceneObj_Gather_Default_Gather							Default_Item		
+70710014	1001	19	ElementTrackCat							Default_Item		
+70710015	1001	38	SceneObj_Gather_Default_Gather							Default_Item_WithQuest		
+70710016	1001	19										
+70710017	1001	19										
+70710018	1001	19										
+70710019	1001	19										
+70710020	1001	22	SceneObj_Gather_Default_Gather							Default_Item		
+70710021	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710022	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710023	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710024	1001	30	SceneObj_Quest_FindCat	1			1					
+70710025	1001	19	SceneObj_Quest_Fish	1						Default_Item		
+70710026	1001	19	SceneObj_Quest_Fish	1						Default_Item		
+70710027	1001	19										
+70710028	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710029	1001	38									0.2	
+70710030	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item		
+70710031	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item		
+70710032	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item		
+70710033	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item		
+70710034	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710035	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710036	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710037	1001	19								Default_Item		0.1
+70710038	1001	19								Default_Item		0.1
+70710039	1001	19								Default_Item		0.1
+70710040	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710041	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710042	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710043	1001	38	SceneObj_Gather_Default_Gather				1			Default_NoDrop_Item	0.2	
+70710044	1001	38	SceneObj_Environment_Other_CenserTask							Default_Item		
+70710045	1001	38	SceneObj_Gather_GamblingRock_Low						SetGadgetState			
+70710046	1001	38	SceneObj_Gather_GamblingRock_Low						SetGadgetState			
+70710047	1001	38	SceneObj_Gather_GamblingRock						SetGadgetState			
+70710048	1001	38	SceneObj_Quest_GamblingRockCreater_1									
+70710049	1001	38	SceneObj_Quest_GamblingRockCreater_2									
+70710050	1001	38	SceneObj_Quest_GamblingRockCreater_3									
+70710051	1001	19	SceneObj_Environment_Task_Rock							Default_Item		
+70710052	1001	19	SceneObj_Environment_Task_Rock							Default_Item		
+70710053	1001	19	SceneObj_Environment_Task_Rock							Default_Item		
+70710054	1001	19										
+70710055	1001	19	SceneObj_Environment_Other_Formathr							Default_Item		
+70710056	9001	38	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+70710057	9001	19	SceneObj_Environment_Bulletin3							Default_NoDrop_Item		
+70710058	1001	19	XiangmoyinGuide							Default_NoDrop_Item	0.2	
+70710059	5001	19						2				
+70710060	1001	19										
+70710061	5001	19						2				
+70710062	1001	19								Default_Item		
+70300200	1001	19								Default_Item		
+70300201	1001	19								Default_Item		
+70300202	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+70300203	9001	19						2		Default_Item		0.1
+71700001	9001	19	SceneObj_Environment_Bulletin1		1					Default_NoDrop_Item		
+71700002	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700003	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700004	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700005	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700006	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700007	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700008	9001	19	SceneObj_Environment_Bulletin2		1					Default_NoDrop_Item		
+71700009	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700010	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700011	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700012	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700013	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700014	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700015	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700016	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700017	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700018	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700019	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700020	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700021	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700022	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700023	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700024	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700025	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700026	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700027	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700028	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700029	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700030	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item		
+71700031	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700032	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700033	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700034	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700035	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700036	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700037	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700038	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700039	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700040	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700041	1001	19								Default_Item		
+71700042	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700043	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700044	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700045	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0	
+71700046	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700047	1001	38									0.2	
+71700048	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700049	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700050	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700051	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700052	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700053	1001	38									0.2	
+71700054	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700055	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700056	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700057	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700058	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700059	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700060	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700061	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700062	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700063	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700064	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700065	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700066	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700067	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700068	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700069	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700070	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700071	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700072	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700073	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700074	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700075	1001	19								Default_Item		
+71700076	1001	19								Default_Item		
+71700077	9001	19	SceneObj_Environment_KleeBoard		1					Default_NoDrop_Item		
+71700078	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700079	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700080	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700081	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700082	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700083	1001	38	SearchPoint					1		Default_Item	0.2	
+71700084	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700085	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700086	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700087	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700088	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700089	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700090	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700091	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	
+71700092	1001	22	SceneObj_Gather_Default_Gather							Default_NoDrop_Item	0.2	

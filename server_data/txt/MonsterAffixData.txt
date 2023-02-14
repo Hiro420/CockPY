@@ -1,0 +1,85 @@
+ID	说明	AbilityName	是否通用	最先加载	图标	$#VersionBegin	$#VersionEnd
+1001	提升单体50%攻击力	MonsterAffix_Bash	1		Skill_E_PlayerWind_01		
+1002	提升单体50%防御力	MonsterAffix_IronDefense	1		Skill_S_Qin_01		
+1003	7秒内没有受到攻击，则每秒回复5%生命值	MonsterAffix_Indomitable	1		Skill_E_Ambor		
+1004	提升全元素20%抗性	MonsterAffix_Rainbow_01	1		Skill_E_Ayaka		
+1005	遭受电击后会降低防御	MonsterAffix_ElementHit_BreakDefence	1		Skill_E_Ayaka		
+1006	提升单体血量20%	MonsterAffix_Property_HpImprove_01	1	1	Skill_E_Ayaka		
+1007	提升单体血量50%	MonsterAffix_Property_HpImprove_02	1	1	Skill_E_Ayaka		
+1008	提升单体血量100%	MonsterAffix_Property_HpImprove_03	1	1	Skill_E_Ayaka		
+1009	提升单体攻击20%	MonsterAffix_Property_AtkImprove_01	1	1	Skill_E_Ayaka		
+1010	提升单体攻击50%	MonsterAffix_Property_AtkImprove_02	1	1	Skill_E_Ayaka		
+1011	提升单体攻击100%	MonsterAffix_Property_AtkImprove_03	1	1	Skill_E_Ayaka		
+1012	提升单体元素盾含量20%	MonsterAffix_ElementShield_DurabilityImprove_01	1	1	Skill_E_Ayaka		
+1013	提升单体元素盾含量50%	MonsterAffix_ElementShield_DurabilityImprove_02	1	1	Skill_E_Ayaka		
+1014	提升单体元素盾含量100%	MonsterAffix_ElementShield_DurabilityImprove_03	1	1	Skill_E_Ayaka		
+1015	提升单体元素盾恢复速率20%	MonsterAffix_ElementShield_GapReduce_01	1	1	Skill_E_Ayaka		
+1016	提升单体元素盾恢复速率50%	MonsterAffix_ElementShield_GapReduce_02	1	1	Skill_E_Ayaka		
+1017	提升单体元素盾恢复速率100%	MonsterAffix_ElementShield_GapReduce_03	1	1	Skill_E_Ayaka		
+1018	单个怪物AI出手频率提升1.5	MonsterAffix_AISkillCD_Revise01	1	1	Skill_E_Ayaka		
+1019	单个怪物AI出手频率提升2	MonsterAffix_AISkillCD_Revise02	1	1	Skill_E_Ayaka		
+1020	提升怪物火伤	MonsterAffix_FireAddHurtDelta_Improve	1	1	Skill_E_Ayaka		
+1021	降低单体40%攻击力	MonsterAffix_Weak	1		Skill_E_PlayerWind_01		
+1022	提升单体100%防御力	MonsterAffix_Slime_Ice_IronDefence_Father	1		Skill_S_Qin_01		
+1023	辅助判断是否满足条件	MonsterAffix_Slime_Ice_IronDefence_Child	1		Skill_S_Qin_01		
+1024	提升单体100%防御力	MonsterAffix_Property_IronDefence_Father	1		Skill_S_Qin_01		
+1025	辅助判断是否满足条件	MonsterAffix_Property_IronDefence_Child	1		Skill_S_Qin_01		
+1026	元素V2白盒词缀-详见文档	MonsterAffix_WhiteBox_Thorns	1		Skill_S_Qin_01		
+1027	元素V2白盒词缀-详见文档	MonsterAffix_WhiteBox_RandomThunder	1		Skill_S_Qin_01		
+1028	元素V2白盒词缀-详见文档	MonsterAffix_WhiteBox_EnergyLeakage	1		Skill_S_Qin_01		
+1029	元素V2白盒词缀-详见文档	MonsterAffix_WhiteBox_CoolDown_Increase	1		Skill_S_Qin_01		
+1030	降低单体血量60%	MonsterAffix_Property_HpDecrease_01	1	1	Skill_E_Ayaka		
+1031	免疫嘲讽	MonsterAffix_MuteTaunt	1		Skill_E_Ayaka		
+1201	提升单体血量10%	MonsterAffix_Property_HpImproveForAbyssus_01	1	1	Skill_E_Ayaka		
+1211	提升单体血量50%	MonsterAffix_Property_HpImproveForAbyssus_02	1	1	Skill_E_Ayaka		
+1221	提升单体血量100%	MonsterAffix_Property_HpImproveForAbyssus_03	1	1	Skill_E_Ayaka		
+1231	提升单体血量150%	MonsterAffix_Property_HpImproveForAbyssus_04	1	1	Skill_E_Ayaka		
+1241	提升单体血量200%	MonsterAffix_Property_HpImproveForAbyssus_05	1	1	Skill_E_Ayaka		
+1401	提升单体血量50%	MonsterAffix_Property_HpImproveForEvent_01	1	1	Skill_E_Ayaka		
+1402	提升单体血量100%	MonsterAffix_Property_HpImproveForEvent_02	1	1	Skill_E_Ayaka		
+1403	提升单体血量200%	MonsterAffix_Property_HpImproveForEvent_03	1	1	Skill_E_Ayaka		
+1404	提升单体100%防御力	MonsterAffix_Property_DefImproveForEvent_01	1		Skill_E_Ayaka		
+1405	提升单体200%防御力	MonsterAffix_Property_DefImproveForEvent_02	1		Skill_E_Ayaka		
+1406	提升单体20%攻击力	MonsterAffix_Property_AtkImproveForEvent_01	1		Skill_E_Ayaka		
+1407	提升单体50%攻击力	MonsterAffix_Property_AtkImproveForEvent_02	1		Skill_E_Ayaka		
+1408	单个怪物AI出手频率提升1.5	MonsterAffix_AISkillCDForEvent_Revise01	1	1	Skill_E_Ayaka		
+1409	单个怪物AI出手频率提升2	MonsterAffix_AISkillCDForEvent_Revise02	1	1	Skill_E_Ayaka		
+1410	降低单体血量60%	MonsterAffix_Property_HpDecreaseForEvent_01	1	1	Skill_E_Ayaka		
+1411	降低单体40%攻击力	MonsterAffix_Property_AtkDecreaseForEvent_01	1		Skill_E_Ayaka		
+1901	任务目标对象特效	MonsterAffix_Crystal_Wind	1		Skill_E_Ayaka		
+2001	免疫点燃伤害	MonsterAffix_BurningResist			Skill_E_Diluc_01		
+2002	免疫感电伤害和效果	MonsterAffix_ShockResist			Skill_E_Kate		
+2003	免疫冰冻和寒元素的减速效果	MonsterAffix_IceAllResist			Skill_E_Ayaka		
+3001	同系伤害抵抗-水-50%	MonsterAffix_ElementResist_Water_01			Skill_S_Diluc_01_01		
+3002	同系伤害抵抗-水-70%	MonsterAffix_ElementResist_Water_02			Skill_S_Diluc_01_02		
+3003	同系伤害抵抗-水-100%	MonsterAffix_ElementResist_Water_03			Skill_S_Diluc_01_03		
+3004	同系伤害抵抗-火-50%	MonsterAffix_ElementResist_Fire_01			Skill_S_Diluc_01_01		
+3005	同系伤害抵抗-火-70%	MonsterAffix_ElementResist_Fire_02			Skill_S_Diluc_01_02		
+3006	同系伤害抵抗-火-100%	MonsterAffix_ElementResist_Fire_03			Skill_S_Diluc_01_03		
+3007	同系伤害抵抗-冰-50%	MonsterAffix_ElementResist_Ice_01			Skill_S_Diluc_01_01		
+3008	同系伤害抵抗-冰-70%	MonsterAffix_ElementResist_Ice_02			Skill_S_Diluc_01_02		
+3009	同系伤害抵抗-冰-100%	MonsterAffix_ElementResist_Ice_03			Skill_S_Diluc_01_03		
+3010	同系伤害抵抗-电-50%	MonsterAffix_ElementResist_Electric_01			Skill_S_Diluc_01_01		
+3011	同系伤害抵抗-电-70%	MonsterAffix_ElementResist_Electric_02			Skill_S_Diluc_01_02		
+3012	同系伤害抵抗-电-100%	MonsterAffix_ElementResist_Electric_03			Skill_S_Diluc_01_03		
+3013	同系伤害抵抗-风-50%	MonsterAffix_ElementResist_Wind_01			Skill_S_Diluc_01_01		
+3014	同系伤害抵抗-风-70%	MonsterAffix_ElementResist_Wind_02			Skill_S_Diluc_01_02		
+3015	同系伤害抵抗-风-100%	MonsterAffix_ElementResist_Wind_03			Skill_S_Diluc_01_03		
+3016	同系伤害抵抗-草-50%	MonsterAffix_ElementResist_Grass_01			Skill_S_Diluc_01_01		
+3017	同系伤害抵抗-草-70%	MonsterAffix_ElementResist_Grass_02			Skill_S_Diluc_01_02		
+3018	同系伤害抵抗-草-100%	MonsterAffix_ElementResist_Grass_03			Skill_S_Diluc_01_03		
+3019	同系伤害抵抗-岩-50%	MonsterAffix_ElementResist_Rock_01			Skill_S_Diluc_01_01		
+3020	同系伤害抵抗-岩-70%	MonsterAffix_ElementResist_Rock_02			Skill_S_Diluc_01_02		
+3021	同系伤害抵抗-岩-100%	MonsterAffix_ElementResist_Rock_03			Skill_S_Diluc_01_03		
+4001	冰元素含量会持续缓慢恢复	MonsterAffix_ElementRecovery_Ice	1		Skill_E_Ayaka		
+5001	精英化词缀-详见对应文档	MonsterEliteAffix_Attack_Enhance			Skill_E_Ayaka		
+5002	精英化词缀-详见对应文档	MonsterEliteAffix_Defence_Enhance			Skill_E_Ayaka		
+5003	精英化词缀-详见对应文档	MonsterEliteAffix_Agility_Enhance			Skill_E_Ayaka		
+5004	精英化词缀-详见对应文档	MonsterEliteAffix_Support_Enhance			Skill_E_Ayaka		
+5005	精英化词缀-详见对应文档	MonsterEliteAffix_AgilityEnhance_Abyss_Plugin			Skill_E_Ayaka		
+9001	北风狼雷泽线任务标识	MonsterAffix_LupiBoreas_Razor		1	Skill_E_Ayaka		
+9002	召唤怪跟随创建者的生命周期	MonsterAffix_Summon_Lifetime	1	1	Skill_E_Ayaka		
+9003	盗宝鼬-等级1标识	MonsterAffix_Thoarder_Weasel_Level_01		1	Skill_E_Ayaka		
+9004	盗宝鼬-等级2标识	MonsterAffix_Thoarder_Weasel_Level_02		1	Skill_E_Ayaka		
+9005	盗宝鼬-等级3标识	MonsterAffix_Thoarder_Weasel_Level_03		1	Skill_E_Ayaka		
+9006	风魔龙初见标识	MonsterAffix_Dvalin_S04_FirstSight		1	Skill_E_Ayaka		

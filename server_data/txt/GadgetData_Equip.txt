@@ -1,0 +1,132 @@
+ID	默认阵营	类型	JSON名称	能否移动	是否有音响	是否能装备	能否交互	视距等级	服务器脚本	ItemJSON名称	$#VersionBegin	$#VersionEnd
+50004001	0	9	MonEquip_WoodenClub_01			1				Default_MonsterWeapon		
+50004002	0	9	MonEquip_Shield_01			1				Default_MonsterWeapon		
+50004003	0	9	MonEquip_WoodenClub_Fire_01			1				Default_MonsterWeapon		
+50004004	0	9	MonEquip_Crossbow_01			1				Default_MonsterWeapon		
+50004006	0	9	MonEquip_Staff_Fire_01			1				Default_MonsterWeapon		
+50004007	0	9	MonEquip_Staff_Ice_01			1				Default_MonsterWeapon		
+50004008	0	9	MonEquip_Staff_Water_01			1				Default_MonsterWeapon		
+50004009	0	9	MonEquip_Wand_Water_01			1				Default_MonsterWeapon		
+50004010	0	9	MonEquip_Wand_Grass_01			1				Default_MonsterWeapon		
+50004011	0	9	MonEquip_WoodenClub_02			1				Default_MonsterWeapon		
+50004012	0	9	MonEquip_Shield_02			1				Default_MonsterWeapon		
+50004013	0	9	MonEquip_Axe_01			1				Default_MonsterWeapon		
+50004014	0	9	MonEquip_Wand_Wind_01			1				Default_MonsterWeapon		
+50004015	0	9	MonEquip_Torch_01			1				Default_MonsterWeapon		
+50004016	0	9	MonEquip_WoodenClub_Grass_01			1				Default_MonsterWeapon		
+50004017	0	9	MonEquip_Crossbow_Fire_01			1				Default_MonsterWeapon		
+50004018	0	9	MonEquip_Crossbow_Ice_01			1				Default_MonsterWeapon		
+50004019	0	9	MonEquip_Crossbow_Thunder_01			1				Default_MonsterWeapon		
+50004020	0	9	MonEquip_Torch_02			1				Default_MonsterWeapon		
+50004021	0	9	MonEquip_Warglaive_Fire_01			1				Default_MonsterWeapon		
+50004022	0	9	MonEquip_Shield_02_Rock			1				Default_MonsterWeapon		
+50004023	0	9	MonEquip_Shield_01_Rock			1				Default_MonsterWeapon		
+50004024	0	9	MonEquip_RockClub_01			1				Default_MonsterWeapon		
+50004025	0	9	MonEquip_Crossbow_02			1				Default_MonsterWeapon		
+50004026	0	9	MonEquip_Hatchet_01			1				Default_MonsterWeapon		
+50004027	0	9	MonEquip_Shovel_01			1				Default_MonsterWeapon		
+50004028	0	9	MonEquip_Pole_01			1				Default_MonsterWeapon		
+50004029	0	9	MonEquip_Wand_Rock_01			1				Default_MonsterWeapon		
+50004030	0	9	MonEquip_Pole_02			1				Default_MonsterWeapon		
+50010007	0	8	Weapon_Sword_Wood_Normal		1	1				Default_Weapon		
+50011101	0	8	Weapon_Sword_Metal		1	1				Lv1_Weapon		
+50011201	0	8	Weapon_Sword_Metal		1	1				Lv2_Weapon		
+50011301	0	8	Weapon_Sword_Metal		1	1				Lv3_Weapon		
+50011302	0	8	Weapon_Sword_Metal		1	1				Lv3_Weapon		
+50011303	0	8	Weapon_Sword_Metal		1	1				Lv3_Weapon		
+50011304	0	8	Weapon_Sword_Metal		1	1				Lv3_Weapon		
+50011305	0	8	Weapon_Sword_Metal		1	1				Lv3_Weapon		
+50011306	0	8	Weapon_Sword_Metal		1	1				Lv3_Weapon		
+50011401	0	8	Weapon_Sword_Metal		1	1				Lv4_Weapon		
+50011402	0	8	Weapon_Sword_Metal		1	1				Lv4_Weapon		
+50011403	0	8	Weapon_Sword_Metal		1	1				Lv4_Weapon		
+50011404	0	8	Weapon_Sword_Metal		1	1				Lv4_Weapon		
+50011405	0	8	Weapon_Sword_Metal		1	1				Lv4_Weapon		
+50011406	0	8	Weapon_Sword_Metal		1	1				Lv4_Weapon		
+50011407	0	8	Weapon_Sword_Metal		1	1				Lv4_Weapon		
+50011408	0	8	Weapon_Sword_Metal		1	1				Lv4_Weapon		
+50011501	0	8	Weapon_Sword_Metal		1	1				Lv5_Weapon		
+50011502	0	8	Weapon_Sword_Metal		1	1				Lv5_Weapon		
+50011503	0	8	Weapon_Sword_Metal		1	1				Lv5_Weapon		
+50011504	0	8	Weapon_Sword_Metal		1	1				Lv5_Weapon		
+50011505	0	8	Weapon_Sword_Metal		1	1				Lv5_Weapon		
+50011506	0	8	Weapon_Sword_Metal		1	1				Lv5_Weapon		
+50011507	0	8	Weapon_Sword_Metal		1	1				Lv5_Weapon		
+50012101	0	8	Weapon_Claymore_Metal		1	1				Lv1_Weapon		
+50012201	0	8	Weapon_Claymore_Metal		1	1				Lv2_Weapon		
+50012301	0	8	Weapon_Claymore_Metal		1	1				Lv3_Weapon		
+50012302	0	8	Weapon_Claymore_Metal		1	1				Lv3_Weapon		
+50012303	0	8	Weapon_Claymore_Metal		1	1				Lv3_Weapon		
+50012304	0	8	Weapon_Claymore_Metal		1	1				Lv3_Weapon		
+50012305	0	8	Weapon_Claymore_Metal		1	1				Lv3_Weapon		
+50012306	0	8	Weapon_Claymore_Metal		1	1				Lv3_Weapon		
+50012401	0	8	Weapon_Claymore_Metal		1	1				Lv4_Weapon		
+50012402	0	8	Weapon_Claymore_Metal		1	1				Lv4_Weapon		
+50012403	0	8	Weapon_Claymore_Metal		1	1				Lv4_Weapon		
+50012404	0	8	Weapon_Claymore_Metal		1	1				Lv4_Weapon		
+50012405	0	8	Weapon_Claymore_Metal		1	1				Lv4_Weapon		
+50012406	0	8	Weapon_Claymore_Metal		1	1				Lv4_Weapon		
+50012407	0	8	Weapon_Claymore_Metal		1	1				Lv4_Weapon		
+50012408	0	8	Weapon_Claymore_Metal		1	1				Lv4_Weapon		
+50012501	0	8	Weapon_Claymore_Metal		1	1				Lv5_Weapon		
+50012502	0	8	Weapon_Claymore_Metal		1	1				Lv5_Weapon		
+50012503	0	8	Weapon_Claymore_Metal		1	1				Lv5_Weapon		
+50012504	0	8	Weapon_Claymore_Metal		1	1				Lv5_Weapon		
+50012505	0	8	Weapon_Claymore_Metal		1	1				Lv5_Weapon		
+50012506	0	8	Weapon_Claymore_Metal		1	1				Lv5_Weapon		
+50013101	0	8	Weapon_Pole_Metal		1	1				Lv1_Weapon		
+50013201	0	8	Weapon_Pole_Metal		1	1				Lv2_Weapon		
+50013301	0	8	Weapon_Pole_Metal		1	1				Lv3_Weapon		
+50013302	0	8	Weapon_Pole_Metal		1	1				Lv3_Weapon		
+50013303	0	8	Weapon_Pole_Metal		1	1				Lv3_Weapon		
+50013401	0	8	Weapon_Pole_Metal		1	1				Lv4_Weapon		
+50013402	0	8	Weapon_Pole_Metal		1	1				Lv4_Weapon		
+50013403	0	8	Weapon_Pole_Metal		1	1				Lv4_Weapon		
+50013404	0	8	Weapon_Pole_Metal		1	1				Lv4_Weapon		
+50013504	0	8	Weapon_Pole_Metal		1	1				Lv5_Weapon		
+50013505	0	8	Weapon_Pole_Metal		1	1				Lv5_Weapon		
+50013506	0	8	Weapon_Pole_Metal		1	1				Lv5_Weapon		
+50014101	0	8	Catalyst_Book		1	1				Lv1_Catalyst		
+50014201	0	8	Catalyst_Book		1	1				Lv2_Catalyst		
+50014301	0	8	Catalyst_Book		1	1				Lv3_Catalyst		
+50014302	0	8	Catalyst_Book		1	1				Lv3_Catalyst		
+50014303	0	8	Catalyst_Book		1	1				Lv3_Catalyst		
+50014304	0	8	Catalyst_Ball		1	1				Lv3_Weapon		
+50014305	0	8	Catalyst_Ball		1	1				Lv3_Weapon		
+50014306	0	8	Catalyst_Ball		1	1				Lv3_Weapon		
+50014401	0	8	Catalyst_Book		1	1				Lv4_Catalyst		
+50014402	0	8	Catalyst_Book		1	1				Lv4_Catalyst		
+50014403	0	8	Catalyst_Book		1	1				Lv4_Catalyst		
+50014404	0	8	Catalyst_Book		1	1				Lv4_Catalyst		
+50014405	0	8	Catalyst_Ball		1	1				Lv4_Weapon		
+50014406	0	8	Catalyst_Ball		1	1				Lv4_Weapon		
+50014407	0	8	Catalyst_Book		1	1				Lv4_Weapon		
+50014408	0	8	Catalyst_Ball		1	1				Lv4_Weapon		
+50014501	0	8	Catalyst_Book		1	1				Lv5_Catalyst		
+50014502	0	8	Catalyst_Book		1	1				Lv5_Catalyst		
+50014503	0	8	Catalyst_Book		1	1				Lv5_Catalyst		
+50014504	0	8	Catalyst_Ball		1	1				Lv5_Weapon		
+50014505	0	8	Catalyst_Ball		1	1				Lv5_Weapon		
+50014506	0	8	Catalyst_Ball		1	1				Lv5_Weapon		
+50015101	0	8	Weapon_Bow_Metal		1	1				Lv1_Weapon		
+50015201	0	8	Weapon_Bow_Metal		1	1				Lv2_Weapon		
+50015301	0	8	Weapon_Bow_Metal		1	1				Lv3_Weapon		
+50015302	0	8	Weapon_Bow_Metal		1	1				Lv3_Weapon		
+50015303	0	8	Weapon_Bow_Metal		1	1				Lv3_Weapon		
+50015304	0	8	Weapon_Bow_Metal		1	1				Lv3_Weapon		
+50015305	0	8	Weapon_Bow_Metal		1	1				Lv3_Weapon		
+50015306	0	8	Weapon_Bow_Metal		1	1				Lv3_Weapon		
+50015401	0	8	Weapon_Bow_Metal		1	1				Lv4_Weapon		
+50015402	0	8	Weapon_Bow_Metal		1	1				Lv4_Weapon		
+50015403	0	8	Weapon_Bow_Metal		1	1				Lv4_Weapon		
+50015404	0	8	Weapon_Bow_Metal		1	1				Lv4_Weapon		
+50015405	0	8	Weapon_Bow_Metal		1	1				Lv4_Weapon		
+50015406	0	8	Weapon_Bow_Metal		1	1				Lv4_Weapon		
+50015407	0	8	Weapon_Bow_Metal		1	1				Lv4_Weapon		
+50015408	0	8	Weapon_Bow_Metal		1	1				Lv4_Weapon		
+50015501	0	8	Weapon_Bow_Metal		1	1				Lv5_Weapon		
+50015502	0	8	Weapon_Bow_Metal		1	1				Lv5_Weapon		
+50015503	0	8	Weapon_Bow_Metal		1	1				Lv5_Weapon		
+50015504	0	8	Weapon_Bow_Metal		1	1				Lv5_Weapon		
+50015505	0	8	Weapon_Bow_Metal		1	1				Lv5_Weapon		
+50015506	0	8	Weapon_Bow_Metal		1	1				Lv5_Weapon		

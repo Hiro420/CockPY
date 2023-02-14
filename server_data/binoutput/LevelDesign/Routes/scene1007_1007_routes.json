@@ -1,0 +1,55 @@
+{
+  "sceneId": 1007,
+  "routes": [
+    {
+      "localId": 1,
+      "name": "DefaultRouteName",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": -149.026123,
+            "y": -15.4832945,
+            "z": 147.76619
+          }
+        },
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": -134.6232,
+            "y": -15.48329,
+            "z": 147.805237
+          }
+        }
+      ]
+    },
+    {
+      "localId": 2,
+      "name": "DefaultRouteName",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": -135.590729,
+            "y": -15.4833031,
+            "z": 142.689713
+          }
+        },
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": -149.349182,
+            "y": -15.4832783,
+            "z": 142.90715
+          }
+        }
+      ]
+    }
+  ]
+}

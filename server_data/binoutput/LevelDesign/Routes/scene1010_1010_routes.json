@@ -1,0 +1,98 @@
+{
+  "sceneId": 1010,
+  "routes": [
+    {
+      "localId": 1,
+      "name": "Route_001",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 1301.3927,
+            "y": 263.603333,
+            "z": -5613.39063
+          }
+        },
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 1291.09875,
+            "y": 263.603333,
+            "z": -5623.05127
+          }
+        },
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 1286.04907,
+            "y": 263.843353,
+            "z": -5633.03857
+          }
+        }
+      ]
+    },
+    {
+      "localId": 2,
+      "name": "Route_002",
+      "type": "OneWay",
+      "points": [
+        {
+          "waitTime": 0.0,
+          "speedLevel": 2,
+          "pos": {
+            "x": 1254.9259,
+            "y": 264.165161,
+            "z": -5830.544
+          }
+        },
+        {
+          "waitTime": 0.0,
+          "speedLevel": 2,
+          "pos": {
+            "x": 1264.7627,
+            "y": 264.075,
+            "z": -5788.758
+          }
+        }
+      ]
+    },
+    {
+      "localId": 3,
+      "name": "Route_003",
+      "type": "OneWay",
+      "points": [
+        {
+          "waitTime": 0.0,
+          "speedLevel": 2,
+          "pos": {
+            "x": 1222.498,
+            "y": 256.042175,
+            "z": -5561.90039
+          }
+        },
+        {
+          "waitTime": 0.0,
+          "speedLevel": 2,
+          "pos": {
+            "x": 1236.30212,
+            "y": 256.1084,
+            "z": -5577.07666
+          }
+        },
+        {
+          "waitTime": 0.0,
+          "speedLevel": 2,
+          "pos": {
+            "x": 1247.38867,
+            "y": 256.3302,
+            "z": -5582.307
+          }
+        }
+      ]
+    }
+  ]
+}

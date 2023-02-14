@@ -1,0 +1,963 @@
+ID	默认阵营	JSON名称	JSON路径文件名	能否战斗	能否移动	能否发声	是否常驻	$#VersionBegin	$#VersionEnd
+9001	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+9002	2001	ConfigNpc_Paimon	ConfigNpc_Paimon	0	1	1			
+9003	2001	CanMove01		0	1	1			
+9004	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	0				
+9005	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	0				
+9006	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	0				
+9007	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	0				
+1	2001	StandOnly		0	0				
+2	2001	StandOnly		0	0				
+3	2001	StandOnly		0	0				
+4	2001	StandOnly		0	0				
+5	2001	CanMove01		0	1				
+6	2001	StandOnly		0	0				
+7	2001	StandOnly		0	0				
+8	2001	StandOnly		0	0				
+9	2001	StandOnly		0	0				
+10	2001	StandOnly		0	0				
+11	2001	StandOnly		0	0				
+12	2001	StandOnly		0	0				
+13	2001	StandOnly		0	0				
+14	2001	StandOnly		0	0				
+15	2001	StandOnly		0	0				
+21	2001	StandOnly		0	0				
+22	2001	StandOnly		0	0				
+23	2001	StandOnly		0	0				
+24	2001	StandOnly		0	0				
+25	2001	StandOnly		0	0				
+26	2001	StandOnly		0	0				
+30	2001	StandOnly		0	0				
+31	2001	StandOnly		0	0				
+32	2001	StandOnly		0	0				
+33	2001	StandOnly		0	0				
+101	2001	CanMove01		0	1				
+34	2001	StandOnly		0	0				
+35	2001	StandOnly		0	0				
+36	2001	CanMove01		0	1				
+37	2001	CanMove01		0	1				
+102	2001	CanMove01		0	1				
+103	2001	CanMove01		0	1				
+79	2001	CanMove01		0	1	1			
+80	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+81	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+82	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+83	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+84	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+85	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+86	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+87	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+88	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+89	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+90	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+91	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+92	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+93	2001	ConfigNpc_Common_AnimatorMove_Female_noheadcontrol	ConfigNpc_Common_AnimatorMove_Female_noheadcontrol	0	1	1	1		
+94	2001	StandOnly		0	0				
+95	2001	ConfigNpc_Common_AnimatorMove_Female_noheadcontrol	ConfigNpc_Common_AnimatorMove_Female_noheadcontrol	0	1	1	1		
+901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+902	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+903	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+904	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+905	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+906	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+907	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+908	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+909	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+910	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+911	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+912	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+913	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+914	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+915	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+916	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+917	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+918	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+919	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1001	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1002	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1003	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1004	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1005	2001	ConfigNpc_Paimon	ConfigNpc_Paimon	0	1	1			
+1305	2001	ConfigNpc_Paimon	ConfigNpc_Paimon	0	1	1			
+1006	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1007	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1008	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1009	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1010	2001	CanMove01		0	1	1			
+1011	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1012	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1013	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1014	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1101	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1102	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1103	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1104	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1105	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1106	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	0	1			
+1107	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1108	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1109	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1110	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1111	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1112	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1113	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1114	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1115	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1116	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1117	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1118	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1119	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1120	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1121	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1122	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1123	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1124	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1125	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1130	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1131	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1132	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1133	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1134	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1135	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1136	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1137	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1138	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1139	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1140	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1141	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1142	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1143	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1144	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1151	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1160	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1161	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1162	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1163	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1164	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1165	2001	ConfigNpc_LupiBoreas_AnimatorMove	ConfigNpc_LupiBoreas_AnimatorMove	0	1	1			
+1166	4001	ConfigNpc_Sensing_AnimatorMove	ConfigNpc_Sensing_AnimatorMove	0	1	1			
+1167	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1168	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1169	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1170	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1171	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1172	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1173	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1174	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1175	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1176	2001	ConfigNpc_LupiBoreas_AnimatorMove	ConfigNpc_LupiBoreas_AnimatorMove	0	1	1			
+1177	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1178	2001	ConfigNpc_AbyssWater	ConfigNpc_AbyssWater	0	1	1			
+1179	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1180	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1181	2001	StandOnly		0	0				
+1201	2001	StandOnly		0	0				
+1202	2001	StandOnly		0	0				
+1203	2001	StandOnly		0	0				
+1204	2001	StandOnly		0	0				
+1205	2001	StandOnly		0	0				
+1206	2001	StandOnly		0	0				
+1207	2001	StandOnly		0	0				
+1208	2001	StandOnly		0	0				
+1209	2001	StandOnly		0	0				
+1210	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	0				
+1211	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	0				
+1212	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	0				
+1213	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1214	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1215	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1216	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	0				
+1217	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1218	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1219	2001	ConfigNpc_AbyssWater_465	ConfigNpc_AbyssWater_465	0	1	1			
+1220	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1221	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1222	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1223	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1224	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1225	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1226	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1227	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1228	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1229	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1230	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1231	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1232	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1233	4001	ConfigNpc_Sensing_AnimatorMove_Adv	ConfigNpc_Sensing_AnimatorMove_Adv	0	1	1			
+1234	2001	StandOnly		0	0				
+1235	2001	ConfigNpc_SneakDoor_Test	ConfigNpc_SneakDoor_Test	0	0				
+1236	2001	ConfigNpc_SneakDoor_Test	ConfigNpc_SneakDoor_Test	0	0				
+1237	2001	ConfigNpc_SneakDoor_Test	ConfigNpc_SneakDoor_Test	0	0				
+1238	2001	ConfigNpc_SneakDoor_Test	ConfigNpc_SneakDoor_Test	0	0				
+1239	2001	ConfigNpc_SneakDoor_Test	ConfigNpc_SneakDoor_Test	0	0				
+1240	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1				
+1241	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1242	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1243	2001	ConfigNpc_Paimon	ConfigNpc_Paimon	0	1	1			
+1244	2001	ReadableNPC		0	0				
+1245	2001	ReadableNPC		0	0				
+1246	2001	ReadableNPC		0	0				
+1247	2001	ReadableNPC		0	0				
+1248	2001	ReadableNPC_Low		0	0				
+1249	2001	ReadableNPC		0	0				
+1250	2001	ReadableNPC		0	0				
+1251	2001	ReadableNPC		0	0				
+1252	2001	ReadableNPC		0	0				
+1253	2001	ReadableNPC		0	0				
+1254	2001	ReadableNPC		0	0				
+1255	2001	ReadableNPC		0	0				
+1256	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1257	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1258	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1259	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1260	2001	StandOnly		0	0				
+1261	2001	StandOnly		0	0				
+1262	2001	ReadableNPC		0	0				
+1263	2001	StandOnly		0	0				
+1264	2001	StandOnly		0	0				
+1265	2001	StandOnly		0	0				
+1266	2001	StandOnly		0	0				
+1267	2001	StandOnly		0	0				
+1401	2001	ConfigNpc_Common_AnimatorMove_Female_noheadcontrol	ConfigNpc_Common_AnimatorMove_Female_noheadcontrol	0	1	1	1		
+1403	2001	ConfigNpc_Common_AnimatorMove_Male_noheadcontrol	ConfigNpc_Common_AnimatorMove_Male_noheadcontrol	0	1	1	1		
+1404	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1	1		
+1405	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1408	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1409	2001	ConfigNpc_Common_AnimatorMove_MuscleMan	ConfigNpc_Common_AnimatorMove_MuscleMan	0	1	1	1		
+1410	2001	ConfigNpc_Common_AnimatorMove_MuscleMan	ConfigNpc_Common_AnimatorMove_MuscleMan	0	1	1	1		
+1411	2001	ConfigNpc_Common_AnimatorMove_MuscleMan	ConfigNpc_Common_AnimatorMove_MuscleMan	0	1	1	1		
+1412	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1413	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1414	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1	1		
+1417	2001	ConfigNpc_Common_AnimatorMove_MuscleMan	ConfigNpc_Common_AnimatorMove_MuscleMan	0	1	1	1		
+1419	2001	ConfigNpc_Common_AnimatorMove_Female_large	ConfigNpc_Common_AnimatorMove_Female_large	0	1	1	1		
+1421	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1423	2001	ConfigNpc_Common_AnimatorMove_Female_large	ConfigNpc_Common_AnimatorMove_Female_large	0	1	1	1		
+1425	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+1427	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1429	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1430	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1431	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1433	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1435	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1437	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1439	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1441	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1443	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1445	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1447	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1449	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1451	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1453	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1455	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1457	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1459	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1461	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1463	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1465	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1467	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1469	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1471	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1473	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1475	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1477	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1479	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1480	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1481	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1482	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1483	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1484	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1485	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1486	2001	ConfigNpc_Paimon	ConfigNpc_Paimon	0	1	1			
+1487	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1501	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1502	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1503	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1504	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1505	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1506	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1507	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1508	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1509	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1510	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1511	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+1512	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1513	2001	ReadableNPC		0	0				
+1514	2001	ReadableNPC		0	0				
+1517	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1	1		
+1519	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1	1		
+1521	2001	ConfigNpc_Common_AnimatorMove_Female_Sit	ConfigNpc_Common_AnimatorMove_Female_Sit	0	1	1	1		
+1523	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1	1		
+1525	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1527	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1529	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1531	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1533	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+1535	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1537	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1539	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1541	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1543	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1545	2001	ConfigNpc_Common_AnimatorMove_Female_Sit	ConfigNpc_Common_AnimatorMove_Female_Sit	0	1	1	1		
+1547	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1549	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1551	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1	1		
+1553	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1555	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1557	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1559	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1561	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1563	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1565	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+1567	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+1569	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+1570	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1571	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1572	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1573	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1574	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1575	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1576	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1577	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1578	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1579	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1581	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1583	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1585	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1587	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1589	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1591	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1592	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1593	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1594	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1595	2001	ConfigNpc_Common_AnimatorMove_Female_noheadcontrol	ConfigNpc_Common_AnimatorMove_Female_noheadcontrol	0	1	1	1		
+1596	2001	ConfigNpc_Common_AnimatorMove_Female_noheadcontrol	ConfigNpc_Common_AnimatorMove_Female_noheadcontrol	0	1	1	1		
+1597	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+1598	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+1599	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+1600	2001	ConfigNpc_Common_AnimatorMove_Male_noActionAndHeadcontrol	ConfigNpc_Common_AnimatorMove_Male_noActionAndHeadcontrol	0	1	1	1		
+1601	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+1602	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1603	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1	1		
+1604	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1605	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1	1		
+1606	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+1607	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1	1		
+1608	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+1609	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1	1		
+1610	2001	ConfigNpc_Common_AnimatorMove_Female_Sit	ConfigNpc_Common_AnimatorMove_Female_Sit	0	1	1	1		
+1630	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1631	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1632	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1611	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1612	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1613	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1614	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1615	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1616	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1617	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1618	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1619	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1620	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1621	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1622	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1623	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1629	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1635	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+1636	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1637	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+1624	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1625	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+1626	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1627	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+1628	2001	ConfigNpc_Common_AnimatorMove_MuscleMan	ConfigNpc_Common_AnimatorMove_MuscleMan	0	1	1	1		
+2001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2002	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2003	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2004	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2005	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2006	2001	ConfigNpc_Common_AnimatorMove_MuscleMan	ConfigNpc_Common_AnimatorMove_MuscleMan	0	1	1	1		
+2007	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2008	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2009	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2010	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2011	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2012	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2013	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2014	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2015	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2016	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2017	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2018	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2019	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2020	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2021	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2022	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2023	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2024	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2025	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2026	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2027	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2028	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2029	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2030	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2031	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2032	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2033	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2034	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2035	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2036	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2037	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2038	2001	ConfigNpc_Common_AnimatorMove_Female_Sit	ConfigNpc_Common_AnimatorMove_Female_Sit	0	1	1	1		
+2039	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2040	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2041	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2042	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2043	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2044	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2045	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2046	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2047	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2048	2001	ConfigNpc_Common_AnimatorMove_MuscleMan	ConfigNpc_Common_AnimatorMove_MuscleMan	0	1	1	1		
+2049	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2050	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2051	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2052	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2053	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2054	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2055	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2056	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2057	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2058	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2059	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2060	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2062	2001	ConfigNpc_Common_AnimatorMove_MuscleMan	ConfigNpc_Common_AnimatorMove_MuscleMan	0	1	1	1		
+2063	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2064	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2065	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2066	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2067	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2068	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2069	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2070	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2071	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2072	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2073	2001	ConfigNpc_Common_AnimatorMove_MuscleMan	ConfigNpc_Common_AnimatorMove_MuscleMan	0	1	1	1		
+2074	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2075	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2076	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2077	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2078	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2079	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2080	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2081	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2082	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2083	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2084	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2085	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2086	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2087	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2088	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2089	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2090	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2091	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2092	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2093	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2094	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2200	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2202	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2203	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2204	2001	ConfigNpc_Common_AnimatorMove_MuscleMan	ConfigNpc_Common_AnimatorMove_MuscleMan	0	1	1	1		
+2205	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2206	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2207	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2208	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2209	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2210	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2211	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2300	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2302	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2303	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2304	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2305	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2306	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2307	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2308	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2309	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1	1		
+2310	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2311	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1			
+2400	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2402	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2403	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2404	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2405	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2406	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2407	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2408	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2409	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2410	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2411	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2414	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2415	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2416	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2417	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2418	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2419	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2420	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2421	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2422	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2423	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2424	2001	ConfigNpc_Common_AnimatorMove_Elder	ConfigNpc_Common_AnimatorMove_Elder	0	1	1	1		
+2425	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2426	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+2427	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2428	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2429	2001	ConfigNpc_Common_AnimatorMove_Male_NoAction	ConfigNpc_Common_AnimatorMove_Male_NoAction	0	1	1	1		
+2430	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2431	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2432	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+10001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10002	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+10003	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+10004	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+10005	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+10006	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+10007	4001	ConfigNpc_Sensing_AnimatorMove_FindCat	ConfigNpc_Sensing_AnimatorMove_FindCat	0	1	1			
+10008	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10010	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+10021	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10022	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10030	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10031	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+10032	2001	ConfigNpc_AbyssWater	ConfigNpc_AbyssWater	0	1	1			
+10033	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+10034	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10035	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10036	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+10037	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10038	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1				
+10039	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1				
+10040	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1				
+10041	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1				
+10042	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1				
+10045	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10046	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10047	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10048	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+10049	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+10050	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+10051	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+10052	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+10061	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10062	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10063	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10064	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10065	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10066	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10067	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10068	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10069	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10070	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10071	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10072	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10073	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10074	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10075	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10076	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10077	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10078	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10079	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10080	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10081	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10082	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10083	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10084	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10085	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10086	4001	ConfigNpc_Sensing_AnimatorMove_Liyue	ConfigNpc_Sensing_AnimatorMove_Liyue	0	1	1			
+10090	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+10091	2001	ConfigNpc_AbyssWater_10201	ConfigNpc_AbyssWater_10201	0	1	1			
+10092	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	0	1			
+10093	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	0	1			
+10094	2001	ReadableNPC		0	0				
+10101	4001	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	0	1	1			
+10102	4001	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	0	1	1			
+10103	4001	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	0	1	1			
+10104	4001	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	0	1	1			
+10105	4001	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	0	1	1			
+10106	4001	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	0	1	1			
+10107	4001	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	0	1	1			
+10108	4001	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	0	1	1			
+10109	4001	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	0	1	1			
+10110	4001	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	ConfigNpc_Sensing_AnimatorMove_LiyueLYG	0	1	1			
+10200	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10211	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+10201	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+10202	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+10203	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10204	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10205	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10206	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1				
+10207	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10208	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+10209	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	0				
+10212	2001	ReadableNPC		0	0				
+10213	2001	ReadableNPC		0	0				
+10214	2001	ReadableNPC		0	0				
+10215	2001	ReadableNPC		0	0		1		
+10216	2001	ReadableNPC		0	0		1		
+20001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+20002	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+20003	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+2000302	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20004	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20005	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+2000303	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20007	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+20008	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20009	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20010	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20011	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20012	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20013	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20014	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20015	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20016	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20017	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20018	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20019	2001	StandOnly		0	0				
+20020	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+20021	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20022	2001	StandOnly		0	0				
+20023	2001	StandOnly		0	0				
+20024	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1	1		
+20025	2001	StandOnly		0	1	1			
+20026	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+20027	2001	ReadableNPC		0	0				
+20028	2001	ConfigNpc_Deer	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+20029	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20030	2001	ReadableNPC		0	0				
+20031	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+20032	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+20033	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+20034	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+20035	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+20036	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20037	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20038	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+20039	2001	StandOnly		0	0				
+20040	2001	StandOnly		0	0				
+20041	2001	StandOnly		0	0				
+20042	2001	StandOnly		0	0				
+20043	2001	ReadableNPC		0	0				
+20044	2001	StandOnly		0	0				
+20045	2001	StandOnly		0	0				
+20046	2001	ReadableNPC		0	0				
+20047	2001	ReadableNPC		0	0				
+20048	2001	StandOnly		0	0				
+20049	2001	ReadableNPC		0	0				
+20050	2001	ReadableNPC		0	0				
+20051	2001	ReadableNPC		0	0				
+20052	2001	ReadableNPC		0	0				
+20053	2001	ReadableNPC		0	0				
+20054	2001	ReadableNPC		0	0				
+20055	2001	ReadableNPC		0	0				
+20056	2001	ReadableNPC		0	0				
+20057	2001	ReadableNPC		0	0				
+20058	2001	ReadableNPC		0	0				
+20059	2001	ReadableNPC		0	0				
+20060	2001	ReadableNPC		0	0				
+20061	2001	ReadableNPC		0	0				
+20062	2001	ReadableNPC		0	0				
+20063	2001	ReadableNPC		0	0				
+20064	2001	ReadableNPC		0	0				
+20065	2001	ReadableNPC		0	0				
+20066	2001	ReadableNPC		0	0				
+20067	2001	ReadableNPC		0	0				
+20068	2001	ReadableNPC		0	0				
+100101	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+100102	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1			
+100201	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+100202	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+100401	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+100501	2001	ConfigNpc_Paimon	ConfigNpc_Paimon	0	1	1			
+100601	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+100701	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+100801	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+100901	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+101101	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+101201	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+101301	2001	ConfigNpc_Common_AnimatorMove	ConfigNpc_Common_AnimatorMove	0	1	1			
+140101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+140301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+140401	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1			
+140501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+140801	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+140901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+141001	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1			
+141101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+141201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+141301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+141401	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1			
+141701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+141901	2001	ConfigNpc_Common_AnimatorMove_Female_large	ConfigNpc_Common_AnimatorMove_Female_large	0	1	1			
+142101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+142301	2001	ConfigNpc_Common_AnimatorMove_Female_large	ConfigNpc_Common_AnimatorMove_Female_large	0	1	1			
+142501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+142701	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+142901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+143001	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+143101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+143301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+143501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+143701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+143901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+144101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+144301	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1			
+144501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+144701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+144901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+145101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+145301	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+145501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+145701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+145901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+146101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+146301	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+146501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+146701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+146901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+147101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+147301	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+147501	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1			
+147701	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1			
+147901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+151201	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+151701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+151901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+152101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+152301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+152501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+152701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+152901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+153101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+153301	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1			
+153501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+153701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+153901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+154101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+154301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+154501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+154701	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+154901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+155101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+155301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+155501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+155701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+155901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+156101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+156301	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+156501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+156701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+156901	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1			
+157001	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+157101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+157201	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+157301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+157401	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+157501	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1			
+157601	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+157701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+157801	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+157901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+158101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+158301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+158501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+158701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+158901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+159101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+159201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+159301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+159401	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+159501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+159601	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+159701	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+159801	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+159901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+160001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+160101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+160201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+160301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+160401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+160501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+160601	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+160701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+160801	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+160901	2001	ConfigNpc_Common_AnimatorMove_Male_Sit	ConfigNpc_Common_AnimatorMove_Male_Sit	0	1	1			
+161001	2001	ConfigNpc_Common_AnimatorMove_Female_Sit	ConfigNpc_Common_AnimatorMove_Female_Sit	0	1	1			
+163001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+163101	2001	ConfigNpc_Common_AnimatorMove_Female_Sit	ConfigNpc_Common_AnimatorMove_Female_Sit	0	1	1			
+163201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+2000401	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+162401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+162501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+162601	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+162701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+162801	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+200101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+200201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+200301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+200401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+200501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+200601	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+200701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+200801	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+200901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+201001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+201101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+201201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+201301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+201401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+201501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+201601	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+201701	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+201801	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+201901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+202001	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+202101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+202201	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+202301	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+202401	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+202501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+202601	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+202701	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+202801	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+202901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+203001	2001	ConfigNpc_Common_AnimatorMove_Child	ConfigNpc_Common_AnimatorMove_Child	0	1	1			
+203101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+203201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+203301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+203401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+203501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+203601	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+203701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+203801	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+203901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+204001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+204101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+204201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+204301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+204401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+204501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+204601	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+204701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+204801	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+204901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+205001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+205101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+205201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+205301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+205401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+205501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+205601	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+205701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+205801	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+205901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+206001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+206201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+206301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+206401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+206501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+206601	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+206701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+206801	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+206901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+207001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+207101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+207201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+207301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+207401	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+207501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+207601	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+207701	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+207801	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+207901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+208001	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+208101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+208201	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+208301	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+208401	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+208501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+208601	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+208701	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+208801	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+208901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+209001	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+209101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+209201	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+209301	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+220001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+220101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+220201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+220301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+220401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+220501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+220601	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+220701	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+220801	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+220901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+221001	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+221101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+230001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+230201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+230301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+230401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+230501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+230601	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+230701	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+230801	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+230901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+231001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+231101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+231102	2001	ConfigNpc_Common_AnimatorMove_Xiaoming	ConfigNpc_Common_AnimatorMove_Xiaoming	0	1	1			
+240001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+240101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+240201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+240301	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+240401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+240501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+240601	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+240701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+240801	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+240901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+241001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+241101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+241401	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+241501	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+241601	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+241701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+241801	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+241901	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+242001	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+242101	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+242201	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+242301	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+242401	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+242501	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+242601	2001	ConfigNpc_Common_AnimatorMove_Female	ConfigNpc_Common_AnimatorMove_Female	0	1	1			
+242701	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+242801	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+242901	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+243001	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+243101	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+243201	2001	ConfigNpc_Common_AnimatorMove_Male	ConfigNpc_Common_AnimatorMove_Male	0	1	1	1		
+2002801	2001	ConfigNpc_Deer	ConfigNpc_Common_AnimatorMove_Male	0	1	1			
+2002901	2001	ConfigNpc_Common_AnimatorMove_Female_LargeRadius	ConfigNpc_Common_AnimatorMove_Female_LargeRadius	0	1	1			
+2003001	2001	ConfigNpc_Common_AnimatorMove_Male_LargeRadius	ConfigNpc_Common_AnimatorMove_Male_LargeRadius	0	1	1			
+2003002	2001	StandOnly		0	0				
+2003003	2001	StandOnly		0	0				
+2003004	2001	ConfigNpc_Common_AnimatorMove_Male_LargeRadius	ConfigNpc_Common_AnimatorMove_Male_LargeRadius	0	1	1			
+2003005	2001	ConfigNpc_Common_AnimatorMove_Male_LargeRadius	ConfigNpc_Common_AnimatorMove_Male_LargeRadius	0	1	1			
+2003007	2001	StandOnly		0	0				

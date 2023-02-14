@@ -1,0 +1,5280 @@
+{
+  "radius": 15.0,
+  "points": {
+    "1": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 2163.66357,
+        "y": 235.371246,
+        "z": -1642.4209
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 275.8915,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [
+        4007
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_1",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 2154.55444,
+        "y": 234.814072,
+        "z": -1638.244
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 114.201447,
+        "z": 0.0
+      }
+    },
+    "2": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 2155.05444,
+        "y": 234.597076,
+        "z": -1638.53027
+      },
+      "rot": {
+        "x": 3.954665,
+        "y": 321.144867,
+        "z": 359.9206
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 1
+    },
+    "3": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110001,
+      "pos": {
+        "x": 1859.34,
+        "y": 258.036621,
+        "z": -575.6
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 241.792969,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [
+        3,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "groupLimit": false,
+      "npcId": 1202,
+      "maxSpringVolume": 5000.0,
+      "tranPos": {
+        "x": 1854.05249,
+        "y": 258.036621,
+        "z": -578.4359
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": -40.0,
+        "z": 0.0
+      }
+    },
+    "4": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110001,
+      "pos": {
+        "x": 1928.3811,
+        "y": 196.139,
+        "z": -1265.91687
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 94.06357,
+        "z": 0.0
+      },
+      "areaId": 2,
+      "unlocked": false,
+      "cutsceneList": [
+        3,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "groupLimit": false,
+      "npcId": 1203,
+      "maxSpringVolume": 5000.0,
+      "tranPos": {
+        "x": 1934.366,
+        "y": 196.139,
+        "z": -1266.342
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    },
+    "5": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1993.73,
+        "y": 212.17,
+        "z": -874.22
+      },
+      "rot": {
+        "x": 355.888458,
+        "y": 6.409998,
+        "z": 1.17152214
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1992.874,
+        "y": 213.1602,
+        "z": -867.234131
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": -152.0,
+        "z": 0.0
+      }
+    },
+    "6": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2679.84,
+        "y": 197.366,
+        "z": -1636.902
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 24.951,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2682.84253,
+        "y": 197.606,
+        "z": -1642.15918
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": -95.78,
+        "z": 0.0
+      }
+    },
+    "7": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110001,
+      "pos": {
+        "x": 2566.115,
+        "y": 214.086853,
+        "z": -1323.47375
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 193.9696,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [
+        2,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "groupLimit": false,
+      "alias": "Goddess_3003",
+      "maxSpringVolume": 5000.0,
+      "tranPos": {
+        "x": 2564.53613,
+        "y": 215.386856,
+        "z": -1329.82031
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": -105.0,
+        "z": 0.0
+      }
+    },
+    "8": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2197.45459,
+        "y": 214.802231,
+        "z": -1122.17285
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2191.163,
+        "y": 214.767517,
+        "z": -1120.63293
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 357.07135,
+        "z": 0.0
+      }
+    },
+    "10": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2277.604,
+        "y": 220.9239,
+        "z": -876.104736
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 196.3031,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2281.49536,
+        "y": 220.421,
+        "z": -867.685242
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 230.56427,
+        "z": 0.0
+      }
+    },
+    "11": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2298.307,
+        "y": 264.822235,
+        "z": -1508.90942
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 336.196,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2296.88647,
+        "y": 264.822235,
+        "z": -1505.59033
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "12": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1975.9353,
+        "y": 236.9656,
+        "z": -1531.12537
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 150.177979,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1978.91919,
+        "y": 237.8656,
+        "z": -1536.33081
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "13": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1440.0,
+        "y": 329.539246,
+        "z": -2002.78
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 311.693024,
+        "z": 0.0
+      },
+      "areaId": 2,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1435.51965,
+        "y": 329.539246,
+        "z": -1998.78918
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 235.0,
+        "z": 0.0
+      }
+    },
+    "14": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1460.9563,
+        "y": 258.501221,
+        "z": -1436.57751
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 45.64151,
+        "z": 0.0
+      },
+      "areaId": 2,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1465.24622,
+        "y": 259.501221,
+        "z": -1432.38269
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 235.0,
+        "z": 0.0
+      }
+    },
+    "15": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1790.3075,
+        "y": 236.2465,
+        "z": -912.9803
+      },
+      "rot": {
+        "x": 1.11035883,
+        "y": 105.196007,
+        "z": 358.4253
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1796.10815,
+        "y": 237.129669,
+        "z": -914.5843
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 0.0
+      }
+    },
+    "20": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 2137.997,
+        "y": 207.232,
+        "z": -1174.44
+      },
+      "rot": {
+        "x": 0.0159999989,
+        "y": 335.229,
+        "z": 0.238999978
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [
+        4010
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_20",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 2120.33154,
+        "y": 205.124924,
+        "z": -1157.94177
+      },
+      "tranRot": {
+        "x": 359.888123,
+        "y": 283.520477,
+        "z": 359.640747
+      }
+    },
+    "21": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 2120.13916,
+        "y": 204.897949,
+        "z": -1157.901
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 250.5867,
+        "z": 0.0
+      },
+      "areaId": 2,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 20
+    },
+    "22": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 1659.01257,
+        "y": 258.418884,
+        "z": -1436.90137
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 18.0850143,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [
+        4011
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_22",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 1662.15942,
+        "y": 258.637238,
+        "z": -1427.428
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 359.05957,
+        "z": 0.0
+      }
+    },
+    "23": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1662.33777,
+        "y": 258.6858,
+        "z": -1427.6394
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 17.7099953,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 22
+    },
+    "25": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 1558.2,
+        "y": 376.1,
+        "z": -2085.19
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 280.12,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1632.21313,
+        "y": 200.5,
+        "z": -2581.11035
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "27": {
+      "type": "NORMAL",
+      "$type": "PersonalSceneJumpPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 2243.504,
+        "y": 238.690247,
+        "z": -778.8833
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 161.32,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranSceneId": 1004,
+      "titleTextID": "UI_SCENE_ENTRY_ENTER_KNIGHT",
+      "triggerSize": {
+        "x": 3.0,
+        "y": 3.0,
+        "z": 3.0
+      },
+      "open_time": 0.0,
+      "close_time": 24.0,
+      "tranPos": {
+        "x": 0.2393522,
+        "y": 0.02668158,
+        "z": 12.84647
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      }
+    },
+    "28": {
+      "type": "NORMAL",
+      "$type": "PersonalSceneJumpPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 2354.98682,
+        "y": 261.022736,
+        "z": -685.584
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 207.1,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranSceneId": 1008,
+      "titleTextID": "UI_SCENE_ENTRY_ENTER_CHURCH",
+      "triggerSize": {
+        "x": 3.0,
+        "y": 3.0,
+        "z": 3.0
+      },
+      "open_time": 0.0,
+      "close_time": 24.0,
+      "tranPos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 44.49009
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      }
+    },
+    "29": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110001,
+      "pos": {
+        "x": 2642.84668,
+        "y": 262.115967,
+        "z": 176.325974
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 76.91731,
+        "z": 0.0
+      },
+      "areaId": 4,
+      "unlocked": false,
+      "cutsceneList": [
+        3,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "groupLimit": false,
+      "npcId": 1204,
+      "maxSpringVolume": 5000.0,
+      "tranPos": {
+        "x": 2647.7168,
+        "y": 262.115967,
+        "z": 177.457764
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 20.0,
+        "z": 0.0
+      }
+    },
+    "30": {
+      "type": "NORMAL",
+      "$type": "PersonalSceneJumpPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 2303.09766,
+        "y": 214.091171,
+        "z": -924.118164
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 318.68,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranSceneId": 1009,
+      "titleTextID": "UI_SCENE_ENTRY_ENTER_ANGELSHARE",
+      "triggerSize": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1.5
+      },
+      "open_time": 0.0,
+      "close_time": 24.0,
+      "tranPos": {
+        "x": 2.859979,
+        "y": 0.0,
+        "z": 4.280728
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 0.0
+      }
+    },
+    "31": {
+      "type": "NORMAL",
+      "$type": "PersonalSceneJumpPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 2313.206,
+        "y": 215.183685,
+        "z": -929.794434
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 146.05661,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranSceneId": 1009,
+      "titleTextID": "UI_SCENE_ENTRY_ENTER_ANGELSHARE",
+      "triggerSize": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1.5
+      },
+      "open_time": 0.0,
+      "close_time": 24.0,
+      "tranPos": {
+        "x": -4.78,
+        "y": 0.5,
+        "z": 1.485
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    },
+    "32": {
+      "type": "NORMAL",
+      "$type": "PersonalSceneJumpPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 2302.116,
+        "y": 218.958176,
+        "z": -929.348
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 227.263962,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranSceneId": 1009,
+      "titleTextID": "UI_SCENE_ENTRY_ENTER_ANGELSHARE",
+      "triggerSize": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 1.5
+      },
+      "open_time": 0.0,
+      "close_time": 24.0,
+      "tranPos": {
+        "x": 0.0,
+        "y": 5.0,
+        "z": 8.77
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      }
+    },
+    "33": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2651.56714,
+        "y": 300.565643,
+        "z": 117.986549
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 72.66981,
+        "z": 0.0
+      },
+      "areaId": 4,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2653.47632,
+        "y": 301.065643,
+        "z": 118.582306
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "34": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2375.78784,
+        "y": 227.29512,
+        "z": 35.1196632
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 71.0460358,
+        "z": 0.0
+      },
+      "areaId": 4,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2381.4624,
+        "y": 227.79512,
+        "z": 37.068512
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "35": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2785.73218,
+        "y": 216.513214,
+        "z": -88.4160156
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 325.092438,
+        "z": 0.0
+      },
+      "areaId": 4,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2782.29858,
+        "y": 217.013214,
+        "z": -83.49556
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "36": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2920.96655,
+        "y": 209.419037,
+        "z": 268.401123
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 245.602448,
+        "z": 0.0
+      },
+      "areaId": 4,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2915.50244,
+        "y": 209.919037,
+        "z": 265.922729
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "37": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2580.34033,
+        "y": 207.2314,
+        "z": 342.258148
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 158.084183,
+        "z": 0.0
+      },
+      "areaId": 4,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2581.83325,
+        "y": 207.7314,
+        "z": 338.5472
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "38": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120005,
+      "pos": {
+        "x": 2651.92847,
+        "y": 300.1629,
+        "z": 131.953384
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 165.4829,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [
+        8
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 24.0,
+        "y": 10.0,
+        "z": 24.0
+      },
+      "dungeonIds": [
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_24",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "OnUnlocked",
+      "forbidSimpleUnlock": true,
+      "tranPos": {
+        "x": 2658.27783,
+        "y": 300.936127,
+        "z": 122.886314
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 343.1133,
+        "z": 0.0
+      }
+    },
+    "39": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 2659.36572,
+        "y": 300.8796,
+        "z": 118.1377
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 170.175964,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 38
+    },
+    "40": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 1325.35193,
+        "y": 303.262146,
+        "z": -1870.79114
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 54.5496826,
+        "z": 0.0
+      },
+      "areaId": 2,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [
+        3004
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_26",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 1331.88293,
+        "y": 303.262146,
+        "z": -1866.93445
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 359.6599,
+        "z": 0.0
+      }
+    },
+    "41": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1331.78906,
+        "y": 303.000824,
+        "z": -1867.08
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 237.746323,
+        "z": 0.0
+      },
+      "areaId": 2,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 40
+    },
+    "42": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120002,
+      "pos": {
+        "x": 1639.65552,
+        "y": 208.072113,
+        "z": -2628.89771
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 2,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [
+        5008,
+        5009,
+        5010,
+        5011,
+        5012
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_27",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Daily",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 1645.43481,
+        "y": 204.958832,
+        "z": -2614.45313
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 2.52362227,
+        "z": 0.0
+      }
+    },
+    "43": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1645.45776,
+        "y": 204.912842,
+        "z": -2614.54272
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 2,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 42
+    },
+    "44": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 1678.95728,
+        "y": 263.2,
+        "z": -894.3811
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 11.8274908,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [],
+      "titleTextID": "UI_DUNGEON_ENTRY_29",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "dungeonEntryType": "Daily",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 1679.78235,
+        "y": 263.5595,
+        "z": -887.194
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 9.94319,
+        "z": 0.0
+      }
+    },
+    "45": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 1698.90808,
+        "y": 255.8555,
+        "z": -662.4711
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 95.66611,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [],
+      "titleTextID": "UI_DUNGEON_ENTRY_31",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "dungeonEntryType": "Tower",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 1708.15125,
+        "y": 255.8555,
+        "z": -662.429749
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 312.8455,
+        "z": 0.0
+      }
+    },
+    "46": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 1680.022,
+        "y": 263.6281,
+        "z": -887.288
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 20.4325886,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 44
+    },
+    "47": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 1707.99683,
+        "y": 255.957214,
+        "z": -662.590942
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 48.2949333,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 45
+    },
+    "48": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 2488.91528,
+        "y": 263.627655,
+        "z": -1559.558
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 84.238,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [
+        4100,
+        4101,
+        4102,
+        4103,
+        4104,
+        4105
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_35",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Daily",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 2498.416,
+        "y": 263.627655,
+        "z": -1558.25256
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 352.7862,
+        "z": 0.0
+      }
+    },
+    "49": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2498.34375,
+        "y": 263.194672,
+        "z": -1557.98486
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 80.17398,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 48
+    },
+    "50": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120002,
+      "pos": {
+        "x": 2257.04614,
+        "y": 271.369934,
+        "z": -237.541046
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 178.544037,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": true,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [],
+      "titleTextID": "UI_DUNGEON_ENTRY_37",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "dungeonEntryType": "Daily",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 2257.59033,
+        "y": 270.675079,
+        "z": -255.194641
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 356.108459,
+        "z": 0.0
+      }
+    },
+    "51": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2256.54272,
+        "y": 272.115875,
+        "z": -246.226349
+      },
+      "rot": {
+        "x": 0.2863706,
+        "y": 176.74913,
+        "z": 5.02895355
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 50
+    },
+    "52": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70360001,
+      "pos": {
+        "x": 1648.186,
+        "y": 200.096,
+        "z": -1549.077
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 2,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 5.0
+      },
+      "dungeonIds": [
+        2000
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_39",
+      "hideOnMap": true,
+      "showLevel": 1,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Never",
+      "forbidSimpleUnlock": true,
+      "tranPos": {
+        "x": 1663.61267,
+        "y": 197.990753,
+        "z": -1551.79944
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 92.25659,
+        "z": 0.0
+      }
+    },
+    "53": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 1656.69824,
+        "y": 197.258774,
+        "z": -1552.09216
+      },
+      "rot": {
+        "x": 4.8459034,
+        "y": 105.874924,
+        "z": 1.37620127
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 52
+    },
+    "54": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2243.02856,
+        "y": 238.64299,
+        "z": -778.1082
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 344.52,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Knights"
+    },
+    "55": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2355.05981,
+        "y": 261.022736,
+        "z": -684.8734
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 28.2900066,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Church"
+    },
+    "56": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2303.71655,
+        "y": 214.091171,
+        "z": -924.984
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 144.9,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Pub"
+    },
+    "57": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2294.15283,
+        "y": 254.9882,
+        "z": -384.463562
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2298.236,
+        "y": 254.9882,
+        "z": -385.927551
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 337.152161,
+        "z": 0.0
+      }
+    },
+    "58": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2178.69214,
+        "y": 213.559113,
+        "z": -524.3094
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2181.969,
+        "y": 213.559113,
+        "z": -521.3196
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 19.876791,
+        "z": 0.0
+      }
+    },
+    "59": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2731.88013,
+        "y": 253.104309,
+        "z": -1265.03552
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2731.88013,
+        "y": 253.104309,
+        "z": -1267.03552
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      }
+    },
+    "60": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2832.8335,
+        "y": 265.4537,
+        "z": -1627.4939
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 343.0999,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2835.021,
+        "y": 265.4537,
+        "z": -1629.05176
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 238.258926,
+        "z": 0.0
+      }
+    },
+    "61": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1863.92761,
+        "y": 203.997833,
+        "z": -203.965836
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 341.364716,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1862.54688,
+        "y": 203.997833,
+        "z": -200.792709
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 338.873322,
+        "z": 0.0
+      }
+    },
+    "62": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2239.98462,
+        "y": 215.99,
+        "z": -888.2343
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 113.28,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Restaurant"
+    },
+    "63": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2265.456,
+        "y": 217.344925,
+        "z": -895.9293
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 294.0,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "GeneralCargo"
+    },
+    "64": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2248.52979,
+        "y": 213.99,
+        "z": -905.21814
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 297.6,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Souvenir"
+    },
+    "65": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2213.713,
+        "y": 210.173874,
+        "z": -923.6311
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 118.580009,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Blacksmith"
+    },
+    "67": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70360001,
+      "pos": {
+        "x": 2251.99487,
+        "y": 210.075317,
+        "z": -887.92334
+      },
+      "rot": {
+        "x": 0.451321453,
+        "y": 103.059761,
+        "z": 358.503326
+      },
+      "areaId": 2,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "size": {
+        "x": 15.0,
+        "y": 15.0,
+        "z": 15.0
+      },
+      "dungeonIds": [
+        2004
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_39",
+      "hideOnMap": true,
+      "showLevel": 1,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Never",
+      "forbidSimpleUnlock": true,
+      "tranPos": {
+        "x": 2252.00537,
+        "y": 215.989075,
+        "z": -888.084351
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "68": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2252.11963,
+        "y": 216.002365,
+        "z": -887.728333
+      },
+      "rot": {
+        "x": 4.8459034,
+        "y": 105.874924,
+        "z": 1.37620127
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 67
+    },
+    "69": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2582.27075,
+        "y": 267.026337,
+        "z": -435.4256
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 27.3905964,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2581.43726,
+        "y": 266.989349,
+        "z": -439.842957
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 221.114929,
+        "z": 0.0
+      }
+    },
+    "72": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110004,
+      "pos": {
+        "x": 1281.92334,
+        "y": 204.122559,
+        "z": 251.592239
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 74.49903,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "groupLimit": false,
+      "npcId": 1205,
+      "maxSpringVolume": 5000.0,
+      "tranPos": {
+        "x": 1285.77087,
+        "y": 204.122559,
+        "z": 253.39238
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 264.357269,
+        "z": 0.0
+      }
+    },
+    "73": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110004,
+      "pos": {
+        "x": -10.8145752,
+        "y": 271.2861,
+        "z": 252.781738
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 21.0013332,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": false,
+      "cutsceneList": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "groupLimit": false,
+      "npcId": 1206,
+      "maxSpringVolume": 5000.0,
+      "tranPos": {
+        "x": -13.2550125,
+        "y": 271.401428,
+        "z": 259.770477
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 68.44033,
+        "z": 0.0
+      }
+    },
+    "74": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110004,
+      "pos": {
+        "x": 762.0538,
+        "y": 409.01825,
+        "z": 1471.45251
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 35.6107254,
+        "z": 0.0
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "groupLimit": false,
+      "npcId": 1207,
+      "maxSpringVolume": 5000.0,
+      "tranPos": {
+        "x": 764.27124,
+        "y": 409.01825,
+        "z": 1474.86572
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 31.79367,
+        "z": 0.0
+      }
+    },
+    "75": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110004,
+      "pos": {
+        "x": -346.056915,
+        "y": 285.89267,
+        "z": 986.806946
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 21.8627872,
+        "z": 0.0
+      },
+      "areaId": 8,
+      "unlocked": false,
+      "cutsceneList": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "groupLimit": false,
+      "npcId": 1208,
+      "maxSpringVolume": 5000.0,
+      "tranPos": {
+        "x": -352.952423,
+        "y": 284.048737,
+        "z": 978.994263
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 209.9788,
+        "z": 0.0
+      }
+    },
+    "76": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1569.728,
+        "y": 227.6609,
+        "z": 203.180511
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 243.9302,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1573.6394,
+        "y": 227.6609,
+        "z": 207.694839
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 310.812225,
+        "z": 0.0
+      }
+    },
+    "77": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1188.88989,
+        "y": 261.00415,
+        "z": 1114.00171
+      },
+      "rot": {
+        "x": -2.66804268E-08,
+        "y": 15.2207689,
+        "z": 1.90289569
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1190.15515,
+        "y": 261.298767,
+        "z": 1117.35474
+      },
+      "tranRot": {
+        "x": 359.490448,
+        "y": 19.8242016,
+        "z": 0.0667521656
+      }
+    },
+    "78": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 584.9227,
+        "y": 214.100983,
+        "z": 894.790649
+      },
+      "rot": {
+        "x": 0.452880621,
+        "y": 293.804749,
+        "z": 0.0683607
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 584.123169,
+        "y": 214.587921,
+        "z": 898.104736
+      },
+      "tranRot": {
+        "x": 0.172080651,
+        "y": 335.5579,
+        "z": 359.910645
+      }
+    },
+    "79": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 878.3333,
+        "y": 265.0837,
+        "z": 329.728638
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 233.592957,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 873.746765,
+        "y": 265.457672,
+        "z": 328.954681
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 246.799713,
+        "z": 0.0
+      }
+    },
+    "80": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 626.9675,
+        "y": 330.799316,
+        "z": -257.8818
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 357.9326,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 622.766357,
+        "y": 331.299316,
+        "z": -261.996368
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 242.850281,
+        "z": 0.0
+      }
+    },
+    "81": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 542.59845,
+        "y": 206.557678,
+        "z": 339.1133
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 327.367584,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 548.7974,
+        "y": 206.601563,
+        "z": 341.547516
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 341.19223,
+        "z": 0.0
+      }
+    },
+    "82": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 225.991,
+        "y": 232.749146,
+        "z": 486.9245
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 97.8890152,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 222.863174,
+        "y": 232.866959,
+        "z": 489.6364
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 305.804016,
+        "z": 0.0
+      }
+    },
+    "84": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -64.71062,
+        "y": 233.7672,
+        "z": 1265.483
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 227.567459,
+        "z": 0.0
+      },
+      "areaId": 8,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -63.5310478,
+        "y": 234.2672,
+        "z": 1268.63379
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 270.024536,
+        "z": 0.0
+      }
+    },
+    "85": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 622.3163,
+        "y": 186.7227,
+        "z": 1184.3606
+      },
+      "rot": {
+        "x": 0.06960008,
+        "y": 327.864319,
+        "z": 0.0
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 626.7109,
+        "y": 189.824677,
+        "z": 1182.9707
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 30.07292,
+        "z": 0.0
+      }
+    },
+    "86": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 714.8186,
+        "y": 427.3772,
+        "z": 1797.8772
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 121.664932,
+        "z": 0.0
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 716.624756,
+        "y": 429.630432,
+        "z": 1794.40808
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 163.963257,
+        "z": 0.0
+      }
+    },
+    "87": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1044.80225,
+        "y": 392.1774,
+        "z": 1603.9386
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 281.790558,
+        "z": 0.0
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1040.31189,
+        "y": 392.066,
+        "z": 1604.69629
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 279.217468,
+        "z": 0.0
+      }
+    },
+    "88": {
+      "type": "NORMAL",
+      "$type": "PersonalSceneJumpPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1769.115,
+        "y": 221.862961,
+        "z": -399.242584
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 28.0000038,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranSceneId": 1018,
+      "titleTextID": "UI_SCENE_ENTRY_ENTER_CHATEAU",
+      "triggerSize": {
+        "x": 3.0,
+        "y": 3.0,
+        "z": 3.0
+      },
+      "open_time": 0.0,
+      "close_time": 24.0,
+      "tranPos": {
+        "x": 0.0,
+        "y": 2.0,
+        "z": 0.0
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      }
+    },
+    "89": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70360001,
+      "pos": {
+        "x": 2368.05859,
+        "y": 262.849762,
+        "z": -1505.722
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 18.0000057,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 5.0
+      },
+      "dungeonIds": [
+        1002
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_41",
+      "hideOnMap": true,
+      "showLevel": 1,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Never",
+      "forbidSimpleUnlock": true,
+      "tranPos": {
+        "x": 2373.094,
+        "y": 262.8987,
+        "z": -1500.23523
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 35.16645,
+        "z": 0.0
+      }
+    },
+    "90": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2375.86646,
+        "y": 263.736755,
+        "z": -1504.1189
+      },
+      "rot": {
+        "x": 4.8459096,
+        "y": 33.50999,
+        "z": 1.3762008
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 89
+    },
+    "91": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -89.7730942,
+        "y": 203.515915,
+        "z": -665.3295
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 227.567459,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -89.901825,
+        "y": 203.931152,
+        "z": -656.749146
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 198.18576,
+        "z": 0.0
+      }
+    },
+    "92": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 967.442444,
+        "y": 260.092377,
+        "z": -186.947784
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 57.89178,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 973.0638,
+        "y": 260.486023,
+        "z": -188.279449
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 1.715803,
+        "z": 0.0
+      }
+    },
+    "93": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -115.272614,
+        "y": 278.871429,
+        "z": 26.3539333
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 213.301147,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -111.650993,
+        "y": 278.7056,
+        "z": 26.2805157
+      },
+      "tranRot": {
+        "x": 1.34691978,
+        "y": 94.03765,
+        "z": 358.970062
+      }
+    },
+    "95": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 389.632935,
+        "y": 234.875778,
+        "z": 1664.89478
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 34.70981,
+        "z": 0.0
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 387.170166,
+        "y": 234.952286,
+        "z": 1666.13269
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 299.5115,
+        "z": 0.0
+      }
+    },
+    "96": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1028.24316,
+        "y": 268.731,
+        "z": 1446.87549
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 324.9482,
+        "z": 0.0
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1029.17615,
+        "y": 268.6365,
+        "z": 1451.748
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 8.936316,
+        "z": 0.0
+      }
+    },
+    "97": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 515.746155,
+        "y": 361.4442,
+        "z": 1392.01086
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 63.93016,
+        "z": 0.0
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 516.854065,
+        "y": 361.032959,
+        "z": 1389.91711
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 155.582153,
+        "z": 0.0
+      }
+    },
+    "98": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2231.50537,
+        "y": 212.575592,
+        "z": -914.4172
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 113.62809,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Adventurers"
+    },
+    "99": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1529.58594,
+        "y": 210.52359,
+        "z": 841.914856
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 349.0801,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1533.10242,
+        "y": 209.760437,
+        "z": 840.337769
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 78.32674,
+        "z": 0.0
+      }
+    },
+    "100": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1790.48279,
+        "y": 231.537827,
+        "z": 799.096069
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 227.567459,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1789.272,
+        "y": 230.884125,
+        "z": 781.7519
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 157.084045,
+        "z": 0.0
+      }
+    },
+    "102": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70360001,
+      "pos": {
+        "x": 1865.15686,
+        "y": 226.23,
+        "z": -757.6948
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 5.0
+      },
+      "dungeonIds": [
+        2007
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_42",
+      "hideOnMap": true,
+      "showLevel": 1,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Never",
+      "forbidSimpleUnlock": true,
+      "tranPos": {
+        "x": 1865.08118,
+        "y": 226.23,
+        "z": -756.950134
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "103": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -769.2751,
+        "y": 224.9616,
+        "z": 713.6514
+      },
+      "rot": {
+        "x": 359.876,
+        "y": 155.435471,
+        "z": 0.38462624
+      },
+      "areaId": 8,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -771.834,
+        "y": 224.990051,
+        "z": 710.971436
+      },
+      "tranRot": {
+        "x": 0.0722873956,
+        "y": 1.85422027,
+        "z": 0.508786738
+      }
+    },
+    "104": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -988.918,
+        "y": 256.005432,
+        "z": 1123.09753
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 227.567459,
+        "z": 0.0
+      },
+      "areaId": 8,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -983.74115,
+        "y": 256.3178,
+        "z": 1128.771
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 82.8792343,
+        "z": 0.0
+      }
+    },
+    "105": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -559.9994,
+        "y": 225.974457,
+        "z": 1036.13818
+      },
+      "rot": {
+        "x": 359.5959,
+        "y": 227.567459,
+        "z": 0.0
+      },
+      "areaId": 8,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -557.392639,
+        "y": 225.49704,
+        "z": 1043.4834
+      },
+      "tranRot": {
+        "x": 359.921143,
+        "y": 31.8016853,
+        "z": 0.6528838
+      }
+    },
+    "107": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120002,
+      "pos": {
+        "x": 1553.01892,
+        "y": 226.936111,
+        "z": 567.8609
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": true,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [
+        5107,
+        5108,
+        5109,
+        5110
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_54",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Daily",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 1544.37415,
+        "y": 227.441589,
+        "z": 569.233
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 92.2929,
+        "z": 0.0
+      }
+    },
+    "108": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 1545.82056,
+        "y": 227.452164,
+        "z": 567.5056
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 107
+    },
+    "113": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70360001,
+      "pos": {
+        "x": 1761.50427,
+        "y": 237.90152,
+        "z": -964.1793
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 5.0
+      },
+      "dungeonIds": [
+        1009
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_43",
+      "hideOnMap": true,
+      "showLevel": 1,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Never",
+      "forbidSimpleUnlock": true,
+      "tranPos": {
+        "x": 1761.93884,
+        "y": 237.90152,
+        "z": -964.2513
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 44.2061157,
+        "z": 0.0
+      }
+    },
+    "114": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 658.6462,
+        "y": 204.6241,
+        "z": -55.6767235
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 328.968475,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 657.571167,
+        "y": 204.939133,
+        "z": -57.1429
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 306.777222,
+        "z": 0.0
+      }
+    },
+    "116": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1182.929,
+        "y": 203.446274,
+        "z": -160.047318
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 304.715057,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1183.1217,
+        "y": 203.446274,
+        "z": -164.2754
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 266.9365,
+        "z": 0.0
+      }
+    },
+    "117": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 97.60872,
+        "y": 174.87,
+        "z": 524.9684
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 69.0828857,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [
+        5200,
+        5201,
+        5202,
+        5203,
+        5204,
+        5205,
+        5206
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_53",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Daily",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 107.128494,
+        "y": 176.26178,
+        "z": 526.4993
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 86.73348,
+        "z": 0.0
+      }
+    },
+    "118": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 102.963905,
+        "y": 175.076981,
+        "z": 526.777
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 117
+    },
+    "119": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70710062,
+      "pos": {
+        "x": 1921.429,
+        "y": 207.355377,
+        "z": -1112.18176
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 188.871841,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 5.0
+      },
+      "dungeonIds": [
+        1008
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_QIN",
+      "hideOnMap": true,
+      "showLevel": 1,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Never",
+      "forbidSimpleUnlock": true,
+      "tranPos": {
+        "x": 1921.86523,
+        "y": 207.493484,
+        "z": -1113.10144
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 358.826263,
+        "z": 0.0
+      }
+    },
+    "120": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 1922.06482,
+        "y": 205.036636,
+        "z": -1115.615
+      },
+      "rot": {
+        "x": 356.342346,
+        "y": 174.815613,
+        "z": 7.10027552
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 119
+    },
+    "121": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1062.99792,
+        "y": 204.910034,
+        "z": 726.21106
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1062.77063,
+        "y": 207.060638,
+        "z": 730.473938
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 7.367486,
+        "z": 0.0
+      }
+    },
+    "122": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 2260.999,
+        "y": 273.045563,
+        "z": -747.402161
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 196.3031,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 2263.18433,
+        "y": 273.338257,
+        "z": -749.4446
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 147.4845,
+        "z": 0.0
+      }
+    },
+    "123": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 1765.12585,
+        "y": 237.7399,
+        "z": -958.4245
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 41.9751549,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 113
+    },
+    "124": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 1863.99182,
+        "y": 225.329041,
+        "z": -754.2448
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 102
+    },
+    "125": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120007,
+      "pos": {
+        "x": 1665.48657,
+        "y": 225.448074,
+        "z": -41.3222847
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 219.237869,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 5.0
+      },
+      "dungeonIds": [
+        1010
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_44",
+      "hideOnMap": true,
+      "showLevel": 1,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Never",
+      "forbidSimpleUnlock": true,
+      "tranPos": {
+        "x": 1664.73633,
+        "y": 225.476379,
+        "z": -42.2300224
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 36.88484,
+        "z": 0.0
+      }
+    },
+    "126": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 1698.26062,
+        "y": 232.771423,
+        "z": 25.28067
+      },
+      "rot": {
+        "x": 1.30931568,
+        "y": 337.0763,
+        "z": 352.1247
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 125
+    },
+    "127": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -506.9555,
+        "y": 229.046844,
+        "z": 372.794159
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 255.707932,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -502.4061,
+        "y": 228.414871,
+        "z": 366.711517
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 169.780151,
+        "z": 0.0
+      }
+    },
+    "128": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -665.2006,
+        "y": 219.542953,
+        "z": 262.695984
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 264.5382,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -662.318,
+        "y": 220.171967,
+        "z": 259.865021
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 120.188644,
+        "z": 0.0
+      }
+    },
+    "129": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70360001,
+      "pos": {
+        "x": 2548.96313,
+        "y": 214.5726,
+        "z": -1113.86609
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 277.540222,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 5.0
+      },
+      "dungeonIds": [
+        30
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_45",
+      "hideOnMap": true,
+      "showLevel": 1,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Normal",
+      "mapVisibility": "Never",
+      "forbidSimpleUnlock": true,
+      "tranPos": {
+        "x": 2550.17139,
+        "y": 214.211884,
+        "z": -1115.19727
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 36.88484,
+        "z": 0.0
+      }
+    },
+    "130": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2549.39624,
+        "y": 214.293152,
+        "z": -1114.84143
+      },
+      "rot": {
+        "x": 355.4202,
+        "y": 292.861328,
+        "z": 353.4547
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 129
+    },
+    "131": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 674.8,
+        "y": 153.5,
+        "z": 1244.9
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 221.4,
+        "z": 0.0
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [],
+      "titleTextID": "UI_DUNGEON_ENTRY_46",
+      "hideOnMap": true,
+      "showLevel": 0,
+      "dungeonRandomList": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "dungeonEntryType": "Daily",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 672.1547,
+        "y": 153.5,
+        "z": 1241.89954
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 42.4600029,
+        "z": 0.0
+      }
+    },
+    "132": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 675.425232,
+        "y": 163.7867,
+        "z": 1245.66626
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 218.22049,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 131
+    },
+    "135": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 736.148438,
+        "y": 249.591583,
+        "z": -417.149017
+      },
+      "rot": {
+        "x": 0.19281058,
+        "y": 285.454956,
+        "z": 0.142130792
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [],
+      "titleTextID": "UI_DUNGEON_ENTRY_52",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "dungeonEntryType": "Daily",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 729.6876,
+        "y": 248.93602,
+        "z": -415.8291
+      },
+      "tranRot": {
+        "x": 359.888123,
+        "y": 283.520477,
+        "z": 359.640747
+      }
+    },
+    "136": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 730.8038,
+        "y": 248.926559,
+        "z": -415.7915
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 101.310394,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 135
+    },
+    "137": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": -294.277283,
+        "y": 211.4375,
+        "z": -965.877258
+      },
+      "rot": {
+        "x": 359.760468,
+        "y": 69.08971,
+        "z": -0.000128400672
+      },
+      "areaId": 7,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [
+        5100,
+        5101,
+        5102,
+        5103,
+        5104,
+        5105
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_48",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Daily",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": -288.288177,
+        "y": 210.832718,
+        "z": -963.10614
+      },
+      "tranRot": {
+        "x": 359.888123,
+        "y": 283.520477,
+        "z": 359.640747
+      }
+    },
+    "138": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": -288.3329,
+        "y": 211.4296,
+        "z": -963.466431
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 68.51871,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 137
+    },
+    "139": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 1291.16113,
+        "y": 281.3605,
+        "z": 1430.04614
+      },
+      "rot": {
+        "x": 359.920746,
+        "y": 358.379944,
+        "z": 0.226044372
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [
+        5112,
+        5113,
+        5114
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_50",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Daily",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 1290.5343,
+        "y": 282.710052,
+        "z": 1436.6156
+      },
+      "tranRot": {
+        "x": 359.888123,
+        "y": 283.520477,
+        "z": 359.640747
+      }
+    },
+    "140": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1290.38342,
+        "y": 282.0483,
+        "z": 1435.5907
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 350.296722,
+        "z": 0.0
+      },
+      "areaId": 6,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 139
+    },
+    "147": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70120001,
+      "pos": {
+        "x": 2939.43,
+        "y": 228.957642,
+        "z": -1677.74341
+      },
+      "rot": {
+        "x": 0.239400059,
+        "y": 247.136322,
+        "z": 359.991974
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "cutsceneList": [
+        4
+      ],
+      "groupLimit": false,
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "dungeonIds": [
+        5000,
+        5001,
+        5002,
+        5003,
+        5004,
+        5005,
+        5006
+      ],
+      "titleTextID": "UI_DUNGEON_ENTRY_55",
+      "hideOnMap": false,
+      "showLevel": 0,
+      "dungeonRandomList": [],
+      "dungeonEntryType": "Daily",
+      "mapVisibility": "Normal",
+      "forbidSimpleUnlock": false,
+      "tranPos": {
+        "x": 2933.08423,
+        "y": 229.414948,
+        "z": -1680.78992
+      },
+      "tranRot": {
+        "x": 359.888123,
+        "y": 283.520477,
+        "z": 359.640747
+      }
+    },
+    "148": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 2930.70044,
+        "y": 228.987259,
+        "z": -1678.8396
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 225.037354,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "entryPointId": 147
+    },
+    "149": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110004,
+      "pos": {
+        "x": -2076.05615,
+        "y": 230.6329,
+        "z": 16783.4063
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 21.8627872,
+        "z": 0.0
+      },
+      "areaId": 999,
+      "unlocked": false,
+      "cutsceneList": [
+        3,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "groupLimit": false,
+      "npcId": 1208,
+      "maxSpringVolume": 5000.0,
+      "tranPos": {
+        "x": 72728.04,
+        "y": -61920.1953,
+        "z": 82104.46
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 95.10259,
+        "z": 0.0
+      }
+    },
+    "150": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": -495.7897,
+        "y": 210.022232,
+        "z": 340.6862
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Alchemy"
+    },
+    "151": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": -510.358978,
+        "y": 210.667038,
+        "z": 311.3525
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "SeaLampGiving"
+    },
+    "152": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 831.96,
+        "y": 475.27182,
+        "z": 1434.84741
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 199.391815,
+        "z": 0.0
+      },
+      "areaId": 6,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 837.8352,
+        "y": 475.022675,
+        "z": 1433.45508
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 18.2034283,
+        "z": 0.0
+      }
+    },
+    "153": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1562.29419,
+        "y": 227.789886,
+        "z": 1274.1051
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1564.58521,
+        "y": 227.789886,
+        "z": 1271.43152
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 137.937653,
+        "z": 0.0
+      }
+    },
+    "154": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1768.01111,
+        "y": 255.5981,
+        "z": 544.627
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 227.567459,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1761.88806,
+        "y": 256.180481,
+        "z": 557.831238
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 18.590065,
+        "z": 0.0
+      }
+    },
+    "155": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -243.875839,
+        "y": 265.5006,
+        "z": 293.441071
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 264.5382,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -247.156891,
+        "y": 264.901764,
+        "z": 295.586365
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 295.5745,
+        "z": 0.0
+      }
+    },
+    "156": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -622.479248,
+        "y": 365.849976,
+        "z": 525.9244
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 264.5382,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -629.8233,
+        "y": 365.306274,
+        "z": 508.310425
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 194.47728,
+        "z": 0.0
+      }
+    },
+    "157": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": -668.485962,
+        "y": 218.86618,
+        "z": 186.752487
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 141.546738,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Blacksmith_liyue"
+    },
+    "158": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": -646.909241,
+        "y": 223.726212,
+        "z": 209.536133
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 141.546738,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Adventurers"
+    },
+    "159": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": -669.9359,
+        "y": 219.836349,
+        "z": 228.189163
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 72.5766,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Restaurant_liyue"
+    },
+    "160": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": -597.257751,
+        "y": 226.921036,
+        "z": 333.3069
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 72.5766,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "GeneralCargo"
+    },
+    "161": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": -575.1916,
+        "y": 226.428,
+        "z": 331.1478
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 72.5766,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Souvenir_liyue"
+    },
+    "162": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 1446.83057,
+        "y": 252.189438,
+        "z": 481.620239
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 227.567459,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 1435.72937,
+        "y": 251.024643,
+        "z": 489.922638
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 301.755,
+        "z": 0.0
+      }
+    },
+    "165": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 441.1428,
+        "y": 200.32048,
+        "z": -476.981049
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 227.567459,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 442.513824,
+        "y": 200.901031,
+        "z": -473.755524
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 81.48475,
+        "z": 0.0
+      }
+    },
+    "166": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -584.7084,
+        "y": 312.427582,
+        "z": 828.8297
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 227.567459,
+        "z": 0.0
+      },
+      "areaId": 8,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -582.8073,
+        "y": 312.872253,
+        "z": 828.5042
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 23.939621,
+        "z": 0.0
+      }
+    },
+    "167": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -280.2476,
+        "y": 369.56485,
+        "z": 609.3296
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 227.567459,
+        "z": 0.0
+      },
+      "areaId": 8,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": -284.05835,
+        "y": 369.271027,
+        "z": 611.956848
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 5.67410231,
+        "z": 0.0
+      }
+    },
+    "168": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": 137.209717,
+        "y": 271.4313,
+        "z": 54.6877365
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 227.567459,
+        "z": 0.0
+      },
+      "areaId": 5,
+      "unlocked": false,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "tranPos": {
+        "x": 139.9186,
+        "y": 271.9561,
+        "z": 54.5731
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 128.364426,
+        "z": 0.0
+      }
+    },
+    "170": {
+      "type": "NORMAL",
+      "$type": "SceneBuildingPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": -652.464661,
+        "y": 219.759125,
+        "z": 267.370636
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 7,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "buildingType": "Alchemy"
+    }
+  },
+  "areas": {},
+  "forces": {
+    "1": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 1728.93066,
+        "y": 214.3,
+        "z": -1370.66724
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 8.1,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "alias": "WindField_Vertical_01",
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "2": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 1731.3,
+        "y": 265.7,
+        "z": -1361.13
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 8.1,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "alias": "WindField_Horizontal_01",
+      "gadgetId": 40200002,
+      "up": false,
+      "scale": 7.5,
+      "velocity": 10.0
+    },
+    "3": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 1752.9,
+        "y": 270.5,
+        "z": -1376.3
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 96.5,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "alias": "WindField_Horizontal_02",
+      "gadgetId": 40200002,
+      "up": false,
+      "scale": 5.1,
+      "velocity": 10.0
+    },
+    "4": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 1726.0,
+        "y": 282.0,
+        "z": -1377.3
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 235.299988,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "alias": "WindField_Horizontal_03",
+      "gadgetId": 40200002,
+      "up": false,
+      "scale": 5.1,
+      "velocity": 10.0
+    },
+    "18": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2194.83887,
+        "y": 202.40004,
+        "z": -988.509
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "19": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2278.62573,
+        "y": 202.40004,
+        "z": -1010.948
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "20": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2362.61572,
+        "y": 202.40004,
+        "z": -966.933
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "21": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2410.173,
+        "y": 202.400024,
+        "z": -889.51
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "22": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2452.31421,
+        "y": 202.400009,
+        "z": -798.0967
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "23": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2477.641,
+        "y": 202.4,
+        "z": -693.618652
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "24": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2404.99072,
+        "y": 202.399979,
+        "z": -620.095
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "25": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2306.259,
+        "y": 202.399979,
+        "z": -652.0713
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "26": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2227.19,
+        "y": 202.4,
+        "z": -710.939453
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "27": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2148.92578,
+        "y": 202.400009,
+        "z": -776.912
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 40200001,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "28": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2122.78516,
+        "y": 202.400024,
+        "z": -884.0547
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "29": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2567.71069,
+        "y": 211.905273,
+        "z": -1337.73438
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.25,
+      "velocity": 10.0
+    },
+    "30": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 1783.64124,
+        "y": 244.615067,
+        "z": -1196.591
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.25,
+      "velocity": 10.0
+    },
+    "31": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2346.92188,
+        "y": 260.849976,
+        "z": -704.2197
+      },
+      "rot": {
+        "x": 349.32,
+        "y": 180.0,
+        "z": 180.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 40200002,
+      "up": false,
+      "scale": 1.0,
+      "velocity": 20.0
+    },
+    "32": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2348.006,
+        "y": 265.1277,
+        "z": -731.0073
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 40200002,
+      "up": false,
+      "scale": 1.0,
+      "velocity": 20.0
+    },
+    "33": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2348.006,
+        "y": 264.875427,
+        "z": -756.226
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 40200002,
+      "up": false,
+      "scale": 1.0,
+      "velocity": 20.0
+    },
+    "34": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2347.642,
+        "y": 263.89978,
+        "z": -781.734
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 40200002,
+      "up": false,
+      "scale": 1.0,
+      "velocity": 20.0
+    },
+    "35": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2347.34131,
+        "y": 264.324646,
+        "z": -808.695
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 40200002,
+      "up": false,
+      "scale": 1.0,
+      "velocity": 20.0
+    },
+    "36": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 2350.0,
+        "y": 260.6,
+        "z": -847.9
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 204.9,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 40200002,
+      "up": false,
+      "scale": 1.0,
+      "velocity": 20.0
+    },
+    "37": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 1543.01379,
+        "y": 322.837769,
+        "z": -2079.96729
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 8.0
+    },
+    "38": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 1974.85352,
+        "y": 228.65802,
+        "z": -479.779419
+      },
+      "rot": {
+        "x": 355.3463,
+        "y": 5.855083,
+        "z": 44.2877541
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610102,
+      "up": true,
+      "scale": 0.8,
+      "velocity": 10.0
+    },
+    "39": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 1945.46521,
+        "y": 230.47496,
+        "z": -502.457825
+      },
+      "rot": {
+        "x": 349.4835,
+        "y": 9.098718,
+        "z": 312.328949
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610102,
+      "up": true,
+      "scale": 0.8,
+      "velocity": 10.0
+    },
+    "43": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 1484.07678,
+        "y": 244.726273,
+        "z": -1911.1001
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "44": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 1483.55786,
+        "y": 287.265564,
+        "z": -1912.104
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 70610101,
+      "up": true,
+      "scale": 1.0,
+      "velocity": 10.0
+    },
+    "47": {
+      "$type": "ConfigRiseField",
+      "pos": {
+        "x": 760.0,
+        "y": 360.0,
+        "z": 1600.0
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 15.000001,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "gadgetId": 0,
+      "box": {
+        "x": 600.0,
+        "y": 200.0,
+        "z": 600.0
+      },
+      "cdmin": 10.0,
+      "cdmax": 25.0,
+      "vmin": 3.0,
+      "vmax": 5.0,
+      "hmin": 3.0,
+      "hmax": 5.0,
+      "attenuation": 2.0,
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 240.0,
+        "centerType": "Center",
+        "width": 550.0,
+        "length": 400.0
+      }
+    }
+  },
+  "entities": {
+    "6": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2734.58765,
+        "y": 215.021118,
+        "z": 319.160645
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 20.3158569,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": true,
+      "triggerFlag": "GlobalValue",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 20.0,
+        "centerType": "Center",
+        "width": 20.0,
+        "length": 240.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 1.0,
+      "stringParam": "_IGNORE_STRONG_WIND"
+    },
+    "7": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2497.46558,
+        "y": 207.155334,
+        "z": 72.05518
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 69.55109,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": true,
+      "triggerFlag": "GlobalValue",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 20.0,
+        "centerType": "Center",
+        "width": 15.0,
+        "length": 240.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 1.0,
+      "stringParam": "_IGNORE_STRONG_WIND"
+    },
+    "8": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2606.74634,
+        "y": 193.816055,
+        "z": 393.570557
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 66.15045,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": true,
+      "triggerFlag": "GlobalValue",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 20.0,
+        "centerType": "Center",
+        "width": 80.0,
+        "length": 280.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 1.0,
+      "stringParam": "_IGNORE_STRONG_WIND"
+    },
+    "9": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2803.46973,
+        "y": 207.566086,
+        "z": 97.72485
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 5.69833,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": true,
+      "triggerFlag": "GlobalValue",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 20.0,
+        "centerType": "Center",
+        "width": 30.0,
+        "length": 70.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 1.0,
+      "stringParam": "_IGNORE_STRONG_WIND"
+    },
+    "10": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2492.1792,
+        "y": 206.44371,
+        "z": 182.1543
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 5.69833,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": true,
+      "triggerFlag": "GlobalValue",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 20.0,
+        "centerType": "Center",
+        "width": 20.0,
+        "length": 20.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 1.0,
+      "stringParam": "_IGNORE_STRONG_WIND"
+    },
+    "11": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2521.55713,
+        "y": 215.926819,
+        "z": 259.5298
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 320.5526,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": true,
+      "triggerFlag": "GlobalValue",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 20.0,
+        "centerType": "Center",
+        "width": 20.0,
+        "length": 60.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 1.0,
+      "stringParam": "_IGNORE_STRONG_WIND"
+    },
+    "12": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2631.00513,
+        "y": 206.825119,
+        "z": 302.83252
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 304.466553,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": true,
+      "triggerFlag": "GlobalValue",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 20.0,
+        "centerType": "Center",
+        "width": 20.0,
+        "length": 50.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 1.0,
+      "stringParam": "_IGNORE_STRONG_WIND"
+    },
+    "13": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2651.0,
+        "y": 221.0,
+        "z": 133.0
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 500.0,
+      "withGO": true,
+      "triggerFlag": "Teleport",
+      "shape": {
+        "$type": "ConfigShapeCircle",
+        "useHeight": true,
+        "height": 60.0,
+        "heightType": "Center",
+        "radius": 38.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 2649.2,
+        "y": 262.6,
+        "z": 172.5
+      },
+      "floatParam": 180.0
+    },
+    "15": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2405.4834,
+        "y": 283.9447,
+        "z": -1713.97119
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 336.3307,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": false,
+      "triggerFlag": "ReturnRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 10.0,
+        "centerType": "Center",
+        "width": 12.0,
+        "length": 20.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 5.0,
+      "stringParam": "1033003 "
+    },
+    "16": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2405.6333,
+        "y": 284.109131,
+        "z": -1757.948
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 22.0503483,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": false,
+      "triggerFlag": "ReturnRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 10.0,
+        "centerType": "Center",
+        "width": 12.0,
+        "length": 20.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 5.0,
+      "stringParam": "1033003 "
+    },
+    "17": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 2374.41528,
+        "y": 283.99527,
+        "z": -1679.36792
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 22.0503483,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": false,
+      "triggerFlag": "ReturnRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 10.0,
+        "centerType": "Center",
+        "width": 12.0,
+        "length": 20.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 5.0,
+      "stringParam": "1033003 "
+    }
+  },
+  "doors": {}
+}

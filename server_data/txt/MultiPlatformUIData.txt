@@ -1,0 +1,39 @@
+{
+  "multiPlatform" : {
+	"iPhoneX": {
+		"baseCanvansAction": {
+			"paths": [ "Pages", "Dialogs", "SpecialDialogs", "SuspendBars" ],
+			"indent": 60,
+			"top": 0.0001,
+			"bottom": 0.0001
+		},
+
+		"contextActions": {
+		}
+	},
+
+	"PC": {
+		"baseCanvansAction": {
+			"paths": [ "Pages", "Dialogs", "SpecialDialogs", "SuspendBars" ],
+			"indent": 0.0001,
+			"top": 0.0001,
+			"bottom": 0.0001
+		},
+
+		"contextActions": {
+		}
+	},
+
+    "PS4": {      
+      "baseCanvansAction": {
+        "paths": [ "Pages", "Dialogs", "SpecialDialogs", "SuspendBars" ],
+        "indent": 68,
+        "top": 32,
+        "bottom": 32
+      },
+
+      "contextActions": {
+      }
+    }
+  }
+}

@@ -1,0 +1,196 @@
+ID	类型	LevelEntityConfig	entity排序	指定角色列表	指定角色上限	$#VersionBegin	$#VersionEnd
+1001	2						
+1002	1						
+1003	1						
+1004	3						
+1005	3	Level_Sneak		10000005,10000007	1		
+1006	2						
+1008	3						
+1009	3						
+1011	2						
+1013	3	Level_Sneak		10000005,10000007	1		
+1015	2	Level_Sneak		10000005,10000007	1		
+1016	2						
+1017	2						
+1018	3						
+1019	2						
+1023	3						
+1024	2						
+1030	1	Level_Sneak			1		
+1031	2						
+1	1	Level_BigWorld					
+2	1	Level_BigWorld					
+3	1	Level_BigWorld					
+20000	2						
+20005	2						
+20006	2						
+20007	2						
+20008	2						
+20009	2						
+20010	2						
+20011	2						
+20012	2						
+20013	2						
+20014	2						
+20015	2						
+20016	2						
+20017	2	Level_Dvalin_S01	1	10000005,10000007	1		
+20018	2	Level_Dvalin_S04	1				
+20019	2						
+20020	2	Level_Dvalin_S00	1	10000005,10000007	1		
+20022	2						
+20023	2						
+20024	2						
+20025	2	Level_Dvalin_S04_Recycle	1				
+20026	2						
+20027	2						
+20031	2						
+30001	2						
+30100	2						
+30101	2						
+30102	2						
+30103	2						
+30104	2						
+30200	2						
+30201	2						
+30202	2						
+30203	2						
+30204	2						
+30300	2						
+30301	2						
+30302	2						
+30303	2						
+30304	2						
+30400	2						
+30401	2						
+30402	2						
+30403	2						
+30404	2						
+30500	2						
+30501	2						
+30502	2						
+30503	2						
+30504	2						
+30600	2						
+30601	2						
+30602	2						
+30603	2						
+30604	2						
+30700	2						
+30701	2						
+30702	2						
+30703	2						
+30704	2						
+30800	2						
+30801	2						
+30802	2						
+30803	2						
+30804	2						
+30900	2						
+30901	2						
+30902	2						
+30903	2						
+30904	2						
+31000	2						
+31001	2						
+31002	2						
+31003	2						
+31004	2						
+31100	2						
+31101	2						
+31102	2						
+31103	2						
+31104	2						
+31200	2						
+31201	2						
+31202	2						
+31203	2						
+31204	2						
+40001	2						
+40002	2						
+40003	2						
+40004	2						
+40005	2						
+40006	2						
+40007	2						
+40008	2						
+40009	2						
+40010	2						
+40012	2						
+40013	2						
+40014	2						
+40100	2	TestLevel_Element_Evn_Fire					
+40101	2	TestLevel_Element_Evn_Fire					
+40102	2	TestLevel_Element_Evn_Fire					
+40103	2	TestLevel_Element_Evn_Fire					
+40200	2	TestLevel_Element_Evn_Ice					
+40201	2	TestLevel_Element_Evn_Ice					
+40202	2	TestLevel_Element_Evn_Ice					
+40203	2	TestLevel_Element_Evn_Ice					
+40300	2	TestLevel_Element_Evn_Water					
+40301	2	TestLevel_Element_Evn_Water					
+40302	2	TestLevel_Element_Evn_Water					
+40303	2	TestLevel_Element_Evn_Water					
+40400	2	TestLevel_Element_Evn_Electric					
+40401	2	TestLevel_Element_Evn_Electric					
+40402	2	TestLevel_Element_Evn_Electric					
+40403	2	TestLevel_Element_Evn_Electric					
+40404	2	TestLevel_Element_Evn_Electric					
+40405	2	TestLevel_Element_Evn_Electric					
+40406	2	TestLevel_Element_Evn_Electric					
+40407	2	TestLevel_Element_Evn_Electric					
+40500	2						
+40501	2						
+40502	2	Level_Melt_Test					
+40503	2	Level_Explode_Test					
+40504	2						
+40505	2	Level_Melt_Test					
+40506	2						
+40507	2						
+40508	2	Level_Melt_Test					
+40509	2	Level_Swril_Test					
+40510	2	Level_Freeze_Test					
+40511	2	Level_Melt_Test					
+40512	2						
+40513	2	Level_Melt_Test					
+40600	2	Level_Superconductor_Test					
+40601	2						
+40602	2	Level_Superconductor_Test					
+40603	2	Level_Freeze_Test					
+40604	2	Level_Explode_Test					
+40605	2	Level_Electric_Test					
+40606	2						
+40607	2	Level_Stream_Test					
+40608	2	Level_Melt_Test					
+40609	2						
+40610	2						
+40611	2	Level_Melt_Test					
+40612	2	Level_Swril_Test					
+40613	2						
+40614	2						
+40615	2						
+40616	2						
+40700	2	TestLevel_Element_Evn_Rock					
+40701	2	TestLevel_Element_Evn_Rock					
+40702	2	TestLevel_Element_Evn_Rock					
+40703	2	TestLevel_Element_Evn_Rock					
+50000	3						
+50002	2	TestLevel_Cold					
+50003	2						
+50004	2						
+50005	2						
+50006	2						
+50007	2	Level_ClimbTest1					
+50008	2						
+50009	2						
+50010	2						
+50011	2	Level_Explode_Test					
+50012	2	Level_Swril_Test					
+50013	2	Level_Melt_Test					
+50014	2						
+50015	2						
+50016	2						
+50017	2						
+50018	2						
+50019	2	TestLevel_Element_Evn_Rock					
+50020	2						

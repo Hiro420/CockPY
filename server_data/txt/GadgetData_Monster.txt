@@ -1,0 +1,256 @@
+ID	默认阵营	类型	JSON名称	能否移动	是否有音响	是否能装备	能否交互	视距等级	服务器脚本	ItemJSON名称	$#VersionBegin	$#VersionEnd
+42001001	4001	19	Slime_IceCone_AimPoint							Default_Item		
+42001002	4001	3	Slime_RockThrow	1						Default_Item		
+42001003	4001	3	Slime_Bubble	1						Default_Item		
+42001004	4001	3	Slime_IceCone	1						Default_Item		
+42001005	4001	19	Slime_IceFog							Default_Item		
+42001006	4001	3	Slime_Current	1						Default_Item		
+42001007	4001	3	Slime_AirAtk	1						Default_Item		
+42001010	4001	19	Slime_WindZone_02							Default_Item		
+42001011	4001	19	Slime_WindZone_03							Default_Item		
+42001012	4001	3	Slime_Seed	1						Default_Item		
+42001013	4001	3	Slime_SeedAtk	1						Default_Item		
+42001014	4001	19	Slime_SeedGrow							Default_Item		
+42001015	4001	3	Slime_SeedFloat	1						Default_Item		
+42001016	1001	23	Slime_Airflow							Default_Item		
+42001017	4001	19	Slime_FireTrail							Default_Item		
+42001018	4001	19	Slime_SelfExplosion_01							Default_Item		
+42001019	4001	19	Slime_SelfExplosion_02							Default_Item		
+42001020	4001	19	Slime_SelfExplosion_03							Default_Item		
+42001021	4001	3	Slime_Bubble_Bounce	1						Default_Item		
+42001022	4001	3	Slime_Bubble_Float	1						Default_Item		
+42001023	4001	3	Slime_FindHome_FireBall	1						Default_Item		
+42001024	4001	3	Slime_Bubble_Missile	1						Default_Item		
+42001025	4001	19	Slime_FireBall_RigidBody	1						Default_Item		
+42002001	4001	19	Elemental_AirflowField							Default_Item		
+42002002	4001	19	Elemental_EarthWrath							Default_Item		
+42002003	1001	23	Elemental_Airflow							Default_Item		
+42002101	4001	19	Elemental_ElectircRebornPart							Default_Item		
+42003001	4001	3	Cicin_ElectricBall	1						Default_Item		
+42003002	4001	19	Cicin_BlinkPoint							Default_Item		
+42003003	4001	3	Cicin_ThunderEnergy	1						Default_Item		
+42003004	4001	3	Cicin_WaterBall	1						Default_Item		
+42004001	4001	3	Effigy_ElectricBarrage	1						Default_Item		
+42004002	4001	3	Effigy_ElectricBullet	1						Default_Item		
+42004003	4001	19	Effigy_ElectricBarrageEmitter							Default_Item		
+42004004	4001	19	Effigy_ElectricDefenceCentre							Default_Item		
+42004005	4001	19	Effigy_ElectricDefencePart							Default_Item		
+42004006	4001	19	Effigy_InitialPos							Default_Item		
+42004007	4001	19	Effigy_DefencePartCurrent							Default_Item		
+42004008	4001	19	Effigy_ThunderDrop							Default_Item		
+42004009	4001	19	Effigy_AreaAtkLaser							Default_Item		
+42004010	4001	19	Effigy_RebornPart							Default_Item		
+42004011	4001	3	Effigy_CreateRebornPart	1						Default_Item		
+42004012	4001	19	Effigy_RushPos							Default_Item		
+42004101	4001	3	Effigy_WindFall	1						Default_Item		
+42004102	4001	19	Effigy_WindFallPosition							Default_Item		
+42004103	1001	23	Effigy_AirFlow							Default_Item		
+42004104	4001	19	Effigy_TornadoEmitter							Default_Item		
+42004105	4001	3	Effigy_StaticElementBall_Wind							Default_Item		
+42004106	4001	3	Effigy_StaticElementBall_Fire							Default_Item		
+42004107	4001	3	Effigy_StaticElementBall_Electric							Default_Item		
+42004108	4001	3	Effigy_StaticElementBall_Water							Default_Item		
+42004109	4001	3	Effigy_StaticElementBall_Ice							Default_Item		
+42004110	4001	3	Effigy_ElementBall_Wind	1						Default_Item		
+42004111	4001	3	Effigy_ElementBall_Fire	1						Default_Item		
+42004112	4001	3	Effigy_ElementBall_Electric	1						Default_Item		
+42004113	4001	3	Effigy_ElementBall_Water	1						Default_Item		
+42004114	4001	3	Effigy_ElementBall_Ice	1						Default_Item		
+42004115	4001	19	Effigy_AirGunCentre							Default_Item		
+42004116	4001	3	Effigy_EffectAirGun	1						Default_Item		
+42004117	4001	3	Effigy_AirGun	1						Default_Item		
+42004118	4001	3	Effigy_Tornado	1						Default_Item		
+42004119	4001	3	Effigy_ElementBall_Wind_Reborn	1						Default_Item		
+42004120	4001	19	Effigy_AirFlow_Reborn							Default_Item		
+42004121	4001	3	Effigy_StaticElementBall_Wind_Reborn							Default_Item		
+42004122	4001	3	Effigy_WindBlade	1						Default_Item		
+42004123	4001	19	Effigy_WindBladePos							Default_Item		
+42004124	4001	3	Effigy_AirBlade	1						Default_Item		
+42004125	4001	19	Effigy_EnergyAbsorbPos							Default_Item		
+42004201	4001	19	Effigy_StonePillar							Default_Item		
+42004202	4001	19	Effigy_RockHeart							Default_Item		
+42004203	4001	3	Effigy_StoneBall	1						Default_Item		
+42004204	4001	3	Effigy_RockFall	1						Default_Item		
+42004205	1001	19	Effigy_RockShield							Default_Item		
+42004206	4001	3	Effigy_Spike	1						Default_Item		
+42004207	4001	19	Effigy_SpikeDamage							Default_Item		
+42004208	4001	3	Effigy_ChargeAtkWave	1						Default_Item		
+42004209	4001	3	Effigy_EffectStoneBall	1						Default_Item		
+42004210	4001	3	Effigy_RockLaser	1						Default_Item		
+42004211	4001	19	Effigy_RockFallZone							Default_Item		
+42004212	4001	19	Effigy_RebornPillar							Default_Item		
+42101001	4001	19	Test_ThrowClub	1						Default_Item		
+42101002	4001	3	PlantThorns	1						Default_Item		
+42101003	4001	3	Hili_Fire_Arrow	1	1					Default_Item		
+42101004	4001	19	Test_ThrowClubFire	1						Default_Item		
+42101005	4001	19	PlantGrasping							Default_Item		
+42101006	4001	3	Test_Monster_Arrow	1	1					Default_Item		
+42101007	4001	3	Slime_FireBall	1	1					Default_Item		
+42101008	4001	19	PlantGrasping_Field							Default_Item		
+42101009	4001	3	Hili_PebbleBullet	1						Default_Item		
+42101010	4001	3	Hili_Ice_Arrow	1	1					Default_Item		
+42101011	4001	3	Hili_Electric_Arrow	1	1					Default_Item		
+42101012	4001	3	Hili_Fire_SlimeThrow			1				Default_Item		
+42101013	4001	19	Gadget_WoodenClub_01							Default_Item		
+42101014	4001	19	Gadget_Shield_01							Default_Item		
+42101015	4001	19	Gadget_Crossbow_01							Default_Item		
+42101016	4001	19	Gadget_Shield_02							Default_Item		
+42101017	4001	19	Gadget_Axe_01							Default_Item		
+42101018	4001	19	Hili_MultiRange_Target							Default_Item		
+42102001	4001	3	Brute_Axe_FireWave01	1						Default_Item		
+42102002	4001	3	Brute_Axe_FireWave02	1						Default_Item		
+42102003	4001	3	Brute_Axe_FireSlime_Fire	1	1					Default_Item		
+42102004	4001	3	Brute_Axe_FireSlime_None	1	1					Default_Item		
+42102005	4001	3	Brute_Shield_GrassSlime	1	1					Default_Item		
+42102006	4001	3	Brute_Shield_RockSlime	1	1					Default_Item		
+42103002	4001	18	Shaman_HealRain_Field							Default_Item		
+42103003	4001	19	Shaman_GrassField							Default_Item		
+42103004	4001	19	Shaman_GrassWall							Default_Item		
+42103005	4001	3	Shaman_Tornado	1						Default_Item		
+42103006	4001	19	Shaman_Tornado_Position	1						Default_Item		
+42103007	4001	19	Shaman_Torrent_Area							Default_Item		
+42103009	4001	19	Shaman_WindZone_Position	1						Default_Item		
+42103011	4001	19	Shaman_RockPillar							Default_Item		
+42201001	4001	3	Abyss_WaterBall	1						Default_Item		
+42201002	4001	3	Abyss_Bubble_Missile	1						Default_Item		
+42201003	4001	19	Abyss_FireEnergy_Surround							Default_Item		
+42201004	4001	3	Abyss_WaterBall_Gather	1						Default_Item		
+42201005	4001	3	Abyss_Bubble_Gather	1						Default_Item		
+42201006	4001	3	Abyss_Cyclone	1						Default_Item		
+42201007	4001	19	Abyss_Impulse							Default_Item		
+42201008	4001	18	Abyss_ImpulseArea							Default_Item		
+42201009	4001	3	Abyss_IceCone_01	1						Default_Item		
+42201010	4001	3	Abyss_IceCone_03	1						Default_Item		
+42201011	4001	19	Abyss_IceCone_Area							Default_Item		
+42201013	4001	3	Abyss_IceCone_Gather_02	1						Default_Item		
+42201015	4001	3	Abyss_IceCone_Gather_04	1						Default_Item		
+42201016	4001	3	Abyss_Bubble_Still							Default_Item		
+42201017	4001	19	Abyss_IceCone_IceFog							Default_Item		
+42303001	4001	19	Fatuus_Summoner_ElectricField							Default_Item		
+42303002	4001	19	Fatuus_Fire_01_Stage1Mirror		1					Default_Item		
+42303003	4001	19	Fatuus_Summoner_LifeSkill							Default_Item		
+42303004	4001	3	Fatuus_Fire_01_EchoBullet	1						Default_Item		
+42303005	4001	3	Fatuus_Fire_01_FollowHitBox1	1						Default_Item		
+42303006	4001	3	Fatuus_Fire_01_FollowHitBox2	1						Default_Item		
+42303007	4001	3	Fatuus_Fire_01_MirrorBullet	1						Default_Item		
+42303008	4001	19	Fatuus_Fire_01_Stage2MidGadget							Default_Item		
+42303009	4001	19	Fatuus_Fire_01_Stage2DestGadget							Default_Item		
+42303010	4001	3	Fatuus_Fire_01_Stage2TriggerBullet	1						Default_Item		
+42303011	4001	19	Fatuus_Fire_01_Stage2Mirror		1					Default_Item		
+42303012	4001	3	Fatuus_Fire_01_Surrounding	1						Default_Item		
+42304001	4001	3	Defender_Laser	1	1					Default_Item		
+42304002	1001	23	Defender_AirflowField	1						Default_Item		
+42304003	1001	23	Formathr_None_WindEffect	1						Default_Item		
+42304004	4001	3	Formathr_None_ChaseBullet_01	1						Default_Item		
+42304005	4001	3	Formathr_None_ChaseBullet_02	1						Default_Item		
+42304006	4001	3	Formathr_None_Laser	1						Default_Item		
+42304007	4001	3	Formathr_None_ClusterBulletToAir	1						Default_Item		
+42304008	4001	3	Formathr_None_FollowHitBox1	1						Default_Item		
+42304009	4001	3	Formathr_None_FollowHitBox2	1						Default_Item		
+42304010	4001	3	Formathr_None_FollowHitBox3	1						Default_Item		
+42304011	4001	3	Formathr_None_ClusterBulletToGround	1						Default_Item		
+42304012	4001	3	Formathr_None_DiveBullet	1						Default_Item		
+42304013	4001	19	Formathr_None_LaserCenter							Default_Item		
+42304014	4001	3	Defender_None_ChaseTarget	1						Default_Item		
+42304015	4001	3	Defender_None_ChaseBullet	1						Default_Item		
+42304016	4001	3	Formathr_None_NormalBullet	1						Default_Item		
+42501001	4001	3	Thoarder_ThrowingKnife	1						Default_Item		
+42501002	4001	3	Thoarder_Bomb	1						Default_Item		
+42501003	4001	3	Thoarder_MolotovCocktail	1						Default_Item		
+42503001	4001	3	Thoarder_Shovel_MuddyBullet	1						Default_Item		
+42504001	4001	3	Thoarder_HatchetThrow	1						Default_Item		
+42802001	4001	3	Boar_RushAtk	1						Default_Item		
+42901001	1001	19	Dvalin_Trigger01	1						Default_Item		
+42901002	1001	19	Dvalin_AirFlowGlobal01	1				3		Default_Item		
+42901003	1001	19	Dvalin_WindRing01	1				3		Default_Item		
+42901004	1001	19	Dvalin_S01_Bullet01	1				3		Default_Item		
+42901005	1001	19	Dvalin_S01_Bullet01_Launcher	1				3		Default_Item		
+42901006	1001	19	Dvalin_S01_Bullet02_Launcher	1				3		Default_Item		
+42901008	1001	19	Dvalin_S01_Moving_Center	1				3		Default_Item		
+42901009	1001	19	Dvalin_S04_WindField01					3		Default_Item		
+42901010	1001	19	Dvalin_S04_WindField02					3		Default_Item		
+42901011	1001	19	Dvalin_S04_WindField03					3		Default_Item		
+42901012	4001	3	Dvalin_S02_AirGun	1	1			3		Default_Item		
+42901021	4001	19	Dvalin_S04_Platform01					3		Default_Item		
+42901022	4001	19	Dvalin_S04_Platform01					3		Default_Item		
+42901023	4001	19	Dvalin_S04_Platform01					3		Default_Item		
+42901024	4001	19	Dvalin_S04_Platform01					3		Default_Item		
+42901025	4001	19	Dvalin_S04_Platform01					3		Default_Item		
+42901026	4001	19	Dvalin_S04_Platform01					3		Default_Item		
+42901027	4001	19	Dvalin_S04_Platform01					3		Default_Item		
+42901028	4001	19	Dvalin_S04_Platform01					3		Default_Item		
+42901029	4001	19	Dvalin_S04_Platform01					3		Default_Item		
+42901041	4001	19	Dvalin_S04_AbyssTrigger					3		Default_Item		
+42901042	4001	19	Dvalin_S01_WindSlime	1				3		Default_Item		
+42901043	4001	19	Dvalin_S01_FireAbyss	1	1			3		Default_Item		
+42901044	4001	19	Dvalin_S01_FireAbyss_Cyclone	1				3		Default_Item		
+42901045	4001	19	Dvalin_S01_FireAbyss_Totem					3		Default_Item		
+42901046	4001	19	Dvalin_S01_Missile_01	1				3		Default_Item		
+42901047	4001	19	Dvalin_S01_Missile_02	1				3		Default_Item		
+42901048	4001	19	Dvalin_S01_ChargeDummy	1				3		Default_Item		
+42901049	4001	19	Dvalin_S01_FireAbyss_Fan	1				3		Default_Item		
+42901050	4001	3	Dvalin_S01_ElementBall_Wind	1				3		Default_Item		
+42901051	4001	19	Dvalin_S01_FireAbyss_Totem	1				3		Default_Item		
+42901052	4001	3	Dvalin_S01_FireAbyss_TotemLaser	1				3		Default_Item		
+42901053	4001	3	Dvalin_S01_EnergyBullet	1				3		Default_Item		
+42901054	4001	3	Dvalin_S01_TrackBullet	1				3		Default_Item		
+42901055	4001	3	Dvalin_S01_WindRingEmitter	1				3		Default_Item		
+42901056	4001	3	Dvalin_S01_WindRing	1				3		Default_Item		
+42901057	4001	3	Dvalin_S01_EnergyBullet_Process	1				3		Default_Item		
+42901058	4001	3	Dvalin_S01_TrackBullet_Process	1				3		Default_Item		
+42901059	4001	19	Dvalin_S01_BulletEmitter					3		Default_Item		
+42901060	4001	19	Dvalin_S01_BulletEmitter_Process					3		Default_Item		
+42901061	4001	19	Dvalin_S04_StarFall_Launcher					3		Default_Item		
+42901062	4001	3	Dvalin_S04_StarFall_Bullet	1				3		Default_Item		
+42901063	4001	3	Dvalin_S04_Breathe_Bullet	1				3		Default_Item		
+42901064	4001	3	Dvalin_S04_TwistedWind_Bullet	1				3		Default_Item		
+42901065	4001	19	Dvalin_S04_StarFall_Platform1					3		Default_Item		
+42901066	4001	19	Dvalin_S04_Hurricane_Bullet	1				3		Default_Item		
+42901067	4001	19	Dvalin_S04_GadgetController					3		Default_Item		
+42901068	1001	19	Dvalin_S04_Camera_Center	1				3		Default_Item		
+42901069	1001	19	Dvalin_S04_ClimbCollider					3		Default_Item		
+42901070	4001	19	Dvalin_S04_AirFlowController					3		Default_Item		
+42901071	1001	19	Dvalin_S04_AirFlow		1			3		Default_Item		
+42901072	1001	19	Dvalin_S04_Roar_Comparer1					3		Default_Item		
+42901073	1001	19	Dvalin_S04_Roar_Comparer2					3		Default_Item		
+42901074	1001	19	Dvalin_S04_Roar_Comparer3					3		Default_Item		
+42901075	4001	19	Dvalin_S04_DeadZone1					3		Default_Item		
+42901076	4001	19	Dvalin_S04_DeadZone2					3		Default_Item		
+42901077	4001	19	Dvalin_S04_DeadZone3					3		Default_Item		
+42901078	4001	19	Dvalin_S04_DeathCannonZone					3		Default_Item		
+42901079	4001	19	Dvalin_S01_EnergyBarrageLauncher					3		Default_Item		
+42901080	4001	19	Dvalin_S01_TrackBarrageLauncher					3		Default_Item		
+42901081	4001	19	Dvalin_S01_WindRingLauncher					3		Default_Item		
+42901082	4001	19	Dvalin_S01_EnergyBarrageLauncher_Process					3		Default_Item		
+42901083	4001	19	Dvalin_S01_TrackBarrageLauncher_Process					3		Default_Item		
+42901084	4001	19	Dvalin_S04_StarFall_Platform2					3		Default_Item		
+42901085	4001	3	Dvalin_S04_DeathCannon_Bullet	1				3		Default_Item		
+42901086	5001	19	Dvalin_S04_WindSeed					3		Default_Item		
+42901087	4001	19	Dvalin_S04_LockDummy	1				3		Default_Item		
+42902001	4001	19	LupiBoreas_BattleArea							Default_Item		
+42902002	4001	19	LupiBoreas_DieAnchor					1		Default_Item		
+42902003	4001	19	LupiBoreas_BornAnchor					1		Default_Item		
+42902004	4001	19	LupiBoreas_TotemAnchor					1		Default_Item		
+42902005	4001	19	LupiBoreas_CenterAnchor					1		Default_Item		
+42902006	4001	19	LupiBoreas_ShakeAnchor					1		Default_Item		
+42902007	4001	19	LupiBoreas_BornCameraAnchor					1		Default_Item		
+42902008	4001	19	LupiBoreas_TransformCameraAnchor					1		Default_Item		
+42902011	4001	19	LupiBoreas_IceGadgetArea_01					1		Default_Item		
+42902012	4001	19	LupiBoreas_IceGadgetArea_02					1		Default_Item		
+42902013	4001	19	LupiBoreas_IceGadgetArea_03					1		Default_Item		
+42902014	4001	19	LupiBoreas_IceGadgetArea_04					1		Default_Item		
+42902015	4001	19	LupiBoreas_IceGadgetArea_05					1		Default_Item		
+42902016	4001	19	LupiBoreas_IceGadgetArea_06					1		Default_Item		
+42902017	4001	19	LupiBoreas_IceConeMissile							Default_Item		
+42902018	4001	19	LupiBoreas_IceGadget					1		Default_Item		
+42902021	4001	3	LupiBoreas_SprintAtk	1						Default_Item		
+42902022	4001	19	LupiBoreas_DriftAtk							Default_Item		
+42902023	4001	3	LupiBoreas_SprintAtk_Scene	1						Default_Item		
+42902024	4001	19	LupiBoreas_JumpAtk							Default_Item		
+42902031	4001	3	LupiBoreas_StampAtk_Ice	1						Default_Item		
+42902032	4001	3	LupiBoreas_StampAtk_Frozen	1						Default_Item		
+42902033	4001	3	LupiBoreas_StampAtk_Wind	1						Default_Item		
+42902034	4001	3	LupiBoreas_FlapAtk_Ice	1						Default_Item		
+42902035	4001	19	LupiBoreas_FlapAtk_IceStay					1		Default_Item		
+42902041	4001	3	LupiBoreas_WolfSoul_Bullet	1						Default_Item		
+42902042	4001	3	LupiBoreas_ReturnToBorn_Bullet	1				1		Default_Item		

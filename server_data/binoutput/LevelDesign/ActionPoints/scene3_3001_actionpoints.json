@@ -1,0 +1,837 @@
+{
+  "sceneId": 3,
+  "actionPoints": [
+    {
+      "localId": 300100001,
+      "type": "SleepPoint",
+      "pos": {
+        "x": 1255.82629,
+        "y": 261.541321,
+        "z": -1508.79993
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100002,
+      "type": "SleepPoint",
+      "pos": {
+        "x": 1227.48242,
+        "y": 261.541321,
+        "z": -1489.8501
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100003,
+      "type": "SleepPoint",
+      "pos": {
+        "x": 1250.92017,
+        "y": 261.541321,
+        "z": -1445.67017
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100004,
+      "type": "SleepPoint",
+      "pos": {
+        "x": 1279.9425,
+        "y": 261.541321,
+        "z": -1480.23413
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100005,
+      "type": "SleepPoint",
+      "pos": {
+        "x": 1209.17676,
+        "y": 257.6004,
+        "z": -1530.94336
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100006,
+      "type": "SleepPoint",
+      "pos": {
+        "x": 1260.43323,
+        "y": 257.169128,
+        "z": -1420.1228
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100007,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1858.08765,
+        "y": 196.06,
+        "z": -1172.35
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100008,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1856.34351,
+        "y": 197.0327,
+        "z": -1167.38318
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100009,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1854.43018,
+        "y": 197.60202,
+        "z": -1164.56067
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100010,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1851.105,
+        "y": 197.010117,
+        "z": -1165.31372
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100011,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1827.06726,
+        "y": 204.8297,
+        "z": -1215.79724
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100012,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1825.74146,
+        "y": 205.664215,
+        "z": -1221.30151
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100013,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1915.40332,
+        "y": 195.44339,
+        "z": -1207.74841
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100014,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1913.50171,
+        "y": 195.282288,
+        "z": -1201.89783
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100015,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 2035.92639,
+        "y": 198.91951,
+        "z": -1210.58643
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100016,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 2036.78137,
+        "y": 199.010483,
+        "z": -1212.79431
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100017,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1885.74841,
+        "y": 223.130951,
+        "z": -1096.37793
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100018,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1881.6731,
+        "y": 223.576843,
+        "z": -1100.409
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100019,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1991.23413,
+        "y": 216.848434,
+        "z": -1101.50415
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100020,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1993.883,
+        "y": 216.567886,
+        "z": -1100.37207
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100021,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1878.649,
+        "y": 195.7307,
+        "z": -1388.147
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100022,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1903.61743,
+        "y": 195.624664,
+        "z": -1333.2146
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100023,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1905.28467,
+        "y": 195.728958,
+        "z": -1336.72522
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100024,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1777.85193,
+        "y": 198.1296,
+        "z": -1442.76
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100025,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1783.04346,
+        "y": 198.156784,
+        "z": -1444.34485
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100026,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1827.35107,
+        "y": 194.761887,
+        "z": -1537.85962
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100027,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1834.38586,
+        "y": 194.6,
+        "z": -1545.2572
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100028,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1827.90112,
+        "y": 194.6,
+        "z": -1546.91113
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100029,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1737.1593,
+        "y": 196.5994,
+        "z": -1484.02136
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100030,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1735.04834,
+        "y": 196.811,
+        "z": -1479.76257
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100031,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1718.08923,
+        "y": 199.5292,
+        "z": -1541.5343
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100032,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1725.17249,
+        "y": 197.680023,
+        "z": -1595.68738
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100033,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1726.11182,
+        "y": 198.1247,
+        "z": -1598.57007
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100034,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1729.03223,
+        "y": 196.143082,
+        "z": -1589.67578
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100035,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1807.05176,
+        "y": 194.6,
+        "z": -1562.014
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100036,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1808.55786,
+        "y": 194.6,
+        "z": -1564.73035
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100037,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1814.52307,
+        "y": 195.033676,
+        "z": -1417.03979
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100038,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1807.78247,
+        "y": 194.599991,
+        "z": -1415.22668
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100039,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1812.14148,
+        "y": 195.045746,
+        "z": -1410.84412
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100040,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1868.37744,
+        "y": 196.560974,
+        "z": -1394.62329
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100041,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1960.02637,
+        "y": 200.54718,
+        "z": -1376.02649
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100042,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1954.53125,
+        "y": 199.407669,
+        "z": -1376.22522
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100043,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 2026.40576,
+        "y": 221.835846,
+        "z": -1444.81079
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100044,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 2030.62939,
+        "y": 222.424225,
+        "z": -1432.735
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100045,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 2034.03821,
+        "y": 223.142471,
+        "z": -1430.66028
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100046,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1962.69641,
+        "y": 221.347885,
+        "z": -1589.91125
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100047,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1960.99207,
+        "y": 221.4529,
+        "z": -1584.51648
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100048,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 2101.43555,
+        "y": 207.848251,
+        "z": -1221.00537
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100049,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 2098.91772,
+        "y": 207.948654,
+        "z": -1218.6123
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100050,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 2123.77637,
+        "y": 204.707016,
+        "z": -1162.01587
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100051,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1367.78784,
+        "y": 234.800308,
+        "z": -1536.217
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100052,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1375.4491,
+        "y": 234.530762,
+        "z": -1535.84216
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100053,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1872.625,
+        "y": 194.716919,
+        "z": -1554.53857
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100054,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1865.96606,
+        "y": 196.153473,
+        "z": -1175.084
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100055,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1856.10864,
+        "y": 197.003113,
+        "z": -1191.78235
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100056,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1567.17761,
+        "y": 341.6709,
+        "z": -2080.701
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100057,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1567.39221,
+        "y": 341.440247,
+        "z": -2080.87158
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100058,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1515.67578,
+        "y": 352.1431,
+        "z": -2067.507
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100059,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1380.56409,
+        "y": 273.179047,
+        "z": -1695.36633
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100060,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1415.38965,
+        "y": 276.403229,
+        "z": -1738.35791
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100061,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1763.46289,
+        "y": 214.10408,
+        "z": -1374.96338
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100062,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1764.16931,
+        "y": 214.272644,
+        "z": -1377.99072
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100063,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1760.05884,
+        "y": 210.627289,
+        "z": -1372.23975
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300100064,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1759.01013,
+        "y": 207.751953,
+        "z": -1385.23938
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    }
+  ]
+}

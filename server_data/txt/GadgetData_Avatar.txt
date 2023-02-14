@@ -1,0 +1,248 @@
+ID	默认阵营	类型	JSON名称	能否移动	是否有音响	是否能装备	能否交互	视距等级	服务器脚本	ItemJSON名称	$#VersionBegin	$#VersionEnd
+40000001	9999	25	SteamBangField							Default_Item		
+40000002	1001	18	ThunderFistField							Default_Item		
+40000003	1001	3	GrassDart	1						Default_Item		
+40000004	1001	3	SharkTorpedo	1						Default_Item		
+40000005	1001	18	SharkTorpedo_Spurt	1						Default_Item		
+40000006	1001	18	SharkTorpedo_Spurt_2	1						Default_Item		
+40000007	1001	19	CreationLimit_Dummy									
+40000104	1001	3	FrostSpear	1						Default_Item		
+40000115	1001	18	IceSpine_Old							Default_Item		
+40000116	1001	18	IceSpine_Old							Default_Item		
+40000117	1001	18	IceSpine_Old							Default_Item		
+40000118	1001	3	Kevin_RockImpact	1						Default_Item		
+40000119	1001	18	ModifiedTrigger							Default_Item		
+40000120	1001	18	RockImpactTrap							Default_Item		
+40000121	1001	18	IceSpine_Strike							Default_Item		
+40000139	1001	18	NoAvatar_IceRain									
+40000140	1001	19	NoAvatar_IceTrap									
+40000148	1001	18	ClawMark_Mark	1	1					Default_Item		
+40000154	1001	18	ClawMark_Mark_Lycan	1	1					Default_Item		
+40000160	1001	3	AimingArrow_WithoutFire	1	1					Default_Item		
+40000161	1001	3	Double_ArrowAiming_WithoutFire	1	1					Default_Item		
+40000172	1001	3	Frost_Orb	1	1					Default_Item		
+40000173	1001	3	Frost_Orb_Bullet	1	1					Default_Item		
+40000174	1001	3	JumpDrug_Whitbox_01	1	1					Default_Item		
+40000175	1001	3	JumpDrug_Whitbox_02	1	1					Default_Item		
+40000176	1001	3	JumpDrug_Whitbox_03	1	1					Default_Item		
+40000177	1001	3	JumpDrug_Whitbox_04	1	1					Default_Item		
+40000178	1001	3	EmptyGadget	1	1					Default_Item		
+40000179	1001	3	AmborFlyBullet	1						Default_Item		
+40000129	1001	18	IceSpell_Wards_Trap							Default_Item		
+40010000	1001	3	Weapon_Test_Bullet	1						Default_Item		
+40010001	1001	3	Weapon_Arcane_Arrow	1						Default_Item		
+40010002	1001	3	Weapon_AttackWave	1						Default_Item		
+40010003	1001	3	Weapon_WindBall	1						Default_Item		
+40010004	1001	3	Weapon_Arcane_Bullet	1						Default_Item		
+40010005	1001	3	Weapon_BouncingBall	1						Default_Item		
+40010006	1001	3	Weapon_PiercingLight	1						Default_Item		
+40010007	1001	3	Weapon_SkySword	1						Default_Item		
+40010008	1001	3	Weapon_Bullet_Yang	1						Default_Item		
+40010009	1001	3	Weapon_Bullet_Yin	1						Default_Item		
+40020000	1001	18	Weapon_Test_Gadget							Default_Item		
+40020001	1001	18	Weapon_HealField							Default_Item		
+40020002	1001	18	Weapon_AttractField							Default_Item		
+40020003	1001	18	Weapon_Common_Gadget							Default_Item		
+40020004	1001	18	Weapon_Common_Gadget							Default_Item		
+40100001	1001	3	Test_Arrow	1	1					Default_Item		
+40100006	1001	3	Test_ArrowAiming	1	1					Default_Item		
+40100013	4001	3	Gear_ElectricBall	1						Default_Item		
+40100200	1001	19	RoomDoor				1			Default_Item		
+40100201	1001	19	RoomDoor		1		1			Default_Item		
+40200001	1001	23	SceneObj_Environment_WindField_AirflowField							Default_Item		
+40200002	1001	23								Default_Item		
+40200003	1001	24	SceneObj_Environment_WindField_SpeedupField							Default_Item		
+40200008	1001	23								Default_Item		
+40200020	1001	23	AirflowFieldBlue							Default_Item		
+40210006	5001	19	DragonNest_Tornado_WindField_Controller					1				
+40210007	5001	19	DragonNest_StrongWindSafeRegion							Default_Item		
+41002001	1001	18	FrozenWindmill	1						Default_Item		
+41002002	1001	18	IceSpine_Large							Default_Item		
+41002003	1001	18	Frozen_Butterfly_Area	1	1					Default_Item		
+41002004	1001	18	Frozen_Butterfly_Area_Material		1					Default_Item		
+41002005	1001	18	FrozenWindmill_Sub	1						Default_Item		
+41002006	1001	18	Ayaka_ExtraAttack	1	1					Default_Item		
+41002007	1001	3	Ayaka_NormalAttack_05	1	1					Default_Item		
+41002008	1001	18	Ayaka_YayoiKaeshi	1	1					Default_Item		
+41003001	1001	18	RockJack							Default_Item		
+41003002	1001	3	RockJackBullet	1						Default_Item		
+41003003	1001	18	WoodWall							Default_Item		
+41003004	1001	18	DandelionWind_1							Default_Item		
+41003005	1001	18	DandelionWind_2							Default_Item		
+41005001	1001	3	WindBreathe_Tornado	1						Default_Item		
+41005002	1001	3	Player_Wind_Arashi	1						Default_Item		
+41005003	1001	18	Hogyoku_Base							Default_Item		
+41005004	1001	18	Hogyoku_Barrier							Default_Item		
+41005005	1001	18	RockTide							Default_Item		
+41005006	1001	18	RockTide_Barrier							Default_Item		
+41005007	1001	3	PlayerBoy_ExtraAttack_Wave	1	1					Default_Item		
+41005008	1001	18	Hogyoku_Bullet	1	1					Default_Item		
+41006001	1001	18	FrozenWindmill	1						Default_Item		
+41006002	1001	3	LightningBolt	1						Default_Item		
+41006003	1001	18	LightningSpear	1						Default_Item		
+41006004	1001	18	LightningSpear_1	1						Default_Item		
+41006005	1001	18	LightningSpear_2	1						Default_Item		
+41006006	1001	18	ConductiveField							Default_Item		
+41006007	1001	18	FilckerWave	1						Default_Item		
+41006008	1001	18	StaticElecField							Default_Item		
+41006009	1001	3	FlickerWave	1						Default_Item		
+41006010	1001	18	Lisa_Attack01	1						Default_Item		
+41006011	1001	18	Lisa_Attack02	1						Default_Item		
+41006012	1001	18	Lisa_Attack03	1						Default_Item		
+41006013	1001	18	PierceLightning_Ball							Default_Item		
+41006020	1001	18	Lisa_ExtraAttack							Default_Item		
+41006027	1001	3	PierceLightning_Ball_Bullet	1						Default_Item		
+41014001	1001	18	Barbara_Attack01	1						Default_Item		
+41014002	1001	18	Barbara_Attack02	1						Default_Item		
+41014003	1001	18	Barbara_Attack03	1						Default_Item		
+41014004	1001	18	Barbara_WetShiled	1						Default_Item		
+41014005	1001	3	Eff_WetShiled	1						Default_Item		
+41014006	1001	18	Barbara_Team_WaterBall							Default_Item		
+41014007	1001	18	Barbara_Team_FirstAid							Default_Item		
+41015001	1001	3	FrozenTrap	1	1					Default_Item		
+41015002	1001	3	FrozenTrap_GW	1	1					Default_Item		
+41016001	1001	3	Diluc_FireCross	1						Default_Item		
+41021001	1001	18	ArrowRainField							Default_Item		
+41021002	1001	19	Dummy	1	1					Default_Item		
+41021003	1001	18	Dummy_Throw	1	1					Default_Item		
+41021004	1001	18	Dummy_Throw_7M	1	1					Default_Item		
+41021005	1001	18	Dummy_Throw_4M	1	1					Default_Item		
+41021006	1001	18	Dummy_Throw_Short	1	1					Default_Item		
+41021007	1001	3	Double_ArrowAiming	1	1					Default_Item		
+41021008	1001	18	Dummy_ElementBall	1	1					Default_Item		
+41021009	1001	3	Ambor_Arrow_01	1	1					Default_Item		
+41021010	1001	3	Ambor_Arrow_02	1	1					Default_Item		
+41021011	1001	3	Ambor_Arrow_03	1	1					Default_Item		
+41021012	1001	3	Ambor_Arrow_04	1	1					Default_Item		
+41021013	1001	3	Ambor_Arrow_05	1	1					Default_Item		
+41021014	1001	18	GateOfAmbor_Trigger							Default_Item		
+41021015	1001	3	GateOfAmbor_Bullet	1	1					Default_Item		
+41021016	1001	18	Ambor_Dummy_BlowUpTrigger	1	1					Default_Item		
+41022001	1001	3	Hurricane_Arrow							Default_Item		
+41022002	1001	18	Venti_WindBlade							Default_Item		
+41022003	1001	18	Venti_WindBlade_Land							Default_Item		
+41022004	1001	3	AimingArrow_Wind	1	1					Default_Item		
+41022005	1001	3	AimingArrow_WithoutWind	1	1					Default_Item		
+41022006	1001	3	Venti_Talent_AimingArrow_Wind	1	1					Default_Item		
+41022007	1001	3	Venti_Talent_AimingArrow_WithoutWind	1	1					Default_Item		
+41022008	1001	3	Venti_Arrow_01	1	1					Default_Item		
+41022009	1001	3	Venti_Arrow_02	1	1					Default_Item		
+41022010	1001	3	Venti_Arrow_03	1	1					Default_Item		
+41022011	1001	3	Venti_Arrow_04	1	1					Default_Item		
+41022012	1001	3	Venti_Arrow_05	1	1					Default_Item		
+41022013	1001	3	Venti_Arrow_06	1	1					Default_Item		
+41022014	1001	23	Venti_WindField		1					Default_Item		
+41023001	1001	3	Xiangling_ExtraAttack_Bullet	1	1					Default_Item		
+41023003	1001	18	Xiangling_Panda_Pepper	1	1					Default_Item		
+41023004	1001	18	Xiangling_FireCircle	1	1					Default_Item		
+41023011	1001	19	Xiangling_Panda	1	1					Default_Item		
+41023012		3	TalentBombGadget_EmptyGadget	1	1					Default_Item		
+41024001	1001	3	Beidou_ThunderShield	1	1					Default_Item		
+41025001	1001	3	IceVirus	1	1					Default_Item		
+41025011	1001	18	Xingqiu_PhantomShield	1	1					Default_Item		
+41025012	1001	18	SkillObj_Xingqiu_PhantomBurst1	1	1					Default_Item		
+41025013	1001	18	SkillObj_Xingqiu_PhantomBurst2	1	1					Default_Item		
+41025014	1001	18	SkillObj_Xingqiu_PhantomBurst3	1	1					Default_Item		
+41025017	1001	18	SkillObj_Xingqiu_PhantomBurstS1	1	1					Default_Item		
+41025018	1001	18	SkillObj_Xingqiu_PhantomBurstS2	1	1					Default_Item		
+41025019	1001	18	SkillObj_Xingqiu_PhantomBurstS3	1	1					Default_Item		
+41025020	1001	18	SkillObj_Xingqiu_PhantomBurstS4	1	1					Default_Item		
+41025021	1001	18	SkillObj_Xingqiu_PhantomBurstS5	1	1					Default_Item		
+41025022	1001	3	Bullet_Xingqiu_PhantomBurst1	1	1					Default_Item		
+41025023	1001	3	Bullet_Xingqiu_PhantomBurstS1	1	1					Default_Item		
+41025024	1001	3	Bullet_Xingqiu_PhantomBurst1_Shake	1	1					Default_Item		
+41025025	1001	3	Bullet_Xingqiu_PhantomBurstS1_Shake	1	1					Default_Item		
+41026001	1001	3	Xiao_DevilDash	1	1					Default_Item		
+41027000	1001	18	Ningguang_ElementArt							Default_Item		
+41027001	1001	3	Ningguang_NormalAttack	1						Default_Item		
+41027002	1001	18	ElementalBurst_ServantStone							Default_Item		
+41027003	1001	3	Ningguang_ElementalBurst_Bullet_1	1						Default_Item		
+41027004	1001	3	Ningguang_ElementalBurst_Bullet_2	1						Default_Item		
+41027005	1001	3	ElementalBurst_ServantStone_Bullet_1	1						Default_Item		
+41027006	1001	3	ElementalBurst_ServantStone_Bullet_2	1						Default_Item		
+41027007	1001	18	Ningguang_ElementalBurst_BulletTrigger							Default_Item		
+41027008	1001	3	Ningguang_ElementalBurst_Bullet_3	1						Default_Item		
+41027009	1001	3	Ningguang_ElementalBurst_Bullet_4	1						Default_Item		
+41027010	1001	3	Ningguang_ElementalBurst_Bullet_5	1						Default_Item		
+41027011	1001	3	Ningguang_ElementalBurst_Bullet_6	1						Default_Item		
+41027012	1001	3	Ningguang_NormalAttack_NoTarget	1						Default_Item		
+41027013	1001	3	Ningguang_Constellation_Attack_Up	1						Default_Item		
+41027014	1001	3	Ningguang_Constellation_Bullet_1	1						Default_Item		
+41027015	1001	3	Ningguang_Constellation_Bullet_2	1						Default_Item		
+41027016	1001	3	Ningguang_Constellation_Bullet_3	1						Default_Item		
+41027017	1001	18	Ningguang_ElementalBurst_BulletTrigger_WithOutTarget							Default_Item		
+41027018	1001	19	Ningguang_ElementalBurst_Bullet_Dummy	1	1					Default_Item		
+41027019	1001	3	Ningguang_NormalAttack_Dummy	1						Default_Item		
+41028001	1001	18	Pole_Attack							Default_Item		
+41029001	1001	3	Klee_JumpBomb_01	1	1					Default_Item		
+41029002	1001	3	Klee_JumpBomb_02	1	1					Default_Item		
+41029003	1001	3	Klee_JumpBomb_03	1	1					Default_Item		
+41029004	1001	3	JumpDrug_Whitbox_04	1	1					Default_Item		
+41029005	1001	22	FindCat_Dummy							Default_Item		
+41029006	1001	3	FindCat_Crouch_Throw	1	1					Default_Item		
+41029007	1001	19	Avatar_Klee_Mine	1	1					Default_Item		
+41029008	1001	3	Klee_Elemental_Burst_Trigger	1	1					Default_Item		
+41029009	1001	3	Klee_Elemental_Burst_Bomb	1	1					Default_Item		
+41029010	1001	3	Klee_Elemental_Burst_Funnel	1						Default_Item		
+41029011	1001	3	Klee_NormalAttack	1						Default_Item		
+41029012	1001	3	Klee_Elemental_Burst_Bullet	1						Default_Item		
+41029013	1001	3	Klee_NormalAttack_02	1						Default_Item		
+41029014	1001	3	Klee_NormalAttack_03	1						Default_Item		
+41029015	1001	3	Klee_Mine_Throw	1	1					Default_Item		
+41029016	1001	19	Klee_ExtraAttack							Default_Item		
+41029017	1001	3	Klee_ExtraAttack_Bullet	1						Default_Item		
+41029018	1001	3	Klee_Constellation_Bomb	1	1					Default_Item		
+41029019	1001	3	Klee_Constellation_Funnel	1						Default_Item		
+41030001	1001	18	Zhongli_Attack05	1	1					Default_Item		
+41030002	1001	18	Zhongli_PrimoPillar		1					Default_Item		
+41030003	1001	3	Zhongli_ExtraAttack	1	1					Default_Item		
+41031001	1001	3	Fischl_Arrow_01	1	1					Default_Item		
+41031002	1001	3	Fischl_Arrow_02	1	1					Default_Item		
+41031003	1001	3	Fischl_Arrow_03	1	1					Default_Item		
+41031004	1001	3	Fischl_Arrow_04	1	1					Default_Item		
+41031005	1001	3	Fischl_Arrow_05	1	1					Default_Item		
+41031006	1001	3	Fischl_AimingArrow_WithoutThunder	1	1					Default_Item		
+41031007	1001	3	Fischl_AimingArrow_Thunder	1	1					Default_Item		
+41031008	1001	18	Fischl_Crow	1	1					Default_Item		
+41031009	1001	3	Fischl_Crow_NormalAttack_01	1	1					Default_Item		
+41031010	1001	18	Fischl_Crow_BeAttackedTrigger	1	1					Default_Item		
+41031011	1001	3	Fischl_Talent_C_Attack	1	1					Default_Item		
+41031012	1001	18	Fischl_SummonCrow_CheckPosition	1	1					Default_Item		
+41031013	1001	18	Fischl_ControlCrow_CheckPosition	1	1					Default_Item		
+41031014	1001	3	Fischl_AimingArrow_CrowArrow	1	1					Default_Item		
+41031015	1001	3	Fischl_Talent_A_NormalAttack	1	1					Default_Item		
+41031016	1001	3	Fischl_AutoAttack_01	1	1					Default_Item		
+41031017	1001	3	Fischl_Crow_NormalAttack_02	1	1					Default_Item		
+41031018	1001	3	Fischl_AutoAttack_02	1	1					Default_Item		
+41031019	1001	3	Fischl_AutoAttack_Talent_01	1	1					Default_Item		
+41031020	1001	3	Fischl_AutoAttack_Talent_02	1	1					Default_Item		
+41032000	1001	18	Chongyun_ClaymoreBullet	1	1					Default_Item		
+41032001	1001	18	ChongyunTest_ClaymoreTrap		1					Default_Item		
+41032002	1001	18	WarmField		1					Default_Item		
+41033001	1001	3	Tartaglia_Arrow_01	1	1					Default_Item		
+41033002	1001	3	Tartaglia_Arrow_02	1	1					Default_Item		
+41033003	1001	3	Tartaglia_Arrow_03	1	1					Default_Item		
+41033004	1001	3	Tartaglia_Arrow_04	1	1					Default_Item		
+41033005	1001	3	Tartaglia_Arrow_05	1	1					Default_Item		
+41033006	1001	3	Tartaglia_Arrow_06	1	1					Default_Item		
+41033007	1001	3	Tartaglia_AimingArrow_WithWater	1	1					Default_Item		
+41033008	1001	3	Tartaglia_AimingArrow_WithoutWater	1	1					Default_Item		
+41033009	1001	18	Tartaglia_AquariaBlade_Range		1					Default_Item		
+41037001	1001	3	Ganyu_Arrow_01	1	1					Default_Item		
+41037002	1001	3	Ganyu_Arrow_02	1	1					Default_Item		
+41037003	1001	3	Ganyu_Arrow_03	1	1					Default_Item		
+41037004	1001	3	Ganyu_Arrow_04	1	1					Default_Item		
+41037005	1001	3	Ganyu_Arrow_05	1	1					Default_Item		
+41037006	1001	3	Ganyu_Arrow_06	1	1					Default_Item		
+41037007	1001	3	Ganyu_AimingArrow_WithoutIce	1	1					Default_Item		
+41037008	1001	3	Ganyu_AimingArrow_WithIce_1	1	1					Default_Item		
+41037009	1001	3	Ganyu_AimingArrow_WithIce_2	1	1					Default_Item		
+41037010	1001	3	Ganyu_AimingArrow_WithIce_3	1	1					Default_Item		
+41037011	1001	18	Ganyu_AimingArrow_FissionAgent_1	1	1					Default_Item		
+41037012	1001	18	Ganyu_AimingArrow_FissionAgent_2	1	1					Default_Item		
+41034001	1001	3	ChongyunTest_TestCone							Default_Item		
+41034002	1001	3	ChongyunTest_TestCone							Default_Item		
+41034003	1001	3	ChongyunTest_TestCone							Default_Item		
+41034101	1001	3	ChongyunTest_TestBlade	1	1					Default_Item		
+41034111	1001	19	ChongyunTest_TestBladeDummy							Default_Item		
+41034201	1001	18	Chongyun_IceCrystal	1	1					Default_Item		

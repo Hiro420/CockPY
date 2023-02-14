@@ -1,0 +1,8 @@
+区服名	进度系数
+cb2plus	150
+cb2plus_copy	20
+cb2plus_asia	56
+cb2plus_euro	15
+cb2plus_usa	40
+cb2plus_qa03	40
+cb2plus_usaqa03	30

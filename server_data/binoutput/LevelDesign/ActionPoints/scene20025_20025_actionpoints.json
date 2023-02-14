@@ -1,0 +1,239 @@
+{
+  "sceneId": 20025,
+  "actionPoints": [
+    {
+      "localId": 1,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": 11.25,
+        "y": 0.0,
+        "z": 74.15
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 2,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": 56.31,
+        "y": 0.0,
+        "z": 49.54
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 3,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": 74.98,
+        "y": 0.0,
+        "z": 1.75
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 4,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": 58.56,
+        "y": 0.0,
+        "z": -48.66
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 5,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": 14.75,
+        "y": 0.0,
+        "z": -73.54
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 6,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": -35.97,
+        "y": 0.0,
+        "z": -65.81
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 7,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": -69.86,
+        "y": 0.0,
+        "z": -27.295
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 8,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": -71.8,
+        "y": 0.0,
+        "z": 21.87
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 9,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": -39.0,
+        "y": 0.0,
+        "z": 64.05
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 10,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": 35.93,
+        "y": 0.0,
+        "z": 65.83
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 11,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": 69.86,
+        "y": 0.0,
+        "z": 27.29
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 12,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": 71.06,
+        "y": 0.0,
+        "z": -24.0
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 13,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": 38.39,
+        "y": 0.0,
+        "z": -65.75
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 14,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": -11.29,
+        "y": 0.0,
+        "z": -74.15
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 15,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": -56.31,
+        "y": 0.0,
+        "z": -49.54
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 16,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": -75.0,
+        "y": 0.0,
+        "z": -2.15
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 17,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": -60.0,
+        "y": 0.0,
+        "z": 45.11
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 18,
+      "type": "DvalinSpecialPoint",
+      "pos": {
+        "x": -14.74,
+        "y": 0.0,
+        "z": 73.53
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    }
+  ]
+}

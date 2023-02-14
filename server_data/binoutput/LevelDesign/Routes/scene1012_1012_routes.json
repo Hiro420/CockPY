@@ -1,0 +1,167 @@
+{
+  "sceneId": 1012,
+  "routes": [
+    {
+      "localId": 1012001,
+      "name": "111",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 117.693237,
+            "y": 10.8900833,
+            "z": 29.0781631
+          },
+          "targetVelocity": 4.0
+        },
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 117.145584,
+            "y": -19.7348862,
+            "z": 29.6222439
+          },
+          "targetVelocity": 4.0
+        }
+      ]
+    },
+    {
+      "localId": 1012002,
+      "name": "222",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 136.441956,
+            "y": 10.0233154,
+            "z": 49.98505
+          },
+          "targetVelocity": 4.0
+        },
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 139.047562,
+            "y": -17.9468842,
+            "z": 49.075676
+          },
+          "targetVelocity": 4.0
+        }
+      ]
+    },
+    {
+      "localId": 1012003,
+      "name": "333",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 119.1615,
+            "y": 9.874023,
+            "z": 71.59813
+          },
+          "targetVelocity": 4.0
+        },
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 117.394257,
+            "y": -20.87619,
+            "z": 71.98522
+          },
+          "targetVelocity": 4.0
+        }
+      ]
+    },
+    {
+      "localId": 1012004,
+      "name": "444",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 102.269142,
+            "y": 9.442009,
+            "z": 50.8046036
+          },
+          "targetVelocity": 4.0
+        },
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 99.10372,
+            "y": -22.2026138,
+            "z": 52.330265
+          },
+          "targetVelocity": 4.0
+        }
+      ]
+    },
+    {
+      "localId": 1012005,
+      "name": "555",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 116.70858,
+            "y": 21.481781,
+            "z": 54.54208
+          },
+          "targetVelocity": 4.0
+        },
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 118.101791,
+            "y": 21.9691849,
+            "z": 9.943207
+          },
+          "targetVelocity": 4.0
+        }
+      ]
+    },
+    {
+      "localId": 1012006,
+      "name": "666",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 90.166,
+            "y": 0.499999881,
+            "z": -10.3840284
+          },
+          "targetVelocity": 2.0
+        },
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 92.973465,
+            "y": 0.50000006,
+            "z": 11.7766409
+          },
+          "targetVelocity": 2.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+EntityId	类型	[分支掉落]1类型	[分支掉落]1分支掉落池id	[分支掉落]2类型	[分支掉落]2分支掉落池id	[分支掉落]3类型	[分支掉落]3分支掉落池id	[分支掉落]4类型	[分支掉落]4分支掉落池id	[分支掉落]5类型	[分支掉落]5分支掉落池id	[分支掉落]6类型	[分支掉落]6分支掉落池id	[分支掉落]7类型	[分支掉落]7分支掉落池id	掉落上限	每日掉落上限
+70220001	2	test_1	0	test_2	0											1	
+70220013	2	WoodenObject_Broken	130													1	
+70220014	2	WoodenObject_Broken	130													1	
+70520001	2	Ore_Dig	101													1	
+70520002	2	Ore_Mithril	103													1	
+70520003	2	Ore_Crystal	104													1	
+70510001	2	Water_Bloom	110													1	
+70510003	2	ElectricRock_Destroy	111													1	
+70510005	2	ElectricRock_Destroy	111													1	
+70900237	2	ElectricRock_Destroy	111													1	
+70510006	2	FireFlower_Destroy	112													1	
+70510007	2	KapokFlower_Destroy	113													1	
+70510009	2	Gather_Dandelion	110													1	
+70216666	2	Chest_DropTest	999													10	
+70900240	2	ElementRock1	111	ElementRock2	111											1	
+28050201	1	MoraDrop	150	MoraDrop_Die	151											30	
+28050202	1	MoraDrop	150	MoraDrop_Die	152											30	
+28050203	1	MoraDrop	150	MoraDrop_Die	153											30	
+70900277	2	ElementBall	998													1	
+70900278	2	ElementBall	998													1	
+70900279	2	ElementBall	998													1	
+70900280	2	ElementBall	998													1	
+70900283	2	ElementBall	998													1	
+70300080	2	MonsterMeat	140													1	
+70510012	2	ElementRock1	101	ElementRock2	103											3	
+70520018	2	Ore_Crystal	102													1	
+70350027	2	DropIce	998													1	

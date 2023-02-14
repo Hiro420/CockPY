@@ -1,0 +1,1 @@
+台词ID	下一句台词ID	显示类型	[对话角色]类型	[对话角色]ID	$#VersionBegin	$#VersionEnd

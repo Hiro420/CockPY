@@ -1,0 +1,215 @@
+{
+  "sceneId": 30803,
+  "monsters": [
+    {
+      "groupId": 230803003,
+      "mapInstId": 3001,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3002,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3004,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3005,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3006,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3007,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3009,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3011,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3012,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3013,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3017,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3022,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3023,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803003,
+      "mapInstId": 3025,
+      "aiGroupID": 230803003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4001,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4002,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4003,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4004,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4005,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4006,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4007,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4009,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4011,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4012,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4014,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4015,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4016,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4017,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4021,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 230803004,
+      "mapInstId": 4030,
+      "aiGroupID": 230803004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    }
+  ]
+}

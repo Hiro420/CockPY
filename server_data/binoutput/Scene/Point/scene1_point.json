@@ -1,0 +1,192 @@
+{
+  "radius": 100,
+  "points": {
+    "1": {
+	  "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1353,
+        "y": 53,
+        "z": 294
+      },
+      "unlocked": true
+    },
+    "2": {
+	  "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1063.37,
+        "y": 135,
+        "z": 1161.46
+      },
+      "unlocked": true
+    },
+    "3": {
+	  "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1406.653,
+        "y": 180,
+        "z": 1231.591
+      },
+      "unlocked": true
+    },
+    "4": {
+	  "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1176,
+        "y": 188,
+        "z": 1433
+      },
+      "unlocked": true
+    },
+    "5": {
+	  "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1234.332,
+        "y": 90,
+        "z": 520.6102
+      },
+      "unlocked": true
+    },
+    "6": {
+	  "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 824,
+        "y": 108,
+        "z": 257
+      },
+      "unlocked": true
+    },
+    "7": {
+	  "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 433.3,
+        "y": 80,
+        "z": 1065.1
+      },
+      "unlocked": true
+    },
+    "8": {
+	  "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 30,
+        "y": 87,
+        "z": 970
+      },
+      "unlocked": true
+    },
+    "9": {
+	  "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 71,
+        "y": 81,
+        "z": 350
+      },
+      "unlocked": true
+    },
+    "10": {
+	  "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1020.979,
+        "y": 56,
+        "z": 615.4953
+      },
+      "unlocked": true
+    },
+    "11": {
+	  "$type": "SceneTransPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 1265,
+        "y": 130,
+        "z": 590
+      },
+	   "type": "TOWER",
+      "unlocked": true
+    },
+    "12": {
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1440.4845,
+        "y": 57.9147339,
+        "z": 157.136826
+      },
+      "unlocked": true
+    },
+    "13": {
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1487.62122,
+        "y": 81.0352,
+        "z": 188.228333
+      },
+      "unlocked": true
+    },
+    "14": {
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1382.17676,
+        "y": 73.46574,
+        "z": 179.86763
+      },
+      "unlocked": true
+    },
+    "15": {
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1480.37463,
+        "y": 85.0784149,
+        "z": 254.921448
+      },
+      "unlocked": true
+    },
+    "16": {
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1253.34167,
+        "y": 51.72194,
+        "z": 350.79892
+      },
+      "unlocked": true
+    },
+    "17": {
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1378.94214,
+        "y": 57.66487,
+        "z": 397.4859
+      },
+      "unlocked": true
+    },
+    "18": {
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 1158.05371,
+        "y": 68.75096,
+        "z": 268.980621
+      },
+      "unlocked": true
+    }
+  },
+  "areas": {
+	"101": {
+	  "type": "ALL",
+	  "unlocked": true
+	}
+  }
+}

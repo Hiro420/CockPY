@@ -1,0 +1,106 @@
+{
+  "sceneId": 20021,
+  "routes": [
+    {
+      "localId": 20021001,
+      "name": "Platform_20021001",
+      "type": "OneWay",
+      "points": [
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 184.482269,
+            "y": 44.1277046,
+            "z": -1.18071115
+          },
+          "targetVelocity": 2.0
+        },
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 184.485657,
+            "y": 42.0178375,
+            "z": -1.37106419
+          },
+          "targetVelocity": 2.0
+        },
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 189.4942,
+            "y": 41.9901047,
+            "z": -1.228431
+          },
+          "targetVelocity": 2.0
+        }
+      ]
+    },
+    {
+      "localId": 20021002,
+      "name": "Platform_20021002",
+      "type": "OneWay",
+      "points": [
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 184.390915,
+            "y": 44.1277046,
+            "z": -4.19361
+          },
+          "targetVelocity": 2.0
+        },
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 184.358551,
+            "y": 42.292263,
+            "z": -3.92227983
+          },
+          "targetVelocity": 2.0
+        },
+        {
+          "waitTime": 0.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 180.7593,
+            "y": 41.8514977,
+            "z": -4.895134
+          },
+          "targetVelocity": 2.0
+        }
+      ]
+    },
+    {
+      "localId": 20021003,
+      "name": "111",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 191.652451,
+            "y": 29.2279282,
+            "z": 15.395546
+          },
+          "targetVelocity": 3.0
+        },
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 191.777145,
+            "y": 29.1761971,
+            "z": 9.512328
+          },
+          "targetVelocity": 3.0
+        }
+      ]
+    }
+  ]
+}

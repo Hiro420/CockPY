@@ -1,0 +1,586 @@
+AffixID	开启天赋配置	[增加属性]1类型	[增加属性]1值	[增加属性]2类型	[增加属性]2值	[增加属性]3类型	[增加属性]3值	参数1	参数2	参数3	参数4	参数5	参数6	ID	词缀等级	$#VersionBegin	$#VersionEnd
+1110010	Sword_Norse_0													111001	0		
+1110011	Sword_Norse_1													111001	1		
+1110012	Sword_Norse_2													111001	2		
+1110013	Sword_Norse_3													111001	3		
+1110014	Sword_Norse_4													111001	4		
+1110030	Weapon_Sword_Zephyrus_0													111003	0		
+1110031	Weapon_Sword_Zephyrus_1													111003	1		
+1110032	Weapon_Sword_Zephyrus_2													111003	2		
+1110033	Weapon_Sword_Zephyrus_3													111003	3		
+1110034	Weapon_Sword_Zephyrus_4													111003	4		
+1110040		20	0.06					0.06						111004	0		
+1110041		20	0.07					0.07						111004	1		
+1110042		20	0.08					0.08						111004	2		
+1110043		20	0.09					0.09						111004	3		
+1110044		20	0.1					0.1						111004	4		
+1113010	Weapon_Sword_DamageUpToEnemy							0.14						111301	0		
+1113011	Weapon_Sword_DamageUpToEnemy							0.18						111301	1		
+1113012	Weapon_Sword_DamageUpToEnemy							0.22						111301	2		
+1113013	Weapon_Sword_DamageUpToEnemy							0.26						111301	3		
+1113014	Weapon_Sword_DamageUpToEnemy							0.3						111301	4		
+1113020	Weapon_Sword_FullHPCriticUp							0.16						111302	0		
+1113021	Weapon_Sword_FullHPCriticUp							0.2						111302	1		
+1113022	Weapon_Sword_FullHPCriticUp							0.24						111302	2		
+1113023	Weapon_Sword_FullHPCriticUp							0.28						111302	3		
+1113024	Weapon_Sword_FullHPCriticUp							0.32						111302	4		
+1113030	Weapon_Sword_OnGainEnergyHealHP							0.01	1					111303	0		
+1113031	Weapon_Sword_OnGainEnergyHealHP							0.0125	1					111303	1		
+1113032	Weapon_Sword_OnGainEnergyHealHP							0.015	1					111303	2		
+1113033	Weapon_Sword_OnGainEnergyHealHP							0.0175	1					111303	3		
+1113034	Weapon_Sword_OnGainEnergyHealHP							0.02	1					111303	4		
+1113040	Weapon_Sword_AttacktUpAfterReaction							0.2	12					111304	0		
+1113041	Weapon_Sword_AttacktUpAfterReaction							0.25	12					111304	1		
+1113042	Weapon_Sword_AttacktUpAfterReaction							0.3	12					111304	2		
+1113043	Weapon_Sword_AttacktUpAfterReaction							0.35	12					111304	3		
+1113044	Weapon_Sword_AttacktUpAfterReaction							0.4	12					111304	4		
+1113050	Weapon_Sword_ExtraDamageWhenCDReady							0.5	2.4	15				111305	0		
+1113051	Weapon_Sword_ExtraDamageWhenCDReady							0.5	2.8	14				111305	1		
+1113052	Weapon_Sword_ExtraDamageWhenCDReady							0.5	3.2	13				111305	2		
+1113053	Weapon_Sword_ExtraDamageWhenCDReady							0.5	3.6	12				111305	3		
+1113054	Weapon_Sword_ExtraDamageWhenCDReady							0.5	4	11				111305	4		
+1113060	Weapon_Sword_MoveSpeedAfterULT							0.12	12					111306	0		
+1113061	Weapon_Sword_MoveSpeedAfterULT							0.15	12					111306	1		
+1113062	Weapon_Sword_MoveSpeedAfterULT							0.18	12					111306	2		
+1113063	Weapon_Sword_MoveSpeedAfterULT							0.21	12					111306	3		
+1113064	Weapon_Sword_MoveSpeedAfterULT							0.24	12					111306	4		
+1114010	Weapon_Sword_GenerateBallWhenCritic							0.6	12					111401	0		
+1114011	Weapon_Sword_GenerateBallWhenCritic							0.7	10.5					111401	1		
+1114012	Weapon_Sword_GenerateBallWhenCritic							0.8	9					111401	2		
+1114013	Weapon_Sword_GenerateBallWhenCritic							0.9	7.5					111401	3		
+1114014	Weapon_Sword_GenerateBallWhenCritic							1	6					111401	4		
+1114020	Weapon_Sword_MusicBlast							0.5	2					111402	0		
+1114021	Weapon_Sword_MusicBlast							0.5	2.5					111402	1		
+1114022	Weapon_Sword_MusicBlast							0.5	3					111402	2		
+1114023	Weapon_Sword_MusicBlast							0.5	3.5					111402	3		
+1114024	Weapon_Sword_MusicBlast							0.5	4					111402	4		
+1114030	Weapon_Sword_GetShieldBeingHit							0.16	10	45				111403	0		
+1114031	Weapon_Sword_GetShieldBeingHit							0.2	10	45				111403	1		
+1114032	Weapon_Sword_GetShieldBeingHit							0.24	10	45				111403	2		
+1114033	Weapon_Sword_GetShieldBeingHit							0.28	10	45				111403	3		
+1114034	Weapon_Sword_GetShieldBeingHit							0.32	10	45				111403	4		
+1114040	Weapon_Sword_CritUpWhenHitNoCrit							0.08						111404	0		
+1114041	Weapon_Sword_CritUpWhenHitNoCrit							0.1						111404	1		
+1114042	Weapon_Sword_CritUpWhenHitNoCrit							0.12						111404	2		
+1114043	Weapon_Sword_CritUpWhenHitNoCrit							0.14						111404	3		
+1114044	Weapon_Sword_CritUpWhenHitNoCrit							0.16						111404	4		
+1114050	Weapon_Sword_DamageUpToWindEnemy							0.2						111405	0		
+1114051	Weapon_Sword_DamageUpToWindEnemy							0.25						111405	1		
+1114052	Weapon_Sword_DamageUpToWindEnemy							0.3						111405	2		
+1114053	Weapon_Sword_DamageUpToWindEnemy							0.35						111405	3		
+1114054	Weapon_Sword_DamageUpToWindEnemy							0.4						111405	4		
+1114060	Weapon_Sword_AttackGainAKTDEFBuff							0.06						111406	0		
+1114061	Weapon_Sword_AttackGainAKTDEFBuff							0.075						111406	1		
+1114062	Weapon_Sword_AttackGainAKTDEFBuff							0.09						111406	2		
+1114063	Weapon_Sword_AttackGainAKTDEFBuff							0.105						111406	3		
+1114064	Weapon_Sword_AttackGainAKTDEFBuff							0.12						111406	4		
+1114070	Weapon_Sword_AttackGainFullDamgeUpBuff							0.1	1	6				111407	0		
+1114071	Weapon_Sword_AttackGainFullDamgeUpBuff							0.125	1	6				111407	1		
+1114072	Weapon_Sword_AttackGainFullDamgeUpBuff							0.15	1	6				111407	2		
+1114073	Weapon_Sword_AttackGainFullDamgeUpBuff							0.175	1	6				111407	3		
+1114074	Weapon_Sword_AttackGainFullDamgeUpBuff							0.2	1	6				111407	4		
+1114080	Weapon_Sword_IgnoreDefense							0.16						111408	0		
+1114081	Weapon_Sword_IgnoreDefense							0.2						111408	1		
+1114082	Weapon_Sword_IgnoreDefense							0.24						111408	2		
+1114083	Weapon_Sword_IgnoreDefense							0.28						111408	3		
+1114084	Weapon_Sword_IgnoreDefense							0.32						111408	4		
+1115010	Weapon_Sword_Legend_Falcon	23	0.2					0.2	0.2	0.2				111501	0		
+1115011	Weapon_Sword_Legend_Falcon	23	0.25					0.25	0.25	0.25				111501	1		
+1115012	Weapon_Sword_Legend_Falcon	23	0.3					0.3	0.3	0.3				111501	2		
+1115013	Weapon_Sword_Legend_Falcon	23	0.35					0.35	0.35	0.35				111501	3		
+1115014	Weapon_Sword_Legend_Falcon	23	0.4					0.4	0.4	0.4				111501	4		
+1115020	Weapon_Sword_Legend_Dvalin	27	0.2	20	0.04			0.2	0.04	0.8	9			111502	0		
+1115021	Weapon_Sword_Legend_Dvalin	27	0.25	20	0.08			0.25	0.08	0.9	8			111502	1		
+1115022	Weapon_Sword_Legend_Dvalin	27	0.3	20	0.12			0.3	0.12	1	7			111502	2		
+1115023	Weapon_Sword_Legend_Dvalin	27	0.35	20	0.16			0.35	0.16	1	6			111502	3		
+1115024	Weapon_Sword_Legend_Dvalin	27	0.4	20	0.2			0.4	0.2	1	5			111502	4		
+1115990														111599	0		
+1115991														111599	1		
+1115992														111599	2		
+1115993														111599	3		
+1115994														111599	4		
+1120010		6	0.08					0.08						112001	0		
+1120011		6	0.02					0.1						112001	1		
+1120012		6	0.02					0.12						112001	2		
+1120013		6	0.02					0.14						112001	3		
+1120014		6	0.02					0.16						112001	4		
+1123000	Weapon_Claymore_ExtraPhyDamagePerHit_0													112300	0		
+1123001	Weapon_Claymore_ExtraPhyDamagePerHit_1													112300	1		
+1123002	Weapon_Claymore_ExtraPhyDamagePerHit_2													112300	2		
+1123003	Weapon_Claymore_ExtraPhyDamagePerHit_3													112300	3		
+1123004	Weapon_Claymore_ExtraPhyDamagePerHit_4													112300	4		
+1123010	Weapon_Claymore_LowHPAddExtraAttackEndura							0.5	0.35					112301	0		
+1123011	Weapon_Claymore_LowHPAddExtraAttackEndura							0.6	0.4					112301	1		
+1123012	Weapon_Claymore_LowHPAddExtraAttackEndura							0.7	0.45					112301	2		
+1123013	Weapon_Claymore_LowHPAddExtraAttackEndura							0.8	0.5					112301	3		
+1123014	Weapon_Claymore_LowHPAddExtraAttackEndura							0.9	0.55					112301	4		
+1123020	Weapon_Claymore_DamageUpToEnemy							0.14						112302	0		
+1123021	Weapon_Claymore_DamageUpToEnemy							0.18						112302	1		
+1123022	Weapon_Claymore_DamageUpToEnemy							0.22						112302	2		
+1123023	Weapon_Claymore_DamageUpToEnemy							0.26						112302	3		
+1123024	Weapon_Claymore_DamageUpToEnemy							0.3						112302	4		
+1123030	Weapon_Claymore_HealAmountHPonEnemyKilled							0.08						112303	0		
+1123031	Weapon_Claymore_HealAmountHPonEnemyKilled							0.1						112303	1		
+1123032	Weapon_Claymore_HealAmountHPonEnemyKilled							0.12						112303	2		
+1123033	Weapon_Claymore_HealAmountHPonEnemyKilled							0.14						112303	3		
+1123034	Weapon_Claymore_HealAmountHPonEnemyKilled							0.16						112303	4		
+1120020		20	0.06					0.06						112002	0		
+1120021		20	0.01					0.07						112002	1		
+1120022		20	0.01					0.08						112002	2		
+1120023		20	0.01					0.09						112002	3		
+1120024		20	0.01					0.1						112002	4		
+1123040	Weapon_Claymore_AttacktUpAfterReaction							0.2						112304	0		
+1123041	Weapon_Claymore_AttacktUpAfterReaction							0.25						112304	1		
+1123042	Weapon_Claymore_AttacktUpAfterReaction							0.3						112304	2		
+1123043	Weapon_Claymore_AttacktUpAfterReaction							0.35						112304	3		
+1123044	Weapon_Claymore_AttacktUpAfterReaction							0.4						112304	4		
+1123050	Weapon_Claymore_NormalAttackExtraDamageAfterSkill							0.8	15	3				112305	0		
+1123051	Weapon_Claymore_NormalAttackExtraDamageAfterSkill							1	15	3				112305	1		
+1123052	Weapon_Claymore_NormalAttackExtraDamageAfterSkill							1.2	15	3				112305	2		
+1123053	Weapon_Claymore_NormalAttackExtraDamageAfterSkill							1.4	15	3				112305	3		
+1123054	Weapon_Claymore_NormalAttackExtraDamageAfterSkill							1.6	15	3				112305	4		
+1123060	Weapon_Claymore_AttackUpBuff							0.06						112306	0		
+1123061	Weapon_Claymore_AttackUpBuff							0.075						112306	1		
+1123062	Weapon_Claymore_AttackUpBuff							0.09						112306	2		
+1123063	Weapon_Claymore_AttackUpBuff							0.105						112306	3		
+1123064	Weapon_Claymore_AttackUpBuff							0.12						112306	4		
+1124010	Weapon_Claymore_GenerateBallWhenCritic							0.6	12					112401	0		
+1124011	Weapon_Claymore_GenerateBallWhenCritic							0.7	10.5					112401	1		
+1124012	Weapon_Claymore_GenerateBallWhenCritic							0.8	9					112401	2		
+1124013	Weapon_Claymore_GenerateBallWhenCritic							0.9	7.5					112401	3		
+1124014	Weapon_Claymore_GenerateBallWhenCritic							1	6					112401	4		
+1124020	Weapon_Claymore_ResetCDWhenSkillHit							0.4	30					112402	0		
+1124021	Weapon_Claymore_ResetCDWhenSkillHit							0.5	25					112402	1		
+1124022	Weapon_Claymore_ResetCDWhenSkillHit							0.6	20					112402	2		
+1124023	Weapon_Claymore_ResetCDWhenSkillHit							0.7	16					112402	3		
+1124024	Weapon_Claymore_ResetCDWhenSkillHit							0.8	12					112402	4		
+1124030	Weapon_Claymore_GetShieldBeingHit							0.16	45					112403	0		
+1124031	Weapon_Claymore_GetShieldBeingHit							0.2	45					112403	1		
+1124032	Weapon_Claymore_GetShieldBeingHit							0.24	45					112403	2		
+1124033	Weapon_Claymore_GetShieldBeingHit							0.28	45					112403	3		
+1124034	Weapon_Claymore_GetShieldBeingHit							0.32	45					112403	4		
+1124040	Weapon_Claymore_AtkDefUpWhenExtraAttack							0.28						112404	0		
+1124041	Weapon_Claymore_AtkDefUpWhenExtraAttack							0.36						112404	1		
+1124042	Weapon_Claymore_AtkDefUpWhenExtraAttack							0.44						112404	2		
+1124043	Weapon_Claymore_AtkDefUpWhenExtraAttack							0.52						112404	3		
+1124044	Weapon_Claymore_AtkDefUpWhenExtraAttack							0.6						112404	4		
+1124050	Weapon_Claymore_DamageUpToElectricEnemy							0.2						112405	0		
+1124051	Weapon_Claymore_DamageUpToElectricEnemy							0.25						112405	1		
+1124052	Weapon_Claymore_DamageUpToElectricEnemy							0.3						112405	2		
+1124053	Weapon_Claymore_DamageUpToElectricEnemy							0.35						112405	3		
+1124054	Weapon_Claymore_DamageUpToElectricEnemy							0.4						112405	4		
+1124980	Weapon_Claymore_CritUpWhenHitNoCrit_0													112498	0		
+1124981	Weapon_Claymore_CritUpWhenHitNoCrit_1													112498	1		
+1124982	Weapon_Claymore_CritUpWhenHitNoCrit_2													112498	2		
+1124983	Weapon_Claymore_CritUpWhenHitNoCrit_3													112498	3		
+1124984	Weapon_Claymore_CritUpWhenHitNoCrit_4													112498	4		
+1124060	Weapon_Claymore_AOEDamage							0.3	3.2					112406	0		
+1124061	Weapon_Claymore_AOEDamage							0.3	3.9					112406	1		
+1124062	Weapon_Claymore_AOEDamage							0.3	4.6					112406	2		
+1124063	Weapon_Claymore_AOEDamage							0.3	5.3					112406	3		
+1124064	Weapon_Claymore_AOEDamage							0.3	6					112406	4		
+1124070	Weapon_Claymore_AttackGainAKTDEFBuff							0.06						112407	0		
+1124071	Weapon_Claymore_AttackGainAKTDEFBuff							0.075						112407	1		
+1124072	Weapon_Claymore_AttackGainAKTDEFBuff							0.09						112407	2		
+1124073	Weapon_Claymore_AttackGainAKTDEFBuff							0.105						112407	3		
+1124074	Weapon_Claymore_AttackGainAKTDEFBuff							0.12						112407	4		
+1124080	Weapon_Claymore_IgnoreDefense							0.16						112408	0		
+1124081	Weapon_Claymore_IgnoreDefense							0.2						112408	1		
+1124082	Weapon_Claymore_IgnoreDefense							0.24						112408	2		
+1124083	Weapon_Claymore_IgnoreDefense							0.28						112408	3		
+1124084	Weapon_Claymore_IgnoreDefense							0.32						112408	4		
+1124990	Weapon_Claymore_Zephyrus_0													112499	0		
+1124991	Weapon_Claymore_Zephyrus_1													112499	1		
+1124992	Weapon_Claymore_Zephyrus_2													112499	2		
+1124993	Weapon_Claymore_Zephyrus_3													112499	3		
+1124994	Weapon_Claymore_Zephyrus_4													112499	4		
+1125010	Weapon_Claymore_Legend_Dvalin	24	0.08					0.08	1.4	20	8			112501	0		
+1125011	Weapon_Claymore_Legend_Dvalin	24	0.1					0.1	1.75	20	8			112501	1		
+1125012	Weapon_Claymore_Legend_Dvalin	24	0.12					0.12	2.1	20	8			112501	2		
+1125013	Weapon_Claymore_Legend_Dvalin	24	0.14					0.14	2.45	20	8			112501	3		
+1125014	Weapon_Claymore_Legend_Dvalin	24	0.16					0.16	2.8	20	8			112501	4		
+1125020	Weapon_Claymore_Legend_Wolfmound	6	0.2					0.2	0.4					112502	0		
+1125021	Weapon_Claymore_Legend_Wolfmound	6	0.25					0.25	0.5					112502	1		
+1125022	Weapon_Claymore_Legend_Wolfmound	6	0.3					0.3	0.6					112502	2		
+1125023	Weapon_Claymore_Legend_Wolfmound	6	0.35					0.35	0.7					112502	3		
+1125024	Weapon_Claymore_Legend_Wolfmound	6	0.4					0.4	0.8					112502	4		
+1125030														112503	0		
+1125031														112503	1		
+1125032														112503	2		
+1125033														112503	3		
+1125034														112503	4		
+1130030	Weapon_Pole_Zephyrus_0													113003	0		
+1130031	Weapon_Pole_Zephyrus_1													113003	1		
+1130032	Weapon_Pole_Zephyrus_2													113003	2		
+1130033	Weapon_Pole_Zephyrus_3													113003	3		
+1130034	Weapon_Pole_Zephyrus_4													113003	4		
+1133090	Weapon_Pole_NormalAttackUpUnlessBeinghit_0													113309	0		
+1133091	Weapon_Pole_NormalAttackUpUnlessBeinghit_1													113309	1		
+1133092	Weapon_Pole_NormalAttackUpUnlessBeinghit_2													113309	2		
+1133093	Weapon_Pole_NormalAttackUpUnlessBeinghit_3													113309	3		
+1133094	Weapon_Pole_NormalAttackUpUnlessBeinghit_4													113309	4		
+1133010	Weapon_Pole_NormalAttackUp							0.35						113301	0		
+1133011	Weapon_Pole_NormalAttackUp							0.4						113301	1		
+1133012	Weapon_Pole_NormalAttackUp							0.45						113301	2		
+1133013	Weapon_Pole_NormalAttackUp							0.5						113301	3		
+1133014	Weapon_Pole_NormalAttackUp							0.55						113301	4		
+1133020	Weapon_Pole_ExtraDamageWhenCDReady							1.4	10					113302	0		
+1133021	Weapon_Pole_ExtraDamageWhenCDReady							1.8	10					113302	1		
+1133022	Weapon_Pole_ExtraDamageWhenCDReady							2.2	10					113302	2		
+1133023	Weapon_Pole_ExtraDamageWhenCDReady							2.6	10					113302	3		
+1133024	Weapon_Pole_ExtraDamageWhenCDReady							3	10					113302	4		
+1133030	Weapon_Pole_SlimeKiller							0.4						113303	0		
+1133031	Weapon_Pole_SlimeKiller							0.5						113303	1		
+1133032	Weapon_Pole_SlimeKiller							0.6						113303	2		
+1133033	Weapon_Pole_SlimeKiller							0.7						113303	3		
+1133034	Weapon_Pole_SlimeKiller							0.8						113303	4		
+1136010	Weapon_Pole_AttacktUpAfterReaction							0.2						113601	0		
+1136011	Weapon_Pole_AttacktUpAfterReaction							0.25						113601	1		
+1136012	Weapon_Pole_AttacktUpAfterReaction							0.3						113601	2		
+1136013	Weapon_Pole_AttacktUpAfterReaction							0.35						113601	3		
+1136014	Weapon_Pole_AttacktUpAfterReaction							0.4						113601	4		
+1134010	Weapon_Pole_DamageUpToWaterEnemy							0.2						113401	0		
+1134011	Weapon_Pole_DamageUpToWaterEnemy							0.25						113401	1		
+1134012	Weapon_Pole_DamageUpToWaterEnemy							0.3						113401	2		
+1134013	Weapon_Pole_DamageUpToWaterEnemy							0.35						113401	3		
+1134014	Weapon_Pole_DamageUpToWaterEnemy							0.4						113401	4		
+1134020	Weapon_Pole_NormalAttackExtraDamageWhenGetEnergyBall							0.26						113402	0		
+1134021	Weapon_Pole_NormalAttackExtraDamageWhenGetEnergyBall							0.32						113402	1		
+1134022	Weapon_Pole_NormalAttackExtraDamageWhenGetEnergyBall							0.38						113402	2		
+1134023	Weapon_Pole_NormalAttackExtraDamageWhenGetEnergyBall							0.44						113402	3		
+1134024	Weapon_Pole_NormalAttackExtraDamageWhenGetEnergyBall							0.5						113402	4		
+1134030	Weapon_Pole_NormalAttackAndExtraAttackUpAfterSkill							0.2						113403	0		
+1134031	Weapon_Pole_NormalAttackAndExtraAttackUpAfterSkill							0.25						113403	1		
+1134032	Weapon_Pole_NormalAttackAndExtraAttackUpAfterSkill							0.3						113403	2		
+1134033	Weapon_Pole_NormalAttackAndExtraAttackUpAfterSkill							0.35						113403	3		
+1134034	Weapon_Pole_NormalAttackAndExtraAttackUpAfterSkill							0.4						113403	4		
+1134040	Weapon_Pole_AttackUpWhenEnter							0.36	10					113404	0		
+1134041	Weapon_Pole_AttackUpWhenEnter							0.45	10					113404	1		
+1134042	Weapon_Pole_AttackUpWhenEnter							0.54	10					113404	2		
+1134043	Weapon_Pole_AttackUpWhenEnter							0.63	10					113404	3		
+1134044	Weapon_Pole_AttackUpWhenEnter							0.72	10					113404	4		
+1135040	Weapon_Pole_DamageUpToAllElement							0.1	0.24					113504	0		
+1135041	Weapon_Pole_DamageUpToAllElement							0.12	0.3					113504	1		
+1135042	Weapon_Pole_DamageUpToAllElement							0.14	0.36					113504	2		
+1135043	Weapon_Pole_DamageUpToAllElement							0.16	0.42					113504	3		
+1135044	Weapon_Pole_DamageUpToAllElement							0.18	0.48					113504	4		
+1135050	Weapon_Pole_AttackUpAndSkillDamageUp							0.032	0.14					113505	0		
+1135051	Weapon_Pole_AttackUpAndSkillDamageUp							0.039	0.18					113505	1		
+1135052	Weapon_Pole_AttackUpAndSkillDamageUp							0.046	0.22					113505	2		
+1135053	Weapon_Pole_AttackUpAndSkillDamageUp							0.053	0.26					113505	3		
+1135054	Weapon_Pole_AttackUpAndSkillDamageUp							0.06	0.3					113505	4		
+1140010		20	0.06											114001	0		
+1140011		20	0.01											114001	1		
+1140012		20	0.01											114001	2		
+1140013		20	0.01											114001	3		
+1140014		20	0.01											114001	4		
+1143010	Weapon_Catalyst_DamageUpToEnemy							0.14						114301	0		
+1143011	Weapon_Catalyst_DamageUpToEnemy							0.18						114301	1		
+1143012	Weapon_Catalyst_DamageUpToEnemy							0.22						114301	2		
+1143013	Weapon_Catalyst_DamageUpToEnemy							0.26						114301	3		
+1143014	Weapon_Catalyst_DamageUpToEnemy							0.3						114301	4		
+1143020	Weapon_Catalyst_OnKilledAttackUp							1.2	8					114302	0		
+1143021	Weapon_Catalyst_OnKilledAttackUp							1.4	8					114302	1		
+1143022	Weapon_Catalyst_OnKilledAttackUp							1.6	8					114302	2		
+1143023	Weapon_Catalyst_OnKilledAttackUp							1.8	8					114302	3		
+1143024	Weapon_Catalyst_OnKilledAttackUp							2	8					114302	4		
+1143030	Weapon_Catalyst_OnGainEnergyHealHP							0.01						114303	0		
+1143031	Weapon_Catalyst_OnGainEnergyHealHP							0.0125						114303	1		
+1143032	Weapon_Catalyst_OnGainEnergyHealHP							0.015						114303	2		
+1143033	Weapon_Catalyst_OnGainEnergyHealHP							0.0175						114303	3		
+1143034	Weapon_Catalyst_OnGainEnergyHealHP							0.02						114303	4		
+1143040	Weapon_Catalyst_AttacktUpAfterReaction							0.2						114304	0		
+1143041	Weapon_Catalyst_AttacktUpAfterReaction							0.25						114304	1		
+1143042	Weapon_Catalyst_AttacktUpAfterReaction							0.3						114304	2		
+1143043	Weapon_Catalyst_AttacktUpAfterReaction							0.35						114304	3		
+1143044	Weapon_Catalyst_AttacktUpAfterReaction							0.4						114304	4		
+1143050	Weapon_Catalyst_SpeedUponEnemeyKilled							0.12	15					114305	0		
+1143051	Weapon_Catalyst_SpeedUponEnemeyKilled							0.15	15					114305	1		
+1143052	Weapon_Catalyst_SpeedUponEnemeyKilled							0.18	15					114305	2		
+1143053	Weapon_Catalyst_SpeedUponEnemeyKilled							0.21	15					114305	3		
+1143054	Weapon_Catalyst_SpeedUponEnemeyKilled							0.24	15					114305	4		
+1143060	Weapon_Catalyst_ElementUpWhenNormalHit							0.06	6					114306	0		
+1143061	Weapon_Catalyst_ElementUpWhenNormalHit							0.075	6					114306	1		
+1143062	Weapon_Catalyst_ElementUpWhenNormalHit							0.09	6					114306	2		
+1143063	Weapon_Catalyst_ElementUpWhenNormalHit							0.105	6					114306	3		
+1143064	Weapon_Catalyst_ElementUpWhenNormalHit							0.12	6					114306	4		
+1140020	Weapon_Catalyst_AbyssKiller_0													114002	0		
+1140021	Weapon_Catalyst_AbyssKiller_1													114002	1		
+1140022	Weapon_Catalyst_AbyssKiller_2													114002	2		
+1140023	Weapon_Catalyst_AbyssKiller_3													114002	3		
+1140024	Weapon_Catalyst_AbyssKiller_4													114002	4		
+1144990	Weapon_Catalyst_EnergyMaxElementDamageUp_0													114499	0		
+1144991	Weapon_Catalyst_EnergyMaxElementDamageUp_1													114499	1		
+1144992	Weapon_Catalyst_EnergyMaxElementDamageUp_2													114499	2		
+1144993	Weapon_Catalyst_EnergyMaxElementDamageUp_3													114499	3		
+1144994	Weapon_Catalyst_EnergyMaxElementDamageUp_4													114499	4		
+1144010	Weapon_Catalyst_GenerateBallWhenCritic							0.6	12					114401	0		
+1144011	Weapon_Catalyst_GenerateBallWhenCritic							0.7	10.5					114401	1		
+1144012	Weapon_Catalyst_GenerateBallWhenCritic							0.8	9					114401	2		
+1144013	Weapon_Catalyst_GenerateBallWhenCritic							0.9	7.5					114401	3		
+1144014	Weapon_Catalyst_GenerateBallWhenCritic							1	6					114401	4		
+1144020	Weapon_Catalyst_RandomBuff							0.6						114402	0		
+1144021	Weapon_Catalyst_RandomBuff							0.75						114402	1		
+1144022	Weapon_Catalyst_RandomBuff							0.9						114402	2		
+1144023	Weapon_Catalyst_RandomBuff							1.05						114402	3		
+1144024	Weapon_Catalyst_RandomBuff							1.2						114402	4		
+1144030	Weapon_Catalyst_ResetCDWhenSkillHit							0.4	30					114403	0		
+1144031	Weapon_Catalyst_ResetCDWhenSkillHit							0.5	25					114403	1		
+1144032	Weapon_Catalyst_ResetCDWhenSkillHit							0.6	20					114403	2		
+1144033	Weapon_Catalyst_ResetCDWhenSkillHit							0.7	16					114403	3		
+1144034	Weapon_Catalyst_ResetCDWhenSkillHit							0.8	12					114403	4		
+1144040	Weapon_Catalyst_ChanceBoltWhenNormalAttack							0.5	2.4	10				114404	0		
+1144041	Weapon_Catalyst_ChanceBoltWhenNormalAttack							0.5	3	10				114404	1		
+1144042	Weapon_Catalyst_ChanceBoltWhenNormalAttack							0.5	3.6	10				114404	2		
+1144043	Weapon_Catalyst_ChanceBoltWhenNormalAttack							0.5	4.2	10				114404	3		
+1144044	Weapon_Catalyst_ChanceBoltWhenNormalAttack							0.5	4.8	10				114404	4		
+1144050	Weapon_Catalyst_NormalAttackAndSkillAttack							0.2						114405	0		
+1144051	Weapon_Catalyst_NormalAttackAndSkillAttack							0.25						114405	1		
+1144052	Weapon_Catalyst_NormalAttackAndSkillAttack							0.3						114405	2		
+1144053	Weapon_Catalyst_NormalAttackAndSkillAttack							0.35						114405	3		
+1144054	Weapon_Catalyst_NormalAttackAndSkillAttack							0.4						114405	4		
+1144060	Weapon_Catalyst_TeamHealonEnemyKilled							0.03						114406	0		
+1144061	Weapon_Catalyst_TeamHealonEnemyKilled							0.035						114406	1		
+1144062	Weapon_Catalyst_TeamHealonEnemyKilled							0.04						114406	2		
+1144063	Weapon_Catalyst_TeamHealonEnemyKilled							0.045						114406	3		
+1144064	Weapon_Catalyst_TeamHealonEnemyKilled							0.05						114406	4		
+1144070	Weapon_Catalyst_ElementUpAfterReaction							0.12						114407	0		
+1144071	Weapon_Catalyst_ElementUpAfterReaction							0.14						114407	1		
+1144072	Weapon_Catalyst_ElementUpAfterReaction							0.16						114407	2		
+1144073	Weapon_Catalyst_ElementUpAfterReaction							0.18						114407	3		
+1144074	Weapon_Catalyst_ElementUpAfterReaction							0.2						114407	4		
+1144080	Weapon_Catalyst_SoulEater							0.24						114408	0		
+1144081	Weapon_Catalyst_SoulEater							0.3						114408	1		
+1144082	Weapon_Catalyst_SoulEater							0.36						114408	2		
+1144083	Weapon_Catalyst_SoulEater							0.42						114408	3		
+1144084	Weapon_Catalyst_SoulEater							0.48						114408	4		
+1145010	Weapon_Catalyst_Legend_Dvalin							0.12	0.5	1.6				114501	0		
+1145011	Weapon_Catalyst_Legend_Dvalin							0.15	0.5	2				114501	1		
+1145012	Weapon_Catalyst_Legend_Dvalin							0.18	0.5	2.4				114501	2		
+1145013	Weapon_Catalyst_Legend_Dvalin							0.21	0.5	2.8				114501	3		
+1145014	Weapon_Catalyst_Legend_Dvalin							0.24	0.5	3.2				114501	4		
+1145020	Weapon_Catalyst_Legend_Fourwinds							0.1	0.06					114502	0		
+1145021	Weapon_Catalyst_Legend_Fourwinds							0.1	0.08					114502	1		
+1145022	Weapon_Catalyst_Legend_Fourwinds							0.1	0.1					114502	2		
+1145023	Weapon_Catalyst_Legend_Fourwinds							0.1	0.12					114502	3		
+1145024	Weapon_Catalyst_Legend_Fourwinds							0.1	0.14					114502	4		
+1145040	Weapon_Catalyst_Test													114504	0		
+1145041														114504	1		
+1145042														114504	2		
+1145043														114504	3		
+1145044														114504	4		
+1150030	Weapon_Bow_Zephyrus_0													115003	0		
+1150031	Weapon_Bow_Zephyrus_1													115003	1		
+1150032	Weapon_Bow_Zephyrus_2													115003	2		
+1150033	Weapon_Bow_Zephyrus_3													115003	3		
+1150034	Weapon_Bow_Zephyrus_4													115003	4		
+1150010		20	0.06											115001	0		
+1150011		20	0.01											115001	1		
+1150012		20	0.01											115001	2		
+1150013		20	0.01											115001	3		
+1150014		20	0.01											115001	4		
+1153010	Weapon_Bow_DamageUpToEnemy							0.14						115301	0		
+1153011	Weapon_Bow_DamageUpToEnemy							0.18						115301	1		
+1153012	Weapon_Bow_DamageUpToEnemy							0.22						115301	2		
+1153013	Weapon_Bow_DamageUpToEnemy							0.26						115301	3		
+1153014	Weapon_Bow_DamageUpToEnemy							0.3						115301	4		
+1153020	Weapon_Bow_DamageUpHitHeadBox							0.24						115302	0		
+1153021	Weapon_Bow_DamageUpHitHeadBox							0.3						115302	1		
+1153022	Weapon_Bow_DamageUpHitHeadBox							0.36						115302	2		
+1153023	Weapon_Bow_DamageUpHitHeadBox							0.42						115302	3		
+1153024	Weapon_Bow_DamageUpHitHeadBox							0.48						115302	4		
+1153030	Weapon_Bow_HealAmountHPonEnemyKilled							0.08						115303	0		
+1153031	Weapon_Bow_HealAmountHPonEnemyKilled							0.1						115303	1		
+1153032	Weapon_Bow_HealAmountHPonEnemyKilled							0.12						115303	2		
+1153033	Weapon_Bow_HealAmountHPonEnemyKilled							0.14						115303	3		
+1153034	Weapon_Bow_HealAmountHPonEnemyKilled							0.16						115303	4		
+1153040	Weapon_Bow_RiseDMGWithinTime							0.3	0.36	0.1				115304	0		
+1153041	Weapon_Bow_RiseDMGWithinTime							0.3	0.42	0.1				115304	1		
+1153042	Weapon_Bow_RiseDMGWithinTime							0.3	0.48	0.1				115304	2		
+1153043	Weapon_Bow_RiseDMGWithinTime							0.3	0.54	0.1				115304	3		
+1153044	Weapon_Bow_RiseDMGWithinTime							0.3	0.6	0.1				115304	4		
+1153050	Weapon_Bow_HeavyCritical							1						115305	0		
+1153051	Weapon_Bow_HeavyCritical							1.25						115305	1		
+1153052	Weapon_Bow_HeavyCritical							1.5						115305	2		
+1153053	Weapon_Bow_HeavyCritical							1.75						115305	3		
+1153054	Weapon_Bow_HeavyCritical							2						115305	4		
+1153060	Weapon_Bow_MachineKiller							0.4						115306	0		
+1153061	Weapon_Bow_MachineKiller							0.5						115306	1		
+1153062	Weapon_Bow_MachineKiller							0.6						115306	2		
+1153063	Weapon_Bow_MachineKiller							0.7						115306	3		
+1153064	Weapon_Bow_MachineKiller							0.8						115306	4		
+1150040	Weapon_Bow_AttacktUpAfterReaction_0							0.2						115004	0		
+1150041	Weapon_Bow_AttacktUpAfterReaction_1							0.25						115004	1		
+1150042	Weapon_Bow_AttacktUpAfterReaction_2							0.3						115004	2		
+1150043	Weapon_Bow_AttacktUpAfterReaction_3							0.35						115004	3		
+1150044	Weapon_Bow_AttacktUpAfterReaction_4							0.4						115004	4		
+1154010	Weapon_Bow_GenerateBallWhenCritic							0.6	12					115401	0		
+1154011	Weapon_Bow_GenerateBallWhenCritic							0.7	10.5					115401	1		
+1154012	Weapon_Bow_GenerateBallWhenCritic							0.8	9					115401	2		
+1154013	Weapon_Bow_GenerateBallWhenCritic							0.9	7.5					115401	3		
+1154014	Weapon_Bow_GenerateBallWhenCritic							1	6					115401	4		
+1154980	Weapon_Bow_RiseElementDMGWhenEnergyMax_0													115498	0		
+1154981	Weapon_Bow_RiseElementDMGWhenEnergyMax_1													115498	1		
+1154982	Weapon_Bow_RiseElementDMGWhenEnergyMax_2													115498	2		
+1154983	Weapon_Bow_RiseElementDMGWhenEnergyMax_3													115498	3		
+1154984	Weapon_Bow_RiseElementDMGWhenEnergyMax_4													115498	4		
+1154020	Weapon_Bow_RiseElementalSkillDMG							0.24						115402	0		
+1154021	Weapon_Bow_RiseElementalSkillDMG							0.3						115402	1		
+1154022	Weapon_Bow_RiseElementalSkillDMG							0.36						115402	2		
+1154023	Weapon_Bow_RiseElementalSkillDMG							0.42						115402	3		
+1154024	Weapon_Bow_RiseElementalSkillDMG							0.48						115402	4		
+1154990	Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_0													115499	0		
+1154991	Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_1													115499	1		
+1154992	Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_2													115499	2		
+1154993	Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_3													115499	3		
+1154994	Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_4													115499	4		
+1154030	Weapon_Bow_ResetCDWhenSkillHit							0.4	15					115403	0		
+1154031	Weapon_Bow_ResetCDWhenSkillHit							0.5	14					115403	1		
+1154032	Weapon_Bow_ResetCDWhenSkillHit							0.6	13					115403	2		
+1154033	Weapon_Bow_ResetCDWhenSkillHit							0.7	12					115403	3		
+1154034	Weapon_Bow_ResetCDWhenSkillHit							0.8	11					115403	4		
+1154970	Weapon_Bow_ReduceEnemySubHurtonBranchAttack_0							0.3						115497	0		
+1154971	Weapon_Bow_ReduceEnemySubHurtonBranchAttack_1							0.35						115497	1		
+1154972	Weapon_Bow_ReduceEnemySubHurtonBranchAttack_2							0.4						115497	2		
+1154973	Weapon_Bow_ReduceEnemySubHurtonBranchAttack_3							0.45						115497	3		
+1154974	Weapon_Bow_ReduceEnemySubHurtonBranchAttack_4							0.5						115497	4		
+1154040	Weapon_Bow_RiseDMGonBranchAttack							0.8	10					115404	0		
+1154041	Weapon_Bow_RiseDMGonBranchAttack							1	10					115404	1		
+1154042	Weapon_Bow_RiseDMGonBranchAttack							1.2	10					115404	2		
+1154043	Weapon_Bow_RiseDMGonBranchAttack							1.4	10					115404	3		
+1154044	Weapon_Bow_RiseDMGonBranchAttack							1.6	10					115404	4		
+1154050	Weapon_Bow_RiseNormalFallExtra							0.4	0.08					115405	0		
+1154051	Weapon_Bow_RiseNormalFallExtra							0.5	0.09					115405	1		
+1154052	Weapon_Bow_RiseNormalFallExtra							0.6	0.1					115405	2		
+1154053	Weapon_Bow_RiseNormalFallExtra							0.7	0.11					115405	3		
+1154054	Weapon_Bow_RiseNormalFallExtra							0.8	0.12					115405	4		
+1154060	Weapon_Bow_AttackGainSPDAKTBuff							0.1	0.4	10				115406	0		
+1154061	Weapon_Bow_AttackGainSPDAKTBuff							0.1	0.5	10				115406	1		
+1154062	Weapon_Bow_AttackGainSPDAKTBuff							0.1	0.6	10				115406	2		
+1154063	Weapon_Bow_AttackGainSPDAKTBuff							0.1	0.7	10				115406	3		
+1154064	Weapon_Bow_AttackGainSPDAKTBuff							0.1	0.8	10				115406	4		
+1154070	Weapon_Bow_AttackGainAKTSPDBuff							0.06	0.012	0.3				115407	0		
+1154071	Weapon_Bow_AttackGainAKTSPDBuff							0.075	0.015	0.3				115407	1		
+1154072	Weapon_Bow_AttackGainAKTSPDBuff							0.09	0.018	0.3				115407	2		
+1154073	Weapon_Bow_AttackGainAKTSPDBuff							0.105	0.021	0.3				115407	3		
+1154074	Weapon_Bow_AttackGainAKTSPDBuff							0.12	0.024	0.3				115407	4		
+1154080	Weapon_Bow_FallNormalRiseExtra							0.36	0.08					115408	0		
+1154081	Weapon_Bow_FallNormalRiseExtra							0.42	0.09					115408	1		
+1154082	Weapon_Bow_FallNormalRiseExtra							0.48	0.1					115408	2		
+1154083	Weapon_Bow_FallNormalRiseExtra							0.54	0.11					115408	3		
+1154084	Weapon_Bow_FallNormalRiseExtra							0.6	0.12					115408	4		
+1155010	Weapon_Bow_RangeAttackOnAttackLanded	22	0.2					0.2	0.6	4				115501	0		
+1155011	Weapon_Bow_RangeAttackOnAttackLanded	22	0.25					0.25	0.7	3.5				115501	1		
+1155012	Weapon_Bow_RangeAttackOnAttackLanded	22	0.3					0.3	0.8	3				115501	2		
+1155013	Weapon_Bow_RangeAttackOnAttackLanded	22	0.35					0.35	0.9	2.5				115501	3		
+1155014	Weapon_Bow_RangeAttackOnAttackLanded	22	0.4					0.4	1	2				115501	4		
+1155020	Weapon_Bow_RiseDMGWithTime							0.12	0.08					115502	0		
+1155021	Weapon_Bow_RiseDMGWithTime							0.15	0.1					115502	1		
+1155022	Weapon_Bow_RiseDMGWithTime							0.18	0.12					115502	2		
+1155023	Weapon_Bow_RiseDMGWithTime							0.21	0.14					115502	3		
+1155024	Weapon_Bow_RiseDMGWithTime							0.24	0.16					115502	4		
+2100010		6	0.2											210001	0		
+2100011	Relic_ExtraAtkCritUp							0.35						210001	1		
+2100020		6	0.2											210002	0		
+2100021	Relic_GiantKiller							0.25	0.5					210002	1		
+2100030		9	0.3											210003	0		
+2100031	Relic_AbsorbTeamElemResist							0.3						210003	1		
+2100040	Relic_AllElemResistUp							0.15						210004	0		
+2100041	Relic_ElemDmgEnhanceElemResist							0.3	10	10				210004	1		
+2100050		20	0.15											210005	0		
+2100051	Relic_LowHPGainExtraCritRate							0.3	0.7					210005	1		
+2100060	Relic_AtkAndExtraAtkUp							0.15						210006	0		
+2100061	Relic_SkillEnhanceNormalAtkAndExtraAtk							8	1	0.3				210006	1		
+2100070		28	50											210007	0		
+2100071	Relic_ReactionGainExtraElemMasteryForTeam							8	100					210007	1		
+2100080	Relic_SkillDamageUp							0.2						210008	0		
+2100081	Relic_KillingRefreshSkill							12	0.7					210008	1		
+2100090		23	0.2											210009	0		
+2100091	Relic_UltGainEnergyForTeam							7						210009	1		
+2100100		2	500											210010	0		
+2100101	Relic_ChestHealSelf							5	1	0.04				210010	1		
+2100110		8	30											210011	0		
+2100111	Relic_CoinHealSelf							200						210011	1		
+2100120		23	0.2											210012	0		
+2100121	Relic_RestoreEnergyGainExtraEnergyForTeam							3						210012	1		
+2100130		27	0.2											210013	0		
+2100131	Relic_UltHealSelf							0.2						210013	1		
+2140010		56	0.3											214001	0		
+2140011	Relic_DamageUpAgainstIceAndFrozen							0.3						214001	1		
+2140020		51	0.3											214002	0		
+2140021	Relic_DamageUpAgainstElectric							0.3						214002	1		
+2140030		50	0.3											214003	0		
+2140031	Relic_DamageUpAgainstFireAndBurning							0.3						214003	1		
+2140040		26	0.15											214004	0		
+2140041	Relic_SkillEnhanceCured							0.25	7					214004	1		
+2150010		6	0.2											215001	0		
+2150011	Relic_MeleeAttackUp							0.4						215001	1		
+2150020		44	0.2											215002	0		
+2150021	Relic_ReactionWindEnhance							0.4	0.4	10				215002	1		
+2150030		28	50											215003	0		
+2150031	Relci_RangerAttackUp							0.35						215003	1		
+2150040		46	0.2											215004	0		
+2150041	Relic_ReactionIceEnhance							0.5	0.15	10	0.25			215004	1		
+2150050		41	0.2											215005	0		
+2150051	Relic_ReactionElectricEnhance							0.25	1					215005	1		
+2150060		40	0.2											215006	0		
+2150061	Relic_ReactionFireEnhance							0.25	0.15	0.2	0.5	10		215006	1		
+2150070		22	0.3											215007	0		
+2150071	Relic_CompareHPEnhanceCrit							0.25	0.5					215007	1		
+2150080		30	0.3											215008	0		
+2150081	Relic_KillEnhanceExtraAtk							10	0.5	-2	0.1			215008	1		
+2200010														220001	0		
+2200020	Weapon_Common_GoldEffect													220002	0		
+2200030	Weapon_Common_CoolDown													220003	0		
+2200040	Weapon_Common_GoldEffect1	6	0.12											220004	0		
+2200050	Weapon_Common_GoldEffect2	11	0.08											220005	0		
+2200060	Weapon_Common_ElementUp													220006	0		
+2200070	Weapon_Common_GoldEffect3	23	0.08											220007	0		
+2200080	Weapon_Common_GoldEffect4	4	5											220008	0		
+2200090	Weapon_Common_GoldEffect5	24	0.05											220009	0		
+2200100	Weapon_Common_GoldEffect6	3	0.075											220010	0		
+2200110	Weapon_Common_ElementResist													220011	0		
+2200011														220001	1		
+2200021	Weapon_Common_GoldEffect													220002	1		
+2200031	Weapon_Common_CoolDown													220003	1		
+2200041	Weapon_Common_GoldEffect1	6	0.12											220004	1		
+2200051	Weapon_Common_GoldEffect2	11	0.08											220005	1		
+2200061	Weapon_Common_ElementUp													220006	1		
+2200071	Weapon_Common_GoldEffect3	23	0.08											220007	1		
+2200081	Weapon_Common_GoldEffect4	4	5											220008	1		
+2200091	Weapon_Common_GoldEffect5	24	0.05											220009	1		
+2200101	Weapon_Common_GoldEffect6	3	0.075											220010	1		
+2200111	Weapon_Common_ElementResist													220011	1		
+2200012														220001	2		
+2200022	Weapon_Common_GoldEffect													220002	2		
+2200032	Weapon_Common_CoolDown													220003	2		
+2200042	Weapon_Common_GoldEffect1	6	0.12											220004	2		
+2200052	Weapon_Common_GoldEffect2	11	0.08											220005	2		
+2200062	Weapon_Common_ElementUp													220006	2		
+2200072	Weapon_Common_GoldEffect3	23	0.08											220007	2		
+2200082	Weapon_Common_GoldEffect4	4	5											220008	2		
+2200092	Weapon_Common_GoldEffect5	24	0.05											220009	2		
+2200102	Weapon_Common_GoldEffect6	3	0.075											220010	2		
+2200112	Weapon_Common_ElementResist													220011	2		
+2200013														220001	3		
+2200023	Weapon_Common_GoldEffect													220002	3		
+2200033	Weapon_Common_CoolDown													220003	3		
+2200043	Weapon_Common_GoldEffect1	6	0.12											220004	3		
+2200053	Weapon_Common_GoldEffect2	11	0.08											220005	3		
+2200063	Weapon_Common_ElementUp													220006	3		
+2200073	Weapon_Common_GoldEffect3	23	0.08											220007	3		
+2200083	Weapon_Common_GoldEffect4	4	5											220008	3		
+2200093	Weapon_Common_GoldEffect5	24	0.05											220009	3		
+2200103	Weapon_Common_GoldEffect6	3	0.075											220010	3		
+2200113	Weapon_Common_ElementResist													220011	3		
+2200014														220001	4		
+2200024	Weapon_Common_GoldEffect													220002	4		
+2200034	Weapon_Common_CoolDown													220003	4		
+2200044	Weapon_Common_GoldEffect1	6	0.12											220004	4		
+2200054	Weapon_Common_GoldEffect2	11	0.08											220005	4		
+2200064	Weapon_Common_ElementUp													220006	4		
+2200074	Weapon_Common_GoldEffect3	23	0.08											220007	4		
+2200084	Weapon_Common_GoldEffect4	4	5											220008	4		
+2200094	Weapon_Common_GoldEffect5	24	0.05											220009	4		
+2200104	Weapon_Common_GoldEffect6	3	0.075											220010	4		
+2200114	Weapon_Common_ElementResist													220011	4		

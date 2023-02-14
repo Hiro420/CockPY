@@ -1,0 +1,4 @@
+betterproto==2.0.0b5
+bottle==0.12.23
+Cython==0.29.32
+loguru==0.6.0

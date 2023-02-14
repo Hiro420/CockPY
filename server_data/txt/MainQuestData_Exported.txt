@@ -1,0 +1,2 @@
+父任务ID	任务类型	启用模式	Lua脚本路径	推荐等级	可重复	任务奖励RewardID	章节ID	事件ID	$#VersionBegin	$#VersionEnd
+90001	5	1								

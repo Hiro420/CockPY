@@ -1,0 +1,46 @@
+{
+  "radius": 100.0,
+  "points": {
+    "1": {
+      "type": "NORMAL",
+      "$type": "PersonalSceneJumpPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": -4.3984,
+        "y": -0.400001049,
+        "z": 48.9327126
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": false,
+      "cutsceneList": [],
+      "tranSceneId": 3,
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_CHURCH",
+      "triggerSize": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "open_time": 0.0,
+      "close_time": 0.0,
+      "tranPos": {
+        "x": 2355.0,
+        "y": 264.5,
+        "z": -685.5
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": -150.0,
+        "z": 0.0
+      }
+    }
+  },
+  "areas": {},
+  "forces": {},
+  "entities": {},
+  "doors": {}
+}

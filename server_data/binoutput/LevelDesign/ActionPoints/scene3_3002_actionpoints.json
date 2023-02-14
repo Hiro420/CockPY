@@ -1,0 +1,109 @@
+{
+  "sceneId": 3,
+  "actionPoints": [
+    {
+      "localId": 300200001,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1797.42273,
+        "y": 235.064835,
+        "z": -915.552368
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300200002,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1789.33179,
+        "y": 236.418579,
+        "z": -910.7392
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300200003,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1798.06885,
+        "y": 237.370865,
+        "z": -949.376343
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300200004,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1765.20374,
+        "y": 250.293579,
+        "z": -861.741638
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300200005,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1767.85229,
+        "y": 250.187729,
+        "z": -856.166443
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300200006,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1828.85815,
+        "y": 235.7605,
+        "z": -945.7825
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300200007,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 1786.93042,
+        "y": 250.642,
+        "z": -969.201843
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 300200008,
+      "type": "LupiColosseumPoint",
+      "pos": {
+        "x": 1994.0,
+        "y": 250.891876,
+        "z": -260.5
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "sceneId": 20006,
+  "monsters": [
+    {
+      "groupId": 220006005,
+      "mapInstId": 61,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 10.0
+    },
+    {
+      "groupId": 220006001,
+      "mapInstId": 2,
+      "routeId": 0,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.3
+    },
+    {
+      "groupId": 220006001,
+      "mapInstId": 3,
+      "routeId": 0,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.3
+    },
+    {
+      "groupId": 220006002,
+      "mapInstId": 28,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 1.3
+    },
+    {
+      "groupId": 220006005,
+      "mapInstId": 64,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 3.0
+    },
+    {
+      "groupId": 220006005,
+      "mapInstId": 65,
+      "routeId": 0,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 3.0
+    },
+    {
+      "groupId": 220006002,
+      "mapInstId": 33,
+      "routeId": 2,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.3
+    },
+    {
+      "groupId": 220006002,
+      "mapInstId": 34,
+      "routeId": 3,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.3
+    },
+    {
+      "groupId": 220006002,
+      "mapInstId": 54,
+      "routeId": 1,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.3
+    },
+    {
+      "groupId": 220006002,
+      "mapInstId": 36,
+      "routeId": 0,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.0
+    },
+    {
+      "groupId": 220006002,
+      "mapInstId": 37,
+      "routeId": 0,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.0
+    },
+    {
+      "groupId": 220006004,
+      "mapInstId": 49,
+      "routeId": 0,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.0
+    },
+    {
+      "groupId": 220006003,
+      "mapInstId": 15,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 1.0
+    },
+    {
+      "groupId": 220006003,
+      "mapInstId": 16,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 1.0
+    },
+    {
+      "groupId": 220006003,
+      "mapInstId": 17,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 1.0
+    },
+    {
+      "groupId": 220006005,
+      "mapInstId": 42,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 2.0
+    },
+    {
+      "groupId": 220006005,
+      "mapInstId": 22,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 2.0
+    },
+    {
+      "groupId": 220006005,
+      "mapInstId": 23,
+      "routeId": 0,
+      "disableWander": true,
+      "disableSensing": false,
+      "visionScale": 2.0
+    },
+    {
+      "groupId": 220006002,
+      "mapInstId": 43,
+      "routeId": 4,
+      "disableWander": false,
+      "disableSensing": false,
+      "visionScale": 1.5
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+	"attachMap" :
+	{
+		"Mask_Diluc" :
+		{
+			"slotName": "CineHead",
+			"attachPath": "ART/Others/AvatarItem/AvatarItem_Diluc_Mask",
+		},
+		"Mask_PlayerBoy" :
+		{
+			"slotName": "CineHead",
+			"attachPath": "ART/Others/AvatarItem/AvatarItem_PlayerBoy_Mask",
+		},
+		"Mask_PlayerGirl" :
+		{
+			"slotName": "CineHead",
+			"attachPath": "ART/Others/AvatarItem/AvatarItem_PlayerGirl_Mask",
+		},
+	}
+}

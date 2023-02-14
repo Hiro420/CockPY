@@ -1,0 +1,26 @@
+{
+  "sceneId": 31204,
+  "monsters": [
+    {
+      "groupId": 231204003,
+      "mapInstId": 3001,
+      "aiGroupID": 231204003,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 231204004,
+      "mapInstId": 4001,
+      "aiGroupID": 231204004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 231204004,
+      "mapInstId": 4002,
+      "aiGroupID": 231204004,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    }
+  ]
+}

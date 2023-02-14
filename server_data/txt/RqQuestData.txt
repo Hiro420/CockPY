@@ -1,0 +1,53 @@
+子任务ID	父任务ID	序列	子任务组	[领取条件]组合	[领取条件]1类型	[领取条件]1参数1	[领取条件]1参数2	[领取条件]1参数3	[领取条件]2类型	[领取条件]2参数1	[领取条件]2参数2	[领取条件]2参数3	[完成条件]组合	[完成条件]1类型	[完成条件]1参数1	[完成条件]1复杂参数	[完成条件]1次数	[完成条件]2类型	[完成条件]2参数1	[完成条件]2复杂参数	[完成条件]2次数	[完成条件]3类型	[完成条件]3参数1	[完成条件]3复杂参数	[完成条件]3次数	[失败条件]组合	[失败条件]1类型	[失败条件]1参数1	[失败条件]1复杂参数	[失败条件]1次数	[失败条件]2类型	[失败条件]2参数1	[失败条件]2复杂参数	[失败条件]2次数	[任务指引]类型	[任务指引]自动开启或关闭	[任务指引]参数1	[任务指引]参数2	[任务指引]场景ID	[任务指引]样式	[任务指引]显示层级	场景内指引	完成父任务	失败父任务	是存档点	[任务道具]ID	[任务道具]数量	[奖励物品]1ID	[奖励物品]1数量	[奖励物品]2ID	[奖励物品]2数量	[奖励物品]3ID	[奖励物品]3数量	[奖励物品]4ID	[奖励物品]4数量	[奖励物品]5ID	[奖励物品]5数量	[开始执行]1类型	[开始执行]1参数1	[开始执行]1参数2	[开始执行]1参数3	[开始执行]2类型	[开始执行]2参数1	[开始执行]2参数2	[执行]1类型	[执行]1参数1	[执行]1参数2	[执行]2类型	[执行]2参数1	[执行]2参数2	[执行]3类型	[执行]3参数1	[执行]3参数2	[失败执行]1类型	[失败执行]1参数1	[失败执行]1参数2	独占NPC	共享NPC	独占优先级	$#VersionBegin	$#VersionEnd
+3000001	30000	1												110	{PatternID}												8	3000001							1		{QuestRescuePos}	30	3	2				1														25	{PatternID}	{QuestRescuePos}														26	{PatternID}		{QuestNpcID}				
+3000002	30000	2			1	3000001	3							2	3000004																				2		{QuestNpcID}		3	2					1																																{QuestNpcID}				
+3000003	30000	3			1	3000002	3							2	3000006																				2		{QuestNpcID}		3	2					1																				1	{QuestGatherID}	{QuestGatherNum}										{QuestNpcID}				
+3000004	30000	4			1	3000002	3						2	2	3000010			2	3000011								2	3000009															1	1																																					
+3000101	30001	1												110	{PatternID}												8	3000101							1		{QuestRescuePos}	30	3	2				1	1													25	{PatternID}	{QuestRescuePos}	{MonsterLevel}													26	{PatternID}		{QuestNpcID}				
+3000102	30001	2			1	3000101	3							2	3000101												8	3000102							2		{QuestNpcID}		3	2			1	1	1																																{QuestNpcID}				
+3000103	30001	3			1	99902	3							2	3000106																				2		{QuestNpcID}		3	2					1																				1	{QuestGatherID}	{QuestGatherNum}														
+3000104	30001	4			1	99902	3						2	2	3000110			2	3000111								2	3000109															1	1																																					
+3000201	30002	1												110	{PatternID}												8	3000201							1		{QuestRescuePos}	30	3	2				1	1													25	{PatternID}	{QuestRescuePos}	{MonsterLevel}													26	{PatternID}		{QuestNpcID}				
+3000202	30002	2			1	3000201	3							2	3000201												8	3000202							2		{QuestNpcID}		3	2			1	1	1																																{QuestNpcID}				
+3000203	30002	3			1	99902	3							2	3000206																				2		{QuestNpcID}		3	2					1																				1	{QuestGatherID}	{QuestGatherNum}														
+3000204	30002	4			1	99902	3						2	2	3000210			2	3000211								2	3000209															1	1																																					
+3000301	30003	1												110	{PatternID}												8	3000301							1		{QuestRescuePos}	30	3	2				1	1													25	{PatternID}	{QuestRescuePos}	{MonsterLevel}													26	{PatternID}		{QuestNpcID}				
+3000302	30003	2			1	3000301	3							2	3000301												8	3000302							2		{QuestNpcID}		3	2			1	1	1																																{QuestNpcID}				
+3000303	30003	3			1	99902	3							2	3000306																				2		{QuestNpcID}		3	2					1																				1	{QuestGatherID}	{QuestGatherNum}														
+3000304	30003	4			1	99902	3						2	2	3000310			2	3000311								2	3000309															1	1																																					
+3000401	30004	1												110	{PatternID}												8	3000401							1		{QuestRescuePos}	30	3	2				1	1													25	{PatternID}	{QuestRescuePos}	{MonsterLevel}													26	{PatternID}		{QuestNpcID}				
+3000402	30004	2			1	3000401	3							2	3000401												8	3000402							2		{QuestNpcID}		3	2			1	1	1																																{QuestNpcID}				
+3000403	30004	3			1	99902	3							2	3000406																				2		{QuestNpcID}		3	2					1																				1	{QuestGatherID}	{QuestGatherNum}														
+3000404	30004	4			1	99902	3						2	2	3000410			2	3000411								2	3000409															1	1																																					
+3000501	30005	1												110	{PatternID}												8	3000501							1		{QuestRescuePos}	30	3	2				1	1													25	{PatternID}	{QuestRescuePos}	{MonsterLevel}													26	{PatternID}		{QuestNpcID}				
+3000502	30005	2			1	3000501	3							2	3000501												8	3000502							2		{QuestNpcID}		3	2			1	1	1																																{QuestNpcID}				
+3000503	30005	3			1	99902	3							2	3000506																				2		{QuestNpcID}		3	2					1																				1	{QuestGatherID}	{QuestGatherNum}														
+3000504	30005	4			1	99902	3						2	2	3000510			2	3000511								2	3000509															1	1																																					
+3000601	30006	1												110	{PatternID}												8	3000601							1		{QuestRescuePos}	30	3	2				1	1													25	{PatternID}	{QuestRescuePos}	{MonsterLevel}													26	{PatternID}		{QuestNpcID}				
+3000602	30006	2			1	3000601	3							2	3000601												8	3000602							2		{QuestNpcID}		3	2			1	1	1																																{QuestNpcID}				
+3000603	30006	3			1	99902	3							2	3000606																				2		{QuestNpcID}		3	2					1																				1	{QuestGatherID}	{QuestGatherNum}														
+3000604	30006	4			1	99902	3						2	2	3000610			2	3000611								2	3000609															1	1																																					
+3000701	30007	1												110	{PatternID}												8	3000701							1		{QuestRescuePos}	30	3	2				1	1													25	{PatternID}	{QuestRescuePos}	{MonsterLevel}													26	{PatternID}		{QuestNpcID}				
+3000702	30007	2			1	3000701	3							2	3000701												8	3000702							2		{QuestNpcID}		3	2			1	1	1																																{QuestNpcID}				
+3000703	30007	3			1	99902	3							2	3000706																				2		{QuestNpcID}		3	2					1																				1	{QuestGatherID}	{QuestGatherNum}														
+3000704	30007	4			1	99902	3						2	2	3000710			2	3000711								2	3000709															1	1																																					
+3001101	30011	1												2	3001104												8	3001101							2		{QuestNpcID}		3	2				1																																	{QuestNpcID}				
+3001102	30011	2			1	3001101	3							2	3001106																				2		{QuestNpcID}		3	2			1		1																				1	{QuestGatherID}	{QuestGatherNum}										{QuestNpcID}				
+3001201	30012	1												2	3001204												8	3001201							2		{QuestNpcID}		3	2				1																																	{QuestNpcID}				
+3001202	30012	2			1	3001201	3							2	3001206																				2		{QuestNpcID}		3	2			1		1																				1	{QuestGatherID}	{QuestGatherNum}										{QuestNpcID}				
+3001301	30013	1												2	3001304												8	3001301							2		{QuestNpcID}		3	2				1																																	{QuestNpcID}				
+3001302	30013	2			1	3001301	3							2	3001306																				2		{QuestNpcID}		3	2			1		1																				1	{QuestGatherID}	{QuestGatherNum}										{QuestNpcID}				
+3001401	30014	1												2	3001404												8	3001401							2		{QuestNpcID}		3	2				1																																	152101				
+3001402	30014	2			1	3001401	3							2	3001406																				2		{QuestNpcID}		3	2			1		1																				1	{QuestGatherID}	{QuestGatherNum}										152101				
+3001501	30015	1												2	3001504												8	3001501							2		{QuestNpcID}		3	2				1																																	{QuestNpcID}				
+3001502	30015	2			1	3001501	3							2	3001506																				2		{QuestNpcID}		3	2			1		1																				1	{QuestGatherID}	{QuestGatherNum}										{QuestNpcID}				
+3002101	30021	1												2	3002103												8	3002101							2		{QuestNpcID}		3	2				1		100314	1																														{QuestNpcID},{QuestNpcID2},{QuestNpcID3}				
+3002102	30021	2			1	3002101	3							2	3002102																				2		{QuestNpcID2}		3	2			1		1																				1	100314	1										{QuestNpcID2},{QuestNpcID3}				
+3002201	30022	1												2	3002203												8	3002201							2		{QuestNpcID}		3	2				1		100314	1																														{QuestNpcID},{QuestNpcID2},{QuestNpcID3}				
+3002202	30022	2			1	3002201	3							2	3002202																				2		{QuestNpcID2}		3	2			1		1																				1	100314	1										{QuestNpcID2},{QuestNpcID3}				
+3002301	30023	1												2	3002303												8	3002301							2		{QuestNpcID}		3	2				1		100314	1																														{QuestNpcID},{QuestNpcID2},{QuestNpcID3}				
+3002302	30023	2			1	3002301	3							2	3002302																				2		{QuestNpcID2}		3	2			1		1																				1	100314	1										{QuestNpcID2},{QuestNpcID3}				
+3002401	30024	1												2	3002403												8	3002401							2		{QuestNpcID}		3	2				1		100314	1																														{QuestNpcID},{QuestNpcID2},{QuestNpcID3}				
+3002402	30024	2			1	3002401	3							2	3002402																				2		{QuestNpcID2}		3	2			1		1																				1	100314	1										{QuestNpcID2},{QuestNpcID3}				
+3002501	30025	1												2	3002503												8	3002501							2		{QuestNpcID}		3	2				1		100314	1																														{QuestNpcID},{QuestNpcID2},{QuestNpcID3}				
+3002502	30025	2			1	3002501	3							2	3002502																				2		{QuestNpcID2}		3	2			1		1																				1	100314	1										{QuestNpcID2},{QuestNpcID3}				

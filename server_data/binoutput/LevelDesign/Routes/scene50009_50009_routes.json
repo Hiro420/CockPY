@@ -1,0 +1,217 @@
+{
+  "sceneId": 50009,
+  "routes": [
+    {
+      "localId": 1,
+      "name": "Route_001",
+      "type": "OneWay",
+      "rotType": "ROT_ROUND",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 39.4444962,
+            "y": 8.44000149,
+            "z": -137.987213
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 3.0,
+          "rotRoundReachDir": {
+            "x": -9.190356E-06,
+            "y": 180.345779,
+            "z": 3.18055472E-15
+          },
+          "rotRoundReachRounds": 0,
+          "rotRoundLeaveDir": {
+            "x": -9.190356E-06,
+            "y": 180.345779,
+            "z": 3.18055472E-15
+          },
+          "rotRoundWaitRounds": 0,
+          "reachStop": true
+        },
+        {
+          "pos": {
+            "x": 39.3070068,
+            "y": 8.440005,
+            "z": -160.7689
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 3.0,
+          "rotRoundReachDir": {
+            "x": -9.190356E-06,
+            "y": 180.345779,
+            "z": 3.18055472E-15
+          },
+          "rotRoundReachRounds": 0,
+          "rotRoundLeaveDir": {
+            "x": -9.190356E-06,
+            "y": 180.345779,
+            "z": 3.18055472E-15
+          },
+          "rotRoundWaitRounds": 0
+        },
+        {
+          "pos": {
+            "x": 39.300972,
+            "y": 8.440005,
+            "z": -161.76889
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 3.0,
+          "rotRoundReachDir": {
+            "x": 0.0,
+            "y": 90.9911652,
+            "z": 0.0
+          },
+          "rotRoundReachRounds": 0,
+          "rotRoundLeaveDir": {
+            "x": 0.0,
+            "y": 90.9911652,
+            "z": 0.0
+          },
+          "rotRoundWaitRounds": 0
+        },
+        {
+          "pos": {
+            "x": 67.92999,
+            "y": 8.440005,
+            "z": -162.264191
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 3.0,
+          "hasReachEvent": true,
+          "rotRoundReachDir": {
+            "x": 0.0,
+            "y": 90.9911652,
+            "z": 0.0
+          },
+          "rotRoundReachRounds": 0,
+          "rotRoundLeaveDir": {
+            "x": 0.0,
+            "y": 90.9911652,
+            "z": 0.0
+          },
+          "rotRoundWaitRounds": 0,
+          "reachStop": true
+        }
+      ]
+    },
+    {
+      "localId": 2,
+      "name": "Route_002",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 97.1923752,
+            "y": 21.0542183,
+            "z": -201.599991
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 98.27745,
+            "y": 21.5924282,
+            "z": -192.107437
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 33.8800163,
+            "y": 21.5924225,
+            "z": -194.202774
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 32.31127,
+            "y": 21.592432,
+            "z": -207.952621
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        }
+      ]
+    },
+    {
+      "localId": 3,
+      "name": "Route_003",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 46.46076,
+            "y": 11.65109,
+            "z": -126.266495
+          },
+          "waitTime": 0.0,
+          "reachStop": true
+        },
+        {
+          "pos": {
+            "x": 46.26392,
+            "y": 14.9830275,
+            "z": -126.062416
+          },
+          "waitTime": 0.0
+        },
+        {
+          "pos": {
+            "x": 45.94256,
+            "y": 14.9528208,
+            "z": -133.123245
+          },
+          "waitTime": 0.0
+        },
+        {
+          "pos": {
+            "x": 50.9145775,
+            "y": 14.74177,
+            "z": -133.4601
+          },
+          "waitTime": 0.0,
+          "hasReachEvent": true,
+          "reachStop": true
+        }
+      ]
+    },
+    {
+      "localId": 4,
+      "name": "Route_004",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 13.9204788,
+            "y": 9.070003,
+            "z": -156.9584
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": -2.63723946,
+            "y": 9.070003,
+            "z": -156.691681
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+入口ID	权重	模板ID	[过滤器]组合	[过滤器]1类型	[过滤器]1要素	[过滤器]1参数	[过滤器]2类型	[过滤器]2要素	[过滤器]2参数	[过滤器]3类型	[过滤器]3要素	[过滤器]3参数
+101	100	30000										
+102	100	30001	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		3	{PlayerLevel}	
+102	100	30002	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		3	{PlayerLevel}	
+101	100	30003	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		3	{PlayerLevel}	
+102	100	30004	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		3	{PlayerLevel}	
+101	100	30005	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		3	{PlayerLevel}	
+102	100	30006	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		3	{PlayerLevel}	
+101	100	30007	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		3	{PlayerLevel}	
+102	100	30011	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}				
+102	100	30012	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}				
+101	100	30013	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}				
+101	100	30014	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}				
+102	100	30015	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}				
+101	100	30021	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		2	{QuestNpcID2}	
+102	100	30022	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		2	{QuestNpcID2}	
+102	100	30023	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		2	{QuestNpcID2}	
+101	100	30024	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		2	{QuestNpcID2}	
+101	100	30025	1	1	{QuestRescuePos}	40,100	2	{QuestNpcID}		2	{QuestNpcID2}	

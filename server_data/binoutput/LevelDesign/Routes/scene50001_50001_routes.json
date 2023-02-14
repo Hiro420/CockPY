@@ -1,0 +1,59 @@
+{
+  "sceneId": 50001,
+  "routes": [
+    {
+      "localId": 1,
+      "name": "Platform_001",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 190.320221,
+            "y": 49.1515427,
+            "z": 196.844543
+          },
+          "targetVelocity": 5.0
+        },
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 190.921127,
+            "y": 48.76875,
+            "z": 226.313492
+          },
+          "targetVelocity": 5.0
+        }
+      ]
+    },
+    {
+      "localId": 2,
+      "name": "Platform_002",
+      "type": "Reciprocate",
+      "points": [
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 191.322632,
+            "y": 47.8475876,
+            "z": 269.180359
+          },
+          "targetVelocity": 5.0
+        },
+        {
+          "waitTime": 2.0,
+          "speedLevel": 1,
+          "pos": {
+            "x": 191.042053,
+            "y": 48.61698,
+            "z": 235.359146
+          },
+          "targetVelocity": 5.0
+        }
+      ]
+    }
+  ]
+}

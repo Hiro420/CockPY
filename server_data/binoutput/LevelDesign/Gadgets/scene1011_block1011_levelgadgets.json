@@ -1,0 +1,11 @@
+{
+  "sceneId": 1011,
+  "blockId": 1011,
+  "gadgets": [
+    {
+      "groupId": 201011048,
+      "mapInstId": 288,
+      "billboard_HasUIBar": true
+    }
+  ]
+}

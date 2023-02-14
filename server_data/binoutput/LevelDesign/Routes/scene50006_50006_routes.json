@@ -1,0 +1,95 @@
+{
+  "sceneId": 50006,
+  "routes": [
+    {
+      "localId": 50006001,
+      "name": "Route_50006001",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 360.9323,
+            "y": -11.3535643,
+            "z": 252.029327
+          },
+          "waitTime": 0.0,
+          "speedLevel": 2
+        },
+        {
+          "pos": {
+            "x": 360.0753,
+            "y": -11.4596777,
+            "z": 243.282715
+          },
+          "waitTime": 0.0,
+          "speedLevel": 2
+        },
+        {
+          "pos": {
+            "x": 344.925018,
+            "y": -11.3533144,
+            "z": 243.843323
+          },
+          "waitTime": 0.0,
+          "speedLevel": 2
+        },
+        {
+          "pos": {
+            "x": 345.3587,
+            "y": -12.7412872,
+            "z": 263.9303
+          },
+          "waitTime": 0.0,
+          "speedLevel": 2
+        }
+      ]
+    },
+    {
+      "localId": 50006002,
+      "name": "Route_50006002",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 326.2266,
+            "y": -11.353507,
+            "z": 252.773468
+          },
+          "waitTime": 0.0,
+          "speedLevel": 2
+        },
+        {
+          "pos": {
+            "x": 326.6803,
+            "y": -11.3536472,
+            "z": 243.442749
+          },
+          "waitTime": 0.0,
+          "speedLevel": 2
+        },
+        {
+          "pos": {
+            "x": 341.892029,
+            "y": -11.4918919,
+            "z": 243.769363
+          },
+          "waitTime": 0.0,
+          "speedLevel": 2
+        },
+        {
+          "pos": {
+            "x": 341.138672,
+            "y": -12.7412949,
+            "z": 263.863953
+          },
+          "waitTime": 0.0,
+          "speedLevel": 2
+        }
+      ]
+    }
+  ]
+}

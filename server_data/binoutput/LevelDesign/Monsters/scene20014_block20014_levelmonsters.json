@@ -1,0 +1,157 @@
+{
+  "sceneId": 20014,
+  "monsters": [
+    {
+      "groupId": 220014003,
+      "mapInstId": 26,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014003,
+      "mapInstId": 27,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014003,
+      "mapInstId": 28,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014004,
+      "mapInstId": 29,
+      "aiGroupID": 220014004,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014004,
+      "mapInstId": 30,
+      "aiGroupID": 220014004,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014004,
+      "mapInstId": 35,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014005,
+      "mapInstId": 1,
+      "aiGroupID": 220014005,
+      "aiSensingTemplate": "HighAlertTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014005,
+      "mapInstId": 2,
+      "aiGroupID": 220014005,
+      "aiSensingTemplate": "HighAlertTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014005,
+      "mapInstId": 3,
+      "aiGroupID": 220014005,
+      "aiSensingTemplate": "HighAlertTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014005,
+      "mapInstId": 4,
+      "aiGroupID": 220014005,
+      "aiSensingTemplate": "HighAlertTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014005,
+      "mapInstId": 5,
+      "aiGroupID": 220014005,
+      "aiSensingTemplate": "HighAlertTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014006,
+      "mapInstId": 6001,
+      "aiGroupID": 220014006,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014006,
+      "mapInstId": 6002,
+      "aiGroupID": 220014006,
+      "routeId": 8,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014006,
+      "mapInstId": 6003,
+      "aiGroupID": 220014006,
+      "routeId": 9,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014007,
+      "mapInstId": 12,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting",
+      "billboard_HasUIBar": true
+    },
+    {
+      "groupId": 220014007,
+      "mapInstId": 17,
+      "routeId": 6,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014007,
+      "mapInstId": 18,
+      "routeId": 5,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014007,
+      "mapInstId": 19,
+      "routeId": 3,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014007,
+      "mapInstId": 20,
+      "routeId": 4,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014008,
+      "mapInstId": 23,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    },
+    {
+      "groupId": 220014008,
+      "mapInstId": 24,
+      "disableWander": true,
+      "aiSensingTemplate": "DefaultTemplate",
+      "aiNeuronSetting": "DefaultSetting"
+    }
+  ]
+}

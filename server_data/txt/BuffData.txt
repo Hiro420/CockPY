@@ -1,0 +1,164 @@
+ID	组ID	持续时间	自身叠加类型	Ability名称	Modifier名称
+1	1	180	0	Item_Food_Attack	AttackModifier
+2	1	180	0	Item_Food_Defence	DefenceModifier
+3	2	180	0	Item_Food_MaxHP	MaxHPModifier
+100101	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_1
+100102	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_2
+100103	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_3
+100104	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_4
+100201	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv2_1
+100202	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv2_2
+100203	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv2_3
+100204	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv2_4
+100301	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv3_1
+100302	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv3_2
+100303	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv3_3
+100304	10	31	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv3_4
+105101	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv51_1
+105102	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv51_2
+105103	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv51_3
+105104	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv51_4
+105201	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv52_1
+105202	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv52_2
+105203	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv52_3
+105204	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv52_4
+105301	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv53_1
+105302	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv53_2
+105303	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv53_3
+105304	10		0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv53_4
+110101	11	300	0	Atk_Team	Atk_Team_Modifier_lv1_1
+110102	11	300	0	Atk_Team	Atk_Team_Modifier_lv1_2
+110103	11	300	0	Atk_Team	Atk_Team_Modifier_lv1_3
+110104	11	300	0	Atk_Team	Atk_Team_Modifier_lv1_4
+110201	11	300	0	Atk_Team	Atk_Team_Modifier_lv2_1
+110202	11	300	0	Atk_Team	Atk_Team_Modifier_lv2_2
+110203	11	300	0	Atk_Team	Atk_Team_Modifier_lv2_3
+110204	11	300	0	Atk_Team	Atk_Team_Modifier_lv2_4
+110301	11	300	0	Atk_Team	Atk_Team_Modifier_lv3_1
+110302	11	300	0	Atk_Team	Atk_Team_Modifier_lv3_2
+110303	11	300	0	Atk_Team	Atk_Team_Modifier_lv3_3
+110304	11	300	0	Atk_Team	Atk_Team_Modifier_lv3_4
+120101	12	300	0	Def_Team	Def_Team_Modifier_lv1_1
+120102	12	300	0	Def_Team	Def_Team_Modifier_lv1_2
+120103	12	300	0	Def_Team	Def_Team_Modifier_lv1_3
+120104	12	300	0	Def_Team	Def_Team_Modifier_lv1_4
+120201	12	300	0	Def_Team	Def_Team_Modifier_lv2_1
+120202	12	300	0	Def_Team	Def_Team_Modifier_lv2_2
+120203	12	300	0	Def_Team	Def_Team_Modifier_lv2_3
+120204	12	300	0	Def_Team	Def_Team_Modifier_lv2_4
+120301	12	300	0	Def_Team	Def_Team_Modifier_lv3_1
+120302	12	300	0	Def_Team	Def_Team_Modifier_lv3_2
+120303	12	300	0	Def_Team	Def_Team_Modifier_lv3_3
+120304	12	300	0	Def_Team	Def_Team_Modifier_lv3_4
+140201	14	300	0	Critical_Team	Critical_Team_Modifier_lv2_1
+140202	14	300	0	Critical_Team	Critical_Team_Modifier_lv2_2
+140203	14	300	0	Critical_Team	Critical_Team_Modifier_lv2_3
+140301	14	300	0	Critical_Team	Critical_Team_Modifier_lv3_1
+140302	14	300	0	Critical_Team	Critical_Team_Modifier_lv3_2
+140303	14	300	0	Critical_Team	Critical_Team_Modifier_lv3_3
+140304	14	300	0	Critical_Team	Critical_Team_Modifier_lv3_4
+200101	20		0	revive_buff	revive_buff_Modifier_lv1_1
+200102	20		0	revive_buff	revive_buff_Modifier_lv1_2
+200103	20		0	revive_buff	revive_buff_Modifier_lv1_3
+200104	20		0	revive_buff	revive_buff_Modifier_lv1_4
+200201	20		0	revive_buff	revive_buff_Modifier_lv2_1
+200202	20		0	revive_buff	revive_buff_Modifier_lv2_2
+200203	20		0	revive_buff	revive_buff_Modifier_lv2_3
+200204	20	300	0	revive_buff	revive_buff_Modifier_lv2_4
+200301	20		0	revive_buff	revive_buff_Modifier_lv3_1
+200302	20		0	revive_buff	revive_buff_Modifier_lv3_2
+200303	20		0	revive_buff	revive_buff_Modifier_lv3_3
+150301	15	300	0	Stamina_Fly_lv3_1	Stamina_Fly_Modifier_lv3_1
+150302	15	300	0	Stamina_Fly_lv3_2	Stamina_Fly_Modifier_lv3_2
+150303	15	300	0	Stamina_Fly_lv3_3	Stamina_Fly_Modifier_lv3_3
+150311	15	300	0	Stamina_Climb_lv3_1	Stamina_Climb_Modifier_lv3_1
+150312	15	300	0	Stamina_Climb_lv3_2	Stamina_Climb_Modifier_lv3_2
+150313	15	300	0	Stamina_Climb_lv3_3	Stamina_Climb_Modifier_lv3_3
+160201	16	300	0	Critical_Team	Physical_Team_Modifier_lv2_1
+160202	16	300	0	Critical_Team	Physical_Team_Modifier_lv2_2
+160203	16	300	0	Critical_Team	Physical_Team_Modifier_lv2_3
+170201	17	60	0	MoveSpeed_lv2_1	MoveSpeed_Modifier_lv2_1
+130101	13	300	0	Element_Def_Team	Element_Def_Fire
+130102	13	300	0	Element_Def_Team	Element_Def_Water
+130103	13	300	0	Element_Def_Team	Element_Def_Ice
+130104	13	300	0	Element_Def_Team	Element_Def_Wind
+130105	13	300	0	Element_Def_Team	Element_Def_Elec
+130106	13	300	0	Element_Def_Team	Element_Def_Rock
+130107	13	300	0	Element_Def_Team	Element_Def_Grass
+135101	13	300	0	Element_Atk_Team	Element_Atk_Fire
+135102	13	300	0	Element_Atk_Team	Element_Atk_Water
+135103	13	300	0	Element_Atk_Team	Element_Atk_Ice
+135104	13	300	0	Element_Atk_Team	Element_Atk_Wind
+135105	13	300	0	Element_Atk_Team	Element_Atk_Elec
+135106	13	300	0	Element_Atk_Team	Element_Atk_Rock
+135107	13	300	0	Element_Atk_Team	Element_Atk_Grass
+130121	13	300	0	Def_Element_lv2_1	Def_Element_Modifier_lv1_1
+130122	13	300	0	Def_Element_lv2_1	Def_Element_Modifier_lv1_2
+130123	13	300	0	Def_Element_lv2_1	Def_Element_Modifier_lv1_3
+130124	13	300	0	Def_Element_lv2_1	Def_Element_Modifier_lv2_1
+980101	98	600	0	Item_Food_Attack	AttackModifier
+980102	98	600	0	Critical_Team	Physical_Team_Modifier_lv2_3
+980103	98	600	0	Atk_Team	Atk_Team_Modifier_lv2_2
+980104	98	600	0	Critical_Team	Critical_Team_Modifier_lv3_4
+980201	98	600	0	Item_Food_Defence	DefenceModifier
+980202	98	600	0	Def_Team	Def_Team_Modifier_lv2_2
+980301	98	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv1_1
+980302	98	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv2_1
+980303	98	30	0	ReHP_Ins&Con	ReHP_Ins&Con_Modifier_lv3_1
+970101	70	3000000	0	Atk_Dungeon	Atk_Dungeon_Ratio
+970102	71	3000000	0	Atk_Dungeon	Atk_Dungeon_Delta
+970103	72	3000000	0	Atk_Dungeon	Critical_Dungeon
+970104	73	3000000	0	Atk_Dungeon	PhyAdd_Dungeon_Delta
+970105	74	3000000	0	Atk_Dungeon	ElemMastery_Dungeon_Delta
+970106	75	3000000	0	Atk_Dungeon	ChargeEfficiency_Dungeon_Delta
+970201	76	3000000	0	Def_Dungeon	Def_Dungeon_Ratio
+970202	77	3000000	0	Def_Dungeon	Def_Dungeon_Delta
+970203	78	3000000	0	Def_Dungeon	Element_Dungeon_Def_Fire
+970204	79	3000000	0	Def_Dungeon	Element_Dungeon_Def_Water
+970205	80	3000000	0	Def_Dungeon	Element_Dungeon_Def_Ice
+970206	81	3000000	0	Def_Dungeon	Element_Dungeon_Def_Wind
+970207	82	3000000	0	Def_Dungeon	Element_Dungeon_Def_Elec
+970208	83	3000000	0	Def_Dungeon	Element_Dungeon_Def_Rock
+970209	84	3000000	0	Def_Dungeon	Element_Dungeon_Def_Grass
+970210	85	3000000	0	Def_Dungeon	Element_Dungeon_Def_All
+970211	86	3000000	0	Def_Dungeon	PhySub_Dungeon_Delta
+970212	87	3000000	0	Def_Dungeon	MaxHP_Dungeon_Ratio
+970301	88	3000000	0	Stamina_Sprint_Dungeon	Stamina_Sprint_Dungeon_1
+970401	89	3000000	0	MoveSpeed_Dungeon	MoveSpeed_Dungeon_1
+970501	90	3000000	0	ReHP_Ins&Con_Dungeon	ReHP_Ins&Con_Dungeon_1
+970502	91	3000000	0	ReHP_Ins&Con_Dungeon	ReHP_Ins&Con_Dungeon_2
+970503	92	3000000	0	ReHP_Ins&Con_Dungeon	ReHP_Ins&Con_Dungeon_3
+970504	93	3000000	0	Atk_Dungeon	Element_Art_Dungeon_Ratio
+970505	94	3000000	0	Atk_Dungeon	NormalAttack_Dungeon_Ratio
+970506	95	3000000	0	Support_Dungeon	Heal_Dungeon_Ratio
+970507	96	3000000	0	Atk_Dungeon	Elemental_Burst_Dungeon_Ratio
+970508	97	3000000	0	Atk_Dungeon	Sprint_Attack_Ratio
+970509	98	3000000	0	Atk_FeatureTag_Dungeon	Atk_FeatureTag_Dungeon_1
+970510	99	3000000	0	Atk_WeaponType_Dungeon	Atk_WeaponType_Dungeon_1
+970511	100	3000000	0	Atk_Dungeon	Atk_HighHP_Dungeon
+970512	101	3000000	0	Atk_Dungeon	Atk_LowHP_Dungeon
+970513	102	3000000	0	Atk_State_Dungeon_1	Atk_State_Dungeon_1
+970514	103	3000000	0	Atk_HitHeadBox_Dungeon	Atk_HitBox_Dungeon
+970515	104	3000000	0	Atk_Dungeon	AtkUp_DefDown_Dungeon
+970516	105	3000000	0	Def_Dungeon	SubHurt_Dungeon_Delta
+970517	106	3000000	0	Def_Dungeon	Def_HighHP_Dungeon
+970518	107	3000000	0	Def_Dungeon	Def_LowHP_Dungeon
+970519	108	3000000	0	Support_Dungeon	KillHealHp_Dungeon_Ratio
+970520	109	3000000	0	Support_Dungeon	KillGetBuff_Dungeon_1
+970521	110	3000000	0	Support_Dungeon	AttackSpeed_Dungeon
+970522	111	3000000	0	Suport_ResetCDWhenSkillHit_Dungeon	ResetCDWhenSkillHit_Dungeon
+970523	112	3000000	0	Support_Dungeon	UltimateSkillHealHp_Dungeon
+970524	113	3000000	0	Support_Dungeon	ResetCDWhenKill_Dungeon
+970525	114	3000000	0	Support_Dungeon	Stamina_ExtraAttack_Dungeon
+970526	115	3000000	0	Stamina_Sprint_Dungeon	Stamina_Sprint_Dungeon_1
+970527	116	3000000	0	Support_Dungeon	SkillCD_Dungeon_Ratio
+970528	117	3000000	0	Support_Dungeon	SkillCD_Dungeon_Ratio
+139901	13	300	0	Elec_Team	Elec_Team_Modifier_lv2_1
+139902	13	300	0	Elec_Team	Elec_Team_Modifier_lv2_2
+139903	13	300	0	Elec_Team	Elec_Team_Modifier_lv2_3
+139904	13	300	0	Fire_Team	Fire_Team_Modifier_lv2_1
+139905	13	300	0	Fire_Team	Fire_Team_Modifier_lv2_2
+139906	13	300	0	Fire_Team	Fire_Team_Modifier_lv2_3
+139907	13	300	0	Water_Team	Water_Team_Modifier_lv2_1
+139908	13	300	0	Water_Team	Water_Team_Modifier_lv2_2
+139909	13	300	0	Water_Team	Water_Team_Modifier_lv2_3

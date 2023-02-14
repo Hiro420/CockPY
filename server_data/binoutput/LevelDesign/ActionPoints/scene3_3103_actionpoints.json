@@ -1,0 +1,31 @@
+{
+  "sceneId": 3,
+  "actionPoints": [
+    {
+      "localId": 310300001,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 548.3301,
+        "y": 231.26181,
+        "z": 1686.63171
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    },
+    {
+      "localId": 310300002,
+      "type": "LandingPoint",
+      "pos": {
+        "x": 583.669739,
+        "y": 230.742691,
+        "z": 1659.81067
+      },
+      "capacity": 99,
+      "actZoneInnerRadius": 1.0,
+      "actZoneOuterRadius": 2.0,
+      "faceCenter": true
+    }
+  ]
+}
