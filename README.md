@@ -31,6 +31,9 @@ To run CockPY:
 - now can kill all manually spawned enemies at once by adding a STAR type map mark
 
 
+# SPECIAL THANKS
+- [akioukun](https://github.com/akioukun) for contributing and adding an automatic setup
+
 
 # CREDITS
 [timing1337](https://github.com/timing1337) for [saturnine](https://github.com/timing1337/saturnine) as base of the ps. without you I wouldnt make the ps because too lazy
