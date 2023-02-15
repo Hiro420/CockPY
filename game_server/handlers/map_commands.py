@@ -6,6 +6,9 @@ import enet
 from random import randrange
 
 scene_entities = [33554678]
+hp_map = [
+    # 33554678: 1000000,
+]
 
 router = HandlerRouter()
 @router(CmdID.MarkMapReq)

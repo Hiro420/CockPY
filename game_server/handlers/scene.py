@@ -11,6 +11,7 @@ import enet
 import re
 import os
 from lib.proto import Vector
+from map_commands import hp_map
 
 router = HandlerRouter()
 
@@ -249,13 +250,33 @@ def handle_DungeonEntryInfo(conn: Connection, msg: DungeonEntryInfoReq):
         conn.send(dungeon_entry_info_rsp)
 
 @router(CmdID.CombatInvocationsNotify)
-def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitNotify):
-    combat_invocations_notify = CombatInvocationsNotify()
-    combat_invocations_notify.invoke_list = CombatInvokeEntry()
-    combat_invocations_notify.invoke_list.forward_type = ForwardType(1)
-    combat_invocations_notify.invoke_list.argument_type = CombatTypeArgument(1)
-    combat_invocations_notify.invoke_list.combat_data = msg.invoke_list.combat_data
-    conn.send(combat_invocations_notify)
+def handle_combat_invocations_notify(conn: Connection, msg: CombatInvocationsNotify):
+    for invoke in msg.invoke_list:
+        if invoke.argument_type == CombatTypeArgument.COMBAT_EVT_BEING_HIT:
+            hitInfo = EvtBeingHitInfo.FromString(invoke.combat_data)
+            hp_map[hitInfo.attack_result.defense_id] -= hitInfo.attack_result.damage
+            if hp_map[hitInfo.attack_result.defense_id] <= 0:
+                # kill
+                hp_map.pop(hitInfo.attack_result.defense_id)
+                LSCN = LifeStateChangeNotify()
+                LSCN.entityId = hitInfo.attack_result.defense_id
+                LSCN.lifeState = LifeState.LIFE_DEAD
+                LSCN.sourceEntityId = hitInfo.attack_result.attacker_id
+                LSCN.dieType: PlayerDieType.PLAYER_DIE_KILL_BY_MONSTER
+
+                SEDN = SceneEntityDisappearNotify()
+                SEDN.disappearType = VisionType.VISION_DIE
+                SEDN.entityList = [hitInfo.attack_result.defense_id]
+
+                conn.send(LSCN)
+                conn.send(SEDN)
+            else:
+                # hurt
+                EFPUN = EntityFightPropUpdateNotify()
+                EFPUN.entityId = hitInfo.attack_result.defense_id
+                EFPUN.fightPropMap = { 1010: hp_map[hitInfo.attack_result.defense_id] }
+                conn.send(EFPUN)
+    # Done!
 
 @router(CmdID.EvtBeingHitsCombineNotify)
 def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitsCombineNotify):
