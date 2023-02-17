@@ -29,7 +29,7 @@ To run CockPY:
 # RECENT CHANGELOG:
 - now can spawn enemies via 'spawn (enemy id)' in the map mark name (just add a mark of type MISSION and call it 'spawn (enemy id)' but replace (enemy id) with the actual enemy id
 - now can kill all manually spawned enemies at once by adding a STAR type map mark
-
+- now can recieve a goofy mail from Hiro
 
 # SPECIAL THANKS
 - [akioukun](https://github.com/akioukun) for contributing and adding an automatic setup
