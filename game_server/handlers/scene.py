@@ -168,7 +168,7 @@ def handle_get_all_mail(conn: Connection, msg: GetAllMailReq):
     # Create the mail text content with desired values
     real_mail_list.mail_text_content = MailTextContent()
     real_mail_list.mail_text_content.title = "Welcome to CockPY"
-    real_mail_list.mail_text_content.content = "Welcome to CockPY, enjoy playing and if you really like the ps then please contribue"
+    real_mail_list.mail_text_content.content = "Welcome to CockPY, enjoy playing and if you really like the ps then please contribute"
     real_mail_list.mail_text_content.sender = "Hiro"
 
     # Create the mail item list with desired values
