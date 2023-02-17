@@ -11,6 +11,9 @@ import enet
 import re
 import os
 from lib.proto import Vector
+from . import map_commands
+from random import randrange
+import betterproto
 
 router = HandlerRouter()
 
@@ -148,6 +151,48 @@ def handle_scene_done(conn: Connection, msg: EnterSceneDoneReq):
 def handle_enter_world(conn: Connection, msg: PostEnterSceneReq):
     conn.send(PostEnterSceneRsp(retcode=0))
 
+@router(CmdID.GetAllMailReq)
+def handle_get_all_mail(conn: Connection, msg: GetAllMailReq):
+    get_all_mail = GetAllMailRsp()
+    get_all_mail.retcode = 1
+    get_all_mail.mail_list = []
+
+    # Create the mail data with desired values
+    real_mail_list = MailData()
+    real_mail_list.mail_id = 4
+    real_mail_list.send_time = 1674910183
+    real_mail_list.expire_time = 1706446183
+    real_mail_list.is_read = True
+    real_mail_list.is_attachment_got = True
+
+    # Create the mail text content with desired values
+    real_mail_list.mail_text_content = MailTextContent()
+    real_mail_list.mail_text_content.title = "Welcome to CockPY"
+    real_mail_list.mail_text_content.content = "Welcome to CockPY, enjoy playing and if you really like the ps then please contribue"
+    real_mail_list.mail_text_content.sender = "Hiro"
+
+    # Create the mail item list with desired values
+    real_mail_list.item_list = []
+    mail_item = MailItem()
+    mail_item.equip_param = EquipParam()
+    mail_item.equip_param.item_id = 224
+    mail_item.equip_param.item_num = 10
+    real_mail_list.item_list.append(mail_item)
+
+    # Add the mail data to the mail list
+    get_all_mail.mail_list.append(real_mail_list)
+    conn.send(get_all_mail)
+
+    new_mail = MailChangeNotify()
+    new_mail.del_mail_id_list = []
+    new_mail.mail_list = []
+    new_mail.mail_list.append(real_mail_list)
+    conn.send(new_mail)
+
+    read_mail = ReadMailNotify()
+    read_mail.mail_id_list = []
+    read_mail.mail_id_list.append(4)
+
 @router(CmdID.BuyResinReq)
 def handle_buy_resin(conn: Connection, msg: BuyResinReq):
     buy_resin = BuyResinRsp()
@@ -249,35 +294,32 @@ def handle_DungeonEntryInfo(conn: Connection, msg: DungeonEntryInfoReq):
         conn.send(dungeon_entry_info_rsp)
 
 @router(CmdID.CombatInvocationsNotify)
-def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitNotify):
-    combat_invocations_notify = CombatInvocationsNotify()
-    combat_invocations_notify.invoke_list = CombatInvokeEntry()
-    combat_invocations_notify.invoke_list.forward_type = ForwardType(1)
-    combat_invocations_notify.invoke_list.argument_type = CombatTypeArgument(1)
-    combat_invocations_notify.invoke_list.combat_data = msg.invoke_list.combat_data
-    conn.send(combat_invocations_notify)
+def handle_combat_invocations_notify(conn: Connection, msg: CombatInvocationsNotify):
+    for invoke in msg.invoke_list:
+        if invoke.argument_type == CombatTypeArgument(1):
+            hitInfo = EvtBeingHitInfo.FromString(invoke.combat_data)
+            map_commands.hp_map[hitInfo.attack_result.defense_id] -= hitInfo.attack_result.damage
+            if map_commands.hp_map[hitInfo.attack_result.defense_id] <= 0:
+                # kill
+                map_commands.hp_map.pop(hitInfo.attack_result.defense_id)
+                lscn = LifeStateChangeNotify()
+                lscn.entity_id = hitInfo.attack_result.defense_id
+                lscn.life_state = LifeState(2)
+                lscn.source_entity_id = hitInfo.attack_result.attacker_id
+                lscn.die_type: PlayerDieType(1)
+                sedn = SceneEntityDisappearNotify()
+                sedn.disappear_type = VisionType(6)
+                sedn.entity_list = [hitInfo.attack_result.defense_id]
 
-@router(CmdID.EvtBeingHitsCombineNotify)
-def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitsCombineNotify):
-    combat_invocations_notify = EvtBeingHitsCombineNotify()
-    combat_invocations_notify.forward_type = ForwardType(1)
-    combat_invocations_notify.argument_type = EvtBeingHitInfo(1)
-    combat_invocations_notify.evt_being_hit_info_list = EvtBeingHitInfo()
-    combat_invocations_notify.evt_being_hit_info_list.peer_id = 1
-    combat_invocations_notify.evt_being_hit_info_list.attack_result = AttackResult()
-    combat_invocations_notify.evt_being_hit_info_list.attack_result.attacker_id = 10000005
-    combat_invocations_notify.evt_being_hit_info_list.attack_result.damage = 1
-    combat_invocations_notify.evt_being_hit_info_list.attack_result.defense_id = 1
-    combat_invocations_notify.evt_being_hit_info_list.attack_result.is_crit = 1
-    combat_invocations_notify.evt_being_hit_info_list.element_type = 1
-    combat_invocations_notify.evt_being_hit_info_list.damage_percentage = 100
-    combat_invocations_notify.evt_being_hit_info_list.damage_extra = 1
-    combat_invocations_notify.evt_being_hit_info_list.bonus_critical = 1
-    combat_invocations_notify.evt_being_hit_info_list.bonus_critical_hurt = 1
-    combat_invocations_notify.evt_being_hit_info_list.use_gadget_damage_action = 0
-    combat_invocations_notify.evt_being_hit_info_list.strike_type = 1
-    combat_invocations_notify.evt_being_hit_info_list.hit_collision = HitCollision()
-    conn.send(combat_invocations_notify)
+                conn.send(lscn)
+                conn.send(sedn)
+            else:
+                # hurt
+                efpun = EntityFightPropUpdateNotify()
+                efpun.entity_id = hitInfo.attack_result.defense_id
+                efpun.fight_prop_map = { 1010: map_commands.hp_map[hitInfo.attack_result.defense_id] }
+                conn.send(efpun)
+    # Done!
 
 @router(CmdID.PersonalSceneJumpReq)
 def handle_PersonalSceneJump(conn: Connection, msg: PersonalSceneJumpReq):
