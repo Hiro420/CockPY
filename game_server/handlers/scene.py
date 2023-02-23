@@ -296,8 +296,8 @@ def handle_DungeonEntryInfo(conn: Connection, msg: DungeonEntryInfoReq):
 @router(CmdID.EvtBeingHitsCombineNotify)
 def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitsCombineNotify):
     for invoke in msg.evt_being_hit_info_list:
-        if invoke.peer_id == 1:
-            hitInfo = EvtBeingHitInfo.FromString(invoke.combat_data)
+        #if invoke.peer_id == 1:
+            #hitInfo = EvtBeingHitInfo.FromString(invoke.combat_data)
             # kill
             #map_commands.hp_map.pop(hitInfo.attack_result.defense_id)
             #lscn = LifeStateChangeNotify()
