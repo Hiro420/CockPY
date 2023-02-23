@@ -20,7 +20,6 @@ To run CockPY:
 
 `py -m cockpy`
 # TODO:
-- add damage dealing
 - add monster spawning automatically using server lua
 - add artifact system
 - fix weapon sometimes dissapearing just like my dad
