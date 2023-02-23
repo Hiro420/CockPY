@@ -27,6 +27,8 @@ To run CockPY:
 - create a database (not in the near future)
 
 # RECENT CHANGELOG:
+- now enemies are lv90
+- you can deal damage to enemies (still not reduce their hp because dumb me didnt implement sending their hp)
 - now can spawn enemies via 'spawn (enemy id)' in the map mark name (just add a mark of type MISSION and call it 'spawn (enemy id)' but replace (enemy id) with the actual enemy id
 - now can kill all manually spawned enemies at once by adding a STAR type map mark
 - now can recieve a goofy mail from Hiro
