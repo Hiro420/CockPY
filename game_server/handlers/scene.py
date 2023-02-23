@@ -293,32 +293,25 @@ def handle_DungeonEntryInfo(conn: Connection, msg: DungeonEntryInfoReq):
         
         conn.send(dungeon_entry_info_rsp)
 
-@router(CmdID.CombatInvocationsNotify)
-def handle_combat_invocations_notify(conn: Connection, msg: CombatInvocationsNotify):
-    for invoke in msg.invoke_list:
-        if invoke.argument_type == CombatTypeArgument(1):
+@router(CmdID.EvtBeingHitsCombineNotify)
+def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitsCombineNotify):
+    for invoke in msg.evt_being_hit_info_list:
+        if invoke.peer_id == 1:
             hitInfo = EvtBeingHitInfo.FromString(invoke.combat_data)
-            map_commands.hp_map[hitInfo.attack_result.defense_id] -= hitInfo.attack_result.damage
-            if map_commands.hp_map[hitInfo.attack_result.defense_id] <= 0:
-                # kill
-                map_commands.hp_map.pop(hitInfo.attack_result.defense_id)
-                lscn = LifeStateChangeNotify()
-                lscn.entity_id = hitInfo.attack_result.defense_id
-                lscn.life_state = LifeState(2)
-                lscn.source_entity_id = hitInfo.attack_result.attacker_id
-                lscn.die_type: PlayerDieType(1)
-                sedn = SceneEntityDisappearNotify()
-                sedn.disappear_type = VisionType(6)
-                sedn.entity_list = [hitInfo.attack_result.defense_id]
-
-                conn.send(lscn)
-                conn.send(sedn)
-            else:
-                # hurt
-                efpun = EntityFightPropUpdateNotify()
-                efpun.entity_id = hitInfo.attack_result.defense_id
-                efpun.fight_prop_map = { 1010: map_commands.hp_map[hitInfo.attack_result.defense_id] }
-                conn.send(efpun)
+            # kill
+            #map_commands.hp_map.pop(hitInfo.attack_result.defense_id)
+            #lscn = LifeStateChangeNotify()
+            #lscn.entity_id = hitInfo.attack_result.defense_id
+            #lscn.life_state = LifeState(2)
+            #lscn.source_entity_id = hitInfo.attack_result.attacker_id
+            #lscn.die_type: PlayerDieType(1)
+            #sedn = SceneEntityDisappearNotify()
+            #sedn.disappear_type = VisionType(6)
+            #sedn.entity_list = [hitInfo.attack_result.defense_id]
+            #conn.send(lscn)
+            #conn.send(sedn)
+        newpacket = msg
+        conn.send(newpacket)
     # Done!
 
 @router(CmdID.PersonalSceneJumpReq)

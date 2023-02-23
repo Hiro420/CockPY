@@ -69,6 +69,9 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                     command_to_int = command_to_str.replace('spawn ', '')
                     test_monster.entity_id = int(33554678)+int(randrange(100000)) # too lazy to make an already_spawned global list. just made it rng. you have one in 100,000 chance for the monster to not be sent lmao
                     test_monster.name = ''
+                    test_monster.prop_map = {
+                        int(test_monster.entity_id): PropValue(4001, ival=90),
+                    }
                     test_monster.motion_info.pos = conn.player.pos
                     test_monster.motion_info.rot = Vector(0, 0, 0)
                     test_monster.life_state = 1
