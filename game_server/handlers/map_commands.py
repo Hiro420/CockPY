@@ -4,7 +4,18 @@ from game_server import HandlerRouter,Connection
 from lib.proto import *
 import enet
 from random import randrange
+import json
+from os import path
+import time
 
+basepath = path.dirname(__file__)
+hpcalcsname = "Monster_HP_calcs_lv90.json"
+hpcalcs = path.abspath(path.join(basepath, "..", "json\\calcs\\", hpcalcsname))
+
+hp = 0
+hp_map = {
+    # 33554678: 1000000,
+}
 scene_entities = [33554678]
 
 router = HandlerRouter()
@@ -69,10 +80,18 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                     command_to_int = command_to_str.replace('spawn ', '')
                     test_monster.entity_id = int(33554678)+int(randrange(100000)) # too lazy to make an already_spawned global list. just made it rng. you have one in 100,000 chance for the monster to not be sent lmao
                     test_monster.name = ''
+                    with open(hpcalcs) as curvecalcs:
+                        curvecalcsdata = json.load(curvecalcs)
+                    for obj in curvecalcsdata:
+                        if obj["Id"] == int(command_to_int):
+                            hp = obj["Hp"]
+                    if hp == 0:
+                        hp = 6000
                     test_monster.prop_map = {
                         int(test_monster.entity_id): PropValue(4001, ival=90),
                     }
-                    test_monster.motion_info.pos = conn.player.pos
+                    print(test_monster.fight_prop_map)
+                    test_monster.motion_info.pos = conn.player.get_cur_avatar().motion
                     test_monster.motion_info.rot = Vector(0, 0, 0)
                     test_monster.life_state = 1
                     test_monster.monster = SceneMonsterInfo()
@@ -83,13 +102,22 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                     test_monster.monster.born_type = MonsterBornType(1)
                     test_monster.ai_info = SceneEntityAiInfo()
                     test_monster.ai_info.is_ai_open = 1
-                    test_monster.ai_info.born_pos = conn.player.pos
+                    test_monster.ai_info.born_pos = conn.player.get_cur_avatar().motion
                     test_monster.renderer_changed_info = EntityRendererChangedInfo()
                     scene_entity_appear_notify_monster_test.entity_list.append(test_monster)
                     scene_entities.append(test_monster.entity_id)
                     conn.send(scene_entity_appear_notify_monster_test)
-                except:
-                    pass
+                    efpun = EntityFightPropUpdateNotify()
+                    efpun.entity_id = int(test_monster.entity_id)
+                    efpun.fight_prop_map = {
+                        2000: int(hp),
+                        1010: int(hp)
+                    }
+                    conn.send(efpun)
+                    hp_map[int(test_monster.entity_id)] = int(hp)
+
+                except Exception as e: 
+                    print(e)
 
             #playcg = CutSceneBeginNotify()
             #playcg.cutscene_id = cg_id

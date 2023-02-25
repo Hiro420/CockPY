@@ -57,6 +57,7 @@ class Player:
         }
         traveler = AvatarInfo()
         traveler.avatar_id = 10000005
+        traveler.inherent_proud_skill_list = [72101, 72201]
         traveler.proud_skill_list = [711, 721 , 722]
         traveler.avatar_type = AvatarType.AVATAR_TYPE_FORMAL
         traveler.skill_depot_id = 504
@@ -188,6 +189,7 @@ class Player:
                 avatar.avatar_skill = [10353, 10351, 10352]
             elif avatar.avatar_id == 10000037:
                 avatar.avatar_skill = [10373, 10371, 10372]
+                
             avatar.talent_id_list = []
             if avatar.avatar_id != 10000005 and avatar.avatar_id != 10000007 and avatar.avatar_id != 10000020 and avatar.avatar_id != 10000030:
                 talent_id_list_test1 = f"{avatar.avatar_id}"
@@ -288,120 +290,199 @@ class Player:
                     10018: 1,
                     10013: 1
                     }
+                avatar.inherent_proud_skill_list.append(22101)
+                avatar.inherent_proud_skill_list.append(22201)
+                avatar.inherent_proud_skill_list.append(22301)
             elif avatar.avatar_id == 10000003:
                 avatar.skill_level_map = {
                     10034: 1,
                     10031: 1,
                     10033: 1
                     }
+                avatar.inherent_proud_skill_list.append(32101)
+                avatar.inherent_proud_skill_list.append(32201)
+                avatar.inherent_proud_skill_list.append(32301)
             elif avatar.avatar_id == 10000006:
+                avatar.skill_level_map = {
+                    10068: 1,
+                    100553: 1,
+                    10067: 1
+                    }
+                avatar.talent_id_list = [41,42,43,44,45,46]
+                avatar.skill_depot_id = 601
                 avatar.skill_level_map = {
                     10062: 1,
                     10060: 1,
                     10061: 1
-                    }
+                }
+                avatar.inherent_proud_skill_list.append(42101)
+                avatar.inherent_proud_skill_list.append(42201)
+                avatar.inherent_proud_skill_list.append(42301)
+            elif avatar.avatar_id == 10000007:
+                avatar.inherent_proud_skill_list = [72101, 72201]
+                avatar.talent_id_list = [71,72,73,74,75,76]
+                avatar.proud_skill_list = [711, 721 , 722]
+                avatar.skill_depot_id = 704
+                avatar.avatar_skill = [10101,10001,10102,10006,10055]
+                avatar.skill_level_map = {
+                    10068: 1,
+                    10067: 1,
+                    100553: 1
+                }
             elif avatar.avatar_id == 10000014:
                 avatar.skill_level_map = {
                     10072: 1,
                     10070: 1,
                     10071: 1
                     }
+                avatar.inherent_proud_skill_list.append(142101)
+                avatar.inherent_proud_skill_list.append(142201)
+                avatar.inherent_proud_skill_list.append(142301)
             elif avatar.avatar_id == 10000015:
                 avatar.skill_level_map = {
                     10075: 1,
                     10073: 1,
                     10074: 1
                     }
+                avatar.inherent_proud_skill_list.append(152101)
+                avatar.inherent_proud_skill_list.append(152201)
+                avatar.inherent_proud_skill_list.append(152301)
             elif avatar.avatar_id == 10000016:
                 avatar.skill_level_map = {
                     10165: 1,
                     10160: 1,
                     10161: 1
                     }
+                avatar.inherent_proud_skill_list.append(162101)
+                avatar.inherent_proud_skill_list.append(162201)
+                avatar.inherent_proud_skill_list.append(162301)
             elif avatar.avatar_id == 10000020:
                 avatar.skill_level_map = {
                     10203: 1,
                     10201: 1,
                     10202: 1
                     }
+                avatar.inherent_proud_skill_list.append(202101)
+                avatar.inherent_proud_skill_list.append(202201)
+                avatar.inherent_proud_skill_list.append(202301)
             elif avatar.avatar_id == 10000021:
                 avatar.skill_level_map = {
                     10017: 1,
                     10041: 1,
                     10032: 1
                     }
+                avatar.inherent_proud_skill_list.append(212101)
+                avatar.inherent_proud_skill_list.append(212201)
+                avatar.inherent_proud_skill_list.append(212301)
             elif avatar.avatar_id == 10000022:
                 avatar.skill_level_map = {
                     10225: 1,
                     10221: 1,
                     10224: 1
                     }
+                avatar.inherent_proud_skill_list.append(222101)
+                avatar.inherent_proud_skill_list.append(222201)
+                avatar.inherent_proud_skill_list.append(222301)
             elif avatar.avatar_id == 10000023:
                 avatar.skill_level_map = {
                     10235: 1,
                     10231: 1,
                     10232: 1
                     }
+                avatar.inherent_proud_skill_list.append(232101)
+                avatar.inherent_proud_skill_list.append(232201)
+                avatar.inherent_proud_skill_list.append(232301)
             elif avatar.avatar_id == 10000024:
                 avatar.skill_level_map = {
                     10245: 1,
                     10241: 1,
                     10242: 1
                     }
+                avatar.inherent_proud_skill_list.append(242101)
+                avatar.inherent_proud_skill_list.append(242201)
+                avatar.inherent_proud_skill_list.append(242301)
             elif avatar.avatar_id == 10000025:
                 avatar.skill_level_map = {
                     10385: 1,
                     10381: 1,
                     10382: 1
                     }
+                avatar.inherent_proud_skill_list.append(252101)
+                avatar.inherent_proud_skill_list.append(252201)
+                avatar.inherent_proud_skill_list.append(252301)
             elif avatar.avatar_id == 10000026:
                 avatar.skill_level_map = {
                     10265: 1,
                     10261: 1,
                     10262: 1
                     }
+                avatar.inherent_proud_skill_list.append(262101)
+                avatar.inherent_proud_skill_list.append(262201)
+                avatar.inherent_proud_skill_list.append(262301)
             elif avatar.avatar_id == 10000027:
                 avatar.skill_level_map = {
                     10274: 1,
                     10271: 1,
                     10272: 1
                     }
+                avatar.inherent_proud_skill_list.append(272101)
+                avatar.inherent_proud_skill_list.append(272201)
+                avatar.inherent_proud_skill_list.append(272301)
             elif avatar.avatar_id == 10000029:
                 avatar.skill_level_map = {
                     10295: 1,
                     10291: 1,
                     10292: 1
                     }
+                avatar.inherent_proud_skill_list.append(292101)
+                avatar.inherent_proud_skill_list.append(292201)
+                avatar.inherent_proud_skill_list.append(292301)
             elif avatar.avatar_id == 10000030:
                 avatar.skill_level_map = {
                     10303: 1,
                     10301: 1,
                     10302: 1
                     }
+                avatar.inherent_proud_skill_list.append(302101)
+                avatar.inherent_proud_skill_list.append(302201)
+                avatar.inherent_proud_skill_list.append(302301)
             elif avatar.avatar_id == 10000031:
                 avatar.skill_level_map = {
                     10313: 1,
                     10311: 1,
                     10312: 1
                     }
+                avatar.inherent_proud_skill_list.append(312101)
+                avatar.inherent_proud_skill_list.append(312201)
+                avatar.inherent_proud_skill_list.append(312301)
+                avatar.inherent_proud_skill_list.append(312401)
             elif avatar.avatar_id == 10000032:
                 avatar.skill_level_map = {
                     10323: 1,
                     10321: 1,
                     10322: 1
                     }
+                avatar.inherent_proud_skill_list.append(322101)
+                avatar.inherent_proud_skill_list.append(322201)
+                avatar.inherent_proud_skill_list.append(322301)
             elif avatar.avatar_id == 10000033:
                 avatar.skill_level_map = {
                     10333: 1,
                     10331: 1,
                     10332: 1
                     }
+                avatar.inherent_proud_skill_list.append(332101)
+                avatar.inherent_proud_skill_list.append(332201)
+                avatar.inherent_proud_skill_list.append(332301)
             elif avatar.avatar_id == 10000034:
                 avatar.skill_level_map = {
                     10343: 1,
                     10341: 1,
                     10342: 1
                     }
+                avatar.inherent_proud_skill_list.append(342101)
+                avatar.inherent_proud_skill_list.append(342201)
+                avatar.inherent_proud_skill_list.append(342301)
             elif avatar.avatar_id == 10000035:
                 avatar.skill_level_map = {
                     10353: 1,

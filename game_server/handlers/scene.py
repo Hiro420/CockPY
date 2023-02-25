@@ -13,7 +13,14 @@ import os
 from lib.proto import Vector
 from . import map_commands
 from random import randrange
-import betterproto
+from os import path
+import time
+import json
+
+basepath = path.dirname(__file__)
+hpcalcsname = "Monster_HP_calcs_lv90.json"
+hpcalcs = path.abspath(path.join(basepath, "..", "json\\calcs\\", hpcalcsname))
+
 
 router = HandlerRouter()
 
@@ -295,23 +302,59 @@ def handle_DungeonEntryInfo(conn: Connection, msg: DungeonEntryInfoReq):
 
 @router(CmdID.EvtBeingHitsCombineNotify)
 def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitsCombineNotify):
+    print(map_commands.hp_map)
+    print(map_commands.hp_map)
+    print(map_commands.hp_map)
+    print(map_commands.hp_map)
+    print(map_commands.hp_map)
+    print(map_commands.hp_map)
+    print(map_commands.hp_map)
+    print(map_commands.hp_map)
+    print(map_commands.hp_map)
+    print(map_commands.hp_map)
     for invoke in msg.evt_being_hit_info_list:
-        #if invoke.peer_id == 1:
-            #hitInfo = EvtBeingHitInfo.FromString(invoke.combat_data)
+        if (int(map_commands.hp_map[int(invoke.attack_result.defense_id)]) <= int(invoke.attack_result.damage)):
             # kill
-            #map_commands.hp_map.pop(hitInfo.attack_result.defense_id)
-            #lscn = LifeStateChangeNotify()
-            #lscn.entity_id = hitInfo.attack_result.defense_id
-            #lscn.life_state = LifeState(2)
-            #lscn.source_entity_id = hitInfo.attack_result.attacker_id
-            #lscn.die_type: PlayerDieType(1)
-            #sedn = SceneEntityDisappearNotify()
-            #sedn.disappear_type = VisionType(6)
-            #sedn.entity_list = [hitInfo.attack_result.defense_id]
+            lscn = LifeStateChangeNotify()
+            lscn.entity_id = invoke.attack_result.defense_id
+            lscn.life_state = LifeState(2)
+            lscn.source_entity_id = invoke.attack_result.attacker_id
+            lscn.die_type: PlayerDieType(1)
+            sedn = SceneEntityDisappearNotify()
+            sedn.disappear_type = VisionType(5)      # make them just dissapear instead of dying because VisionType(6) doesnt really work and I have 0 idea why and how to fix
+            sedn.entity_list = [invoke.attack_result.defense_id]
+            map_commands.scene_entities.remove(invoke.attack_result.defense_id)
+            map_commands.hp_map.pop(invoke.attack_result.defense_id)
             #conn.send(lscn)
-            #conn.send(sedn)
-        newpacket = msg
-        conn.send(newpacket)
+            conn.send(sedn)
+        else:
+            # hurt
+            with open(hpcalcs) as curvecalcs:
+                curvecalcsdata = json.load(curvecalcs)
+            for obj in curvecalcsdata:
+                if obj["Id"] == 21010101:       # for now their hp will be hardcoded as lv90 hilichurl until I find a creative fix
+                    maxhp = obj["Hp"]
+            efpun = EntityFightPropUpdateNotify()
+            efpun.entity_id = invoke.attack_result.defense_id
+            map_commands.hp_map[int(invoke.attack_result.defense_id)] -= invoke.attack_result.damage
+            efpun.fight_prop_map = { 
+                1010: float(map_commands.hp_map[invoke.attack_result.defense_id]),
+                2000: float(maxhp)
+            }
+            conn.send(efpun)
+            conn.send(efpun)
+            conn.send(efpun)
+            conn.send(efpun)
+            conn.send(efpun)
+            conn.send(efpun)
+            print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
+            print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
+            print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
+            print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
+            print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
+            print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
+    newpacket = msg
+    conn.send(newpacket)
     # Done!
 
 @router(CmdID.PersonalSceneJumpReq)
@@ -409,6 +452,13 @@ def handle_PlayerEnterDungeonReq(conn: Connection, msg: PlayerEnterDungeonReq):
         player_enter_dungeon.dungeon_id = msg.dungeon_id
         conn.send(player_enter_dungeon)
         #conn.send(conn.player.get_teleport_packet(scene_id, pos, EnterType.ENTER_DUNGEON))
+
+@router(CmdID.SceneEntityDrownReq)
+def handle_SceneEntityDrownReq(conn: Connection, msg: SceneEntityDrownReq):
+    scene_entity_drown = SceneEntityDrownRsp()
+    scene_entity_drown.retcode = 1
+    scene_entity_drown.entity_id = msg.entity_id
+    conn.send(scene_entity_drown)
 
 @router(CmdID.PlayerQuitDungeonReq)
 def handle_PlayerQuitDungeonReq(conn: Connection, msg: PlayerQuitDungeonReq):
