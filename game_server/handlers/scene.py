@@ -459,6 +459,10 @@ def handle_SceneEntityDrownReq(conn: Connection, msg: SceneEntityDrownReq):
     scene_entity_drown.retcode = 1
     scene_entity_drown.entity_id = msg.entity_id
     conn.send(scene_entity_drown)
+    sedn = SceneEntityDisappearNotify()
+    sedn.disappear_type = VisionType(5)      # make them just dissapear instead of dying because VisionType(6) doesnt really work and I have 0 idea why and how to fix
+    sedn.entity_list = msg.entity_id
+    conn.send(sedn)
 
 @router(CmdID.PlayerQuitDungeonReq)
 def handle_PlayerQuitDungeonReq(conn: Connection, msg: PlayerQuitDungeonReq):
