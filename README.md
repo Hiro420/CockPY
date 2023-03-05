@@ -3,10 +3,6 @@ public and open source version of the cbt2 ps im working on
 
 
 ## Setup:
-(Automatic)
-- Run `setup.bat` as Administrator. (If any errors proceed to manual way.)
-
-
 (Manual)
 - `pip install -r ./requirements.txt`
 
