@@ -1,0 +1,22 @@
+[
+    {
+      "单抽消耗物品ID": "223",
+      "单抽消耗物品数量": "1",
+      "十连消耗物品ID": "223",
+      "十连消耗物品数量": "5",
+      "首次十连消耗物品": "223",
+      "首次十连消耗数量": "5",
+      "扭蛋次数上限": "20",
+      "蛋池ID": "20001",
+      "概率规则ID": "1",
+      "[UP配置]1父类型": "",
+      "[UP配置]1概率": "",
+      "[UP配置]1物品列表": "",
+      "保底规则列表": "1,2",
+      "扭蛋Prefab路径": "GachaShowPanel_A007",
+      "扭蛋预览Prefab路径": "UI_Tab_GachaShowPanel_Noel",
+      "扭蛋概率公示URL": "https://webstatic.mihoyo.com/hk4e/event/e20190909gacha/index.html#/novice",
+      "扭蛋记录URL": "https://webstatic.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha  ",
+      "排序id": "9999"
+    }
+  ]

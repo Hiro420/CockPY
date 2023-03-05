@@ -1,0 +1,1306 @@
+[
+    {
+        "serverBuffId": 1,
+        "groupId": 1,
+        "time": 180,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Item_Food_Attack",
+        "modifierName": "AttackModifier"
+    },
+    {
+        "serverBuffId": 2,
+        "groupId": 1,
+        "time": 180,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Item_Food_Defence",
+        "modifierName": "DefenceModifier"
+    },
+    {
+        "serverBuffId": 3,
+        "groupId": 2,
+        "time": 180,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Item_Food_MaxHP",
+        "modifierName": "MaxHPModifier"
+    },
+    {
+        "serverBuffId": 100101,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv1_1"
+    },
+    {
+        "serverBuffId": 100102,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv1_2"
+    },
+    {
+        "serverBuffId": 100103,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv1_3"
+    },
+    {
+        "serverBuffId": 100104,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv1_4"
+    },
+    {
+        "serverBuffId": 100201,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 100202,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv2_2"
+    },
+    {
+        "serverBuffId": 100203,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv2_3"
+    },
+    {
+        "serverBuffId": 100204,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv2_4"
+    },
+    {
+        "serverBuffId": 100301,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv3_1"
+    },
+    {
+        "serverBuffId": 100302,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv3_2"
+    },
+    {
+        "serverBuffId": 100303,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv3_3"
+    },
+    {
+        "serverBuffId": 100304,
+        "groupId": 10,
+        "time": 31,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv3_4"
+    },
+    {
+        "serverBuffId": 105101,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv51_1"
+    },
+    {
+        "serverBuffId": 105102,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv51_2"
+    },
+    {
+        "serverBuffId": 105103,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv51_3"
+    },
+    {
+        "serverBuffId": 105104,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv51_4"
+    },
+    {
+        "serverBuffId": 105201,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv52_1"
+    },
+    {
+        "serverBuffId": 105202,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv52_2"
+    },
+    {
+        "serverBuffId": 105203,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv52_3"
+    },
+    {
+        "serverBuffId": 105204,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv52_4"
+    },
+    {
+        "serverBuffId": 105301,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv53_1"
+    },
+    {
+        "serverBuffId": 105302,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv53_2"
+    },
+    {
+        "serverBuffId": 105303,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv53_3"
+    },
+    {
+        "serverBuffId": 105304,
+        "groupId": 10,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv53_4"
+    },
+    {
+        "serverBuffId": 110101,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv1_1"
+    },
+    {
+        "serverBuffId": 110102,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv1_2"
+    },
+    {
+        "serverBuffId": 110103,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv1_3"
+    },
+    {
+        "serverBuffId": 110104,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv1_4"
+    },
+    {
+        "serverBuffId": 110201,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 110202,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv2_2"
+    },
+    {
+        "serverBuffId": 110203,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv2_3"
+    },
+    {
+        "serverBuffId": 110204,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv2_4"
+    },
+    {
+        "serverBuffId": 110301,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv3_1"
+    },
+    {
+        "serverBuffId": 110302,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv3_2"
+    },
+    {
+        "serverBuffId": 110303,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv3_3"
+    },
+    {
+        "serverBuffId": 110304,
+        "groupId": 11,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv3_4"
+    },
+    {
+        "serverBuffId": 120101,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv1_1"
+    },
+    {
+        "serverBuffId": 120102,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv1_2"
+    },
+    {
+        "serverBuffId": 120103,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv1_3"
+    },
+    {
+        "serverBuffId": 120104,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv1_4"
+    },
+    {
+        "serverBuffId": 120201,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 120202,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv2_2"
+    },
+    {
+        "serverBuffId": 120203,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv2_3"
+    },
+    {
+        "serverBuffId": 120204,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv2_4"
+    },
+    {
+        "serverBuffId": 120301,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv3_1"
+    },
+    {
+        "serverBuffId": 120302,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv3_2"
+    },
+    {
+        "serverBuffId": 120303,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv3_3"
+    },
+    {
+        "serverBuffId": 120304,
+        "groupId": 12,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv3_4"
+    },
+    {
+        "serverBuffId": 140201,
+        "groupId": 14,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 140202,
+        "groupId": 14,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv2_2"
+    },
+    {
+        "serverBuffId": 140203,
+        "groupId": 14,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv2_3"
+    },
+    {
+        "serverBuffId": 140301,
+        "groupId": 14,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv3_1"
+    },
+    {
+        "serverBuffId": 140302,
+        "groupId": 14,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv3_2"
+    },
+    {
+        "serverBuffId": 140303,
+        "groupId": 14,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv3_3"
+    },
+    {
+        "serverBuffId": 140304,
+        "groupId": 14,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv3_4"
+    },
+    {
+        "serverBuffId": 200101,
+        "groupId": 20,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv1_1"
+    },
+    {
+        "serverBuffId": 200102,
+        "groupId": 20,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv1_2"
+    },
+    {
+        "serverBuffId": 200103,
+        "groupId": 20,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv1_3"
+    },
+    {
+        "serverBuffId": 200104,
+        "groupId": 20,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv1_4"
+    },
+    {
+        "serverBuffId": 200201,
+        "groupId": 20,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 200202,
+        "groupId": 20,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv2_2"
+    },
+    {
+        "serverBuffId": 200203,
+        "groupId": 20,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv2_3"
+    },
+    {
+        "serverBuffId": 200204,
+        "groupId": 20,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv2_4"
+    },
+    {
+        "serverBuffId": 200301,
+        "groupId": 20,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv3_1"
+    },
+    {
+        "serverBuffId": 200302,
+        "groupId": 20,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv3_2"
+    },
+    {
+        "serverBuffId": 200303,
+        "groupId": 20,
+        "time": "",
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "revive_buff",
+        "modifierName": "revive_buff_Modifier_lv3_3"
+    },
+    {
+        "serverBuffId": 150301,
+        "groupId": 15,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Stamina_Fly_lv3_1",
+        "modifierName": "Stamina_Fly_Modifier_lv3_1"
+    },
+    {
+        "serverBuffId": 150302,
+        "groupId": 15,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Stamina_Fly_lv3_2",
+        "modifierName": "Stamina_Fly_Modifier_lv3_2"
+    },
+    {
+        "serverBuffId": 150303,
+        "groupId": 15,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Stamina_Fly_lv3_3",
+        "modifierName": "Stamina_Fly_Modifier_lv3_3"
+    },
+    {
+        "serverBuffId": 150311,
+        "groupId": 15,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Stamina_Climb_lv3_1",
+        "modifierName": "Stamina_Climb_Modifier_lv3_1"
+    },
+    {
+        "serverBuffId": 150312,
+        "groupId": 15,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Stamina_Climb_lv3_2",
+        "modifierName": "Stamina_Climb_Modifier_lv3_2"
+    },
+    {
+        "serverBuffId": 150313,
+        "groupId": 15,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Stamina_Climb_lv3_3",
+        "modifierName": "Stamina_Climb_Modifier_lv3_3"
+    },
+    {
+        "serverBuffId": 160201,
+        "groupId": 16,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Physical_Team_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 160202,
+        "groupId": 16,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Physical_Team_Modifier_lv2_2"
+    },
+    {
+        "serverBuffId": 160203,
+        "groupId": 16,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Physical_Team_Modifier_lv2_3"
+    },
+    {
+        "serverBuffId": 170201,
+        "groupId": 17,
+        "time": 60,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "MoveSpeed_lv2_1",
+        "modifierName": "MoveSpeed_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 130101,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Fire"
+    },
+    {
+        "serverBuffId": 130102,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Water"
+    },
+    {
+        "serverBuffId": 130103,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Ice"
+    },
+    {
+        "serverBuffId": 130104,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Wind"
+    },
+    {
+        "serverBuffId": 130105,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Elec"
+    },
+    {
+        "serverBuffId": 130106,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Rock"
+    },
+    {
+        "serverBuffId": 130107,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Def_Team",
+        "modifierName": "Element_Def_Grass"
+    },
+    {
+        "serverBuffId": 135101,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Fire"
+    },
+    {
+        "serverBuffId": 135102,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Water"
+    },
+    {
+        "serverBuffId": 135103,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Ice"
+    },
+    {
+        "serverBuffId": 135104,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Wind"
+    },
+    {
+        "serverBuffId": 135105,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Elec"
+    },
+    {
+        "serverBuffId": 135106,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Rock"
+    },
+    {
+        "serverBuffId": 135107,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Element_Atk_Team",
+        "modifierName": "Element_Atk_Grass"
+    },
+    {
+        "serverBuffId": 130121,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Element_lv2_1",
+        "modifierName": "Def_Element_Modifier_lv1_1"
+    },
+    {
+        "serverBuffId": 130122,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Element_lv2_1",
+        "modifierName": "Def_Element_Modifier_lv1_2"
+    },
+    {
+        "serverBuffId": 130123,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Element_lv2_1",
+        "modifierName": "Def_Element_Modifier_lv1_3"
+    },
+    {
+        "serverBuffId": 130124,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Element_lv2_1",
+        "modifierName": "Def_Element_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 980101,
+        "groupId": 98,
+        "time": 600,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Item_Food_Attack",
+        "modifierName": "AttackModifier"
+    },
+    {
+        "serverBuffId": 980102,
+        "groupId": 98,
+        "time": 600,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Physical_Team_Modifier_lv2_3"
+    },
+    {
+        "serverBuffId": 980103,
+        "groupId": 98,
+        "time": 600,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Team",
+        "modifierName": "Atk_Team_Modifier_lv2_2"
+    },
+    {
+        "serverBuffId": 980104,
+        "groupId": 98,
+        "time": 600,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Critical_Team",
+        "modifierName": "Critical_Team_Modifier_lv3_4"
+    },
+    {
+        "serverBuffId": 980201,
+        "groupId": 98,
+        "time": 600,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Item_Food_Defence",
+        "modifierName": "DefenceModifier"
+    },
+    {
+        "serverBuffId": 980202,
+        "groupId": 98,
+        "time": 600,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Team",
+        "modifierName": "Def_Team_Modifier_lv2_2"
+    },
+    {
+        "serverBuffId": 980301,
+        "groupId": 98,
+        "time": 30,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv1_1"
+    },
+    {
+        "serverBuffId": 980302,
+        "groupId": 98,
+        "time": 30,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 980303,
+        "groupId": 98,
+        "time": 30,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con",
+        "modifierName": "ReHP_Ins&Con_Modifier_lv3_1"
+    },
+    {
+        "serverBuffId": 970101,
+        "groupId": 70,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Atk_Dungeon_Ratio"
+    },
+    {
+        "serverBuffId": 970102,
+        "groupId": 71,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Atk_Dungeon_Delta"
+    },
+    {
+        "serverBuffId": 970103,
+        "groupId": 72,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Critical_Dungeon"
+    },
+    {
+        "serverBuffId": 970104,
+        "groupId": 73,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "PhyAdd_Dungeon_Delta"
+    },
+    {
+        "serverBuffId": 970105,
+        "groupId": 74,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "ElemMastery_Dungeon_Delta"
+    },
+    {
+        "serverBuffId": 970106,
+        "groupId": 75,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "ChargeEfficiency_Dungeon_Delta"
+    },
+    {
+        "serverBuffId": 970201,
+        "groupId": 76,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Def_Dungeon_Ratio"
+    },
+    {
+        "serverBuffId": 970202,
+        "groupId": 77,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Def_Dungeon_Delta"
+    },
+    {
+        "serverBuffId": 970203,
+        "groupId": 78,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Fire"
+    },
+    {
+        "serverBuffId": 970204,
+        "groupId": 79,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Water"
+    },
+    {
+        "serverBuffId": 970205,
+        "groupId": 80,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Ice"
+    },
+    {
+        "serverBuffId": 970206,
+        "groupId": 81,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Wind"
+    },
+    {
+        "serverBuffId": 970207,
+        "groupId": 82,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Elec"
+    },
+    {
+        "serverBuffId": 970208,
+        "groupId": 83,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Rock"
+    },
+    {
+        "serverBuffId": 970209,
+        "groupId": 84,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_Grass"
+    },
+    {
+        "serverBuffId": 970210,
+        "groupId": 85,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Element_Dungeon_Def_All"
+    },
+    {
+        "serverBuffId": 970211,
+        "groupId": 86,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "PhySub_Dungeon_Delta"
+    },
+    {
+        "serverBuffId": 970212,
+        "groupId": 87,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "MaxHP_Dungeon_Ratio"
+    },
+    {
+        "serverBuffId": 970301,
+        "groupId": 88,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Stamina_Sprint_Dungeon",
+        "modifierName": "Stamina_Sprint_Dungeon_1"
+    },
+    {
+        "serverBuffId": 970401,
+        "groupId": 89,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "MoveSpeed_Dungeon",
+        "modifierName": "MoveSpeed_Dungeon_1"
+    },
+    {
+        "serverBuffId": 970501,
+        "groupId": 90,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con_Dungeon",
+        "modifierName": "ReHP_Ins&Con_Dungeon_1"
+    },
+    {
+        "serverBuffId": 970502,
+        "groupId": 91,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con_Dungeon",
+        "modifierName": "ReHP_Ins&Con_Dungeon_2"
+    },
+    {
+        "serverBuffId": 970503,
+        "groupId": 92,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "ReHP_Ins&Con_Dungeon",
+        "modifierName": "ReHP_Ins&Con_Dungeon_3"
+    },
+    {
+        "serverBuffId": 970504,
+        "groupId": 93,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Element_Art_Dungeon_Ratio"
+    },
+    {
+        "serverBuffId": 970505,
+        "groupId": 94,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "NormalAttack_Dungeon_Ratio"
+    },
+    {
+        "serverBuffId": 970506,
+        "groupId": 95,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "Heal_Dungeon_Ratio"
+    },
+    {
+        "serverBuffId": 970507,
+        "groupId": 96,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Elemental_Burst_Dungeon_Ratio"
+    },
+    {
+        "serverBuffId": 970508,
+        "groupId": 97,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Sprint_Attack_Ratio"
+    },
+    {
+        "serverBuffId": 970509,
+        "groupId": 98,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_FeatureTag_Dungeon",
+        "modifierName": "Atk_FeatureTag_Dungeon_1"
+    },
+    {
+        "serverBuffId": 970510,
+        "groupId": 99,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_WeaponType_Dungeon",
+        "modifierName": "Atk_WeaponType_Dungeon_1"
+    },
+    {
+        "serverBuffId": 970511,
+        "groupId": 100,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Atk_HighHP_Dungeon"
+    },
+    {
+        "serverBuffId": 970512,
+        "groupId": 101,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "Atk_LowHP_Dungeon"
+    },
+    {
+        "serverBuffId": 970513,
+        "groupId": 102,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_State_Dungeon_1",
+        "modifierName": "Atk_State_Dungeon_1"
+    },
+    {
+        "serverBuffId": 970514,
+        "groupId": 103,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_HitHeadBox_Dungeon",
+        "modifierName": "Atk_HitBox_Dungeon"
+    },
+    {
+        "serverBuffId": 970515,
+        "groupId": 104,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Atk_Dungeon",
+        "modifierName": "AtkUp_DefDown_Dungeon"
+    },
+    {
+        "serverBuffId": 970516,
+        "groupId": 105,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "SubHurt_Dungeon_Delta"
+    },
+    {
+        "serverBuffId": 970517,
+        "groupId": 106,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Def_HighHP_Dungeon"
+    },
+    {
+        "serverBuffId": 970518,
+        "groupId": 107,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Def_Dungeon",
+        "modifierName": "Def_LowHP_Dungeon"
+    },
+    {
+        "serverBuffId": 970519,
+        "groupId": 108,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "KillHealHp_Dungeon_Ratio"
+    },
+    {
+        "serverBuffId": 970520,
+        "groupId": 109,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "KillGetBuff_Dungeon_1"
+    },
+    {
+        "serverBuffId": 970521,
+        "groupId": 110,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "AttackSpeed_Dungeon"
+    },
+    {
+        "serverBuffId": 970522,
+        "groupId": 111,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Suport_ResetCDWhenSkillHit_Dungeon",
+        "modifierName": "ResetCDWhenSkillHit_Dungeon"
+    },
+    {
+        "serverBuffId": 970523,
+        "groupId": 112,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "UltimateSkillHealHp_Dungeon"
+    },
+    {
+        "serverBuffId": 970524,
+        "groupId": 113,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "ResetCDWhenKill_Dungeon"
+    },
+    {
+        "serverBuffId": 970525,
+        "groupId": 114,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "Stamina_ExtraAttack_Dungeon"
+    },
+    {
+        "serverBuffId": 970526,
+        "groupId": 115,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Stamina_Sprint_Dungeon",
+        "modifierName": "Stamina_Sprint_Dungeon_1"
+    },
+    {
+        "serverBuffId": 970527,
+        "groupId": 116,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "SkillCD_Dungeon_Ratio"
+    },
+    {
+        "serverBuffId": 970528,
+        "groupId": 117,
+        "time": 3000000,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Support_Dungeon",
+        "modifierName": "SkillCD_Dungeon_Ratio"
+    },
+    {
+        "serverBuffId": 139901,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Elec_Team",
+        "modifierName": "Elec_Team_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 139902,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Elec_Team",
+        "modifierName": "Elec_Team_Modifier_lv2_2"
+    },
+    {
+        "serverBuffId": 139903,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Elec_Team",
+        "modifierName": "Elec_Team_Modifier_lv2_3"
+    },
+    {
+        "serverBuffId": 139904,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Fire_Team",
+        "modifierName": "Fire_Team_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 139905,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Fire_Team",
+        "modifierName": "Fire_Team_Modifier_lv2_2"
+    },
+    {
+        "serverBuffId": 139906,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Fire_Team",
+        "modifierName": "Fire_Team_Modifier_lv2_3"
+    },
+    {
+        "serverBuffId": 139907,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Water_Team",
+        "modifierName": "Water_Team_Modifier_lv2_1"
+    },
+    {
+        "serverBuffId": 139908,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Water_Team",
+        "modifierName": "Water_Team_Modifier_lv2_2"
+    },
+    {
+        "serverBuffId": 139909,
+        "groupId": 13,
+        "time": 300,
+        "serverBuffType": "SERVER_BUFF_AVATAR",
+        "abilityName": "Water_Team",
+        "modifierName": "Water_Team_Modifier_lv2_3"
+    }
+]

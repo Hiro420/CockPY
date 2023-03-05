@@ -1,0 +1,239 @@
+{
+  "radius": 10.0,
+  "points": {
+    "1": {
+      "type": "NORMAL",
+      "$type": "DungeonQuitPoint",
+      "gadgetId": 70120004,
+      "pos": {
+        "x": 190.619354,
+        "y": 49.9402733,
+        "z": 191.156876
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "groupLimit": false,
+      "size": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 5.0
+      },
+      "titleTextID": ""
+    }
+  },
+  "areas": {},
+  "forces": {},
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 40000007,
+      "pos": {
+        "x": 111.79689,
+        "y": -23.34333,
+        "z": 93.2330856
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 500.0,
+      "withGO": true,
+      "triggerFlag": "NoReviveRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 100.0,
+        "centerType": "Center",
+        "width": 300.0,
+        "length": 300.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 0.0
+    },
+    "2": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 40000007,
+      "pos": {
+        "x": 102.494446,
+        "y": 48.36317,
+        "z": 168.803375
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 500.0,
+      "withGO": true,
+      "triggerFlag": "NoReviveRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 50.0,
+        "centerType": "Center",
+        "width": 120.0,
+        "length": 50.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 0.0
+    },
+    "3": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 40000007,
+      "pos": {
+        "x": 243.04866,
+        "y": 35.1653748,
+        "z": 132.481
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 500.0,
+      "withGO": true,
+      "triggerFlag": "NoReviveRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 50.0,
+        "centerType": "Center",
+        "width": 50.0,
+        "length": 200.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 0.0
+    },
+    "4": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 40000007,
+      "pos": {
+        "x": 159.75032,
+        "y": 50.86242,
+        "z": 76.71388
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 500.0,
+      "withGO": true,
+      "triggerFlag": "NoReviveRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 80.0,
+        "centerType": "Center",
+        "width": 200.0,
+        "length": 50.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 0.0
+    },
+    "5": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 40000007,
+      "pos": {
+        "x": 119.15554,
+        "y": 98.90141,
+        "z": 75.41164
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 500.0,
+      "withGO": true,
+      "triggerFlag": "NoReviveRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 50.0,
+        "centerType": "Center",
+        "width": 400.0,
+        "length": 400.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 0.0
+    },
+    "6": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 40000007,
+      "pos": {
+        "x": 122.41346,
+        "y": -24.1528931,
+        "z": 89.67637
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 500.0,
+      "withGO": true,
+      "triggerFlag": "DeadRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 50.0,
+        "centerType": "Center",
+        "width": 500.0,
+        "length": 500.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 0.0
+    }
+  },
+  "doors": {}
+}

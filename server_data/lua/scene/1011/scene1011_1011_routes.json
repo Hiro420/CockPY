@@ -1,0 +1,40 @@
+{
+  "sceneId": 1011,
+  "routes": [
+    {
+      "localId": 1011001,
+      "name": "Route_1011001",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": []
+    },
+    {
+      "localId": 1011002,
+      "name": "Route_1011002",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": -35.9430923,
+            "y": 0.799999952,
+            "z": -134.44104
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 3.0
+        },
+        {
+          "pos": {
+            "x": -35.9239044,
+            "y": 0.8195149,
+            "z": -134.444916
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 3.0
+        }
+      ]
+    }
+  ]
+}

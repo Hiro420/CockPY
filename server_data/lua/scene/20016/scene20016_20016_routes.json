@@ -1,0 +1,30 @@
+{
+  "sceneId": 20016,
+  "routes": [
+    {
+      "localId": 20016001,
+      "name": "Route_20016001",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 336.756073,
+            "y": -19.2766552,
+            "z": 332.188965
+          },
+          "waitTime": 0.0
+        },
+        {
+          "pos": {
+            "x": 350.562836,
+            "y": -19.2765217,
+            "z": 332.071045
+          },
+          "waitTime": 0.0
+        }
+      ]
+    }
+  ]
+}

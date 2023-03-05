@@ -1,0 +1,44 @@
+{
+  "radius": 100.0,
+  "points": {},
+  "areas": {},
+  "forces": {},
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": -0.485409141,
+        "y": -21.92318,
+        "z": -5.20052338
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": false,
+      "triggerFlag": "LevelAbility",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 10.0,
+        "centerType": "Center",
+        "width": 240.0,
+        "length": 240.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 0.0,
+      "stringParam": "Dvalin_S04_DeadRegion"
+    }
+  },
+  "doors": {}
+}

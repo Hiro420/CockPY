@@ -1,0 +1,491 @@
+{
+  "sceneId": 20010,
+  "routes": [
+    {
+      "localId": 2,
+      "name": "Monster76",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 56.41251,
+            "y": 22.4869766,
+            "z": 41.2566338
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 2.0
+        },
+        {
+          "pos": {
+            "x": 56.18094,
+            "y": 22.48161,
+            "z": 50.8179626
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 2.0
+        }
+      ]
+    },
+    {
+      "localId": 3,
+      "name": "Monster80",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 527.652,
+            "y": -37.38371,
+            "z": 76.77782
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 522.113464,
+            "y": -37.38375,
+            "z": 76.42726
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 519.6284,
+            "y": -37.3836479,
+            "z": 77.32248
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        }
+      ]
+    },
+    {
+      "localId": 4,
+      "name": "Monster81",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 510.871216,
+            "y": -37.4266739,
+            "z": 71.58596
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 514.4614,
+            "y": -37.3836327,
+            "z": 72.50529
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 516.2136,
+            "y": -37.38327,
+            "z": 75.74285
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 517.526062,
+            "y": -37.3834648,
+            "z": 78.95453
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        }
+      ]
+    },
+    {
+      "localId": 5,
+      "name": "Monster45",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 9.262674,
+            "y": 13.0162754,
+            "z": 39.4420471
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 7.608531,
+            "y": 13.2495251,
+            "z": 45.6188049
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 3.28875661,
+            "y": 13.1995239,
+            "z": 47.54278
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        }
+      ]
+    },
+    {
+      "localId": 6,
+      "name": "Monster46",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 14.9059191,
+            "y": 13.0165529,
+            "z": 40.041626
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 15.2387905,
+            "y": 13.2495174,
+            "z": 45.9873619
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        },
+        {
+          "pos": {
+            "x": 20.690876,
+            "y": 13.1995163,
+            "z": 48.5149841
+          },
+          "waitTime": 0.0,
+          "speedLevel": 1
+        }
+      ]
+    },
+    {
+      "localId": 20010007,
+      "name": "Platform_20010007",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 410.0321,
+            "y": -35.51099,
+            "z": 70.58734
+          },
+          "waitTime": 2.0,
+          "targetVelocity": 5.0
+        },
+        {
+          "pos": {
+            "x": 420.346558,
+            "y": -31.51267,
+            "z": 84.3683243
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 5.0
+        },
+        {
+          "pos": {
+            "x": 426.295532,
+            "y": -25.6996918,
+            "z": 97.18816
+          },
+          "waitTime": 3.0,
+          "targetVelocity": 5.0
+        }
+      ]
+    },
+    {
+      "localId": 20010009,
+      "name": "Platform_20010009",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 380.358,
+            "y": -41.3977,
+            "z": 24.9701843
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 2.0
+        },
+        {
+          "pos": {
+            "x": 380.4,
+            "y": -35.6,
+            "z": 25.0
+          },
+          "waitTime": 2.0,
+          "targetVelocity": 2.0
+        }
+      ]
+    },
+    {
+      "localId": 20010010,
+      "name": "Platform_87",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 466.9137,
+            "y": -32.59916,
+            "z": 14.20345
+          },
+          "waitTime": 1.0,
+          "targetVelocity": 2.0
+        },
+        {
+          "pos": {
+            "x": 466.9137,
+            "y": -44.6,
+            "z": 14.20345
+          },
+          "waitTime": 1.0,
+          "targetVelocity": 2.0
+        }
+      ]
+    },
+    {
+      "localId": 20010011,
+      "name": "Route_20010011",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 160.0,
+            "y": -36.0,
+            "z": 55.0
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 3.0
+        },
+        {
+          "pos": {
+            "x": 160.0,
+            "y": -23.0,
+            "z": 55.0
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 3.0
+        }
+      ]
+    },
+    {
+      "localId": 20010012,
+      "name": "Route_20010012",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 160.0,
+            "y": -10.0,
+            "z": 10.0
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 3.0
+        },
+        {
+          "pos": {
+            "x": 160.0,
+            "y": -23.0,
+            "z": 10.0
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 3.0
+        }
+      ]
+    },
+    {
+      "localId": 20010013,
+      "name": "Route_20010013",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 300.0,
+            "y": -40.0,
+            "z": 55.0
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 4.0
+        },
+        {
+          "pos": {
+            "x": 300.0,
+            "y": -8.0,
+            "z": 55.0
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 4.0
+        }
+      ]
+    },
+    {
+      "localId": 20010014,
+      "name": "Route_20010014",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 300.0,
+            "y": -8.0,
+            "z": 9.2
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 4.0
+        },
+        {
+          "pos": {
+            "x": 300.0,
+            "y": -40.0,
+            "z": 9.2
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 4.0
+        }
+      ]
+    },
+    {
+      "localId": 20010016,
+      "name": "Route_20010016",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 232.0,
+            "y": 5.0,
+            "z": 44.0
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 2.5
+        },
+        {
+          "pos": {
+            "x": 232.0,
+            "y": 5.0,
+            "z": 22.0
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 2.5
+        }
+      ]
+    },
+    {
+      "localId": 20010017,
+      "name": "Route_20010017",
+      "type": "Reciprocate",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 230.0,
+            "y": 5.0,
+            "z": 22.0
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 2.5
+        },
+        {
+          "pos": {
+            "x": 230.0,
+            "y": 5.0,
+            "z": 44.0
+          },
+          "waitTime": 0.5,
+          "targetVelocity": 2.5
+        }
+      ]
+    },
+    {
+      "localId": 20010018,
+      "name": "Platform_6005",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 380.4203,
+            "y": -41.42537,
+            "z": 18.63125
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 2.0
+        },
+        {
+          "pos": {
+            "x": 380.4,
+            "y": -35.6,
+            "z": 18.7
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 2.0
+        }
+      ]
+    },
+    {
+      "localId": 20010019,
+      "name": "Platform_6006",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": 380.4046,
+            "y": -41.42537,
+            "z": 15.884
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 2.0
+        },
+        {
+          "pos": {
+            "x": 380.4046,
+            "y": -35.64902,
+            "z": 15.884
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 2.0
+        }
+      ]
+    }
+  ]
+}

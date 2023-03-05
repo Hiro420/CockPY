@@ -1,0 +1,1827 @@
+[
+  {
+    "id": 10000001,
+    "hpBase": 166,
+    "attackBase": 5,
+    "defenseBase": 8,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "featureTagGroupID": 10000001,
+    "name": "Kate"
+  },
+  {
+    "id": 10000002,
+    "hpBase": 1033.5654,
+    "attackBase": 22.1918,
+    "defenseBase": 54.8352,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 5,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 201,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "featureTagGroupID": 10000002,
+    "name": "Ayaka"
+  },
+  {
+    "id": 10000003,
+    "hpBase": 1135.9908,
+    "attackBase": 17.2805,
+    "defenseBase": 52.6848,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 5,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 301,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 3,
+    "featureTagGroupID": 10000003,
+    "name": "Qin"
+  },
+  {
+    "id": 10000005,
+    "hpBase": 899.823,
+    "attackBase": 17.575,
+    "defenseBase": 51.956,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 5,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 0,
+    "avatarPromoteId": 12,
+    "featureTagGroupID": 10000005,
+    "name": "PlayerBoy"
+  },
+  {
+    "id": 10000006,
+    "hpBase": 782.84601,
+    "attackBase": 21.61725,
+    "defenseBase": 41.04524,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 14101,
+    "weaponType": 10,
+    "skillDepotId": 601,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 4,
+    "featureTagGroupID": 10000006,
+    "name": "Lisa"
+  },
+  {
+    "id": 10000007,
+    "hpBase": 899.823,
+    "attackBase": 17.575,
+    "defenseBase": 51.956,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 5,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 701,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 0,
+    "avatarPromoteId": 12,
+    "featureTagGroupID": 10000007,
+    "name": "PlayerGirl"
+  },
+  {
+    "id": 10000014,
+    "hpBase": 827.83716,
+    "attackBase": 9.66625,
+    "defenseBase": 53.51468,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 14101,
+    "weaponType": 10,
+    "skillDepotId": 1401,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 14,
+    "featureTagGroupID": 10000014,
+    "name": "Barbara"
+  },
+  {
+    "id": 10000015,
+    "hpBase": 998.80353,
+    "attackBase": 14.93875,
+    "defenseBase": 62.3472,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 1501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 15,
+    "featureTagGroupID": 10000015,
+    "name": "Kaeya"
+  },
+  {
+    "id": 10000016,
+    "hpBase": 987.0084,
+    "attackBase": 25.466,
+    "defenseBase": 54.8352,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 5,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 12101,
+    "weaponType": 11,
+    "skillDepotId": 1601,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 16,
+    "featureTagGroupID": 10000016,
+    "name": "Diluc"
+  },
+  {
+    "id": 10000020,
+    "hpBase": 971.80884,
+    "attackBase": 21.09,
+    "defenseBase": 56.37226,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 12101,
+    "weaponType": 11,
+    "skillDepotId": 2001,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 20,
+    "featureTagGroupID": 10000020,
+    "name": "Razor"
+  },
+  {
+    "id": 10000021,
+    "hpBase": 773.84778,
+    "attackBase": 19.3325,
+    "defenseBase": 45.20172,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 1,
+    "initialWeapon": 15101,
+    "weaponType": 12,
+    "skillDepotId": 2101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 21,
+    "featureTagGroupID": 10000021,
+    "name": "Ambor"
+  },
+  {
+    "id": 10000022,
+    "hpBase": 800.7804,
+    "attackBase": 20.9185,
+    "defenseBase": 45.696,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 5,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 1,
+    "initialWeapon": 15101,
+    "weaponType": 12,
+    "skillDepotId": 2201,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 22,
+    "featureTagGroupID": 10000022,
+    "name": "Venti"
+  },
+  {
+    "id": 10000023,
+    "hpBase": 1016.79999,
+    "attackBase": 20.21125,
+    "defenseBase": 53.51468,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 13101,
+    "weaponType": 13,
+    "skillDepotId": 2301,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 23,
+    "featureTagGroupID": 10000023,
+    "name": "Xiangling"
+  },
+  {
+    "id": 10000024,
+    "hpBase": 1169.7699,
+    "attackBase": 14.06,
+    "defenseBase": 48.31908,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 12101,
+    "weaponType": 11,
+    "skillDepotId": 2401,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 24,
+    "featureTagGroupID": 10000024,
+    "name": "Beidou"
+  },
+  {
+    "id": 10000025,
+    "hpBase": 962.81061,
+    "attackBase": 15.1145,
+    "defenseBase": 64.945,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 2501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 25,
+    "featureTagGroupID": 10000025,
+    "name": "Xingqiu"
+  },
+  {
+    "id": 10000026,
+    "hpBase": 968.3856,
+    "attackBase": 24.7384,
+    "defenseBase": 57.5232,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 5,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 13101,
+    "weaponType": 13,
+    "skillDepotId": 2601,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 26,
+    "featureTagGroupID": 10000026,
+    "name": "Xiao"
+  },
+  {
+    "id": 10000027,
+    "hpBase": 863.83008,
+    "attackBase": 15.466,
+    "defenseBase": 42.60392,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 14101,
+    "weaponType": 10,
+    "skillDepotId": 2701,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 27,
+    "featureTagGroupID": 10000027,
+    "name": "Ningguang"
+  },
+  {
+    "id": 10000029,
+    "hpBase": 782.1576,
+    "attackBase": 24.5565,
+    "defenseBase": 43.008,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 5,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 14101,
+    "weaponType": 10,
+    "skillDepotId": 2901,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 29,
+    "featureTagGroupID": 10000029,
+    "name": "Klee"
+  },
+  {
+    "id": 10000030,
+    "hpBase": 1052.1882,
+    "attackBase": 14.552,
+    "defenseBase": 63.9744,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 5,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 13101,
+    "weaponType": 13,
+    "skillDepotId": 3001,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 30,
+    "featureTagGroupID": 10000030,
+    "name": "Zhongli"
+  },
+  {
+    "id": 10000031,
+    "hpBase": 760.350435,
+    "attackBase": 20.21125,
+    "defenseBase": 45.20172,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 1,
+    "initialWeapon": 15101,
+    "weaponType": 12,
+    "skillDepotId": 3101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 31,
+    "featureTagGroupID": 10000031,
+    "name": "Fischl"
+  },
+  {
+    "id": 10000032,
+    "hpBase": 1025.79822,
+    "attackBase": 15.8175,
+    "defenseBase": 58.71028,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 3201,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 32,
+    "featureTagGroupID": 10000032,
+    "name": "Bennett"
+  },
+  {
+    "id": 10000033,
+    "hpBase": 921.8286,
+    "attackBase": 22.7375,
+    "defenseBase": 48.384,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 5,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 1,
+    "initialWeapon": 15101,
+    "weaponType": 12,
+    "skillDepotId": 3301,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 33,
+    "featureTagGroupID": 10000033,
+    "name": "Tartaglia"
+  },
+  {
+    "id": 10000034,
+    "hpBase": 899.823,
+    "attackBase": 17.575,
+    "defenseBase": 67.5428,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 12101,
+    "weaponType": 11,
+    "skillDepotId": 3401,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 34,
+    "featureTagGroupID": 10000034,
+    "name": "Noel"
+  },
+  {
+    "id": 10000035,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 3501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Qiqi"
+  },
+  {
+    "id": 10000036,
+    "hpBase": 441.9454,
+    "attackBase": 17.6352,
+    "defenseBase": 15.9755,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 12101,
+    "weaponType": 11,
+    "skillDepotId": 40001,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 36,
+    "name": "Chongyun"
+  },
+  {
+    "id": 10000037,
+    "hpBase": 755.85132,
+    "attackBase": 20.387,
+    "defenseBase": 45.20172,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 1,
+    "initialWeapon": 15101,
+    "weaponType": 12,
+    "skillDepotId": 3701,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 37,
+    "name": "Ganyu"
+  },
+  {
+    "id": 10000038,
+    "hpBase": 1007.80176,
+    "attackBase": 19.3325,
+    "defenseBase": 55.59292,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 3201,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 38,
+    "featureTagGroupID": 10000032,
+    "name": "Bennett"
+  },
+  {
+    "id": 11000008,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 3,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 8011,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Qin"
+  },
+  {
+    "id": 11000009,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 3,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 9011,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "roine_Type_01"
+  },
+  {
+    "id": 11000010,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 3,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 10011,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "roine_Type_01"
+  },
+  {
+    "id": 11000011,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 3,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Naked"
+  },
+  {
+    "id": 11000013,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 3,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 13011,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "roine_TestSync"
+  },
+  {
+    "id": 11000017,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 1501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Kaeya"
+  },
+  {
+    "id": 11000018,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 1501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Qin"
+  },
+  {
+    "id": 11000019,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 1501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Ayaka"
+  },
+  {
+    "id": 11000025,
+    "hpBase": 208.6,
+    "attackBase": 8.2,
+    "defenseBase": 9.5,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 1,
+    "initialWeapon": 15101,
+    "weaponType": 12,
+    "skillDepotId": 25011,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Aquaria"
+  },
+  {
+    "id": 11000026,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 14101,
+    "weaponType": 10,
+    "skillDepotId": 1501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Ayaka"
+  },
+  {
+    "id": 11000027,
+    "hpBase": 166,
+    "attackBase": 5,
+    "defenseBase": 8,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "featureTagGroupID": 10000001,
+    "name": "Kate"
+  },
+  {
+    "id": 11000028,
+    "hpBase": 185,
+    "attackBase": 6,
+    "defenseBase": 10.4,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 13101,
+    "weaponType": 13,
+    "skillDepotId": 28011,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Prototype"
+  },
+  {
+    "id": 11000030,
+    "hpBase": 189.5,
+    "attackBase": 5.6,
+    "defenseBase": 10.5,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 12101,
+    "weaponType": 11,
+    "skillDepotId": 30011,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Ayaka"
+  },
+  {
+    "id": 11000031,
+    "hpBase": 166,
+    "attackBase": 5,
+    "defenseBase": 8,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "featureTagGroupID": 10000001,
+    "name": "Kate"
+  },
+  {
+    "id": 11000032,
+    "hpBase": 166,
+    "attackBase": 5,
+    "defenseBase": 8,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "featureTagGroupID": 10000001,
+    "name": "Kate"
+  },
+  {
+    "id": 11000033,
+    "hpBase": 166,
+    "attackBase": 5,
+    "defenseBase": 8,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "featureTagGroupID": 10000001,
+    "name": "Kate"
+  },
+  {
+    "id": 11000034,
+    "hpBase": 166,
+    "attackBase": 5,
+    "defenseBase": 8,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "featureTagGroupID": 10000001,
+    "name": "Kate"
+  },
+  {
+    "id": 11000035,
+    "hpBase": 185,
+    "attackBase": 6,
+    "defenseBase": 10.4,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 13101,
+    "weaponType": 13,
+    "skillDepotId": 101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Diluc"
+  },
+  {
+    "id": 11000036,
+    "hpBase": 166,
+    "attackBase": 5,
+    "defenseBase": 8,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "featureTagGroupID": 10000001,
+    "name": "Kate"
+  },
+  {
+    "id": 11000037,
+    "hpBase": 191,
+    "attackBase": 5,
+    "defenseBase": 11,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 1,
+    "initialWeapon": 15101,
+    "weaponType": 12,
+    "skillDepotId": 37011,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "RuoxinTest"
+  },
+  {
+    "id": 11000038,
+    "hpBase": 166,
+    "attackBase": 5,
+    "defenseBase": 8,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "featureTagGroupID": 10000001,
+    "name": "Kate"
+  },
+  {
+    "id": 11000039,
+    "hpBase": 166,
+    "attackBase": 5,
+    "defenseBase": 8,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 101,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "featureTagGroupID": 10000001,
+    "name": "Kate"
+  },
+  {
+    "id": 11000040,
+    "hpBase": 441.9454,
+    "attackBase": 17.6352,
+    "defenseBase": 15.9755,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 5,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 701,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "PlayerGirlNew"
+  },
+  {
+    "id": 11000041,
+    "hpBase": 441.9454,
+    "attackBase": 17.6352,
+    "defenseBase": 15.9755,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "ChongyunTest"
+  },
+  {
+    "id": 11000042,
+    "hpBase": 441.9454,
+    "attackBase": 17.6352,
+    "defenseBase": 15.9755,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 21
+      },
+      {
+        "type": 4,
+        "growCurve": 31
+      },
+      {
+        "type": 7,
+        "growCurve": 21
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 12101,
+    "weaponType": 11,
+    "skillDepotId": 40001,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Chongyun"
+  },
+  {
+    "id": 11000043,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 14101,
+    "weaponType": 11,
+    "skillDepotId": 1501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Ayaka"
+  },
+  {
+    "id": 11000044,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 14101,
+    "weaponType": 1,
+    "skillDepotId": 1501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Ayaka"
+  },
+  {
+    "id": 11000045,
+    "hpBase": 99999,
+    "attackBase": 99999,
+    "defenseBase": 99999,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 14101,
+    "weaponType": 12,
+    "skillDepotId": 1501,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "name": "Ayaka"
+  },
+  {
+    "id": 10000046,
+    "hpBase": 332.18492,
+    "attackBase": 6.7331,
+    "defenseBase": 18.63785,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": 1,
+        "growCurve": 22
+      },
+      {
+        "type": 4,
+        "growCurve": 32
+      },
+      {
+        "type": 7,
+        "growCurve": 22
+      }
+    ],
+    "qualityType": 4,
+    "chargeEfficiency": 1,
+    "isRangeAttack": 0,
+    "initialWeapon": 11101,
+    "weaponType": 1,
+    "skillDepotId": 46011,
+    "staminaRecoverSpeed": 25,
+    "avatarIdentityType": 1,
+    "avatarPromoteId": 2,
+    "featureTagGroupID": 10000001,
+    "name": "TestXXX"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "groupId": 220018001,
+    "configID": 1,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "tlog_tag": "",
+    "comment": "Spawn Dvalin after CutScene finished"
+  },
+  {
+    "groupId": 220018001,
+    "configID": 2,
+    "position": {
+      "x": 0.0,
+      "y": -10.0,
+      "z": 75.0
+    },
+    "tlog_tag": "",
+    "comment": "Player CutScene"
+  },
+  {
+    "groupId": 220018001,
+    "configID": 3,
+    "position": {
+      "x": 0.0,
+      "y": -9.5,
+      "z": 80.0
+    },
+    "tlog_tag": "",
+    "comment": ""
+  }
+]

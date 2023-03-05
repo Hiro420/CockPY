@@ -1,0 +1,63 @@
+{
+  "radius": 10.0,
+  "points": {},
+  "areas": {},
+  "forces": {
+    "1": {
+      "$type": "ConfigAirflowField",
+      "pos": {
+        "x": 99.41113,
+        "y": 0.5,
+        "z": -41.8289642
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "gadgetId": 40200001,
+      "up": false,
+      "scale": 1.0,
+      "velocity": 5.0
+    }
+  },
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 90.9741058,
+        "y": -4.43560648,
+        "z": -111.232925
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 500.0,
+      "withGO": true,
+      "triggerFlag": "DeadRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 8.32,
+        "centerType": "Center",
+        "width": 32.56,
+        "length": 1.51
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 0.0
+    }
+  },
+  "doors": {}
+}

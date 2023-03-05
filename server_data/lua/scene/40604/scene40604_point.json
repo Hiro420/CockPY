@@ -1,0 +1,33 @@
+{
+  "radius": 100.0,
+  "points": {
+    "1": {
+      "type": "NORMAL",
+      "$type": "DungeonQuitPoint",
+      "gadgetId": 70120004,
+      "pos": {
+        "x": 0.24465996,
+        "y": 2.939939,
+        "z": -79.96712
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "size": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 5.0
+      },
+      "titleTextID": ""
+    }
+  },
+  "areas": {},
+  "forces": {},
+  "entities": {},
+  "doors": {}
+}

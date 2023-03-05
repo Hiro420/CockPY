@@ -1,0 +1,68 @@
+{
+  "radius": 100.0,
+  "points": {
+    "1": {
+      "type": "NORMAL",
+      "$type": "DungeonQuitPoint",
+      "gadgetId": 70120004,
+      "pos": {
+        "x": 343.371857,
+        "y": -11.5364094,
+        "z": 243.113617
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "size": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 5.0
+      },
+      "titleTextID": ""
+    }
+  },
+  "areas": {},
+  "forces": {},
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 343.087341,
+        "y": -33.59237,
+        "z": 457.5376
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 500.0,
+      "withGO": true,
+      "triggerFlag": "DeadRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 2.0,
+        "centerType": "Center",
+        "width": 71.13,
+        "length": 147.66
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 1.0
+    }
+  },
+  "doors": {}
+}

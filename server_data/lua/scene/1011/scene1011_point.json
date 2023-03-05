@@ -1,0 +1,928 @@
+{
+  "radius": 100.0,
+  "points": {
+    "1": {
+      "type": "NORMAL",
+      "$type": "DungeonQuitPoint",
+      "gadgetId": 70010001,
+      "pos": {
+        "x": 26.6782017,
+        "y": 0.4000006,
+        "z": -6.596979
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "size": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "2": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 181.387451,
+        "y": 11.8276606,
+        "z": 9.060377
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 299.287445,
+        "y": 13.8276606,
+        "z": 16.0603771
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "3": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 232.359222,
+        "y": 1.13284469,
+        "z": 7.55265331
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 362.359222,
+        "y": 3.13284469,
+        "z": 14.5526533
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "4": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 279.35907,
+        "y": 1.13284469,
+        "z": 8.621277
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 1,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 409.35907,
+        "y": 3.13284469,
+        "z": 15.6212769
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "5": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 328.1494,
+        "y": 1.1328454,
+        "z": 10.4917316
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 458.1494,
+        "y": 3.1328454,
+        "z": 17.4917316
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "6": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 378.9699,
+        "y": 1.1328454,
+        "z": 10.00511
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 508.9699,
+        "y": 3.1328454,
+        "z": 17.00511
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "7": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 141.367615,
+        "y": 0.13284564,
+        "z": -34.65311
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 271.3676,
+        "y": 2.13284564,
+        "z": -27.65311
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "8": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 188.2294,
+        "y": -0.0709645748,
+        "z": -35.2119827
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 318.2294,
+        "y": 1.92903543,
+        "z": -28.2119827
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "9": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 232.58284,
+        "y": -0.0709645748,
+        "z": -34.8296776
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 362.582825,
+        "y": 1.92903543,
+        "z": -27.8296776
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "10": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 280.34967,
+        "y": 0.13284564,
+        "z": -34.40973
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 410.34967,
+        "y": 2.13284564,
+        "z": -27.409729
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "11": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 325.50766,
+        "y": 0.13284564,
+        "z": -34.9056358
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 455.50766,
+        "y": 2.13284564,
+        "z": -27.9056358
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "12": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 369.776855,
+        "y": 0.286167145,
+        "z": -36.3679428
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 499.776855,
+        "y": 2.28616714,
+        "z": -29.3679428
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "13": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 417.2731,
+        "y": 0.429035425,
+        "z": -35.3753357
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 547.2731,
+        "y": 2.42903543,
+        "z": -28.3753357
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "14": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 463.1523,
+        "y": 0.429035425,
+        "z": -34.4831123
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 593.152344,
+        "y": 2.42903543,
+        "z": -27.4831123
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "15": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 427.810059,
+        "y": 1.13284469,
+        "z": 9.332918
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 557.810059,
+        "y": 3.13284469,
+        "z": 16.3329182
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "16": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 479.3782,
+        "y": 1.13284469,
+        "z": 8.854359
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 609.3782,
+        "y": 3.13284469,
+        "z": 15.8543587
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "17": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 532.1347,
+        "y": 1.13284469,
+        "z": 8.651203
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 662.1347,
+        "y": 3.13284469,
+        "z": 15.6512032
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "18": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 504.182678,
+        "y": 0.429035425,
+        "z": -36.451046
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 634.1827,
+        "y": 2.42903543,
+        "z": -29.451046
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "19": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 550.795044,
+        "y": 0.595164061,
+        "z": -35.4478836
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 680.795044,
+        "y": 2.595164,
+        "z": -28.4478836
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "20": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 574.664551,
+        "y": 1.13284469,
+        "z": 9.473928
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 704.664551,
+        "y": 3.13284469,
+        "z": 16.4739285
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "21": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 627.2017,
+        "y": 1.1328454,
+        "z": 11.252553
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 757.2017,
+        "y": 3.1328454,
+        "z": 18.252552
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "22": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 596.4421,
+        "y": 0.63284564,
+        "z": -34.3598671
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 726.4421,
+        "y": 2.63284564,
+        "z": -27.3598671
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "23": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 673.2487,
+        "y": 1.1328454,
+        "z": 11.5468636
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 803.2487,
+        "y": 3.1328454,
+        "z": 18.5468636
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "24": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 639.3273,
+        "y": 0.429035425,
+        "z": -35.0132523
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 769.3273,
+        "y": 2.42903543,
+        "z": -28.0132523
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "25": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 725.402,
+        "y": 1.1328454,
+        "z": 11.7485275
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 855.402,
+        "y": 3.1328454,
+        "z": 18.7485275
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "26": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 685.8583,
+        "y": 0.429035425,
+        "z": -34.3886147
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 815.8583,
+        "y": 2.42903543,
+        "z": -27.3886147
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "27": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 732.4933,
+        "y": 0.5181968,
+        "z": -33.87757
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 862.4933,
+        "y": 2.51819682,
+        "z": -26.8775711
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "28": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 771.495056,
+        "y": 1.1328454,
+        "z": 11.2905893
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 901.495056,
+        "y": 3.1328454,
+        "z": 18.2905884
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "29": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 823.5542,
+        "y": 1.1328454,
+        "z": 10.4281445
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 953.5542,
+        "y": 3.1328454,
+        "z": 17.4281445
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "30": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 826.30835,
+        "y": 0.78616786,
+        "z": -33.4903526
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 956.30835,
+        "y": 2.78616786,
+        "z": -26.4903526
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "31": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 779.6507,
+        "y": 0.63284564,
+        "z": -34.5074463
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 909.6507,
+        "y": 2.63284564,
+        "z": -27.5074463
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "32": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 187.328476,
+        "y": -0.04013753,
+        "z": -82.52847
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 317.3285,
+        "y": 1.95986247,
+        "z": -75.52847
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "33": {
+      "type": "PORTAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70110003,
+      "pos": {
+        "x": 138.368515,
+        "y": -0.177042246,
+        "z": -81.51712
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranPos": {
+        "x": 268.36853,
+        "y": 1.82295775,
+        "z": -74.51712
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  },
+  "areas": {},
+  "forces": {},
+  "entities": {},
+  "doors": {}
+}

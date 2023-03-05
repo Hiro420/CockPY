@@ -1,0 +1,145 @@
+[
+  {
+    "groupId": 240007001,
+    "configID": 1,
+    "position": {
+      "x": 171.364456,
+      "y": 60.4692535,
+      "z": -22.1912823
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007001,
+    "configID": 2,
+    "position": {
+      "x": 164.8986,
+      "y": 60.4681664,
+      "z": -21.56611
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007002,
+    "configID": 5,
+    "position": {
+      "x": 135.266342,
+      "y": 60.48221,
+      "z": -28.4656487
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007002,
+    "configID": 6,
+    "position": {
+      "x": 134.149063,
+      "y": 60.4396973,
+      "z": -13.8206806
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007004,
+    "configID": 7,
+    "position": {
+      "x": -4.07278442,
+      "y": 1.02315569,
+      "z": -5.36707735
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007004,
+    "configID": 8,
+    "position": {
+      "x": -12.8848915,
+      "y": 1.11861742,
+      "z": -5.923314
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007003,
+    "configID": 9,
+    "position": {
+      "x": 3.53451777,
+      "y": 1.00274634,
+      "z": -37.96553
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007002,
+    "configID": 10,
+    "position": {
+      "x": 76.11318,
+      "y": 19.3551178,
+      "z": -47.26583
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007003,
+    "configID": 11,
+    "position": {
+      "x": -1.7434907,
+      "y": 1.05167377,
+      "z": -32.60836
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007003,
+    "configID": 12,
+    "position": {
+      "x": -1.913919,
+      "y": 1.04590476,
+      "z": -29.0847282
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007006,
+    "configID": 13,
+    "position": {
+      "x": 138.250153,
+      "y": 60.5551453,
+      "z": -23.4444675
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007006,
+    "configID": 14,
+    "position": {
+      "x": 2.18086481,
+      "y": 1.08897722,
+      "z": -37.38671
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240007003,
+    "configID": 15,
+    "position": {
+      "x": -3.804759,
+      "y": 1.00243437,
+      "z": -39.5637
+    },
+    "tlog_tag": "",
+    "comment": ""
+  }
+]

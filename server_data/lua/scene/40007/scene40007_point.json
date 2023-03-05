@@ -1,0 +1,161 @@
+{
+  "radius": 100.0,
+  "points": {
+    "1": {
+      "type": "NORMAL",
+      "$type": "DungeonWayPoint",
+      "gadgetId": 70120003,
+      "pos": {
+        "x": 28.9114876,
+        "y": 8.000015,
+        "z": -60.6773834
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 40.0
+      },
+      "isBoss": false,
+      "groupIds": []
+    },
+    "2": {
+      "type": "NORMAL",
+      "$type": "DungeonQuitPoint",
+      "gadgetId": 70120004,
+      "pos": {
+        "x": 5.40208769,
+        "y": 1.0862093,
+        "z": -36.1913261
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "size": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "titleTextID": "UI_DUNGEON_EXIT"
+    }
+  },
+  "areas": {},
+  "forces": {},
+  "entities": {
+    "1": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 137.6316,
+        "y": 5.50235,
+        "z": -105.535782
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": false,
+      "triggerFlag": "NoReviveRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 200.0,
+        "centerType": "Center",
+        "width": 200.0,
+        "length": 100.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 0.0
+    },
+    "2": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 168.5167,
+        "y": 19.4543915,
+        "z": 58.5970879
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": false,
+      "triggerFlag": "NoReviveRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 200.0,
+        "centerType": "Center",
+        "width": 200.0,
+        "length": 100.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 0.0
+    },
+    "3": {
+      "$type": "ConfigLocalTrigger",
+      "gadgetId": 70010006,
+      "pos": {
+        "x": 53.0171356,
+        "y": -16.6817646,
+        "z": -6.54993057
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "checkDist": 100.0,
+      "withGO": false,
+      "triggerFlag": "NoReviveRegion",
+      "shape": {
+        "$type": "ConfigShapeRect",
+        "useHeight": true,
+        "height": 100.0,
+        "centerType": "Center",
+        "width": 50.0,
+        "length": 70.0
+      },
+      "checkCount": 0,
+      "vectorParam": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "floatParam": 0.0
+    }
+  },
+  "doors": {}
+}

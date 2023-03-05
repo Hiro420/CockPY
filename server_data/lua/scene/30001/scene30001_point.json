@@ -1,0 +1,56 @@
+{
+  "radius": 10.0,
+  "points": {
+    "1": {
+      "type": "NORMAL",
+      "$type": "DungeonQuitPoint",
+      "gadgetId": 70110002,
+      "pos": {
+        "x": -5.21100044,
+        "y": 8.516427,
+        "z": -133.849976
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      }
+    },
+    "2": {
+      "type": "NORMAL",
+      "$type": "DungeonWayPoint",
+      "gadgetId": 70120003,
+      "pos": {
+        "x": 0.5262328,
+        "y": 0.0165590178,
+        "z": -9.037609
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "areaId": 0,
+      "unlocked": true,
+      "cutsceneList": [],
+      "size": {
+        "x": 36.08,
+        "y": 12.85,
+        "z": 6.23
+      },
+      "isBoss": false,
+      "groupIds": []
+    }
+  },
+  "areas": {},
+  "forces": {},
+  "entities": {}
+}

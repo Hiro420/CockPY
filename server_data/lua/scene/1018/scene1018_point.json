@@ -1,0 +1,46 @@
+{
+  "radius": 100.0,
+  "points": {
+    "1": {
+      "type": "NORMAL",
+      "$type": "PersonalSceneJumpPoint",
+      "gadgetId": 70010002,
+      "pos": {
+        "x": 3.55624621E-07,
+        "y": 0.00673466455,
+        "z": 4.3406806
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "areaId": 3,
+      "unlocked": true,
+      "cutsceneList": [],
+      "tranSceneId": 3,
+      "titleTextID": "UI_SCENE_ENTRY_EXIT_CHATEAU",
+      "triggerSize": {
+        "x": 3.0,
+        "y": 3.0,
+        "z": 3.0
+      },
+      "open_time": 0.0,
+      "close_time": 24.0,
+      "tranPos": {
+        "x": 1769.615,
+        "y": 221.863,
+        "z": -398.2
+      },
+      "tranRot": {
+        "x": 0.0,
+        "y": 28.0,
+        "z": 0.0
+      }
+    }
+  },
+  "areas": {},
+  "forces": {},
+  "entities": {},
+  "doors": {}
+}

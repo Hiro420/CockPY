@@ -1,0 +1,123 @@
+[
+  {
+    "groupId": 220024001,
+    "configID": 1,
+    "position": {
+      "x": 74.3292,
+      "y": 39.5162468,
+      "z": 122.1237
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220024001,
+    "configID": 2,
+    "position": {
+      "x": 74.3292,
+      "y": 39.5162468,
+      "z": 122.1237
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220024002,
+    "configID": 3,
+    "position": {
+      "x": 190.378433,
+      "y": 42.05909,
+      "z": 121.148048
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220024002,
+    "configID": 4,
+    "position": {
+      "x": 190.378433,
+      "y": 42.05909,
+      "z": 121.148048
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220024003,
+    "configID": 5,
+    "position": {
+      "x": 190.530716,
+      "y": 49.13809,
+      "z": 186.144043
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220024003,
+    "configID": 6,
+    "position": {
+      "x": 190.530716,
+      "y": 49.13809,
+      "z": 186.144043
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220024005,
+    "configID": 24,
+    "position": {
+      "x": 195.364014,
+      "y": 60.90471,
+      "z": 358.446625
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220024003,
+    "configID": 25,
+    "position": {
+      "x": 190.4104,
+      "y": 46.2878456,
+      "z": 145.496216
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220024003,
+    "configID": 30,
+    "position": {
+      "x": 190.4104,
+      "y": 47.1100159,
+      "z": 142.64241
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220024008,
+    "configID": 37,
+    "position": {
+      "x": 192.101044,
+      "y": 58.51628,
+      "z": 343.478424
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220024008,
+    "configID": 38,
+    "position": {
+      "x": 194.744324,
+      "y": 58.28109,
+      "z": 342.344727
+    },
+    "tlog_tag": "",
+    "comment": ""
+  }
+]

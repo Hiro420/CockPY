@@ -1,0 +1,1847 @@
+{
+  "sceneMeta": {
+    "1": [
+      {
+        "blockID": 1101,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1_block1101_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1_1101_routes"
+      }
+    ],
+    "2": [],
+    "3": [
+      {
+        "blockID": 3001,
+        "blockCenterX": 1536,
+        "blockCenterZ": -1536,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3001_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3001_routes"
+      },
+      {
+        "blockID": 3002,
+        "blockCenterX": 1536,
+        "blockCenterZ": -512,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3002_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3002_routes"
+      },
+      {
+        "blockID": 3003,
+        "blockCenterX": 2560,
+        "blockCenterZ": -1536,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3003_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3003_routes"
+      },
+      {
+        "blockID": 3004,
+        "blockCenterX": 2560,
+        "blockCenterZ": -512,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3004_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3004_routes"
+      },
+      {
+        "blockID": 3005,
+        "blockCenterX": 1536,
+        "blockCenterZ": -2560,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3005_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3005_routes"
+      },
+      {
+        "blockID": 3006,
+        "blockCenterX": 2560,
+        "blockCenterZ": -2560,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3006_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3006_routes"
+      },
+      {
+        "blockID": 3007,
+        "blockCenterX": 2560,
+        "blockCenterZ": 512,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3007_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3007_routes"
+      },
+      {
+        "blockID": 3101,
+        "blockCenterX": 1536,
+        "blockCenterZ": 1536,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3101_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3101_routes"
+      },
+      {
+        "blockID": 3102,
+        "blockCenterX": 1536,
+        "blockCenterZ": 512,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3102_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3102_routes"
+      },
+      {
+        "blockID": 3103,
+        "blockCenterX": 512,
+        "blockCenterZ": 1536,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3103_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3103_routes"
+      },
+      {
+        "blockID": 3104,
+        "blockCenterX": 512,
+        "blockCenterZ": 512,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3104_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3104_routes"
+      },
+      {
+        "blockID": 3105,
+        "blockCenterX": 512,
+        "blockCenterZ": -512,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3105_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3105_routes"
+      },
+      {
+        "blockID": 3106,
+        "blockCenterX": -512,
+        "blockCenterZ": 1536,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3106_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3106_routes"
+      },
+      {
+        "blockID": 3107,
+        "blockCenterX": -512,
+        "blockCenterZ": 512,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3107_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3107_routes"
+      },
+      {
+        "blockID": 3108,
+        "blockCenterX": -512,
+        "blockCenterZ": -512,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3108_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3108_routes"
+      },
+      {
+        "blockID": 3109,
+        "blockCenterX": -1536,
+        "blockCenterZ": 1536,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3109_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3109_routes"
+      },
+      {
+        "blockID": 3110,
+        "blockCenterX": -1536,
+        "blockCenterZ": 512,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene3_block3110_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene3_3110_routes"
+      }
+    ],
+    "1001": [
+      {
+        "blockID": 1001,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1001_block1001_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1001_1001_routes"
+      }
+    ],
+    "1002": [],
+    "1003": [
+      {
+        "blockID": 1003,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1003_1003_routes"
+      }
+    ],
+    "1004": [
+      {
+        "blockID": 1004,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1004_block1004_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1004_1004_routes"
+      }
+    ],
+    "1005": [
+      {
+        "blockID": 1005,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1005_block1005_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1005_1005_routes"
+      }
+    ],
+    "1006": [
+      {
+        "blockID": 1006,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1006_block1006_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1006_1006_routes"
+      }
+    ],
+    "1008": [
+      {
+        "blockID": 1008,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1008_block1008_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1008_1008_routes"
+      }
+    ],
+    "1009": [
+      {
+        "blockID": 1009,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1009_block1009_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1009_1009_routes"
+      }
+    ],
+    "1011": [
+      {
+        "blockID": 1011,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1011_block1011_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1011_1011_routes"
+      }
+    ],
+    "1013": [
+      {
+        "blockID": 1013,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1013_block1013_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "1015": [
+      {
+        "blockID": 1015,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1015_block1015_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1015_1015_routes"
+      }
+    ],
+    "1016": [
+      {
+        "blockID": 1016,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1016_block1016_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1016_1016_routes"
+      }
+    ],
+    "1017": [
+      {
+        "blockID": 1017,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1017_block1017_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1017_1017_routes"
+      }
+    ],
+    "1018": [
+      {
+        "blockID": 1018,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1018_block1018_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1018_1018_routes"
+      }
+    ],
+    "1019": [
+      {
+        "blockID": 1019,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1019_block1019_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1019_1019_routes"
+      }
+    ],
+    "1023": [
+      {
+        "blockID": 1023,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1023_block1023_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1023_1023_routes"
+      }
+    ],
+    "1024": [
+      {
+        "blockID": 1024,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1024_block1024_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1024_1024_routes"
+      }
+    ],
+    "1030": [
+      {
+        "blockID": 1030,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene1030_1030_routes"
+      }
+    ],
+    "1031": [
+      {
+        "blockID": 1031,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene1031_block1031_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "20000": [
+      {
+        "blockID": 20000,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20000_block20000_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20000_20000_routes"
+      }
+    ],
+    "20005": [
+      {
+        "blockID": 20005,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20005_block20005_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20005_20005_routes"
+      }
+    ],
+    "20006": [
+      {
+        "blockID": 20006,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20006_block20006_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20006_20006_routes"
+      }
+    ],
+    "20007": [
+      {
+        "blockID": 20007,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20007_block20007_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20007_20007_routes"
+      }
+    ],
+    "20008": [
+      {
+        "blockID": 20008,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20008_block20008_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20008_20008_routes"
+      }
+    ],
+    "20009": [
+      {
+        "blockID": 20009,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20009_block20009_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20009_20009_routes"
+      }
+    ],
+    "20010": [
+      {
+        "blockID": 20010,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20010_block20010_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20010_20010_routes"
+      }
+    ],
+    "20011": [
+      {
+        "blockID": 20011,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20011_block20011_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20011_20011_routes"
+      }
+    ],
+    "20012": [
+      {
+        "blockID": 20012,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20012_block20012_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20012_20012_routes"
+      }
+    ],
+    "20013": [
+      {
+        "blockID": 20013,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20013_block20013_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20013_20013_routes"
+      }
+    ],
+    "20014": [
+      {
+        "blockID": 20014,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20014_block20014_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20014_20014_routes"
+      }
+    ],
+    "20015": [
+      {
+        "blockID": 20015,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20015_block20015_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20015_20015_routes"
+      }
+    ],
+    "20016": [
+      {
+        "blockID": 20016,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20016_block20016_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20016_20016_routes"
+      }
+    ],
+    "20017": [
+      {
+        "blockID": 20017,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20017_block20017_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20017_20017_routes"
+      }
+    ],
+    "20018": [
+      {
+        "blockID": 20018,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20018_block20018_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20018_20018_routes"
+      }
+    ],
+    "20019": [
+      {
+        "blockID": 20019,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20019_block20019_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20019_20019_routes"
+      }
+    ],
+    "20020": [
+      {
+        "blockID": 20020,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20020_block20020_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20020_20020_routes"
+      }
+    ],
+    "20022": [
+      {
+        "blockID": 20022,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20022_block20022_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20022_20022_routes"
+      }
+    ],
+    "20023": [
+      {
+        "blockID": 20023,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20023_block20023_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20023_20023_routes"
+      }
+    ],
+    "20024": [
+      {
+        "blockID": 20024,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20024_block20024_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20024_20024_routes"
+      }
+    ],
+    "20025": [
+      {
+        "blockID": 20025,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20025_block20025_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20025_20025_routes"
+      }
+    ],
+    "20026": [
+      {
+        "blockID": 20026,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20026_block20026_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20026_20026_routes"
+      }
+    ],
+    "20027": [
+      {
+        "blockID": 20027,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20027_block20027_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20027_20027_routes"
+      }
+    ],
+    "20031": [
+      {
+        "blockID": 20031,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene20031_block20031_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene20031_20031_routes"
+      }
+    ],
+    "30001": [
+      {
+        "blockID": 30001,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30001_block30001_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene30001_30001_routes"
+      }
+    ],
+    "30100": [
+      {
+        "blockID": 30100,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30100_block30100_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30101": [
+      {
+        "blockID": 30101,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30101_block30101_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30102": [
+      {
+        "blockID": 30102,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30102_block30102_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30103": [
+      {
+        "blockID": 30103,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30103_block30103_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30104": [
+      {
+        "blockID": 30104,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30104_block30104_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30200": [
+      {
+        "blockID": 30200,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30200_block30200_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30201": [
+      {
+        "blockID": 30201,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30201_block30201_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30202": [
+      {
+        "blockID": 30202,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30202_block30202_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30203": [
+      {
+        "blockID": 30203,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30203_block30203_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30204": [
+      {
+        "blockID": 30204,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30204_block30204_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30300": [
+      {
+        "blockID": 30300,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30300_block30300_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30301": [
+      {
+        "blockID": 30301,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30301_block30301_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30302": [
+      {
+        "blockID": 30302,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30302_block30302_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30303": [
+      {
+        "blockID": 30303,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30303_block30303_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30304": [
+      {
+        "blockID": 30304,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30304_block30304_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30400": [
+      {
+        "blockID": 30400,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30400_block30400_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30401": [
+      {
+        "blockID": 30401,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30401_block30401_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30402": [
+      {
+        "blockID": 30402,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30402_block30402_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30403": [
+      {
+        "blockID": 30403,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30403_block30403_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30404": [
+      {
+        "blockID": 30404,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30404_block30404_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30500": [
+      {
+        "blockID": 30500,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30500_block30500_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30501": [
+      {
+        "blockID": 30501,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30501_block30501_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30502": [
+      {
+        "blockID": 30502,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30502_block30502_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30503": [
+      {
+        "blockID": 30503,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30503_block30503_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30504": [
+      {
+        "blockID": 30504,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30504_block30504_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30600": [
+      {
+        "blockID": 30600,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30600_block30600_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30601": [
+      {
+        "blockID": 30601,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30601_block30601_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30602": [
+      {
+        "blockID": 30602,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30602_block30602_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30603": [
+      {
+        "blockID": 30603,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30603_block30603_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30604": [
+      {
+        "blockID": 30604,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30604_block30604_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30700": [
+      {
+        "blockID": 30700,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30700_block30700_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30701": [
+      {
+        "blockID": 30701,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30701_block30701_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30702": [
+      {
+        "blockID": 30702,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30702_block30702_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30703": [
+      {
+        "blockID": 30703,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30703_block30703_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30704": [
+      {
+        "blockID": 30704,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30704_block30704_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30800": [
+      {
+        "blockID": 30800,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30800_block30800_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30801": [
+      {
+        "blockID": 30801,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30801_block30801_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30802": [
+      {
+        "blockID": 30802,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30802_block30802_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30803": [
+      {
+        "blockID": 30803,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30803_block30803_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30804": [
+      {
+        "blockID": 30804,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30804_block30804_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30900": [
+      {
+        "blockID": 30900,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30900_block30900_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30901": [
+      {
+        "blockID": 30901,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30901_block30901_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30902": [
+      {
+        "blockID": 30902,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30902_block30902_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30903": [
+      {
+        "blockID": 30903,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30903_block30903_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "30904": [
+      {
+        "blockID": 30904,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene30904_block30904_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31000": [
+      {
+        "blockID": 31000,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31000_block31000_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31001": [
+      {
+        "blockID": 31001,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31001_block31001_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31002": [
+      {
+        "blockID": 31002,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31002_block31002_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31003": [
+      {
+        "blockID": 31003,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31003_block31003_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31004": [
+      {
+        "blockID": 31004,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31004_block31004_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31100": [
+      {
+        "blockID": 31100,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31100_block31100_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31101": [
+      {
+        "blockID": 31101,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31101_block31101_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31102": [
+      {
+        "blockID": 31102,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31102_block31102_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31103": [
+      {
+        "blockID": 31103,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31103_block31103_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31104": [
+      {
+        "blockID": 31104,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31104_block31104_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31200": [
+      {
+        "blockID": 31200,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31200_block31200_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31201": [
+      {
+        "blockID": 31201,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31201_block31201_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31202": [
+      {
+        "blockID": 31202,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31202_block31202_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31203": [
+      {
+        "blockID": 31203,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31203_block31203_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "31204": [
+      {
+        "blockID": 31204,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene31204_block31204_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40001": [
+      {
+        "blockID": 40001,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40001_block40001_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40001_40001_routes"
+      }
+    ],
+    "40002": [
+      {
+        "blockID": 40002,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40002_block40002_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40002_40002_routes"
+      }
+    ],
+    "40003": [
+      {
+        "blockID": 40003,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40003_block40003_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40003_40003_routes"
+      }
+    ],
+    "40004": [
+      {
+        "blockID": 40004,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40004_block40004_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40004_40004_routes"
+      }
+    ],
+    "40005": [
+      {
+        "blockID": 40005,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40005_40005_routes"
+      }
+    ],
+    "40006": [
+      {
+        "blockID": 40006,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40006_block40006_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40006_40006_routes"
+      }
+    ],
+    "40007": [
+      {
+        "blockID": 40007,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40007_block40007_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40007_40007_routes"
+      }
+    ],
+    "40008": [
+      {
+        "blockID": 40008,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40008_block40008_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40009": [
+      {
+        "blockID": 40009,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40009_block40009_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40009_40009_routes"
+      }
+    ],
+    "40010": [
+      {
+        "blockID": 40010,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40010_block40010_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40010_40010_routes"
+      }
+    ],
+    "40012": [
+      {
+        "blockID": 40012,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40012_block40012_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40012_40012_routes"
+      }
+    ],
+    "40013": [
+      {
+        "blockID": 40013,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40013_block40013_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40013_40013_routes"
+      }
+    ],
+    "40014": [
+      {
+        "blockID": 40014,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40014_block40014_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40014_40014_routes"
+      }
+    ],
+    "40100": [
+      {
+        "blockID": 40100,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40100_block40100_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40100_40100_routes"
+      }
+    ],
+    "40101": [
+      {
+        "blockID": 40101,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40101_block40101_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40101_40101_routes"
+      }
+    ],
+    "40102": [
+      {
+        "blockID": 40102,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40102_block40102_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40102_40102_routes"
+      }
+    ],
+    "40103": [
+      {
+        "blockID": 40103,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40103_block40103_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40103_40103_routes"
+      }
+    ],
+    "40200": [
+      {
+        "blockID": 40200,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40200_block40200_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40200_40200_routes"
+      }
+    ],
+    "40201": [
+      {
+        "blockID": 40201,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40201_block40201_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40201_40201_routes"
+      }
+    ],
+    "40202": [
+      {
+        "blockID": 40202,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40202_block40202_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40202_40202_routes"
+      }
+    ],
+    "40203": [
+      {
+        "blockID": 40203,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40203_block40203_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40203_40203_routes"
+      }
+    ],
+    "40300": [
+      {
+        "blockID": 40300,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40300_block40300_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40300_40300_routes"
+      }
+    ],
+    "40301": [
+      {
+        "blockID": 40301,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40301_block40301_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40301_40301_routes"
+      }
+    ],
+    "40302": [
+      {
+        "blockID": 40302,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40302_block40302_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40302_40302_routes"
+      }
+    ],
+    "40303": [
+      {
+        "blockID": 40303,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40303_block40303_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40303_40303_routes"
+      }
+    ],
+    "40400": [
+      {
+        "blockID": 40400,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40400_block40400_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40400_40400_routes"
+      }
+    ],
+    "40401": [
+      {
+        "blockID": 40401,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40401_block40401_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40401_40401_routes"
+      }
+    ],
+    "40402": [
+      {
+        "blockID": 40402,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40402_block40402_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40402_40402_routes"
+      }
+    ],
+    "40403": [
+      {
+        "blockID": 40403,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40403_block40403_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40403_40403_routes"
+      }
+    ],
+    "40404": [
+      {
+        "blockID": 40404,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40404_block40404_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40404_40404_routes"
+      }
+    ],
+    "40405": [
+      {
+        "blockID": 40405,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40405_block40405_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40405_40405_routes"
+      }
+    ],
+    "40406": [
+      {
+        "blockID": 40406,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40406_block40406_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40406_40406_routes"
+      }
+    ],
+    "40407": [
+      {
+        "blockID": 40407,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40407_block40407_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40407_40407_routes"
+      }
+    ],
+    "40500": [
+      {
+        "blockID": 40500,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40500_block40500_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40500_40500_routes"
+      }
+    ],
+    "40501": [
+      {
+        "blockID": 40501,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40501_block40501_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40501_40501_routes"
+      }
+    ],
+    "40502": [
+      {
+        "blockID": 40502,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40502_block40502_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40502_40502_routes"
+      }
+    ],
+    "40503": [
+      {
+        "blockID": 40503,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40503_block40503_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40503_40503_routes"
+      }
+    ],
+    "40504": [
+      {
+        "blockID": 40504,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40504_block40504_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40505": [
+      {
+        "blockID": 40505,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40505_block40505_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40506": [
+      {
+        "blockID": 40506,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40506_block40506_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40507": [
+      {
+        "blockID": 40507,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40507_block40507_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40508": [
+      {
+        "blockID": 40508,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40508_block40508_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40509": [
+      {
+        "blockID": 40509,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40509_block40509_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40510": [
+      {
+        "blockID": 40510,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40510_block40510_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40511": [
+      {
+        "blockID": 40511,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40511_block40511_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40512": [
+      {
+        "blockID": 40512,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40512_block40512_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40513": [
+      {
+        "blockID": 40513,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40513_block40513_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40600": [
+      {
+        "blockID": 40600,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40600_block40600_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene40600_40600_routes"
+      }
+    ],
+    "40601": [
+      {
+        "blockID": 40601,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40601_block40601_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40602": [
+      {
+        "blockID": 40602,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40602_block40602_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40603": [
+      {
+        "blockID": 40603,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40603_block40603_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40604": [
+      {
+        "blockID": 40604,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40604_block40604_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40605": [
+      {
+        "blockID": 40605,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40605_block40605_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40606": [
+      {
+        "blockID": 40606,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40606_block40606_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40607": [
+      {
+        "blockID": 40607,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40607_block40607_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40608": [
+      {
+        "blockID": 40608,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40608_block40608_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40609": [
+      {
+        "blockID": 40609,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40609_block40609_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40610": [
+      {
+        "blockID": 40610,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40610_block40610_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40611": [
+      {
+        "blockID": 40611,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40611_block40611_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40612": [
+      {
+        "blockID": 40612,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40612_block40612_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40613": [
+      {
+        "blockID": 40613,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40613_block40613_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40614": [
+      {
+        "blockID": 40614,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40614_block40614_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40615": [
+      {
+        "blockID": 40615,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40615_block40615_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40616": [],
+    "40700": [
+      {
+        "blockID": 40700,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40700_block40700_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40701": [
+      {
+        "blockID": 40701,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40701_block40701_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40702": [
+      {
+        "blockID": 40702,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40702_block40702_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "40703": [
+      {
+        "blockID": 40703,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene40703_block40703_levelmonsters",
+        "blockLevelRouteDataPath": ""
+      }
+    ],
+    "50000": [
+      {
+        "blockID": 50000,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50000_block50000_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50000_50000_routes"
+      }
+    ],
+    "50002": [
+      {
+        "blockID": 50002,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50002_block50002_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50002_50002_routes"
+      }
+    ],
+    "50003": [
+      {
+        "blockID": 50003,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50003_block50003_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50003_50003_routes"
+      }
+    ],
+    "50004": [
+      {
+        "blockID": 50004,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50004_block50004_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50004_50004_routes"
+      }
+    ],
+    "50005": [
+      {
+        "blockID": 50005,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50005_block50005_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50005_50005_routes"
+      }
+    ],
+    "50006": [
+      {
+        "blockID": 50006,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50006_block50006_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50006_50006_routes"
+      }
+    ],
+    "50007": [
+      {
+        "blockID": 50007,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50007_block50007_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50007_50007_routes"
+      }
+    ],
+    "50008": [
+      {
+        "blockID": 50008,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50008_block50008_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50008_50008_routes"
+      }
+    ],
+    "50009": [
+      {
+        "blockID": 50009,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50009_block50009_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50009_50009_routes"
+      }
+    ],
+    "50010": [
+      {
+        "blockID": 50010,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50010_block50010_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50010_50010_routes"
+      }
+    ],
+    "50011": [
+      {
+        "blockID": 50011,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50011_block50011_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50011_50011_routes"
+      }
+    ],
+    "50012": [
+      {
+        "blockID": 50012,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50012_block50012_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50012_50012_routes"
+      }
+    ],
+    "50013": [
+      {
+        "blockID": 50013,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50013_block50013_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50013_50013_routes"
+      }
+    ],
+    "50014": [
+      {
+        "blockID": 50014,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50014_block50014_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50014_50014_routes"
+      }
+    ],
+    "50015": [
+      {
+        "blockID": 50015,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50015_block50015_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50015_50015_routes"
+      }
+    ],
+    "50016": [
+      {
+        "blockID": 50016,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50016_block50016_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50016_50016_routes"
+      }
+    ],
+    "50017": [
+      {
+        "blockID": 50017,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50017_block50017_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50017_50017_routes"
+      }
+    ],
+    "50018": [
+      {
+        "blockID": 50018,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50018_block50018_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50018_50018_routes"
+      }
+    ],
+    "50019": [
+      {
+        "blockID": 50019,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50019_block50019_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50019_50019_routes"
+      }
+    ],
+    "50020": [
+      {
+        "blockID": 50020,
+        "blockCenterX": 0,
+        "blockCenterZ": 0,
+        "blockLevelMonsterDataPath": "Data/_JsonOutput/LevelDesign/Monsters/scene50020_block50020_levelmonsters",
+        "blockLevelRouteDataPath": "Data/_JsonOutput/LevelDesign/Routes/scene50020_50020_routes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,893 @@
+[
+  {
+    "groupId": 250004003,
+    "configID": 2,
+    "position": {
+      "x": 499.265167,
+      "y": -10.5000019,
+      "z": -124.2553
+    },
+    "tlog_tag": "",
+    "comment": "S4-1-OnWind"
+  },
+  {
+    "groupId": 250004010,
+    "configID": 15,
+    "position": {
+      "x": 537.7576,
+      "y": -10.5000019,
+      "z": -131.692444
+    },
+    "tlog_tag": "",
+    "comment": "S5-1-StartPlatform"
+  },
+  {
+    "groupId": 250004005,
+    "configID": 22,
+    "position": {
+      "x": 461.097534,
+      "y": -10.5000019,
+      "z": -125.640732
+    },
+    "tlog_tag": "",
+    "comment": "S3-1-OnOffWind1"
+  },
+  {
+    "groupId": 250004013,
+    "configID": 23,
+    "position": {
+      "x": 369.049042,
+      "y": -10.1080513,
+      "z": -131.495544
+    },
+    "tlog_tag": "",
+    "comment": "S1-OpenGate"
+  },
+  {
+    "groupId": 250004023,
+    "configID": 36,
+    "position": {
+      "x": 410.785217,
+      "y": -10.5000019,
+      "z": -130.450058
+    },
+    "tlog_tag": "",
+    "comment": "S2-2-OpenGate2"
+  },
+  {
+    "groupId": 250004023,
+    "configID": 37,
+    "position": {
+      "x": 397.611053,
+      "y": -10.5000019,
+      "z": -138.740723
+    },
+    "tlog_tag": "",
+    "comment": "S2-1-OpenGate1"
+  },
+  {
+    "groupId": 250004003,
+    "configID": 39,
+    "position": {
+      "x": 514.5748,
+      "y": -10.7428846,
+      "z": -132.177948
+    },
+    "tlog_tag": "",
+    "comment": "S4-2-OpenGate"
+  },
+  {
+    "groupId": 250004010,
+    "configID": 41,
+    "position": {
+      "x": 549.283,
+      "y": -6.257361,
+      "z": -141.0
+    },
+    "tlog_tag": "",
+    "comment": "S5-3-OnAndOffGate2"
+  },
+  {
+    "groupId": 250004010,
+    "configID": 42,
+    "position": {
+      "x": 563.756836,
+      "y": -10.868042,
+      "z": -139.164017
+    },
+    "tlog_tag": "",
+    "comment": "S5-4-OnAndOffGate3"
+  },
+  {
+    "groupId": 250004024,
+    "configID": 43,
+    "position": {
+      "x": 599.4248,
+      "y": -11.0,
+      "z": -138.66
+    },
+    "tlog_tag": "",
+    "comment": "S6-2-StartPlatform"
+  },
+  {
+    "groupId": 250004024,
+    "configID": 45,
+    "position": {
+      "x": 602.1924,
+      "y": -6.757359,
+      "z": -140.816925
+    },
+    "tlog_tag": "",
+    "comment": "S6-3-OpenGate2"
+  },
+  {
+    "groupId": 250004005,
+    "configID": 47,
+    "position": {
+      "x": 461.9413,
+      "y": -11.3823462,
+      "z": -135.947708
+    },
+    "tlog_tag": "",
+    "comment": "S3-2-OnOffWind2"
+  },
+  {
+    "groupId": 250004024,
+    "configID": 48,
+    "position": {
+      "x": 608.403564,
+      "y": -5.046173,
+      "z": -140.151367
+    },
+    "tlog_tag": "",
+    "comment": "S6-5-OnOffWind"
+  },
+  {
+    "groupId": 250004025,
+    "configID": 49,
+    "position": {
+      "x": 711.2667,
+      "y": -10.3960581,
+      "z": -124.27462
+    },
+    "tlog_tag": "",
+    "comment": "S8-1-OnOffWind"
+  },
+  {
+    "groupId": 250004025,
+    "configID": 50,
+    "position": {
+      "x": 728.838562,
+      "y": -10.6389408,
+      "z": -131.0076
+    },
+    "tlog_tag": "",
+    "comment": "S8-2-OnAndOffGate"
+  },
+  {
+    "groupId": 250004025,
+    "configID": 51,
+    "position": {
+      "x": 756.64624,
+      "y": -11.0,
+      "z": -131.1243
+    },
+    "tlog_tag": "",
+    "comment": "S8-3-OffWind"
+  },
+  {
+    "groupId": 250004005,
+    "configID": 52,
+    "position": {
+      "x": 467.41098,
+      "y": -11.0,
+      "z": -131.081253
+    },
+    "tlog_tag": "",
+    "comment": "S3-OffWindRegion"
+  },
+  {
+    "groupId": 250004003,
+    "configID": 53,
+    "position": {
+      "x": 521.279236,
+      "y": -11.0,
+      "z": -130.221085
+    },
+    "tlog_tag": "",
+    "comment": "S4-OffWindRegion"
+  },
+  {
+    "groupId": 250004024,
+    "configID": 54,
+    "position": {
+      "x": 627.7129,
+      "y": -11.0,
+      "z": -131.212616
+    },
+    "tlog_tag": "",
+    "comment": "S7-OffWindRegion"
+  },
+  {
+    "groupId": 250004026,
+    "configID": 55,
+    "position": {
+      "x": -295.8305,
+      "y": -11.0,
+      "z": 38.24047
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S1-OpenGate"
+  },
+  {
+    "groupId": 250004027,
+    "configID": 56,
+    "position": {
+      "x": -218.765839,
+      "y": -11.0,
+      "z": 45.3840332
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S2-OpenGate"
+  },
+  {
+    "groupId": 250004028,
+    "configID": 57,
+    "position": {
+      "x": -132.7412,
+      "y": -11.0,
+      "z": 45.88967
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S3-OpenGate"
+  },
+  {
+    "groupId": 250004029,
+    "configID": 58,
+    "position": {
+      "x": 255.132065,
+      "y": -10.97,
+      "z": 108.2942
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S4-OpenGate"
+  },
+  {
+    "groupId": 250004030,
+    "configID": 59,
+    "position": {
+      "x": 254.858429,
+      "y": -10.2799988,
+      "z": 167.896118
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S5-1-OpenGate"
+  },
+  {
+    "groupId": 250004030,
+    "configID": 60,
+    "position": {
+      "x": 255.08786,
+      "y": -10.2799988,
+      "z": 153.596863
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S5-2-OnFire+Wind"
+  },
+  {
+    "groupId": 250004031,
+    "configID": 61,
+    "position": {
+      "x": 254.864136,
+      "y": -10.2799988,
+      "z": 189.012756
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S6-OpenGate"
+  },
+  {
+    "groupId": 250004032,
+    "configID": 62,
+    "position": {
+      "x": 254.657486,
+      "y": -10.2799988,
+      "z": 227.447571
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S7-1-OpenGate"
+  },
+  {
+    "groupId": 250004032,
+    "configID": 63,
+    "position": {
+      "x": 247.591217,
+      "y": -10.2799988,
+      "z": 235.82991
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S7-2-OnFire1"
+  },
+  {
+    "groupId": 250004032,
+    "configID": 64,
+    "position": {
+      "x": 251.3581,
+      "y": -10.2799988,
+      "z": 240.0165
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S7-3-OnFire2"
+  },
+  {
+    "groupId": 250004032,
+    "configID": 65,
+    "position": {
+      "x": 251.493286,
+      "y": -10.2799988,
+      "z": 245.3469
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S7-4-OnFire3"
+  },
+  {
+    "groupId": 250004032,
+    "configID": 66,
+    "position": {
+      "x": 258.018219,
+      "y": -10.2799988,
+      "z": 242.772263
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S7-5-OnFire4"
+  },
+  {
+    "groupId": 250004032,
+    "configID": 67,
+    "position": {
+      "x": 258.632935,
+      "y": -8.53628349,
+      "z": 235.851959
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S7-6-OnFire5"
+  },
+  {
+    "groupId": 250004033,
+    "configID": 68,
+    "position": {
+      "x": 254.9837,
+      "y": -10.2799988,
+      "z": 289.26062
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S8-OpenGate"
+  },
+  {
+    "groupId": 250004030,
+    "configID": 69,
+    "position": {
+      "x": 250.146729,
+      "y": -10.2799988,
+      "z": 162.876877
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S5-3-OffFire+Wind"
+  },
+  {
+    "groupId": 250004036,
+    "configID": 70,
+    "position": {
+      "x": -727.2417,
+      "y": -11.0,
+      "z": -98.1819153
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004038,
+    "configID": 71,
+    "position": {
+      "x": -212.327087,
+      "y": -10.729681,
+      "z": -278.454681
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S12-OnWind"
+  },
+  {
+    "groupId": 250004038,
+    "configID": 72,
+    "position": {
+      "x": -212.246231,
+      "y": -10.3498516,
+      "z": -296.362885
+    },
+    "tlog_tag": "",
+    "comment": "RockV2-S12-OffWind"
+  },
+  {
+    "groupId": 250004042,
+    "configID": 73,
+    "position": {
+      "x": -192.8797,
+      "y": 5.02388954,
+      "z": -654.6217
+    },
+    "tlog_tag": "",
+    "comment": "岩BUFF平台A-启动"
+  },
+  {
+    "groupId": 250004043,
+    "configID": 74,
+    "position": {
+      "x": -247.873566,
+      "y": -11.0,
+      "z": -608.717163
+    },
+    "tlog_tag": "",
+    "comment": "羽球规则"
+  },
+  {
+    "groupId": 250004042,
+    "configID": 75,
+    "position": {
+      "x": -178.550766,
+      "y": -11.0,
+      "z": -644.9147
+    },
+    "tlog_tag": "",
+    "comment": "岩BUFF平台B-启动"
+  },
+  {
+    "groupId": 250004042,
+    "configID": 76,
+    "position": {
+      "x": -165.723389,
+      "y": -11.0,
+      "z": -648.4411
+    },
+    "tlog_tag": "",
+    "comment": "岩BUFF平台C-启动·"
+  },
+  {
+    "groupId": 250004042,
+    "configID": 77,
+    "position": {
+      "x": -172.327789,
+      "y": -11.0,
+      "z": -663.384338
+    },
+    "tlog_tag": "",
+    "comment": "岩BUFF平台创生宝箱"
+  },
+  {
+    "groupId": 250004048,
+    "configID": 84,
+    "position": {
+      "x": -148.436462,
+      "y": -8.921572,
+      "z": -676.123657
+    },
+    "tlog_tag": "",
+    "comment": "岩元素试炼机关操作台选项"
+  },
+  {
+    "groupId": 250004048,
+    "configID": 85,
+    "position": {
+      "x": -147.59761,
+      "y": -10.68,
+      "z": -693.2431
+    },
+    "tlog_tag": "",
+    "comment": "岩元素试炼胜利出宝箱"
+  },
+  {
+    "groupId": 250004048,
+    "configID": 86,
+    "position": {
+      "x": -163.979736,
+      "y": -11.0,
+      "z": -733.0965
+    },
+    "tlog_tag": "",
+    "comment": "岩元素试炼创生出物件"
+  },
+  {
+    "groupId": 250004048,
+    "configID": 87,
+    "position": {
+      "x": -159.213409,
+      "y": -10.2548122,
+      "z": -728.417664
+    },
+    "tlog_tag": "",
+    "comment": "岩元素试炼GadgetState检测"
+  },
+  {
+    "groupId": 250004048,
+    "configID": 88,
+    "position": {
+      "x": -166.2577,
+      "y": -10.2548122,
+      "z": -728.894043
+    },
+    "tlog_tag": "",
+    "comment": "岩元素试炼失败"
+  },
+  {
+    "groupId": 250004050,
+    "configID": 89,
+    "position": {
+      "x": 1118.80042,
+      "y": 204.574982,
+      "z": 244.916931
+    },
+    "tlog_tag": "",
+    "comment": "消灭怪物Unlock宝箱"
+  },
+  {
+    "groupId": 250004051,
+    "configID": 90,
+    "position": {
+      "x": 1241.06689,
+      "y": 200.043457,
+      "z": 242.941025
+    },
+    "tlog_tag": "",
+    "comment": "升起铁栅栏"
+  },
+  {
+    "groupId": 250004047,
+    "configID": 91,
+    "position": {
+      "x": 1762.35486,
+      "y": 256.225616,
+      "z": 551.8515
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004047,
+    "configID": 92,
+    "position": {
+      "x": 1762.91077,
+      "y": 256.026459,
+      "z": 546.197
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004052,
+    "configID": 93,
+    "position": {
+      "x": 1159.20313,
+      "y": 232.900085,
+      "z": 461.538452
+    },
+    "tlog_tag": "",
+    "comment": "移动石柱上升"
+  },
+  {
+    "groupId": 250004052,
+    "configID": 94,
+    "position": {
+      "x": 1164.13208,
+      "y": 202.137329,
+      "z": 477.830078
+    },
+    "tlog_tag": "",
+    "comment": "移动石柱下降"
+  },
+  {
+    "groupId": 250004053,
+    "configID": 95,
+    "position": {
+      "x": 1572.59021,
+      "y": 231.095734,
+      "z": 949.6042
+    },
+    "tlog_tag": "",
+    "comment": "消灭射手创生召唤师"
+  },
+  {
+    "groupId": 250004053,
+    "configID": 96,
+    "position": {
+      "x": 1575.2821,
+      "y": 231.095734,
+      "z": 950.494
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004054,
+    "configID": 97,
+    "position": {
+      "x": 1093.09717,
+      "y": 200.043457,
+      "z": 332.912048
+    },
+    "tlog_tag": "",
+    "comment": "拾取宝箱后移除斥力风场"
+  },
+  {
+    "groupId": 250004043,
+    "configID": 99,
+    "position": {
+      "x": -251.225281,
+      "y": -10.9,
+      "z": -595.583435
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004043,
+    "configID": 100,
+    "position": {
+      "x": -251.881531,
+      "y": -10.9,
+      "z": -594.5574
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004056,
+    "configID": 101,
+    "position": {
+      "x": -603.1089,
+      "y": -6.93602943,
+      "z": -672.6156
+    },
+    "tlog_tag": "",
+    "comment": "解锁宝箱"
+  },
+  {
+    "groupId": 250004057,
+    "configID": 102,
+    "position": {
+      "x": -604.80365,
+      "y": -7.702776,
+      "z": -626.6091
+    },
+    "tlog_tag": "",
+    "comment": "水体感电情景2开启584"
+  },
+  {
+    "groupId": 250004057,
+    "configID": 103,
+    "position": {
+      "x": -602.2394,
+      "y": -8.16,
+      "z": -625.7271
+    },
+    "tlog_tag": "",
+    "comment": "水体感电情景2开启585"
+  },
+  {
+    "groupId": 250004057,
+    "configID": 104,
+    "position": {
+      "x": -603.4106,
+      "y": -7.527372,
+      "z": -626.7897
+    },
+    "tlog_tag": "",
+    "comment": "水体感电情景3开启586"
+  },
+  {
+    "groupId": 250004057,
+    "configID": 105,
+    "position": {
+      "x": -602.3369,
+      "y": -7.702776,
+      "z": -627.9797
+    },
+    "tlog_tag": "",
+    "comment": "水体感电情景3开启586"
+  },
+  {
+    "groupId": 250004060,
+    "configID": 106,
+    "position": {
+      "x": -603.9898,
+      "y": -8.16,
+      "z": -515.897156
+    },
+    "tlog_tag": "",
+    "comment": "水体感电情景5开门"
+  },
+  {
+    "groupId": 250004061,
+    "configID": 107,
+    "position": {
+      "x": -602.0963,
+      "y": -8.0,
+      "z": -478.005219
+    },
+    "tlog_tag": "",
+    "comment": "水体感电情景6降水"
+  },
+  {
+    "groupId": 250004061,
+    "configID": 108,
+    "position": {
+      "x": -602.437439,
+      "y": -8.0,
+      "z": -476.674347
+    },
+    "tlog_tag": "",
+    "comment": "水体感电情景7升水"
+  },
+  {
+    "groupId": 250004063,
+    "configID": 110,
+    "position": {
+      "x": -119.242615,
+      "y": -11.0,
+      "z": 599.304749
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004063,
+    "configID": 111,
+    "position": {
+      "x": -137.073929,
+      "y": -10.9999981,
+      "z": 592.3781
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004063,
+    "configID": 112,
+    "position": {
+      "x": -131.7352,
+      "y": -10.9999981,
+      "z": 612.618652
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004065,
+    "configID": 113,
+    "position": {
+      "x": -49.5043144,
+      "y": -10.1265974,
+      "z": 529.437561
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004067,
+    "configID": 114,
+    "position": {
+      "x": -54.46064,
+      "y": -10.3418274,
+      "z": 367.3224
+    },
+    "tlog_tag": "",
+    "comment": "创建机关操作台选项"
+  },
+  {
+    "groupId": 250004067,
+    "configID": 115,
+    "position": {
+      "x": -54.11652,
+      "y": -10.4055195,
+      "z": 366.893372
+    },
+    "tlog_tag": "",
+    "comment": "创生怪物与销毁操作台"
+  },
+  {
+    "groupId": 250004067,
+    "configID": 116,
+    "position": {
+      "x": -54.3316536,
+      "y": -10.8862667,
+      "z": 365.947021
+    },
+    "tlog_tag": "",
+    "comment": "创生宝箱和操作台"
+  },
+  {
+    "groupId": 250004069,
+    "configID": 117,
+    "position": {
+      "x": -286.6892,
+      "y": -11.0,
+      "z": -608.6518
+    },
+    "tlog_tag": "",
+    "comment": "羽球规则"
+  },
+  {
+    "groupId": 250004069,
+    "configID": 118,
+    "position": {
+      "x": -290.040924,
+      "y": -10.9,
+      "z": -595.518066
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004069,
+    "configID": 119,
+    "position": {
+      "x": -290.697174,
+      "y": -10.9,
+      "z": -594.492
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004070,
+    "configID": 129,
+    "position": {
+      "x": -158.349609,
+      "y": -11.0,
+      "z": -618.382568
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004070,
+    "configID": 130,
+    "position": {
+      "x": -154.675613,
+      "y": -11.0,
+      "z": -622.6323
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004071,
+    "configID": 131,
+    "position": {
+      "x": -186.94693,
+      "y": -11.0,
+      "z": -627.7143
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004071,
+    "configID": 132,
+    "position": {
+      "x": -185.488892,
+      "y": -11.0,
+      "z": -631.089539
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 250004071,
+    "configID": 133,
+    "position": {
+      "x": -196.0355,
+      "y": -11.0,
+      "z": -614.2481
+    },
+    "tlog_tag": "",
+    "comment": ""
+  }
+]

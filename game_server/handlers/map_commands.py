@@ -10,13 +10,23 @@ import time
 
 basepath = path.dirname(__file__)
 hpcalcsname = "Monster_HP_calcs_lv90.json"
+MonsterExcelname = "MonsterExcelConfigData.json"
 hpcalcs = path.abspath(path.join(basepath, "..", "json\\calcs\\", hpcalcsname))
+MonsterExcel = path.abspath(path.join(basepath, "..", "json\\excel\\", MonsterExcelname))
+
+with open(MonsterExcel, encoding='utf8') as f:
+    monster_excel_info = json.load(f)
 
 hp = 0
 hp_map = {
     # 33554678: 1000000,
 }
 scene_entities = [33554678]
+
+for obj in monster_excel_info:
+    if obj["Id"] == 21010101:
+        HpBase1 = obj["HpBase"]
+        print(HpBase1)
 
 router = HandlerRouter()
 @router(CmdID.MarkMapReq)
@@ -80,13 +90,21 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                     command_to_int = command_to_str.replace('spawn ', '')
                     test_monster.entity_id = int(33554678)+int(randrange(100000)) # too lazy to make an already_spawned global list. just made it rng. you have one in 100,000 chance for the monster to not be sent lmao
                     test_monster.name = ''
-                    with open(hpcalcs) as curvecalcs:
-                        curvecalcsdata = json.load(curvecalcs)
-                    for obj in curvecalcsdata:
+                    for obj in monster_excel_info:
                         if obj["Id"] == int(command_to_int):
-                            hp = obj["Hp"]
-                    if hp == 0:
-                        hp = 6000
+                            affix = obj["affix"]
+                            HpBase = obj["HpBase"]
+                            ai = obj["ai"]
+                            equips = obj["equips"]
+
+                            monster_weapon = 0
+
+                            for item in equips:
+                                if item != 0:
+                                    monster_weapon = item
+                    
+                    hp = int(HpBase)*1767 # We will for now make it based on lv90's curve
+                    print(f"Monster's HP will be {hp}")
                     test_monster.prop_map = {
                         int(test_monster.entity_id): PropValue(4001, ival=90),
                     }
@@ -95,6 +113,14 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                     test_monster.motion_info.rot = Vector(0, 0, 0)
                     test_monster.life_state = 1
                     test_monster.monster = SceneMonsterInfo()
+                    if monster_weapon != 0:
+                        test_monster.monster.weapon_list = SceneWeaponInfo()
+                        test_monster.monster.weapon_list.entity_id = test_monster.entity_id
+                        test_monster.monster.weapon_list.item_id = monster_weapon
+                    test_monster.monster.monster_id = int(command_to_int)
+                    test_monster.monster.affix_list = []
+                    if affix != 0:
+                        test_monster.monster.affix_list.append(affix)
                     test_monster.monster.monster_id = int(command_to_int)
                     test_monster.monster.affix_list = []
                     test_monster.monster.is_elite = 1

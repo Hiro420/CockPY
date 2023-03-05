@@ -1,0 +1,143 @@
+--================================================================
+-- 
+-- 配置
+-- 
+--================================================================
+
+-- 怪物
+monsters = {
+	{ config_id = 1001, monster_id = 20011101, pos = { x = -10.9, y = 0.0, z = 1.8 }, rot = { x = 0.0, y = 9.2, z = 0.0 }, level = 1, affix = { 1009 }, isElite = true },
+	{ config_id = 1002, monster_id = 20011001, pos = { x = 10.6, y = 0.0, z = -7.2 }, rot = { x = 0.0, y = 315.9, z = 0.0 }, level = 1 },
+	{ config_id = 1003, monster_id = 20011101, pos = { x = 5.3, y = 0.0, z = 11.5 }, rot = { x = 0.0, y = 206.5, z = 0.0 }, level = 1, affix = { 1009 }, isElite = true },
+	{ config_id = 1004, monster_id = 20011101, pos = { x = -8.5, y = 0.0, z = -7.2 }, rot = { x = 0.0, y = 54.4, z = 0.0 }, level = 1, affix = { 1009 }, isElite = true },
+	{ config_id = 1005, monster_id = 20011001, pos = { x = 10.7, y = 0.0, z = -3.4 }, rot = { x = 0.0, y = 315.9, z = 0.0 }, level = 1 },
+	{ config_id = 1006, monster_id = 20011001, pos = { x = -10.0, y = 0.0, z = 3.9 }, rot = { x = 0.0, y = 70.4, z = 0.0 }, level = 1 },
+	{ config_id = 1007, monster_id = 20011001, pos = { x = 9.0, y = 0.0, z = 9.6 }, rot = { x = 0.0, y = 248.1, z = 0.0 }, level = 1 },
+	{ config_id = 1008, monster_id = 22010301, pos = { x = -1.0, y = 0.2, z = -8.4 }, rot = { x = 0.0, y = 356.5, z = 0.0 }, level = 1 },
+	{ config_id = 1022, monster_id = 20010801, pos = { x = 7.5, y = 0.1, z = -6.7 }, rot = { x = 0.0, y = 344.6, z = 0.0 }, level = 1 },
+	{ config_id = 1023, monster_id = 20011001, pos = { x = -5.9, y = 0.1, z = 9.8 }, rot = { x = 0.0, y = 155.5, z = 0.0 }, level = 1 },
+	{ config_id = 1024, monster_id = 20011001, pos = { x = -10.5, y = 0.1, z = -4.8 }, rot = { x = 0.0, y = 70.4, z = 0.0 }, level = 1 },
+	{ config_id = 1025, monster_id = 20011001, pos = { x = 7.8, y = 0.1, z = 8.1 }, rot = { x = 0.0, y = 215.6, z = 0.0 }, level = 1 },
+	{ config_id = 1026, monster_id = 20011101, pos = { x = -1.3, y = 0.1, z = -12.9 }, rot = { x = 0.0, y = 9.2, z = 0.0 }, level = 1, affix = { 1009 }, isElite = true },
+	{ config_id = 1027, monster_id = 20011001, pos = { x = 10.5, y = 0.1, z = 4.0 }, rot = { x = 0.0, y = 248.1, z = 0.0 }, level = 1 },
+	{ config_id = 1028, monster_id = 20010801, pos = { x = -1.2, y = 0.1, z = -6.7 }, rot = { x = 0.0, y = 0.0, z = 0.0 }, level = 1 },
+	{ config_id = 1029, monster_id = 20011001, pos = { x = -4.1, y = 0.0, z = 10.5 }, rot = { x = 0.0, y = 155.5, z = 0.0 }, level = 1 }
+}
+
+-- NPC
+npcs = {
+}
+
+-- 装置
+gadgets = {
+	{ config_id = 1009, gadget_id = 70900205, pos = { x = 10.8, y = -0.8, z = -0.7 }, rot = { x = 0.0, y = 0.0, z = 0.0 }, level = 1 }
+}
+
+-- 区域
+regions = {
+}
+
+-- 触发器
+triggers = {
+	{ name = "ANY_MONSTER_LIVE_1", event = EventType.EVENT_ANY_MONSTER_LIVE, source = "", condition = "condition_EVENT_ANY_MONSTER_LIVE_1", action = "action_EVENT_ANY_MONSTER_LIVE_1" },
+	{ name = "CHALLENGE_FAIL_17", event = EventType.EVENT_CHALLENGE_FAIL, source = "1", condition = "", action = "action_EVENT_CHALLENGE_FAIL_17" }
+}
+
+-- 变量
+variables = {
+	{ name = "Key", value = 0, no_refresh = false },
+	{ name = "C1", value = 0, no_refresh = false }
+}
+
+--================================================================
+-- 
+-- 初始化配置
+-- 
+--================================================================
+
+-- 初始化时创建
+init_config = {
+	suite = 1,
+	end_suite = 0,
+	rand_suite = false
+}
+
+--================================================================
+-- 
+-- 小组配置
+-- 
+--================================================================
+
+suites = {
+	{
+		-- suite_id = 1,
+		-- description = ,
+		monsters = { },
+		gadgets = { 1009 },
+		regions = { },
+		triggers = { "ANY_MONSTER_LIVE_1", "CHALLENGE_FAIL_17" },
+		rand_weight = 100
+	}
+}
+
+--================================================================
+-- 
+-- 触发器
+-- 
+--================================================================
+
+-- 触发条件
+function condition_EVENT_ANY_MONSTER_LIVE_1(context, evt)
+	if 1002 ~= evt.param1 then
+		return false
+	end
+	
+	return true
+end
+
+-- 触发操作
+function action_EVENT_ANY_MONSTER_LIVE_1(context, evt)
+	-- 创建编号为1（该挑战的识别id),挑战内容为161的区域挑战，具体参数填写方式，见DungeonChallengeData表中的注释，所有填写的值都必须是int类型
+	if 0 ~= ScriptLib.ActiveChallenge(context, 1, 161, 240, 240301001, 16, 0) then
+		return -1
+	end
+	
+	-- 删除指定group： 240301002 ；指定config：1；物件身上指定option：7；
+	if 0 ~= ScriptLib.DelWorktopOptionByGroupId(context, 240301002, 1, 7) then
+		return -1
+	end
+	
+	-- 改变指定group组240301002中， configid为1的gadget的state
+	if 0 ~= ScriptLib.SetGroupGadgetStateByConfigId(context, 240301002, 1, GadgetState.GearStop) then
+			return -1
+		end 
+	
+	return 0
+end
+
+-- 触发条件
+
+-- 触发操作
+function action_EVENT_CHALLENGE_FAIL_17(context, evt)
+	-- 改变指定group组240301002中， configid为1的gadget的state
+	if 0 ~= ScriptLib.SetGroupGadgetStateByConfigId(context, 240301002, 1, GadgetState.Default) then
+			return -1
+		end 
+	
+	-- 设置操作台选项
+	if 0 ~= ScriptLib.SetWorktopOptionsByGroupId(context, 240301002, 1, {7}) then
+		return -1
+	end
+	
+		-- 重新生成指定group，指定suite
+		if 0 ~= ScriptLib.RefreshGroup(context, { group_id = 240301001, suite = 1 }) then
+			return -1
+		end
+	
+		-- 重新生成指定group，指定suite
+		if 0 ~= ScriptLib.RefreshGroup(context, { group_id = 240301007, suite = 1 }) then
+			return -1
+		end
+	
+	return 0
+end

@@ -1,0 +1,56 @@
+{
+  "jobMapData": {
+    "0": {
+      "0": {
+        "isForceMainThread": false,
+        "scheduleType": "I_LATE_POST_UPDATE",
+        "groupId": 1
+      },
+      "1": {
+        "scheduleType": "I_LATE_POST_UPDATE",
+        "maxNodeNum": 20
+      },
+      "2": {
+        "scheduleType": "I_LATE_POST_UPDATE",
+        "maxNodeNum": 20
+      },
+      "3": {
+        "scheduleType": "I_AFTER_RES_TO_UPDATE_END"
+      },
+      "4": {
+        "scheduleType": "I_RENDER_TO_NEXT_BEFORE_RES"
+      },
+      "5": {
+        "scheduleType": "I_RENDER_TO_NEXT_BEFORE_LATE_UPDATE"
+      },
+      "7": {
+        "scheduleType": "I_LATE_POST_UPDATE_TO_NEXT_BEFORE_LATE_UPDATE",
+        "maxNodeNum": 20
+      },
+      "8": {
+        "scheduleType": "I_LATE_POST_UPDATE_TO_NEXT_BEFORE_LATE_UPDATE",
+        "maxNodeNum": 4
+      },
+      "9": {
+        "scheduleType": "G_RENDER_TO_NEXT_BEFORE_LATE_UPDATE"
+      },
+      "10": {
+        "scheduleType": "I_AFTER_RES_TO_UPDATE_END",
+        "maxNodeNum": 2
+      },
+      "11": {
+        "scheduleType": "I_AFTER_RES_TO_UPDATE_END",
+        "maxNodeNum": 2
+      },
+      "12": {
+        "scheduleType": "I_AFTER_RES_TO_UPDATE_END"
+      },
+      "13": {
+        "scheduleType": "I_AFTER_RES_TO_UPDATE_END"
+      },
+      "15": {
+        "scheduleType": "I_LATE_PRE_UPDATE"
+      }
+    }
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "radius": 100.0,
+  "points": {
+    "1": {
+      "type": "NORMAL",
+      "$type": "DungeonEntry",
+      "gadgetId": 70010003,
+      "pos": {
+    "x": 190.1345,
+    "y": 245.093826,
+    "z": 3579.348267
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 70.2,
+        "z": 0.0
+      },
+      "size": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      },
+      "unlocked": true,
+      "sceneId": 20001
+    },
+    "2": {
+      "type": "NORMAL",
+      "$type": "DungeonExit",
+      "gadgetId": 70010002,
+      "pos": {
+    "x": 209.506989,
+    "y": 243.608612,
+    "z": 3578.8432
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 272.5753,
+        "z": 0.0
+      },
+      "size": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "unlocked": false,
+      "sceneId": 20001
+    },
+    "3": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010001,
+      "pos": {
+    "x": 213.714462,
+    "y": 242.6021,
+    "z": 3553.394958
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 95.8,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "4": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010001,
+      "pos": {
+    "x": 416.097565,
+    "y": 350.769775,
+    "z": 3364.235657
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 94.09907,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "5": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+    "x": 122.744469,
+    "y": 211.8,
+    "z": 4087.118659
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 31.59,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "6": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+    "x": 551.589,
+    "y": 232.9856,
+    "z": 3545.0962
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 351.454437,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "7": {
+      "type": "TOWER",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010001,
+      "pos": {
+    "x": 517.8629,
+    "y": 214.6572,
+    "z": 3795.596161
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 259.89,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "8": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+    "x": 467.895752,
+    "y": 218.341949,
+    "z": 4043.03247
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "9": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+    "x": 362.156738,
+    "y": 226.437347,
+    "z": 4099.80378342
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 233.801239,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "10": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+    "x": 76.1320648,
+    "y": 230.546783,
+    "z": 3838.726776
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "11": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+    "x": 292.399841,
+    "y": 230.7,
+    "z": 3914.657578
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 341.058136,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "12": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+    "x": -318.2218,
+    "y": 213.881119,
+    "z": 3748.837463
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "13": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+    "x": -482.3653,
+    "y": 339.1833,
+    "z": 3029.52319
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 14.0494452,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "14": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+    "x": -167.369873,
+    "y": 196.65213,
+    "z": 3941.78656
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 178.02037,
+        "z": 0.0
+      },
+      "unlocked": true
+    },
+    "15": {
+      "type": "NORMAL",
+      "$type": "SceneTransPoint",
+      "gadgetId": 70010002,
+      "pos": {
+    "x": -195.3949,
+    "y": 240.643921,
+    "z": 4218.41729
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "unlocked": true
+    }
+  },
+  "areas": {},
+  "forces": {
+    "1": {
+      "$type": "ConfigAirflowField",
+      "gadgetId": 40200001,
+      "pos": {
+    "x": -318,
+    "y": 214.3,
+    "z": 3747
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 8.1,
+        "z": 0.0
+      },
+      "unlocked": true,
+      "up": true,
+      "velocity": 10.0
+    },
+    "2": {
+      "$type": "ConfigAirflowField",
+      "gadgetId": 40200007,
+      "pos": {
+    "x": -316.7,
+    "y": 265.7,
+    "z": 3758.87
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 8.1,
+        "z": 0.0
+      },
+      "unlocked": true,
+      "up": false,
+      "velocity": 10.0
+    },
+    "3": {
+      "$type": "ConfigAirflowField",
+      "gadgetId": 40200006,
+      "pos": {
+    "x": -295.1,
+    "y": 270.5,
+    "z": 3743.7
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 96.5,
+        "z": 0.0
+      },
+      "unlocked": true,
+      "up": false,
+      "velocity": 10.0
+    },
+    "4": {
+      "$type": "ConfigAirflowField",
+      "gadgetId": 40200006,
+      "pos": {
+    "x": -322,
+    "y": 282,
+    "z": 3742.7
+      },
+      "rot": {
+        "x": 0.0,
+        "y": -124.7,
+        "z": 0.0
+      },
+      "unlocked": true,
+      "up": false,
+      "velocity": 10.0
+    },
+    "5": {
+      "$type": "ConfigRiseField",
+      "gadgetId": 0,
+      "pos": {
+    "x": -189,
+    "y": 190,
+    "z": 3769
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "box": {
+        "x": 325.0,
+        "y": 100.0,
+        "z": 440.0
+      },
+      "unlocked": true,
+      "cdmin": 5.0,
+      "cdmax": 7.0,
+      "vmin": 1.0,
+      "vmax": 3.0,
+      "hmin": 3.0,
+      "hmax": 5.0,
+      "attenuation": 2.0
+    },
+    "6": {
+      "$type": "ConfigAirflowField",
+      "gadgetId": 40200005,
+      "pos": {
+    "x": -516.99,
+    "y": 251.6,
+    "z": 3720.7
+      },
+      "rot": {
+        "x": 0.0,
+        "y": 244.000015,
+        "z": 0.0
+      },
+      "unlocked": true,
+      "up": false,
+      "velocity": 10.0
+    }
+  }
+}

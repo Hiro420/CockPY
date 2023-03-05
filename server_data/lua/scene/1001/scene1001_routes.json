@@ -1,0 +1,117 @@
+{
+    "sceneId": 1001,
+    "routes":
+    [
+        {
+            "localId": 1,
+            "type": "OneWay",
+            "points":
+            [
+                {
+                    "pos":
+                    {
+                        "x": 10,
+                        "y": 0,
+                        "z": 10
+                    },
+                    "targetVelocity": 3,
+                    "waitTime": 3
+                },
+                {
+                    "pos":
+                    {
+                        "x": -10,
+                        "y": 0,
+                        "z": 10
+                    },
+                    "targetVelocity": 4,
+                    "waitTime": 3
+                },
+                {
+                    "pos":
+                    {
+                        "x": 0,
+                        "y": 0,
+                        "z": -10
+                    },
+                    "targetVelocity": 5,
+                    "waitTime": 3
+                }
+            ]
+        },
+        {
+            "localId": 2,
+            "type": "Reciprocate",
+            "points":
+            [
+                {
+                    "pos":
+                    {
+                        "x": -7,
+                        "y": 0,
+                        "z": 5
+                    },
+                    "targetVelocity": 3,
+                    "waitTime": 0
+                },
+                {
+                    "pos":
+                    {
+                        "x": -7,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "targetVelocity": 1.5,
+                    "waitTime": 0
+                },
+                {
+                    "pos":
+                    {
+                        "x": -7,
+                        "y": 5,
+                        "z": 0
+                    },
+                    "targetVelocity": 1.5,
+                    "waitTime": 0
+                }
+            ]
+        },
+        {
+            "localId": 3,
+            "type": "Loop",
+            "points":
+            [
+                {
+                    "pos":
+                    {
+                        "x": 10,
+                        "y": 0,
+                        "z": 10
+                    },
+                    "targetVelocity": 3,
+                    "waitTime": 3
+                },
+                {
+                    "pos":
+                    {
+                        "x": -10,
+                        "y": 0,
+                        "z": 10
+                    },
+                    "targetVelocity": 4,
+                    "waitTime": 3
+                },
+                {
+                    "pos":
+                    {
+                        "x": 0,
+                        "y": 0,
+                        "z": -10
+                    },
+                    "targetVelocity": 5,
+                    "waitTime": 3
+                }
+            ]
+        }
+    ]
+}

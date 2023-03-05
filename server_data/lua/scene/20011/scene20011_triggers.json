@@ -1,0 +1,574 @@
+[
+  {
+    "groupId": 220011001,
+    "configID": 1,
+    "position": {
+      "x": 481.407776,
+      "y": -21.3926086,
+      "z": 69.2982254
+    },
+    "tlog_tag": "",
+    "comment": "第一个大门的操作台设置选项"
+  },
+  {
+    "groupId": 220011001,
+    "configID": 4,
+    "position": {
+      "x": 480.027649,
+      "y": -21.5570068,
+      "z": 67.27372
+    },
+    "tlog_tag": "",
+    "comment": "caozuotai1"
+  },
+  {
+    "groupId": 220011001,
+    "configID": 7,
+    "position": {
+      "x": 447.721466,
+      "y": -22.1370068,
+      "z": 69.2844543
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011006,
+    "configID": 8,
+    "position": {
+      "x": 408.820251,
+      "y": -22.0570068,
+      "z": 67.60932
+    },
+    "tlog_tag": "",
+    "comment": "open door room1"
+  },
+  {
+    "groupId": 220011002,
+    "configID": 9,
+    "position": {
+      "x": 403.256775,
+      "y": -23.89,
+      "z": 122.278328
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011003,
+    "configID": 11,
+    "position": {
+      "x": 435.195557,
+      "y": -7.706684,
+      "z": 121.121704
+    },
+    "tlog_tag": "",
+    "comment": "11111"
+  },
+  {
+    "groupId": 220011003,
+    "configID": 12,
+    "position": {
+      "x": 487.7374,
+      "y": -22.7566452,
+      "z": 119.151886
+    },
+    "tlog_tag": "",
+    "comment": "open door"
+  },
+  {
+    "groupId": 220011001,
+    "configID": 13,
+    "position": {
+      "x": 549.9535,
+      "y": -38.1211,
+      "z": 75.77072
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 14,
+    "position": {
+      "x": 512.00885,
+      "y": -35.2,
+      "z": 75.08042
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 16,
+    "position": {
+      "x": 459.749084,
+      "y": -22.56163,
+      "z": 69.1875839
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 17,
+    "position": {
+      "x": 430.516541,
+      "y": -22.1370068,
+      "z": 62.7041168
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011003,
+    "configID": 22,
+    "position": {
+      "x": 486.662,
+      "y": -23.0099983,
+      "z": 120.1781
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011003,
+    "configID": 26,
+    "position": {
+      "x": 505.8773,
+      "y": -22.5,
+      "z": 121.313881
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 28,
+    "position": {
+      "x": 449.012726,
+      "y": -21.5570068,
+      "z": 69.07556
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011002,
+    "configID": 32,
+    "position": {
+      "x": 400.480774,
+      "y": -24.1,
+      "z": 121.475563
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011002,
+    "configID": 33,
+    "position": {
+      "x": 418.490265,
+      "y": -24.133503,
+      "z": 121.101662
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 36,
+    "position": {
+      "x": 496.5876,
+      "y": -27.4797935,
+      "z": 67.70066
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 37,
+    "position": {
+      "x": 496.9782,
+      "y": -16.8894138,
+      "z": 67.72284
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011004,
+    "configID": 38,
+    "position": {
+      "x": 533.5973,
+      "y": -2.1366744,
+      "z": 238.023987
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 39,
+    "position": {
+      "x": 502.240936,
+      "y": -37.3348961,
+      "z": 85.38674
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011003,
+    "configID": 40,
+    "position": {
+      "x": 422.78894,
+      "y": -24.2835732,
+      "z": 120.496887
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011003,
+    "configID": 41,
+    "position": {
+      "x": 426.984,
+      "y": -17.0412617,
+      "z": 121.845718
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011004,
+    "configID": 43,
+    "position": {
+      "x": 533.631653,
+      "y": -2.050514,
+      "z": 262.6803
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 44,
+    "position": {
+      "x": 550.038635,
+      "y": -42.19522,
+      "z": 43.212204
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 45,
+    "position": {
+      "x": 549.7233,
+      "y": -41.1036873,
+      "z": 48.0710068
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 46,
+    "position": {
+      "x": 549.8643,
+      "y": -38.15,
+      "z": 62.53698
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011004,
+    "configID": 47,
+    "position": {
+      "x": 507.24588,
+      "y": -24.5231075,
+      "z": 123.569054
+    },
+    "tlog_tag": "",
+    "comment": "设置移动平台路径"
+  },
+  {
+    "groupId": 220011004,
+    "configID": 48,
+    "position": {
+      "x": 519.9087,
+      "y": -24.9916668,
+      "z": 121.698792
+    },
+    "tlog_tag": "",
+    "comment": "begin platform"
+  },
+  {
+    "groupId": 220011901,
+    "configID": 49,
+    "position": {
+      "x": 460.378662,
+      "y": -24.3504562,
+      "z": 69.15933
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011901,
+    "configID": 50,
+    "position": {
+      "x": 406.5041,
+      "y": -22.573307,
+      "z": 107.872421
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011901,
+    "configID": 51,
+    "position": {
+      "x": 487.504883,
+      "y": -17.53548,
+      "z": 121.603149
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011004,
+    "configID": 53,
+    "position": {
+      "x": 531.1092,
+      "y": -9.32840252,
+      "z": 158.3139
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011004,
+    "configID": 54,
+    "position": {
+      "x": 532.7688,
+      "y": -2.05051422,
+      "z": 223.7107
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011901,
+    "configID": 55,
+    "position": {
+      "x": 411.7208,
+      "y": -22.08335,
+      "z": 63.9518738
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011006,
+    "configID": 56,
+    "position": {
+      "x": 405.711639,
+      "y": -22.05048,
+      "z": 64.53823
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011006,
+    "configID": 57,
+    "position": {
+      "x": 405.022156,
+      "y": -21.95369,
+      "z": 61.69363
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011006,
+    "configID": 58,
+    "position": {
+      "x": 405.413971,
+      "y": -22.05048,
+      "z": 66.19271
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011006,
+    "configID": 59,
+    "position": {
+      "x": 407.2102,
+      "y": -22.05048,
+      "z": 65.080864
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 60,
+    "position": {
+      "x": 411.660339,
+      "y": -22.05048,
+      "z": 63.8359
+    },
+    "tlog_tag": "",
+    "comment": "challegebegin"
+  },
+  {
+    "groupId": 220011006,
+    "configID": 61,
+    "position": {
+      "x": 410.190277,
+      "y": -22.05048,
+      "z": 58.15458
+    },
+    "tlog_tag": "",
+    "comment": "fail"
+  },
+  {
+    "groupId": 220011002,
+    "configID": 62,
+    "position": {
+      "x": 418.126373,
+      "y": -22.54956,
+      "z": 71.3014145
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011004,
+    "configID": 63,
+    "position": {
+      "x": 531.5327,
+      "y": -23.57399,
+      "z": 151.640564
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011001,
+    "configID": 64,
+    "position": {
+      "x": 414.087738,
+      "y": -22.05048,
+      "z": 66.49376
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011006,
+    "configID": 65,
+    "position": {
+      "x": 412.596771,
+      "y": -22.05048,
+      "z": 63.87809
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011003,
+    "configID": 66,
+    "position": {
+      "x": 493.854858,
+      "y": -23.401,
+      "z": 121.994675
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011003,
+    "configID": 67,
+    "position": {
+      "x": 489.311035,
+      "y": -23.401,
+      "z": 122.066872
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011003,
+    "configID": 68,
+    "position": {
+      "x": 483.5577,
+      "y": -23.401,
+      "z": 123.189247
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011003,
+    "configID": 69,
+    "position": {
+      "x": 483.227417,
+      "y": -23.401,
+      "z": 124.875626
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220011003,
+    "configID": 70,
+    "position": {
+      "x": 493.2292,
+      "y": -23.401,
+      "z": 119.544662
+    },
+    "tlog_tag": "",
+    "comment": "22"
+  },
+  {
+    "groupId": 220011003,
+    "configID": 71,
+    "position": {
+      "x": 487.237549,
+      "y": -23.401,
+      "z": 111.496964
+    },
+    "tlog_tag": "",
+    "comment": "21"
+  },
+  {
+    "groupId": 220011003,
+    "configID": 72,
+    "position": {
+      "x": 493.084167,
+      "y": -23.0836754,
+      "z": 110.583076
+    },
+    "tlog_tag": "",
+    "comment": "23 24"
+  },
+  {
+    "groupId": 220011003,
+    "configID": 73,
+    "position": {
+      "x": 486.637939,
+      "y": -23.401,
+      "z": 112.281212
+    },
+    "tlog_tag": "",
+    "comment": ""
+  }
+]

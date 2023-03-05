@@ -1,0 +1,277 @@
+[
+  {
+    "groupId": 240004003,
+    "configID": 7,
+    "position": {
+      "x": 342.679871,
+      "y": -28.9837761,
+      "z": 437.5381
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004002,
+    "configID": 10,
+    "position": {
+      "x": 343.291931,
+      "y": -23.0779,
+      "z": 381.446136
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004002,
+    "configID": 11,
+    "position": {
+      "x": 341.391479,
+      "y": -19.2766151,
+      "z": 336.346344
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004007,
+    "configID": 12,
+    "position": {
+      "x": 342.526245,
+      "y": -19.27664,
+      "z": 345.316254
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004007,
+    "configID": 13,
+    "position": {
+      "x": 340.898865,
+      "y": -19.27664,
+      "z": 345.445923
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004007,
+    "configID": 14,
+    "position": {
+      "x": 351.793854,
+      "y": -19.2763214,
+      "z": 343.163757
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004007,
+    "configID": 17,
+    "position": {
+      "x": 346.7298,
+      "y": -19.2213,
+      "z": 338.648773
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004007,
+    "configID": 18,
+    "position": {
+      "x": 335.0524,
+      "y": -19.2764645,
+      "z": 338.603851
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004007,
+    "configID": 19,
+    "position": {
+      "x": 348.624054,
+      "y": -19.2763042,
+      "z": 337.68222
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004007,
+    "configID": 20,
+    "position": {
+      "x": 334.1111,
+      "y": -19.2763481,
+      "z": 339.3635
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004005,
+    "configID": 27,
+    "position": {
+      "x": 342.731232,
+      "y": -29.03332,
+      "z": 437.500122
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004005,
+    "configID": 28,
+    "position": {
+      "x": 346.8967,
+      "y": -29.033226,
+      "z": 436.151276
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004005,
+    "configID": 29,
+    "position": {
+      "x": 352.773865,
+      "y": -29.0333233,
+      "z": 439.0123
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004005,
+    "configID": 30,
+    "position": {
+      "x": 351.41,
+      "y": -28.9834652,
+      "z": 426.900146
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004005,
+    "configID": 31,
+    "position": {
+      "x": 332.318237,
+      "y": -28.983736,
+      "z": 428.04953
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004005,
+    "configID": 32,
+    "position": {
+      "x": 335.8617,
+      "y": -28.983572,
+      "z": 431.305267
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004005,
+    "configID": 33,
+    "position": {
+      "x": 352.124146,
+      "y": -28.9835873,
+      "z": 430.385468
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004005,
+    "configID": 34,
+    "position": {
+      "x": 330.146027,
+      "y": -29.0606537,
+      "z": 420.896667
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004005,
+    "configID": 35,
+    "position": {
+      "x": 352.716644,
+      "y": -28.9837952,
+      "z": 428.532227
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004005,
+    "configID": 36,
+    "position": {
+      "x": 333.8977,
+      "y": -28.9833527,
+      "z": 422.0113
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004003,
+    "configID": 37,
+    "position": {
+      "x": 337.15033,
+      "y": -28.983717,
+      "z": 435.2969
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004007,
+    "configID": 38,
+    "position": {
+      "x": 348.948029,
+      "y": -19.27634,
+      "z": 335.455566
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004007,
+    "configID": 39,
+    "position": {
+      "x": 330.8033,
+      "y": -19.454731,
+      "z": 333.874
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004004,
+    "configID": 40,
+    "position": {
+      "x": 344.628662,
+      "y": -19.2764168,
+      "z": 351.805878
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 240004004,
+    "configID": 41,
+    "position": {
+      "x": 337.807373,
+      "y": -19.2767773,
+      "z": 353.670654
+    },
+    "tlog_tag": "",
+    "comment": ""
+  }
+]

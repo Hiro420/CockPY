@@ -1,0 +1,113 @@
+{
+  "sceneId": 40009,
+  "routes": [
+    {
+      "localId": 4,
+      "name": "Route_004",
+      "type": "Loop",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": -126.9964,
+            "y": -10.3367,
+            "z": 95.89661
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 3.0
+        },
+        {
+          "pos": {
+            "x": -127.0,
+            "y": -6.23557663,
+            "z": 95.9
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 3.0
+        },
+        {
+          "pos": {
+            "x": -127.0,
+            "y": -10.3,
+            "z": 95.9
+          },
+          "waitTime": 0.0,
+          "targetVelocity": 3.0
+        }
+      ]
+    },
+    {
+      "localId": 5,
+      "name": "Route_005",
+      "type": "Loop",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": -135.0942,
+            "y": -8.317959,
+            "z": 91.63628
+          },
+          "waitTime": 1.0,
+          "targetVelocity": 2.0
+        },
+        {
+          "pos": {
+            "x": -135.1,
+            "y": -5.66718,
+            "z": 91.6
+          },
+          "waitTime": 1.0,
+          "targetVelocity": 2.0
+        },
+        {
+          "pos": {
+            "x": -135.1,
+            "y": -8.3,
+            "z": 91.6
+          },
+          "waitTime": 1.0,
+          "targetVelocity": 2.0
+        }
+      ]
+    },
+    {
+      "localId": 6,
+      "name": "Route_006",
+      "type": "Loop",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": [
+        {
+          "pos": {
+            "x": -145.1119,
+            "y": -3.432774,
+            "z": 89.53142
+          },
+          "waitTime": 2.0,
+          "targetVelocity": 1.0
+        },
+        {
+          "pos": {
+            "x": -145.1,
+            "y": -0.8459704,
+            "z": 89.5
+          },
+          "waitTime": 2.0,
+          "targetVelocity": 1.0
+        },
+        {
+          "pos": {
+            "x": -145.1,
+            "y": -3.4,
+            "z": 89.5
+          },
+          "waitTime": 2.0,
+          "targetVelocity": 1.0
+        }
+      ]
+    }
+  ]
+}

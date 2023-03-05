@@ -1,0 +1,365 @@
+[
+  {
+    "groupId": 220008001,
+    "configID": 18,
+    "position": {
+      "x": 558.3585,
+      "y": -67.7904739,
+      "z": 206.91861
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008003,
+    "configID": 20,
+    "position": {
+      "x": 469.4975,
+      "y": -28.41,
+      "z": 266.313538
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008003,
+    "configID": 21,
+    "position": {
+      "x": 475.989563,
+      "y": -28.483284,
+      "z": 266.280975
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008004,
+    "configID": 22,
+    "position": {
+      "x": 436.2578,
+      "y": -21.5004787,
+      "z": 174.121933
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008003,
+    "configID": 23,
+    "position": {
+      "x": 492.867828,
+      "y": -30.0078335,
+      "z": 268.376923
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008003,
+    "configID": 24,
+    "position": {
+      "x": 491.4784,
+      "y": -29.9833641,
+      "z": 269.740173
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008003,
+    "configID": 25,
+    "position": {
+      "x": 493.94632,
+      "y": -29.98364,
+      "z": 268.993256
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008001,
+    "configID": 26,
+    "position": {
+      "x": 583.1216,
+      "y": -58.7384872,
+      "z": 207.035553
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008002,
+    "configID": 29,
+    "position": {
+      "x": 517.8393,
+      "y": -67.98351,
+      "z": 261.210144
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008004,
+    "configID": 31,
+    "position": {
+      "x": 410.762329,
+      "y": -21.5004787,
+      "z": 174.79126
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008003,
+    "configID": 33,
+    "position": {
+      "x": 440.440857,
+      "y": -21.4834328,
+      "z": 178.034317
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008003,
+    "configID": 36,
+    "position": {
+      "x": 459.443939,
+      "y": -28.4834042,
+      "z": 260.063782
+    },
+    "tlog_tag": "",
+    "comment": "prototype"
+  },
+  {
+    "groupId": 220008003,
+    "configID": 38,
+    "position": {
+      "x": 457.2623,
+      "y": -28.4338264,
+      "z": 265.9283
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008004,
+    "configID": 40,
+    "position": {
+      "x": 440.663025,
+      "y": -21.5004787,
+      "z": 173.857117
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008901,
+    "configID": 41,
+    "position": {
+      "x": 565.430359,
+      "y": -62.6659737,
+      "z": 206.703079
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008901,
+    "configID": 42,
+    "position": {
+      "x": 517.300537,
+      "y": -65.573494,
+      "z": 221.517441
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008901,
+    "configID": 43,
+    "position": {
+      "x": 471.2688,
+      "y": -28.505537,
+      "z": 266.121948
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008002,
+    "configID": 46,
+    "position": {
+      "x": 517.9518,
+      "y": -65.92048,
+      "z": 229.08075
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008002,
+    "configID": 47,
+    "position": {
+      "x": 517.925232,
+      "y": -65.92048,
+      "z": 235.817017
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008001,
+    "configID": 48,
+    "position": {
+      "x": 532.808044,
+      "y": -67.84822,
+      "z": 206.054382
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008001,
+    "configID": 49,
+    "position": {
+      "x": 517.488464,
+      "y": -66.39324,
+      "z": 222.918442
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008001,
+    "configID": 50,
+    "position": {
+      "x": 517.123535,
+      "y": -65.92048,
+      "z": 252.975891
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008001,
+    "configID": 51,
+    "position": {
+      "x": 501.37085,
+      "y": -25.942503,
+      "z": 266.822937
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008001,
+    "configID": 52,
+    "position": {
+      "x": 478.6388,
+      "y": -28.6365318,
+      "z": 265.796783
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008001,
+    "configID": 53,
+    "position": {
+      "x": 440.4974,
+      "y": -25.46377,
+      "z": 240.412888
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008001,
+    "configID": 55,
+    "position": {
+      "x": 440.27713,
+      "y": -24.4038048,
+      "z": 220.376511
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008001,
+    "configID": 56,
+    "position": {
+      "x": 413.943848,
+      "y": -21.44996,
+      "z": 174.55423
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008003,
+    "configID": 57,
+    "position": {
+      "x": 454.118,
+      "y": -28.3599968,
+      "z": 266.923767
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008001,
+    "configID": 58,
+    "position": {
+      "x": 555.134155,
+      "y": -67.8166351,
+      "z": 204.582687
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008003,
+    "configID": 59,
+    "position": {
+      "x": 471.335266,
+      "y": -28.50341,
+      "z": 266.184631
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008003,
+    "configID": 60,
+    "position": {
+      "x": 454.077576,
+      "y": -28.3599968,
+      "z": 267.251953
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008003,
+    "configID": 65,
+    "position": {
+      "x": 458.016174,
+      "y": -28.433733,
+      "z": 266.757019
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220008001,
+    "configID": 66,
+    "position": {
+      "x": 440.449158,
+      "y": -25.5,
+      "z": 233.639465
+    },
+    "tlog_tag": "",
+    "comment": ""
+  }
+]

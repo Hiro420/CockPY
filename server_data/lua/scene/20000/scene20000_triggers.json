@@ -1,0 +1,849 @@
+[
+  {
+    "groupId": 220000001,
+    "configID": 1,
+    "position": {
+      "x": 61.064003,
+      "y": 0.5,
+      "z": -28.1493263
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000001,
+    "configID": 3,
+    "position": {
+      "x": 60.7680855,
+      "y": 0.5,
+      "z": -30.5882568
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000001,
+    "configID": 4,
+    "position": {
+      "x": 57.59006,
+      "y": 0.5,
+      "z": -28.3125229
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000001,
+    "configID": 5,
+    "position": {
+      "x": 58.9597168,
+      "y": 0.5,
+      "z": -29.813673
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000002,
+    "configID": 6,
+    "position": {
+      "x": 58.3309555,
+      "y": 0.5,
+      "z": -53.5327339
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000002,
+    "configID": 7,
+    "position": {
+      "x": 58.32727,
+      "y": 0.5,
+      "z": -53.4502869
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000002,
+    "configID": 8,
+    "position": {
+      "x": 23.00528,
+      "y": 0.5,
+      "z": -54.7981339
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000002,
+    "configID": 9,
+    "position": {
+      "x": 23.13101,
+      "y": 0.5,
+      "z": -54.79371
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000001,
+    "configID": 10,
+    "position": {
+      "x": 58.247036,
+      "y": 0.5,
+      "z": -39.9296532
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000001,
+    "configID": 11,
+    "position": {
+      "x": 18.5849266,
+      "y": 0.5,
+      "z": -41.4110947
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000002,
+    "configID": 12,
+    "position": {
+      "x": 21.5523853,
+      "y": 0.399999619,
+      "z": 0.159124374
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000004,
+    "configID": 13,
+    "position": {
+      "x": -39.4163,
+      "y": 0.449998826,
+      "z": -37.393158
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000004,
+    "configID": 14,
+    "position": {
+      "x": -41.9817848,
+      "y": 0.449996918,
+      "z": -37.3536758
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000004,
+    "configID": 15,
+    "position": {
+      "x": -38.7244949,
+      "y": 0.449996918,
+      "z": -33.8559837
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000005,
+    "configID": 16,
+    "position": {
+      "x": 81.2200546,
+      "y": 0.5,
+      "z": -45.20286
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000005,
+    "configID": 17,
+    "position": {
+      "x": 78.6430359,
+      "y": 0.5,
+      "z": -33.45944
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000005,
+    "configID": 18,
+    "position": {
+      "x": 66.6545639,
+      "y": 0.5,
+      "z": -41.81715
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000005,
+    "configID": 19,
+    "position": {
+      "x": 72.82925,
+      "y": 0.5,
+      "z": -49.1760025
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000005,
+    "configID": 20,
+    "position": {
+      "x": 75.50213,
+      "y": 0.5,
+      "z": -32.2542725
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000005,
+    "configID": 21,
+    "position": {
+      "x": 65.64414,
+      "y": 0.5,
+      "z": -41.46639
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000005,
+    "configID": 22,
+    "position": {
+      "x": 84.2689362,
+      "y": 0.5,
+      "z": -49.922554
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000005,
+    "configID": 23,
+    "position": {
+      "x": 85.1852646,
+      "y": 0.5,
+      "z": -45.915
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000005,
+    "configID": 24,
+    "position": {
+      "x": 89.22012,
+      "y": 0.5,
+      "z": -29.7313175
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000007,
+    "configID": 25,
+    "position": {
+      "x": 68.17566,
+      "y": 0.5,
+      "z": -82.64627
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000008,
+    "configID": 26,
+    "position": {
+      "x": 13.4148483,
+      "y": 0.5,
+      "z": -83.76994
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000008,
+    "configID": 27,
+    "position": {
+      "x": 23.9745541,
+      "y": 0.5,
+      "z": -69.1068
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000003,
+    "configID": 28,
+    "position": {
+      "x": -15.1788578,
+      "y": 1.01010132,
+      "z": -18.82701
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000003,
+    "configID": 29,
+    "position": {
+      "x": -15.0252943,
+      "y": 0.5,
+      "z": -4.791464
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000003,
+    "configID": 30,
+    "position": {
+      "x": -15.6631174,
+      "y": 0.5,
+      "z": -28.39352
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000003,
+    "configID": 31,
+    "position": {
+      "x": -16.0080833,
+      "y": 0.5,
+      "z": -3.01405787
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000009,
+    "configID": 32,
+    "position": {
+      "x": 1.37490749,
+      "y": 0.5,
+      "z": -97.2204
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000009,
+    "configID": 33,
+    "position": {
+      "x": -13.4323206,
+      "y": 0.35,
+      "z": -80.7559738
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000009,
+    "configID": 34,
+    "position": {
+      "x": -12.3768387,
+      "y": 0.5,
+      "z": -45.7364655
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000010,
+    "configID": 35,
+    "position": {
+      "x": 36.5219421,
+      "y": 4.598982,
+      "z": -30.6035252
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000010,
+    "configID": 36,
+    "position": {
+      "x": 36.78087,
+      "y": 5.905988,
+      "z": -30.5545864
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000010,
+    "configID": 38,
+    "position": {
+      "x": 29.7869015,
+      "y": 0.5,
+      "z": -41.7543526
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000010,
+    "configID": 39,
+    "position": {
+      "x": 29.5541611,
+      "y": 0.5,
+      "z": -41.3396225
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000011,
+    "configID": 40,
+    "position": {
+      "x": 5.70984268,
+      "y": 0.5,
+      "z": -41.8662262
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000011,
+    "configID": 41,
+    "position": {
+      "x": 5.93929243,
+      "y": 0.5,
+      "z": -42.04083
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000011,
+    "configID": 42,
+    "position": {
+      "x": 4.34412,
+      "y": 0.5,
+      "z": -39.9482727
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000011,
+    "configID": 43,
+    "position": {
+      "x": 3.17572021,
+      "y": 0.5,
+      "z": -43.2096252
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000011,
+    "configID": 44,
+    "position": {
+      "x": 3.958004,
+      "y": 0.5,
+      "z": -44.8037071
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000011,
+    "configID": 45,
+    "position": {
+      "x": 2.02333069,
+      "y": 0.5,
+      "z": -35.8899345
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000011,
+    "configID": 46,
+    "position": {
+      "x": 1.85778236,
+      "y": 0.5,
+      "z": -41.8430672
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000010,
+    "configID": 47,
+    "position": {
+      "x": 51.7949638,
+      "y": 0.5,
+      "z": -32.7613525
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000026,
+    "configID": 48,
+    "position": {
+      "x": 67.11086,
+      "y": 1.660624,
+      "z": 119.258255
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000030,
+    "configID": 49,
+    "position": {
+      "x": 19.3141518,
+      "y": 0.50000006,
+      "z": 51.4829941
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000031,
+    "configID": 50,
+    "position": {
+      "x": 15.2139359,
+      "y": 0.5,
+      "z": 191.789764
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000034,
+    "configID": 53,
+    "position": {
+      "x": 89.07856,
+      "y": 0.49999997,
+      "z": -11.004488
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000034,
+    "configID": 54,
+    "position": {
+      "x": 96.6111755,
+      "y": 0.50000006,
+      "z": 14.00849
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000034,
+    "configID": 55,
+    "position": {
+      "x": 75.84141,
+      "y": 2.0488205,
+      "z": 32.9570465
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000036,
+    "configID": 56,
+    "position": {
+      "x": 142.821411,
+      "y": 1.13284457,
+      "z": -2.76973176
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000036,
+    "configID": 57,
+    "position": {
+      "x": 142.027969,
+      "y": 1.13284445,
+      "z": -1.81979072
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000037,
+    "configID": 58,
+    "position": {
+      "x": 142.684647,
+      "y": 1.13284445,
+      "z": -2.42410851
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000037,
+    "configID": 59,
+    "position": {
+      "x": 142.822113,
+      "y": 1.13284457,
+      "z": -3.76874828
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000037,
+    "configID": 60,
+    "position": {
+      "x": 141.778366,
+      "y": 1.13284445,
+      "z": -1.59668255
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000037,
+    "configID": 63,
+    "position": {
+      "x": 141.482422,
+      "y": 1.13284457,
+      "z": -4.330171
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000037,
+    "configID": 64,
+    "position": {
+      "x": 141.042877,
+      "y": 1.13284445,
+      "z": -1.72002935
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000037,
+    "configID": 65,
+    "position": {
+      "x": 140.479019,
+      "y": 1.13284421,
+      "z": -0.6789878
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000037,
+    "configID": 66,
+    "position": {
+      "x": 133.988785,
+      "y": 1.13284445,
+      "z": 1.215878
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000037,
+    "configID": 67,
+    "position": {
+      "x": 135.971924,
+      "y": 1.13284445,
+      "z": -0.958610654
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000037,
+    "configID": 68,
+    "position": {
+      "x": 136.387878,
+      "y": 1.13284445,
+      "z": 0.9551661
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000005,
+    "configID": 69,
+    "position": {
+      "x": 87.16796,
+      "y": 0.499998033,
+      "z": -62.2780075
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000019,
+    "configID": 70,
+    "position": {
+      "x": 182.714111,
+      "y": 0.6407645,
+      "z": 47.3153038
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000019,
+    "configID": 71,
+    "position": {
+      "x": 177.329712,
+      "y": 0.6407645,
+      "z": 44.0852776
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000019,
+    "configID": 72,
+    "position": {
+      "x": 173.920578,
+      "y": 0.640764236,
+      "z": 44.9880028
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000019,
+    "configID": 73,
+    "position": {
+      "x": 177.85614,
+      "y": 0.6407645,
+      "z": 51.4060478
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000019,
+    "configID": 74,
+    "position": {
+      "x": 182.8536,
+      "y": 0.6407645,
+      "z": 38.58835
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000041,
+    "configID": 75,
+    "position": {
+      "x": 169.20401,
+      "y": 0.640764,
+      "z": 47.7641869
+    },
+    "tlog_tag": "",
+    "comment": ""
+  },
+  {
+    "groupId": 220000042,
+    "configID": 76,
+    "position": {
+      "x": 111.345772,
+      "y": 1.27105236,
+      "z": 52.0872231
+    },
+    "tlog_tag": "",
+    "comment": "镭射机关测试1"
+  },
+  {
+    "groupId": 220000043,
+    "configID": 77,
+    "position": {
+      "x": 111.277695,
+      "y": 1.27105236,
+      "z": 36.217495
+    },
+    "tlog_tag": "",
+    "comment": "镭射机关测试2"
+  },
+  {
+    "groupId": 220000045,
+    "configID": 78,
+    "position": {
+      "x": 417.285583,
+      "y": 5.57284451,
+      "z": 279.616974
+    },
+    "tlog_tag": "",
+    "comment": "岩技能-镭射开门1"
+  },
+  {
+    "groupId": 220000046,
+    "configID": 79,
+    "position": {
+      "x": 460.95166,
+      "y": 5.57284641,
+      "z": 311.476044
+    },
+    "tlog_tag": "",
+    "comment": "岩技能-镭射开门2"
+  },
+  {
+    "groupId": 220000047,
+    "configID": 80,
+    "position": {
+      "x": 826.6899,
+      "y": 5.90144348,
+      "z": 362.90506
+    },
+    "tlog_tag": "",
+    "comment": "岩技能-电桩激活出风开关"
+  },
+  {
+    "groupId": 220000049,
+    "configID": 81,
+    "position": {
+      "x": 671.0105,
+      "y": 5.914489,
+      "z": 361.759827
+    },
+    "tlog_tag": "",
+    "comment": "岩技能-关闭风场"
+  },
+  {
+    "groupId": 220000050,
+    "configID": 82,
+    "position": {
+      "x": 743.332153,
+      "y": 6.006822,
+      "z": 360.4391
+    },
+    "tlog_tag": "",
+    "comment": "岩技能-打开遗迹守卫大门"
+  },
+  {
+    "groupId": 220000051,
+    "configID": 83,
+    "position": {
+      "x": 69.37216,
+      "y": 1.01635933,
+      "z": 270.630157
+    },
+    "tlog_tag": "",
+    "comment": "电桩开关-开门"
+  }
+]

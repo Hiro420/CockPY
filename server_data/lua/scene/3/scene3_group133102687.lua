@@ -1,0 +1,159 @@
+-- Trigger变量
+local defs = {
+	group_id = 133102687,
+	gadget_riddle_hint = 687001,
+	gadget_riddle_1 = 687002,
+	gadget_riddle_2 = 687003,
+	gadget_riddle_3 = 687004,
+	gadget_riddle_4 = 687005,
+	gadget_chest = 687006
+}
+
+
+--================================================================
+-- 
+-- 配置
+-- 
+--================================================================
+
+-- 怪物
+monsters = {
+}
+
+-- NPC
+npcs = {
+}
+
+-- 装置
+gadgets = {
+	{ config_id = 687001, gadget_id = 70310012, pos = { x = 1189.2, y = 199.5, z = 254.8 }, rot = { x = 0.0, y = 237.8, z = 0.0 }, level = 16, persistent = true },
+	{ config_id = 687002, gadget_id = 70310011, pos = { x = 1188.5, y = 199.5, z = 251.6 }, rot = { x = 0.0, y = 323.9, z = 0.0 }, level = 16, persistent = true },
+	{ config_id = 687003, gadget_id = 70310011, pos = { x = 1184.7, y = 199.5, z = 262.1 }, rot = { x = 12.9, y = 22.5, z = 12.6 }, level = 16, persistent = true },
+	{ config_id = 687004, gadget_id = 70310011, pos = { x = 1187.3, y = 199.3, z = 268.3 }, rot = { x = 341.4, y = 307.6, z = 346.2 }, level = 16, persistent = true },
+	{ config_id = 687005, gadget_id = 70310011, pos = { x = 1178.3, y = 202.4, z = 261.1 }, rot = { x = 4.2, y = 61.7, z = 355.5 }, level = 16, persistent = true },
+	{ config_id = 687006, gadget_id = 70211112, pos = { x = 1189.3, y = 200.0, z = 254.8 }, rot = { x = 0.0, y = 318.2, z = 0.0 }, level = 16, drop_tag = "解谜中级璃月", state = GadgetState.ChestLocked, isOneoff = true, persistent = true, type = GadgetType.GADGET_WORLD_CHECT }
+}
+
+-- 区域
+regions = {
+}
+
+-- 触发器
+triggers = {
+	{ name = "GADGET_STATE_CHANGE_687007", event = EventType.EVENT_GADGET_STATE_CHANGE, source = "", condition = "condition_EVENT_GADGET_STATE_CHANGE_687007", action = "action_EVENT_GADGET_STATE_CHANGE_687007", trigger_count = 0 },
+	{ name = "VARIABLE_CHANGE_687008", event = EventType.EVENT_VARIABLE_CHANGE, source = "State_Flag", condition = "condition_EVENT_VARIABLE_CHANGE_687008", action = "action_EVENT_VARIABLE_CHANGE_687008", trigger_count = 0 },
+	{ name = "GROUP_LOAD_687009", event = EventType.EVENT_GROUP_LOAD, source = "", condition = "", action = "action_EVENT_GROUP_LOAD_687009" }
+}
+
+-- 变量
+variables = {
+	{ name = "State_Flag", value = 0, no_refresh = true }
+}
+
+--================================================================
+-- 
+-- 初始化配置
+-- 
+--================================================================
+
+-- 初始化时创建
+init_config = {
+	suite = 1,
+	end_suite = 0,
+	rand_suite = false
+}
+
+--================================================================
+-- 
+-- 小组配置
+-- 
+--================================================================
+
+suites = {
+	{
+		-- suite_id = 1,
+		-- description = suite_1,
+		monsters = { },
+		gadgets = { 687001, 687002, 687003, 687004, 687005, 687006 },
+		regions = { },
+		triggers = { "GADGET_STATE_CHANGE_687007", "VARIABLE_CHANGE_687008", "GROUP_LOAD_687009" },
+		rand_weight = 100
+	}
+}
+
+--================================================================
+-- 
+-- 触发器
+-- 
+--================================================================
+
+-- 触发条件
+function condition_EVENT_GADGET_STATE_CHANGE_687007(context, evt)
+	if evt.param2 ~= defs.gadget_riddle_1 and evt.param2 ~= defs.gadget_riddle_2 and evt.param2 ~= defs.gadget_riddle_3 and evt.param2 ~= defs.gadget_riddle_4 then
+	return false 
+	end
+	return true
+end
+
+-- 触发操作
+function action_EVENT_GADGET_STATE_CHANGE_687007(context, evt)
+	if evt.param1 == GadgetState.GearStart then
+	ScriptLib.ChangeGroupVariableValue(context, "State_Flag", 1)
+	if 0 == ScriptLib.GetCurTriggerCount(context) then
+	ScriptLib.MarkPlayerAction(context, 1003, 1, 1)
+	end 
+	elseif evt.param1 == GadgetState.Default then
+	ScriptLib.ChangeGroupVariableValue(context, "State_Flag", -1)
+	end
+	return 0
+end
+
+-- 触发条件
+function condition_EVENT_VARIABLE_CHANGE_687008(context, evt)
+	if evt.param1 < 0 or evt.param1 > 4 then
+	return false
+	end
+	return true
+end
+
+-- 触发操作
+function action_EVENT_VARIABLE_CHANGE_687008(context, evt)
+	if evt.param1 == 0 then
+	ScriptLib.SetGroupGadgetStateByConfigId(context, defs.group_id, defs.gadget_riddle_hint, GadgetState.Default)
+	elseif evt.param1 == 1 then
+	ScriptLib.SetGroupGadgetStateByConfigId(context, defs.group_id, defs.gadget_riddle_hint, GadgetState.Action01)
+	ScriptLib.MarkPlayerAction(context, 1003, 2, 2) 
+	elseif evt.param1 == 2 then
+	ScriptLib.SetGroupGadgetStateByConfigId(context, defs.group_id, defs.gadget_riddle_hint, GadgetState.Action02)
+	ScriptLib.MarkPlayerAction(context, 1003, 2, 3) 
+	elseif evt.param1 == 3 then
+	ScriptLib.SetGroupGadgetStateByConfigId(context, defs.group_id, defs.gadget_riddle_hint, GadgetState.Action03)
+	ScriptLib.MarkPlayerAction(context, 1003, 2, 4) 
+	elseif evt.param1 == 4 then
+	ScriptLib.SetGroupGadgetStateByConfigId(context, defs.group_id, defs.gadget_riddle_hint, GadgetState.GearStart)
+	ScriptLib.MarkPlayerAction(context, 1003, 3, 5) 
+	ScriptLib.SetGroupGadgetStateByConfigId(context, defs.group_id, defs.gadget_chest, GadgetState.Default)
+	end
+	return 0
+end
+
+-- 触发条件
+
+-- 触发操作
+function action_EVENT_GROUP_LOAD_687009(context, evt)
+	local sum = 0
+	if ScriptLib.GetGadgetStateByConfigId(context, defs.group_id, defs.gadget_riddle_1) == GadgetState.GearStart then
+	sum = sum + 1
+	end
+	if ScriptLib.GetGadgetStateByConfigId(context, defs.group_id, defs.gadget_riddle_2) == GadgetState.GearStart then
+	sum = sum + 1
+	end
+	if ScriptLib.GetGadgetStateByConfigId(context, defs.group_id, defs.gadget_riddle_3) == GadgetState.GearStart then
+	sum = sum + 1
+	end
+	if ScriptLib.GetGadgetStateByConfigId(context, defs.group_id, defs.gadget_riddle_4) == GadgetState.GearStart then
+	sum = sum + 1
+	end
+	ScriptLib.SetGroupVariableValue(context, "State_Flag", sum)
+	return 0
+end

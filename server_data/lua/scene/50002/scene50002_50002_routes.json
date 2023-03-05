@@ -1,0 +1,13 @@
+{
+  "sceneId": 50002,
+  "routes": [
+    {
+      "localId": 50002001,
+      "name": "Route_50002001",
+      "type": "OneWay",
+      "rotType": "ROT_NONE",
+      "rotAngleType": "ROT_ANGLE_Y",
+      "points": []
+    }
+  ]
+}
