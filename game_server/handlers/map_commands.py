@@ -115,8 +115,8 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                     test_monster.monster = SceneMonsterInfo()
                     if monster_weapon != 0:
                         test_monster.monster.weapon_list = SceneWeaponInfo()
-                        test_monster.monster.weapon_list.entity_id = test_monster.entity_id
-                        test_monster.monster.weapon_list.item_id = monster_weapon
+                        test_monster.monster.weapon_list.entity_id = int(330000)+int(monster_weapon)
+                        test_monster.monster.weapon_list.gadget_id = monster_weapon
                     test_monster.monster.monster_id = int(command_to_int)
                     test_monster.monster.affix_list = []
                     if affix != 0:
