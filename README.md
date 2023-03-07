@@ -22,6 +22,7 @@ To run CockPY:
 - create a database (not in the near future)
 
 # RECENT CHANGELOG:
+- now you can basically upgrade your skills but it wont update instantly and also the proud skills wont update at all
 - now you have ALL materials
 - now you can view cbt shop and buy shit from there
 - enemies can drown
