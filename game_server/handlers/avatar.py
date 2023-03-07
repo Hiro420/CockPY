@@ -6,8 +6,19 @@ from game_server.game.world import World
 from game_server.protocol.reader import BinaryReader
 from game_server.resource.enums import PropType
 import enet
+from os import path
+import json
 
 router = HandlerRouter()
+
+
+basepath = path.dirname(__file__)
+AvatarSkillDepotExcelName = "AvatarSkillDepotExcelConfigData.json"
+AvatarSkillDepot = path.abspath(path.join(basepath, "..", "json\\excel\\", AvatarSkillDepotExcelName))
+
+with open(AvatarSkillDepot, encoding='utf8') as f:
+    avatar_depot_info = json.load(f)
+
 
 def __init__(self, world: World):
     self.entid = world.get_next_entity_id(ProtEntityType.PROT_ENTITY_WEAPON)
@@ -139,3 +150,36 @@ def handle_path_finding_enter_scene(conn: Connection, msg: PathfindingEnterScene
 
     path_finding_enter_scene_rsp = PathfindingEnterSceneRsp()
     conn.send(path_finding_enter_scene_rsp)
+
+
+@router(CmdID.AvatarSkillUpgradeReq)
+def handle_avatar_skill_upgrade(conn: Connection, msg: AvatarSkillUpgradeReq):
+    avatar_skill_upgrade_rsp = AvatarSkillUpgradeRsp()
+    avatar_skill_upgrade_rsp.retcode = 0
+    avatar_skill_upgrade_rsp.avatar_guid = msg.avatar_guid
+    avatar_skill_upgrade_rsp.avatar_skill_id = msg.avatar_skill_id
+    avatar_skill_upgrade_rsp.old_level = msg.old_level
+    avatar_skill_upgrade_rsp.cur_level = int(msg.old_level)+1
+    conn.send(avatar_skill_upgrade_rsp)
+    #avatar_skill_change_notify = AvatarSkillChangeNotify()
+    #avatar_skill_change_notify.avatar_guid = msg.avatar_guid
+    #avatar_skill_change_notify.avatar_skill_id = msg.avatar_skill_id
+    #for obj in avatar_depot_info:
+    #    if "skills" in obj and int(msg.avatar_skill_id) in obj["skills"]:
+    #        skillDepotId = obj["id"]
+    #        print(f"FOUND skillDepotId of skill_id {msg.avatar_skill_id} in skillDepotId {skillDepotId}")
+    #        avatar_skill_change_notify.skill_depot_id = skillDepotId
+    #avatar_skill_change_notify.old_level = msg.old_level
+    #avatar_skill_change_notify.cur_level = avatar_skill_upgrade_rsp.cur_level
+    #avatar_entity_id = conn.player.get_avatar_entity_id_by_guid(avatar_skill_change_notify.avatar_guid)
+    #avatar_skill_change_notify.entity_id = avatar_entity_id
+    #print(f"avatar_entity_id: {avatar_entity_id}")
+    #conn.send(avatar_skill_change_notify)
+
+@router(CmdID.ProudSkillUpgradeReq)
+def handle_proud_skill_upgrade(conn: Connection, msg: ProudSkillUpgradeReq):
+    proud_skill_upgrade_rsp = ProudSkillUpgradeRsp()
+    proud_skill_upgrade_rsp.retcode = 0
+    proud_skill_upgrade_rsp.avatar_guid = msg.avatar_guid
+    proud_skill_upgrade_rsp.proud_skill_id = msg.proud_skill_id
+    conn.send(proud_skill_upgrade_rsp)

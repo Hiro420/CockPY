@@ -508,6 +508,11 @@ class Player:
         for avatar_entity in self.avatars: 
             if avatar_entity.guid == guid:
                 return avatar_entity
+    
+    def get_avatar_entity_id_by_guid(self, guid: int):
+        for avatar_entity in self.avatars: 
+            if avatar_entity.guid == guid:
+                return avatar_entity.entity_id
 
     def get_avatar_by_entity_id(self, entity_id: int):
         for avatar_entity in self.avatars: 
