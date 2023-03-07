@@ -19,7 +19,9 @@ import json
 
 basepath = path.dirname(__file__)
 hpcalcsname = "Monster_HP_calcs_lv90.json"
+ShopGoodsDataName = "ShopGoodsExcelConfigData.json"
 hpcalcs = path.abspath(path.join(basepath, "..", "json\\calcs\\", hpcalcsname))
+ShopGoodsData = path.abspath(path.join(basepath, "..", "json\\excel\\", ShopGoodsDataName))
 
 
 router = HandlerRouter()
@@ -241,6 +243,87 @@ def area_explore_percent_handle(conn: Connection, msg: SceneGetAreaExplorePercen
     conn.send(rsp)
     
 #++
+@router(CmdID.GetShopReq)
+def handle_GetShopReq(conn: Connection, msg: GetShopReq):
+    shop_type = msg.shop_type
+    print(f'\n\n\n\n\n\n {shop_type}')
+    get_shop_rsp = GetShopRsp()
+    get_shop_rsp.retcode = 0
+    get_shop_rsp.shop = Shop()
+    get_shop_rsp.shop.shop_type = shop_type
+    get_shop_rsp.shop.goods_list = []
+    with open(ShopGoodsData) as shopgoods_data:
+        shopgoods_data_excel = json.load(shopgoods_data)
+        for obj in shopgoods_data_excel:
+            goodsId = obj["goodsId"]
+            itemId = obj["itemId"]
+            itemCount = obj["itemCount"]
+     
+    
+            shopgoods = ShopGoods()
+            shopgoods.goods_id = goodsId
+            #print(shopgoods.goods_id)
+            shopgoods.goods_item = []
+            shopitem = ItemParam()
+            shopitem.item_id = itemId
+            shopitem.count = itemCount
+            shopgoods.goods_item.append(shopitem)
+            #print(shopgoods.goods_item)
+            shopgoods.cost_item_list = []
+    
+            if "costItems" in obj:
+                for costItem in obj["costItems"]:
+                    costItem_id = costItem["id"]
+                    costItem_count = costItem["count"]
+    
+                cost_item = ItemParam()
+                cost_item.item_id = costItem_id
+                cost_item.count = costItem_count
+                shopgoods.cost_item_list.append(cost_item)
+            
+            if "costHcoin" in obj:
+                costHcoin = obj["costHcoin"]
+    
+                shopgoods.hcoin = costHcoin
+    
+            if "costScoin" in obj:
+                costScoin = obj["costScoin"]
+    
+                shopgoods.scoin = costScoin
+    
+            if "buyLimit" in obj:
+                buyLimit = obj["buyLimit"]
+    
+                shopgoods.buy_limit = buyLimit
+    
+            if "refreshDays" in obj:
+                refreshDays = obj["refreshDays"]
+    
+                shopgoods.next_refresh_time = refreshDays
+    
+            if "beginTime" in obj:
+                beginTime = 1
+      
+                shopgoods.begin_time = beginTime
+      
+            if "endTime" in obj:
+                endTime = 9999999
+     
+                shopgoods.end_time = endTime
+
+            get_shop_rsp.shop.goods_list.append(shopgoods)
+    #print(shopgoods)
+    conn.send(get_shop_rsp)
+            
+@router(CmdID.BuyGoodsReq)
+def handle_buy_goods(conn: Connection, msg: BuyGoodsReq):
+    buy_goods_rsp = BuyGoodsRsp()
+    buy_goods_rsp.retcode = 0
+    buy_goods_rsp.shop_type = msg.shop_type
+    buy_goods_rsp.goods = msg.goods
+    buy_goods_rsp.buy_count = msg.buy_count
+    conn.send(buy_goods_rsp)
+
 
 @router(CmdID.SceneTransToPointReq)
 def handle_SceneTransToPoint(conn: Connection, msg: SceneTransToPointReq):

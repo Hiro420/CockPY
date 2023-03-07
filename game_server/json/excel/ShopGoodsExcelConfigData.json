@@ -1,0 +1,1498 @@
+[
+    {
+        "goodsId": 1001,
+        "itemId": 106,
+        "itemCount": 1,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 1002,
+        "itemId": 107,
+        "itemCount": 3,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101001,
+        "itemId": 223,
+        "itemCount": 1,
+        "costHcoin": 160,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101002,
+        "itemId": 224,
+        "itemCount": 1,
+        "costHcoin": 160,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101003,
+        "itemId": 223,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 221,
+                "count": 7
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101004,
+        "itemId": 224,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 221,
+                "count": 7
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101005,
+        "itemId": 1014,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 221,
+                "count": 50
+            }
+        ],
+        "buyLimit": 1,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101006,
+        "itemId": 1121,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 221,
+                "count": 30
+            }
+        ],
+        "buyLimit": 6,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101007,
+        "itemId": 1115,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 221,
+                "count": 30
+            }
+        ],
+        "buyLimit": 6,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101008,
+        "itemId": 1106,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 221,
+                "count": 30
+            }
+        ],
+        "buyLimit": 6,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101009,
+        "itemId": 223,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 128
+            }
+        ],
+        "buyLimit": 5,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101010,
+        "itemId": 224,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 128
+            }
+        ],
+        "buyLimit": 5,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101011,
+        "itemId": 202,
+        "itemCount": 10000,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 10
+            }
+        ],
+        "buyLimit": 30,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101012,
+        "itemId": 104111,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 30
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101013,
+        "itemId": 104121,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 30
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101014,
+        "itemId": 104151,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 30
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101015,
+        "itemId": 104161,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 30
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101016,
+        "itemId": 104171,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 30
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101017,
+        "itemId": 104141,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 30
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101018,
+        "itemId": 114001,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 12
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101019,
+        "itemId": 114005,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 12
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101020,
+        "itemId": 114009,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 12
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101021,
+        "itemId": 114013,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 12
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101022,
+        "itemId": 114017,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 12
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101023,
+        "itemId": 114021,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 12
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101024,
+        "itemId": 112002,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 2
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101025,
+        "itemId": 112005,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 2
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101026,
+        "itemId": 112008,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 2
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101027,
+        "itemId": 112011,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 2
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101028,
+        "itemId": 112032,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 2
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101029,
+        "itemId": 112014,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 5
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 101030,
+        "itemId": 112020,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 5
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:01",
+        "endTime": "2035-01-01 00:00:01"
+    },
+    {
+        "goodsId": 101031,
+        "itemId": 112023,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 5
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:02",
+        "endTime": "2035-01-01 00:00:02"
+    },
+    {
+        "goodsId": 101032,
+        "itemId": 112029,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 5
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:03",
+        "endTime": "2035-01-01 00:00:03"
+    },
+    {
+        "goodsId": 101033,
+        "itemId": 112026,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 5
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:04",
+        "endTime": "2035-01-01 00:00:04"
+    },
+    {
+        "goodsId": 101034,
+        "itemId": 112017,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 5
+            }
+        ],
+        "buyLimit": 20,
+        "refreshDays": 30,
+        "beginTime": "2014-01-01 00:00:05",
+        "endTime": "2035-01-01 00:00:05"
+    },
+    {
+        "goodsId": 101035,
+        "itemId": 104002,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 8
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:06",
+        "endTime": "2035-01-01 00:00:06"
+    },
+    {
+        "goodsId": 101036,
+        "itemId": 104012,
+        "itemCount": 3,
+        "costItems": [
+            {
+                "id": 222,
+                "count": 3
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:07",
+        "endTime": "2035-01-01 00:00:07"
+    },
+    {
+        "goodsId": 102001,
+        "itemId": 104012,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 3
+            }
+        ],
+        "buyLimit": 30,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102002,
+        "itemId": 104002,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 7
+            }
+        ],
+        "buyLimit": 30,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102003,
+        "itemId": 104111,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 25
+            }
+        ],
+        "buyLimit": 2,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102004,
+        "itemId": 104121,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 25
+            }
+        ],
+        "buyLimit": 2,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102005,
+        "itemId": 104151,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 25
+            }
+        ],
+        "buyLimit": 2,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102006,
+        "itemId": 104161,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 25
+            }
+        ],
+        "buyLimit": 2,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102007,
+        "itemId": 104171,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 25
+            }
+        ],
+        "buyLimit": 2,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102008,
+        "itemId": 104141,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 25
+            }
+        ],
+        "buyLimit": 2,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102009,
+        "itemId": 104301,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 15
+            }
+        ],
+        "buyLimit": 3,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102010,
+        "itemId": 104304,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 15
+            }
+        ],
+        "buyLimit": 3,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102011,
+        "itemId": 104307,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 15
+            }
+        ],
+        "buyLimit": 3,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102012,
+        "itemId": 114001,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 10
+            }
+        ],
+        "buyLimit": 3,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:01",
+        "endTime": "2035-01-01 00:00:01",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102013,
+        "itemId": 114005,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 10
+            }
+        ],
+        "buyLimit": 3,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:02",
+        "endTime": "2035-01-01 00:00:02",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102014,
+        "itemId": 114009,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 10
+            }
+        ],
+        "buyLimit": 3,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:03",
+        "endTime": "2035-01-01 00:00:03",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102015,
+        "itemId": 202,
+        "itemCount": 1000,
+        "costItems": [
+            {
+                "id": 305,
+                "count": 3
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:04",
+        "endTime": "2035-01-01 00:00:04"
+    },
+    {
+        "goodsId": 102051,
+        "itemId": 104012,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 3
+            }
+        ],
+        "buyLimit": 60,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102052,
+        "itemId": 104002,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 7
+            }
+        ],
+        "buyLimit": 60,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102053,
+        "itemId": 104111,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 25
+            }
+        ],
+        "buyLimit": 4,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102054,
+        "itemId": 104121,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 25
+            }
+        ],
+        "buyLimit": 4,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102055,
+        "itemId": 104151,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 25
+            }
+        ],
+        "buyLimit": 4,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102056,
+        "itemId": 104161,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 25
+            }
+        ],
+        "buyLimit": 4,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102057,
+        "itemId": 104171,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 25
+            }
+        ],
+        "buyLimit": 4,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102058,
+        "itemId": 104141,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 25
+            }
+        ],
+        "buyLimit": 4,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102059,
+        "itemId": 104310,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 15
+            }
+        ],
+        "buyLimit": 6,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102060,
+        "itemId": 104313,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 15
+            }
+        ],
+        "buyLimit": 6,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102061,
+        "itemId": 104316,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 15
+            }
+        ],
+        "buyLimit": 6,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102062,
+        "itemId": 114013,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 10
+            }
+        ],
+        "buyLimit": 6,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102063,
+        "itemId": 114017,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 10
+            }
+        ],
+        "buyLimit": 6,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102064,
+        "itemId": 114021,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 10
+            }
+        ],
+        "buyLimit": 6,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 102065,
+        "itemId": 202,
+        "itemCount": 1000,
+        "costItems": [
+            {
+                "id": 307,
+                "count": 3
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 103001,
+        "itemId": 11201,
+        "itemCount": 1,
+        "costScoin": 600,
+        "buyLimit": 1,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 103002,
+        "itemId": 12201,
+        "itemCount": 1,
+        "costScoin": 600,
+        "buyLimit": 1,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 103003,
+        "itemId": 13201,
+        "itemCount": 1,
+        "costScoin": 600,
+        "buyLimit": 1,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 103004,
+        "itemId": 14201,
+        "itemCount": 1,
+        "costScoin": 600,
+        "buyLimit": 1,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 103005,
+        "itemId": 15201,
+        "itemCount": 1,
+        "costScoin": 600,
+        "buyLimit": 1,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 104001,
+        "itemId": 100075,
+        "itemCount": 1,
+        "costScoin": 60,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 104002,
+        "itemId": 100077,
+        "itemCount": 1,
+        "costScoin": 80,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 104003,
+        "itemId": 100076,
+        "itemCount": 1,
+        "costScoin": 80,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 104004,
+        "itemId": 100078,
+        "itemCount": 1,
+        "costScoin": 100,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 104005,
+        "itemId": 100079,
+        "itemCount": 1,
+        "costScoin": 120,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 104006,
+        "itemId": 100018,
+        "itemCount": 1,
+        "costScoin": 120,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 104007,
+        "itemId": 100080,
+        "itemCount": 1,
+        "costScoin": 120,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 104008,
+        "itemId": 100017,
+        "itemCount": 1,
+        "costScoin": 100,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105001,
+        "itemId": 108005,
+        "itemCount": 1,
+        "costScoin": 250,
+        "buyLimit": 5,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105002,
+        "itemId": 108002,
+        "itemCount": 1,
+        "costScoin": 850,
+        "buyLimit": 5,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105003,
+        "itemId": 108012,
+        "itemCount": 1,
+        "costScoin": 450,
+        "buyLimit": 5,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105004,
+        "itemId": 110001,
+        "itemCount": 1,
+        "costScoin": 125,
+        "buyLimit": 10,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105005,
+        "itemId": 110002,
+        "itemCount": 1,
+        "costScoin": 125,
+        "buyLimit": 10,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105006,
+        "itemId": 110003,
+        "itemCount": 1,
+        "costScoin": 750,
+        "buyLimit": 10,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105007,
+        "itemId": 110004,
+        "itemCount": 1,
+        "costScoin": 225,
+        "buyLimit": 10,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105008,
+        "itemId": 110005,
+        "itemCount": 1,
+        "costScoin": 525,
+        "buyLimit": 10,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105009,
+        "itemId": 110006,
+        "itemCount": 1,
+        "costScoin": 400,
+        "buyLimit": 10,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105010,
+        "itemId": 100074,
+        "itemCount": 1,
+        "costScoin": 925,
+        "buyLimit": 10,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105011,
+        "itemId": 110008,
+        "itemCount": 1,
+        "costScoin": 1275,
+        "buyLimit": 10,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105012,
+        "itemId": 110009,
+        "itemCount": 1,
+        "costScoin": 350,
+        "buyLimit": 10,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105013,
+        "itemId": 110010,
+        "itemCount": 1,
+        "costScoin": 600,
+        "buyLimit": 10,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105014,
+        "itemId": 110011,
+        "itemCount": 1,
+        "costScoin": 700,
+        "buyLimit": 10,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 105015,
+        "itemId": 109401,
+        "itemCount": 1,
+        "costScoin": 2500,
+        "buyLimit": 1,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 105016,
+        "itemId": 109103,
+        "itemCount": 1,
+        "costScoin": 2500,
+        "buyLimit": 1,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 105017,
+        "itemId": 109203,
+        "itemCount": 1,
+        "costScoin": 2500,
+        "buyLimit": 1,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 105018,
+        "itemId": 109106,
+        "itemCount": 1,
+        "costScoin": 5000,
+        "buyLimit": 1,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 105019,
+        "itemId": 109107,
+        "itemCount": 1,
+        "costScoin": 5000,
+        "buyLimit": 1,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 105020,
+        "itemId": 109304,
+        "itemCount": 1,
+        "costScoin": 5000,
+        "buyLimit": 1,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 106001,
+        "itemId": 200001,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 200002,
+                "count": 1
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 106002,
+        "itemId": 200001,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 200003,
+                "count": 1
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 106003,
+        "itemId": 200002,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 200001,
+                "count": 1
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 106004,
+        "itemId": 200002,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 200003,
+                "count": 1
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 106005,
+        "itemId": 200003,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 200001,
+                "count": 1
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 106006,
+        "itemId": 200003,
+        "itemCount": 1,
+        "costItems": [
+            {
+                "id": 200002,
+                "count": 1
+            }
+        ],
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 107001,
+        "itemId": 108005,
+        "itemCount": 1,
+        "costScoin": 250,
+        "buyLimit": 5,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 107002,
+        "itemId": 108002,
+        "itemCount": 1,
+        "costScoin": 850,
+        "buyLimit": 5,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 107003,
+        "itemId": 108012,
+        "itemCount": 1,
+        "costScoin": 450,
+        "buyLimit": 5,
+        "refreshDays": 1,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 107004,
+        "itemId": 100088,
+        "itemCount": 1,
+        "costScoin": 100,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 107005,
+        "itemId": 100089,
+        "itemCount": 1,
+        "costScoin": 120,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00"
+    },
+    {
+        "goodsId": 107006,
+        "itemId": 109409,
+        "itemCount": 1,
+        "costScoin": 2500,
+        "buyLimit": 1,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 107007,
+        "itemId": 109411,
+        "itemCount": 1,
+        "costScoin": 2500,
+        "buyLimit": 1,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 107008,
+        "itemId": 109413,
+        "itemCount": 1,
+        "costScoin": 5000,
+        "buyLimit": 1,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    },
+    {
+        "goodsId": 107009,
+        "itemId": 109414,
+        "itemCount": 1,
+        "costScoin": 5000,
+        "buyLimit": 1,
+        "refreshDays": 9999,
+        "beginTime": "2014-01-01 00:00:00",
+        "endTime": "2035-01-01 00:00:00",
+        "isBuyOnce": 1
+    }
+]

@@ -2,12 +2,19 @@ from game_server.protocol.packet import Packet
 from game_server.protocol.cmd_id import CmdID
 from game_server.encryption import new_key
 from game_server import HandlerRouter,Connection
-from lib.proto import GetPlayerTokenReq,GetPlayerTokenRsp,PlayerLoginReq,PlayerLoginRsp,OpenStateUpdateNotify,StoreWeightLimitNotify,StoreType,PlayerStoreNotify,Vector,PlayerDataNotify,PropValue, AvatarDataNotify,Item,Equip,Weapon
+from lib.proto import BuyGoodsReq,BuyGoodsRsp,Material,GetPlayerTokenReq,GetPlayerTokenRsp,PlayerLoginReq,PlayerLoginRsp,OpenStateUpdateNotify,StoreWeightLimitNotify,StoreType,PlayerStoreNotify,Vector,PlayerDataNotify,PropValue, AvatarDataNotify,Item,Equip,Weapon
 from game_server.game.player import Player
 from game_server.game.gacha import Gacha
 from game_server.utils.time import current_milli_time
 from game_server.resource.enums import PropType
 import enet
+import json
+from os import path
+
+basepath = path.dirname(__file__)
+materialexcelname = "MaterialExcelConfigData.json"
+materialexcel1 = path.abspath(path.join(basepath, "..", "json\\excel\\", materialexcelname))
+materialexcel = open(materialexcel1)
 
 router = HandlerRouter()
 
@@ -38,12 +45,21 @@ def handle_login(conn: Connection, msg: PlayerLoginReq):
     
     store_weight_limit = StoreWeightLimitNotify()
     store_weight_limit.store_type = StoreType.STORE_PACK
-    store_weight_limit.weight_limit = 30000
+    store_weight_limit.weight_limit = 4294967294
 
     player_store_notify = PlayerStoreNotify()
-    player_store_notify.weight_limit = 30000
+    player_store_notify.weight_limit = 4294967294
     player_store_notify.store_type = StoreType.STORE_PACK
     player_store_notify.item_list = []
+    data = json.load(materialexcel)
+    for obj in data:
+        itemid = obj["Id"]
+        item_to_be_added = Item()
+        item_to_be_added.item_id = itemid
+        item_to_be_added.guid = 500000+int(itemid)
+        item_to_be_added.material = Material()
+        item_to_be_added.material.count = 999999
+        player_store_notify.item_list.append(item_to_be_added)
     
     
     
