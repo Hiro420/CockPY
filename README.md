@@ -22,6 +22,8 @@ To run CockPY:
 - create a database (not in the near future)
 
 # RECENT CHANGELOG:
+- now you have ALL materials
+- now you can view cbt shop and buy shit from there
 - enemies can drown
 - all passives and constellations work
 - now enemies are lv90
