@@ -28,7 +28,6 @@ scene_entities = [33554678]
 for obj in monster_excel_info:
     if obj["Id"] == 21010101:
         HpBase1 = obj["HpBase"]
-        print(HpBase1)
 
 router = HandlerRouter()
 @router(CmdID.MarkMapReq)

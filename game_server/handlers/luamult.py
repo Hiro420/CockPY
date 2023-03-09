@@ -6,7 +6,6 @@ import enet
 import os
 
 router = HandlerRouter()
-print(f'..\\..\\Windy\\script.lua')
 
 @router(CmdID.GetPlayerMpModeAvailabilityReq)
 def handle_Mp(conn: Connection, msg: GetPlayerMpModeAvailabilityReq):

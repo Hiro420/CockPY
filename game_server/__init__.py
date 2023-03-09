@@ -10,6 +10,12 @@ from typing import Callable
 import betterproto
 from loguru import logger
 import traceback
+from os import path
+
+basepath = path.dirname(__file__)
+logsdir = path.abspath(path.join(basepath, "..", ".\\logs"))
+logfile = open(f"{logsdir}\\latest.log", "w")
+logfile.truncate(0)
 
 class Connection: 
     game_server: GameServer
@@ -27,12 +33,14 @@ class Connection:
         packet = Packet()
         packet.parse(data)
 
+        logfile.write(f'Receive: {packet.body}\n')
         logger.opt(colors=True).debug(f'<yellow>{self.peer.address}</yellow> Receive: <cyan>{packet.body}</cyan>')
         if handler := self.game_server.router.get(packet.cmdid):
             handler(self, packet.body)
 
     def send(self, msg: betterproto.Message):
         packet = bytes(Packet(body=msg))
+        logfile.write(f'Send: {msg}\n')
         logger.opt(colors=True).debug(f'<yellow>{self.peer.address}</yellow> Send: <cyan>{msg}</cyan>')
         self.send_raw(bytes(packet))
 
