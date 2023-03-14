@@ -1,6 +1,9 @@
 # CockPY
 public and open source version of the cbt2 ps im working on
 
+# Requirements:
+- [Python 3](https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe)
+- [git](https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-64-bit.exe)
 
 ## Setup:
 (Manual)
