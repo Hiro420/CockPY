@@ -13,7 +13,7 @@ from os import path
 
 basepath = path.dirname(__file__)
 materialexcelname = "MaterialExcelConfigData.json"
-materialexcel1 = path.abspath(path.join(basepath, "..", "json\\excel\\", materialexcelname))
+materialexcel1 = path.abspath(path.join(basepath, "..", "json", "excel", materialexcelname))
 materialexcel = open(materialexcel1)
 
 router = HandlerRouter()
