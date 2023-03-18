@@ -14,7 +14,7 @@ router = HandlerRouter()
 
 basepath = path.dirname(__file__)
 AvatarSkillDepotExcelName = "AvatarSkillDepotExcelConfigData.json"
-AvatarSkillDepot = path.abspath(path.join(basepath, "..", "json\\excel\\", AvatarSkillDepotExcelName))
+AvatarSkillDepot = path.abspath(path.join(basepath, "..", "json", "excel", AvatarSkillDepotExcelName))
 
 with open(AvatarSkillDepot, encoding='utf8') as f:
     avatar_depot_info = json.load(f)

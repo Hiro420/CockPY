@@ -20,8 +20,8 @@ import json
 basepath = path.dirname(__file__)
 hpcalcsname = "Monster_HP_calcs_lv90.json"
 ShopGoodsDataName = "ShopGoodsExcelConfigData.json"
-hpcalcs = path.abspath(path.join(basepath, "..", "json\\calcs\\", hpcalcsname))
-ShopGoodsData = path.abspath(path.join(basepath, "..", "json\\excel\\", ShopGoodsDataName))
+hpcalcs = path.abspath(path.join(basepath, "..", "json", "calcs", hpcalcsname))
+ShopGoodsData = path.abspath(path.join(basepath, "..", "json", "excel", ShopGoodsDataName))
 
 
 router = HandlerRouter()

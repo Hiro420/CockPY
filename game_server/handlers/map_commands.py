@@ -13,8 +13,8 @@ import os
 basepath = path.dirname(__file__)
 hpcalcsname = "Monster_HP_calcs_lv90.json"
 MonsterExcelname = "MonsterExcelConfigData.json"
-hpcalcs = path.abspath(path.join(basepath, "..", "json\\calcs\\", hpcalcsname))
-MonsterExcel = path.abspath(path.join(basepath, "..", "json\\excel\\", MonsterExcelname))
+hpcalcs = path.abspath(path.join(basepath, "..", "json", "calcs", hpcalcsname))
+MonsterExcel = path.abspath(path.join(basepath, "..", "json", "excel", MonsterExcelname))
 
 with open(MonsterExcel, encoding='utf8') as f:
     monster_excel_info = json.load(f)
@@ -70,7 +70,7 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                     
             #pos = Vector(0, 500, 0)
             
-            lua_file_pre = os.path.abspath(f'.\\game_server\\lua\\scene{scene_id}.lua')
+            lua_file_pre = path.abspath(path.join('.', 'game_server', 'lua', f'scene{scene_id}.lua'))
             print(lua_file_pre)
             #lua_file_pre = f"C:\\Users\\nikur\\Documents\\CockPY\\game_server\\lua\\scene{scene_id}.lua"
             lua_file = open(lua_file_pre, encoding='utf8')
