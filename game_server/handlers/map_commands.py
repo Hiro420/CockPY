@@ -113,12 +113,18 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
 
             conn.send(conn.player.get_teleport_packet(scene_id, pos, EnterType.ENTER_DUNGEON))
 
+        #spawn
         elif msg.mark:
             if msg.mark.point_type == 3:
                 global cg_id
                 cg_id = 1
+
+                print(1)
+                print(str(msg.mark.name))
+
             if msg.mark.name:
                 try:
+                    command = []
                     command_to_str = str(msg.mark.name)
                     #cg_id = int(msg.mark.name)
                     scene_entity_appear_notify_monster_test = SceneEntityAppearNotify()
@@ -126,11 +132,16 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                     scene_entity_appear_notify_monster_test.entity_list = []
                     test_monster = SceneEntityInfo()
                     test_monster.entity_type = ProtEntityType(2)
-                    command_to_int = command_to_str.replace('spawn ', '')
+                    #make command be better
+                    command = str(command_to_str).split(' ')
+                    while " " in command:
+                        command.remove(" ")
+                        command.remove("")
+                    print(command)
                     test_monster.entity_id = int(33554678)+int(randrange(100000)) # too lazy to make an already_spawned global list. just made it rng. you have one in 100,000 chance for the monster to not be sent lmao
                     test_monster.name = ''
                     for obj in monster_excel_info:
-                        if obj["Id"] == int(command_to_int):
+                        if obj["Id"] == int(command[1]):
                             affix = obj["affix"]
                             HpBase = obj["HpBase"]
                             ai = obj["ai"]
@@ -144,8 +155,12 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                     
                     hp = int(HpBase)*1767 # We will for now make it based on lv90's curve
                     print(f"Monster's HP will be {hp}")
+                    if(len(command) == 2):
+                        lv = 90
+                    else:
+                        lv = int(command[2])
                     test_monster.prop_map = {
-                        int(test_monster.entity_id): PropValue(4001, ival=90),
+                        int(test_monster.entity_id): PropValue(4001, ival=lv),
                     }
                     print(test_monster.fight_prop_map)
                     test_monster.motion_info.pos = conn.player.get_cur_avatar().motion
@@ -156,11 +171,11 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                         test_monster.monster.weapon_list = SceneWeaponInfo()
                         test_monster.monster.weapon_list.entity_id = int(330000)+int(monster_weapon)
                         test_monster.monster.weapon_list.gadget_id = monster_weapon
-                    test_monster.monster.monster_id = int(command_to_int)
+                    test_monster.monster.monster_id = int(command[0])
                     test_monster.monster.affix_list = []
                     if affix != 0:
                         test_monster.monster.affix_list.append(affix)
-                    test_monster.monster.monster_id = int(command_to_int)
+                    test_monster.monster.monster_id = int(command[0])
                     test_monster.monster.affix_list = []
                     test_monster.monster.is_elite = 1
                     test_monster.monster.owner_entity_id = int(test_monster.entity_id)
