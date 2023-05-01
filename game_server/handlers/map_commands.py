@@ -119,13 +119,9 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                 global cg_id
                 cg_id = 1
 
-                print(1)
-                print(str(msg.mark.name))
-
             if msg.mark.name:
                 try:
                     command = []
-                    command_to_str = str(msg.mark.name)
                     #cg_id = int(msg.mark.name)
                     scene_entity_appear_notify_monster_test = SceneEntityAppearNotify()
                     scene_entity_appear_notify_monster_test.appear_type = VisionType.VISION_NONE
@@ -133,7 +129,7 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                     test_monster = SceneEntityInfo()
                     test_monster.entity_type = ProtEntityType(2)
                     #make command be better
-                    command = str(command_to_str).split(' ')
+                    command = str(msg.mark.name).split(' ')
                     while " " in command:
                         command.remove(" ")
                         command.remove("")
@@ -153,7 +149,9 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                                 if item != 0:
                                     monster_weapon = item
                     
+                    #TODO spawn monster with correct hp
                     hp = int(HpBase)*1767 # We will for now make it based on lv90's curve
+                    
                     print(f"Monster's HP will be {hp}")
                     if(len(command) == 2):
                         lv = 90
