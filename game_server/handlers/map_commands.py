@@ -149,10 +149,9 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                                 if item != 0:
                                     monster_weapon = item
                     
-                    #TODO spawn monster with correct hp
-                    hp = int(HpBase)*1767 # We will for now make it based on lv90's curve
+
                     
-                    print(f"Monster's HP will be {hp}")
+
                     if(len(command) == 2):
                         lv = 90
                     else:
@@ -160,7 +159,12 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                     test_monster.prop_map = {
                         int(test_monster.entity_id): PropValue(4001, ival=lv),
                     }
-                    print(test_monster.fight_prop_map)
+
+                    #TODO spawn monster with correct hp
+                    hp = int(HpBase)+lv*100 # We will for now make it based on lv90's curve
+
+                    print(f"Monster's HP will be {hp}")
+                    #print(test_monster.fight_prop_map)
                     test_monster.motion_info.pos = conn.player.get_cur_avatar().motion
                     test_monster.motion_info.rot = Vector(0, 0, 0)
                     test_monster.life_state = 1
@@ -169,11 +173,11 @@ def handle_map_tp(conn: Connection, msg: MarkMapReq):
                         test_monster.monster.weapon_list = SceneWeaponInfo()
                         test_monster.monster.weapon_list.entity_id = int(330000)+int(monster_weapon)
                         test_monster.monster.weapon_list.gadget_id = monster_weapon
-                    test_monster.monster.monster_id = int(command[0])
+                    test_monster.monster.monster_id = int(command[1])
                     test_monster.monster.affix_list = []
                     if affix != 0:
                         test_monster.monster.affix_list.append(affix)
-                    test_monster.monster.monster_id = int(command[0])
+                    test_monster.monster.monster_id = int(command[1])
                     test_monster.monster.affix_list = []
                     test_monster.monster.is_elite = 1
                     test_monster.monster.owner_entity_id = int(test_monster.entity_id)
