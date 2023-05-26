@@ -43,7 +43,7 @@ full scenes list:
 
 # MAP COMMANDS:
 
-quest icon - spawn monster, example: `spawn 21010101`
+quest icon - spawn monster, using`spawn <MonsterId> <lv>` example: `spawn 21010101 90`
 
 star icon - kill all spawned monsters, no need to type anything
 
