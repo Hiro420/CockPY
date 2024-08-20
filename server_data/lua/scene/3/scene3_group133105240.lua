@@ -17,7 +17,7 @@ npcs = {
 
 -- 装置
 gadgets = {
-	{ config_id = 240004, gadget_id = 70211112, pos = { x = 672.1, y = 279.1, z = -355.6 }, rot = { x = 0.0, y = 221.3, z = 0.0 }, level = 25, drop_tag = "解谜中级璃月", isOneoff = true, persistent = true }
+	{ config_id = 240004, gadget_id = 70211112, pos = { x = 672.1, y = 279.1, z = -355.6 }, rot = { x = 0.0, y = 221.3, z = 0.0 }, level = 25, drop_tag = "解谜中级璃月", state = GadgetState.ChestLocked, isOneoff = true, persistent = true }
 }
 
 -- 区域

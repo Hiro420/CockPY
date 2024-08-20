@@ -45,14 +45,13 @@ gadgets = {
 
 -- 区域
 regions = {
-	{ config_id = 89007, shape = RegionShape.SPHERE, radius = 2, pos = { x = 2300.9, y = 272.4, z = -238.6 } }
 }
 
 -- 触发器
 triggers = {
 	{ name = "PLATFORM_REACH_POINT_89005", event = EventType.EVENT_PLATFORM_REACH_POINT, source = "", condition = "condition_EVENT_PLATFORM_REACH_POINT_89005", action = "action_EVENT_PLATFORM_REACH_POINT_89005", trigger_count = 0 },
 	{ name = "AVATAR_NEAR_PLATFORM_89006", event = EventType.EVENT_AVATAR_NEAR_PLATFORM, source = "", condition = "condition_EVENT_AVATAR_NEAR_PLATFORM_89006", action = "action_EVENT_AVATAR_NEAR_PLATFORM_89006", trigger_count = 0 },
-	{ name = "ENTER_REGION_89007", event = EventType.EVENT_ENTER_REGION, source = "0", condition = "condition_EVENT_ENTER_REGION_89007", action = "action_EVENT_ENTER_REGION_89007", trigger_count = 0 },
+	{ name = "ANY_GADGET_DIE_89007", event = EventType.EVENT_ANY_GADGET_DIE, source = "", condition = "condition_EVENT_ANY_GADGET_DIE_89007", action = "action_EVENT_ANY_GADGET_DIE_89007", trigger_count = 0 },
 	{ name = "GADGET_STATE_CHANGE_89008", event = EventType.EVENT_GADGET_STATE_CHANGE, source = "", condition = "condition_EVENT_GADGET_STATE_CHANGE_89008", action = "action_EVENT_GADGET_STATE_CHANGE_89008" },
 	{ name = "GADGET_CREATE_89009", event = EventType.EVENT_GADGET_CREATE, source = "", condition = "condition_EVENT_GADGET_CREATE_89009", action = "action_EVENT_GADGET_CREATE_89009", trigger_count = 0 }
 }
@@ -86,8 +85,8 @@ suites = {
 		-- description = suite_1,
 		monsters = { },
 		gadgets = { 89001, 89002, 89003, 89010 },
-		regions = { 89007 },
-		triggers = { "PLATFORM_REACH_POINT_89005", "AVATAR_NEAR_PLATFORM_89006", "ENTER_REGION_89007", "GADGET_STATE_CHANGE_89008" },
+		regions = { },
+		triggers = { "PLATFORM_REACH_POINT_89005", "AVATAR_NEAR_PLATFORM_89006", "ANY_GADGET_DIE_89007", "GADGET_STATE_CHANGE_89008" },
 		rand_weight = 100
 	},
 	{
@@ -182,11 +181,8 @@ function action_EVENT_AVATAR_NEAR_PLATFORM_89006(context, evt)
 end
 
 -- 触发条件
-function condition_EVENT_ENTER_REGION_89007(context, evt)
-	if evt.param1 ~= 89007 then return false end
-	
-	-- 判断角色数量不少于1
-	if ScriptLib.GetRegionEntityCount(context, { region_eid = evt.source_eid, entity_type = EntityType.AVATAR }) < 1 then
+function condition_EVENT_ANY_GADGET_DIE_89007(context, evt)
+	if 89010 ~= evt.param1 then
 		return false
 	end
 	
@@ -194,7 +190,7 @@ function condition_EVENT_ENTER_REGION_89007(context, evt)
 end
 
 -- 触发操作
-function action_EVENT_ENTER_REGION_89007(context, evt)
+function action_EVENT_ANY_GADGET_DIE_89007(context, evt)
 	-- 设置移动平台路径
 	if 0 ~= ScriptLib.SetPlatformRouteId(context, 89002, 300400623) then
 	  return -1

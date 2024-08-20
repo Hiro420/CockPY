@@ -2,6 +2,7 @@ from game_server.protocol.cmd_id import CmdID
 from game_server import HandlerRouter,Connection
 from lib.proto import *
 from lib.retcode import Retcode
+import asyncio
 from game_server.resource import resources
 import time
 from game_server.utils.time import current_milli_time
@@ -14,6 +15,8 @@ from lib.proto import Vector
 from . import map_commands
 from random import randrange
 from os import path
+from ..utils.lua import load_scene_luas
+from ..utils.loaders.sceneloader import load_scene_stuff
 import time
 import json
 
@@ -22,7 +25,7 @@ hpcalcsname = "Monster_HP_calcs_lv90.json"
 ShopGoodsDataName = "ShopGoodsExcelConfigData.json"
 hpcalcs = path.abspath(path.join(basepath, "..", "json", "calcs", hpcalcsname))
 ShopGoodsData = path.abspath(path.join(basepath, "..", "json", "excel", ShopGoodsDataName))
-
+lua_map = load_scene_luas()
 
 router = HandlerRouter()
 
@@ -158,7 +161,13 @@ def handle_scene_done(conn: Connection, msg: EnterSceneDoneReq):
 
 @router(CmdID.PostEnterSceneReq)
 def handle_enter_world(conn: Connection, msg: PostEnterSceneReq):
+    asyncio.run(load_scene_stuff(lua_map, conn.player.scene_id, conn.player.pos, conn))
     conn.send(PostEnterSceneRsp(retcode=0))
+
+@router(CmdID.SceneInitFinishReq)
+def handle_scene_init_finish_req(conn: Connection, msg: SceneInitFinishReq):
+    conn.send(SceneInitFinishRsp(retcode=0))
+
 
 @router(CmdID.GetAllMailReq)
 def handle_get_all_mail(conn: Connection, msg: GetAllMailReq):
@@ -246,7 +255,6 @@ def area_explore_percent_handle(conn: Connection, msg: SceneGetAreaExplorePercen
 @router(CmdID.GetShopReq)
 def handle_GetShopReq(conn: Connection, msg: GetShopReq):
     shop_type = msg.shop_type
-    print(f'\n\n\n\n\n\n {shop_type}')
     get_shop_rsp = GetShopRsp()
     get_shop_rsp.retcode = 0
     get_shop_rsp.shop = Shop()
@@ -258,8 +266,6 @@ def handle_GetShopReq(conn: Connection, msg: GetShopReq):
             goodsId = obj["goodsId"]
             itemId = obj["itemId"]
             itemCount = obj["itemCount"]
-     
-    
             shopgoods = ShopGoods()
             shopgoods.goods_id = goodsId
             #print(shopgoods.goods_id)
@@ -270,47 +276,32 @@ def handle_GetShopReq(conn: Connection, msg: GetShopReq):
             shopgoods.goods_item.append(shopitem)
             #print(shopgoods.goods_item)
             shopgoods.cost_item_list = []
-    
             if "costItems" in obj:
                 for costItem in obj["costItems"]:
                     costItem_id = costItem["id"]
                     costItem_count = costItem["count"]
-    
                 cost_item = ItemParam()
                 cost_item.item_id = costItem_id
                 cost_item.count = costItem_count
                 shopgoods.cost_item_list.append(cost_item)
-            
             if "costHcoin" in obj:
                 costHcoin = obj["costHcoin"]
-    
                 shopgoods.hcoin = costHcoin
-    
             if "costScoin" in obj:
                 costScoin = obj["costScoin"]
-    
                 shopgoods.scoin = costScoin
-    
             if "buyLimit" in obj:
                 buyLimit = obj["buyLimit"]
-    
                 shopgoods.buy_limit = buyLimit
-    
             if "refreshDays" in obj:
                 refreshDays = obj["refreshDays"]
-    
                 shopgoods.next_refresh_time = refreshDays
-    
             if "beginTime" in obj:
                 beginTime = 1
-      
                 shopgoods.begin_time = beginTime
-      
             if "endTime" in obj:
                 endTime = 9999999
-     
                 shopgoods.end_time = endTime
-
             get_shop_rsp.shop.goods_list.append(shopgoods)
     #print(shopgoods)
     conn.send(get_shop_rsp)
@@ -386,25 +377,15 @@ def handle_DungeonEntryInfo(conn: Connection, msg: DungeonEntryInfoReq):
 @router(CmdID.EvtBeingHitsCombineNotify)
 def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitsCombineNotify):
     print(map_commands.hp_map)
-    print(map_commands.hp_map)
-    print(map_commands.hp_map)
-    print(map_commands.hp_map)
-    print(map_commands.hp_map)
-    print(map_commands.hp_map)
-    print(map_commands.hp_map)
-    print(map_commands.hp_map)
-    print(map_commands.hp_map)
-    print(map_commands.hp_map)
     for invoke in msg.evt_being_hit_info_list:
         if (int(map_commands.hp_map[int(invoke.attack_result.defense_id)]) <= int(invoke.attack_result.damage)):
             # kill
             lscn = LifeStateChangeNotify()
             lscn.entity_id = invoke.attack_result.defense_id
-            lscn.life_state = LifeState(2)
+            lscn.life_state = LifeState.LIFE_DEAD
             lscn.source_entity_id = invoke.attack_result.attacker_id
-            lscn.die_type: PlayerDieType(1)
             sedn = SceneEntityDisappearNotify()
-            sedn.disappear_type = VisionType(5)      # make them just dissapear instead of dying because VisionType(6) doesnt really work and I have 0 idea why and how to fix
+            sedn.disappear_type = VisionType.VISION_MISS      # make them just dissapear instead of dying because VisionType(6) doesnt really work and I have 0 idea why and how to fix
             sedn.entity_list = [invoke.attack_result.defense_id]
             map_commands.scene_entities.remove(invoke.attack_result.defense_id)
             map_commands.hp_map.pop(invoke.attack_result.defense_id)
@@ -425,20 +406,16 @@ def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitsCombineN
                 2000: float(maxhp)
             }
             conn.send(efpun)
-            conn.send(efpun)
-            conn.send(efpun)
-            conn.send(efpun)
-            conn.send(efpun)
-            conn.send(efpun)
             print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
-            print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
-            print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
-            print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
-            print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
-            print(f"entity_id = {efpun.entity_id}\nfight_prop_map = {efpun.fight_prop_map}")
-    newpacket = msg
-    conn.send(newpacket)
+        newpacket = msg
+        conn.send(newpacket)
     # Done!
+        
+@router(CmdID.SceneEntitiesMovesReq)
+def handle_SceneEntitiesMoves(conn: Connection, msg: SceneEntitiesMovesReq):
+    scene_entities_moves_rsp = SceneEntitiesMovesRsp()
+    scene_entities_moves_rsp.retcode = 0
+    conn.send(scene_entities_moves_rsp)
 
 @router(CmdID.PersonalSceneJumpReq)
 def handle_PersonalSceneJump(conn: Connection, msg: PersonalSceneJumpReq):
@@ -477,6 +454,6 @@ def handle_SceneEntityDrownReq(conn: Connection, msg: SceneEntityDrownReq):
     scene_entity_drown.entity_id = msg.entity_id
     conn.send(scene_entity_drown)
     sedn = SceneEntityDisappearNotify()
-    sedn.disappear_type = VisionType(5)      # make them just dissapear instead of dying because VisionType(6) doesnt really work and I have 0 idea why and how to fix
+    sedn.disappear_type = VisionType(6)      # make them just dissapear instead of dying because VisionType(6) doesnt really work and I have 0 idea why and how to fix
     sedn.entity_list = msg.entity_id
     conn.send(sedn)

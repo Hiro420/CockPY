@@ -41,7 +41,7 @@ class Connection:
     def send(self, msg: betterproto.Message):
         packet = bytes(Packet(body=msg))
         logfile.write(f'Send: {msg}\n')
-        logger.opt(colors=True).debug(f'<yellow>{self.peer.address}</yellow> Send: <cyan>{msg}</cyan>')
+        # logger.opt(colors=True).debug(f'<yellow>{self.peer.address}</yellow> Send: <cyan>{msg}</cyan>')
         self.send_raw(bytes(packet))
 
     def send_raw(self, data: bytes):

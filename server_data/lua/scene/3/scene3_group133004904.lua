@@ -19,8 +19,8 @@ gadgets = {
 -- 区域
 regions = {
 	{ config_id = 282, shape = RegionShape.SPHERE, radius = 6.7, pos = { x = 2248.4, y = 216.0, z = -890.2 } },
-	{ config_id = 283, shape = RegionShape.SPHERE, radius = 10.2, pos = { x = 2246.5, y = 236.0, z = -787.3 } },
-	{ config_id = 284, shape = RegionShape.SPHERE, radius = 10.9, pos = { x = 2246.4, y = 236.0, z = -788.0 } }
+	{ config_id = 283, shape = RegionShape.SPHERE, radius = 6.6, pos = { x = 2246.5, y = 236.0, z = -787.3 } },
+	{ config_id = 284, shape = RegionShape.SPHERE, radius = 6.1, pos = { x = 2246.4, y = 236.0, z = -788.0 } }
 }
 
 -- 触发器

@@ -146,7 +146,7 @@ function action_EVENT_VARIABLE_CHANGE_442004(context, evt)
 	end
 	
 	-- 通知任务系统完成条件类型"LUA通知"，复杂参数为quest_param的进度+1
-	if 0 ~= ScriptLib.AddQuestProgress(context, "13310444201") then
+	if 0 ~= ScriptLib.AddQuestProgress(context, "1331044201") then
 	  return -1
 	end
 	

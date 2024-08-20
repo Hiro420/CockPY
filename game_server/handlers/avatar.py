@@ -19,7 +19,6 @@ AvatarSkillDepot = path.abspath(path.join(basepath, "..", "json", "excel", Avata
 with open(AvatarSkillDepot, encoding='utf8') as f:
     avatar_depot_info = json.load(f)
 
-
 def __init__(self, world: World):
     self.entid = world.get_next_entity_id(ProtEntityType.PROT_ENTITY_WEAPON)
 
@@ -126,24 +125,6 @@ def handle_wear_equip(conn: Connection, msg: WearEquipReq):
     avatar_equip_change.weapon.affix_map.update({})
     avatar_equip_change.reliquary = SceneReliquaryInfo()
     conn.send(avatar_equip_change)
-
-    print("retcode: "+str(avatar_equip_change.retcode))
-    print("avatar_guid: "+str(avatar_equip_change.avatar_guid))
-    print("equip_type: "+str(avatar_equip_change.equip_type))
-    print("item_id: "+str(avatar_equip_change.item_id))
-    print("equip_guid: "+str(avatar_equip_change.equip_guid))
-    print("weapon entity id: "+str(avatar_equip_change.weapon.entity_id))
-    print("level: "+str(avatar_equip_change.weapon.level))
-    print("exp: "+str(avatar_equip_change.weapon.exp))
-    print("promote_level: "+str(avatar_equip_change.weapon.promote_level))
-    if type(equipid) == int:
-        print("The value of equipid is an unsigned 64-bit integer: {:064d}".format(equipid))
-    else:
-        print("The value of equipid is not an unsigned 64-bit integer.")
-    if type(avatar_equip_change.avatar_guid) == int:
-        print("The value of avatar_guid is an unsigned 64-bit integer: {:064d}".format(avatar_equip_change.avatar_guid))
-    else:
-        print("The value of avatar_guid is not an unsigned 64-bit integer.")
 
 @router(CmdID.PathfindingEnterSceneReq)
 def handle_path_finding_enter_scene(conn: Connection, msg: PathfindingEnterSceneReq):

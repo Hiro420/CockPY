@@ -59,13 +59,13 @@ def query_region_list():
     rsp.retcode = 0
 
     rsp.client_config.sdkenv = "2"
-    rsp.client_config.showexception = True
+    rsp.client_config.showexception = False
 
     custom_config = {
         "sdkenv": "2",
-        "checkdevice": "False",
-        "loadPatch": "False",
-        "showexception": "true",
+        "checkdevice": False,
+        "loadPatch": False,
+        "showexception": False,
         "regionConfig": "pm|fk|add",
         "downloadMode": "0",
         "debugmenu": "true",
@@ -94,9 +94,9 @@ def query_cur_region():
 
     custom_config = {
         "sdkenv": "2",
-        "checkdevice": "False",
-        "loadPatch": "False",
-        "showexception": "True",
+        "checkdevice": False,
+        "loadPatch": False,
+        "showexception": False,
         "regionConfig": "pm|fk|add",
         "downloadMode": "0",
         "debugmenu": "true",
@@ -104,7 +104,7 @@ def query_cur_region():
     }
 
     rsp.client_config.sdkenv = "2"
-    rsp.client_config.showexception = True
+    rsp.client_config.showexception = False
 
     rsp.region_custom_config_encrypted = json.dumps(custom_config).encode()
     rsp.client_region_custom_config_encrypted = json.dumps(custom_config).encode()
@@ -123,7 +123,6 @@ def route_mdk_shield_api_login():
 @app.route("/mdk/shield/api/verify", method="POST")
 def route_mdk_vertify():
     return ACCOUNT_INFO
-
 
 @app.route("/mdk/shield/api/loadConfig", method="POST")
 def route_mdk_shield_api_loadConfig():
@@ -155,7 +154,7 @@ def route_mdk_shield_api_loadConfig():
 
 
 @app.route(
-    "/admin/mi18n/bh3_usa/20190628_5d15ba66cd922/20190628_5d15ba66cd922-version.json"
+    "/admin/mi18n/bh3_usa/20190628_5d15ba66cd922/20190628_5d15ba66cd922-version.json",
 )
 def route_20190628_5d15ba66cd922():
     return {"version": 52}

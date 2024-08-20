@@ -9,15 +9,15 @@ class ScenePoint:
     # type: str
     # $type: str
     # gadgetId: int
-    # pos: dir
-    # rot: dir
+    # pos: dir or None
+    # rot: dir or None
     # areaId: int
     # unlocked: bool
     # cutsceneList: list[int]
     # groupLimit: bool
     # npcId: int
     # maxSpringVolume: float
-    # entryPointId: int
+    # entryPointId: int or 0
     # size: list[int]
     dungeonIds: list[int]
     # titleTextID: str
@@ -67,7 +67,7 @@ class BinOutput:
                                 scene_point[int(point_id)] = point
                             
                             cls_inst.config_scene[scene_id] = ConfigScene(scene_id, scene_point)
-                except:
-                    print('Error_read: '+bin_json)
+                except Exception as e:
+                    print(f'Error_read: {bin_json} - {e}')
                     
         return cls_inst

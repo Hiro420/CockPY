@@ -6,12 +6,13 @@ import enet
 import os
 
 router = HandlerRouter()
+base_script_path = os.path.join(os.path.realpath('.'), "Windy")
 
 @router(CmdID.GetPlayerMpModeAvailabilityReq)
 def handle_Mp(conn: Connection, msg: GetPlayerMpModeAvailabilityReq):
     rsp = PlayerLuaShellNotify()
     rsp.id=1
-    file = open(f'..\\..\\Windy\\script.lua',"rb")
+    file = open(os.path.join(base_script_path, "script.lua"),"rb")
     rsp.lua_shell = file.read()
     file.close()
     conn.send(rsp)

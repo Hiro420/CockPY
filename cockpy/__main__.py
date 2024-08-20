@@ -1,6 +1,7 @@
 import threading
 from sdk_server.app import run_http_server
 from game_server import GameServer;
+from game_server.utils.lua import load_scene_luas
 from game_server.handlers import auth, ping, scene, avatar, entity, map_commands, clock, gacha, luamult, dungeon
 from colorama import init, Fore, Back, Style
 

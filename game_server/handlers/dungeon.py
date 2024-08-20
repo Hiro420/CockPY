@@ -15,7 +15,8 @@ from . import map_commands
 from random import randrange
 from os import path
 import time
-import json
+from .scene import lua_map
+from ..utils.loaders.sceneloader import load_scene_stuff
 
 router = HandlerRouter()
 
@@ -34,9 +35,6 @@ def handle_PlayerEnterDungeonReq(conn: Connection, msg: PlayerEnterDungeonReq):
         
         scene_id = dungeon_data.scene_id
 
-        lua_file_pre = os.path.abspath(f'.\\game_server\\lua\\scene{scene_id}.lua')
-        #lua_file_pre = f"C:\\Users\\nikur\\Documents\\CockPY\\game_server\\lua\\scene{scene_id}.lua"
-        lua_file = open(lua_file_pre, encoding='utf8')
         global player_x
         global player_y
         global player_z
@@ -46,29 +44,20 @@ def handle_PlayerEnterDungeonReq(conn: Connection, msg: PlayerEnterDungeonReq):
 
         print(f"Current position on map: X = {player_x}, Y = {player_y}, Z = {player_z}")
 
-        #print("Contents of lua_file:")
-
-        lines = lua_file.readlines()
-        for line in lines:
-            if "born_pos" in line:
-                fline = (line[1 : -2])
-                #print(line[1:-2])
-
-        match = re.search(r'born_pos = { x = ([\d\.-]+), y = ([\d\.-]+), z = ([\d\.-]+) }', fline)
-
-        if match:
-            born_pos_x, born_pos_y, born_pos_z = match.groups()
-            born_pos_x = float(match.group(1))
-            born_pos_y = float(match.group(2))
-            born_pos_z = float(match.group(3))
+        try:
+            scene = lua_map[f'\\{scene_id}\\scene{scene_id}.lua']
+            born_data = scene['scene_config']['born_pos']
+            born_pos_x = born_data['x'] if 'x' in born_data else 0
+            born_pos_y = born_data['y'] if 'y' in born_data else 0
+            born_pos_z = born_data['z'] if 'z' in born_data else 0
             print(f"Attemptint to enter scene {scene_id} in positions: X = {born_pos_x}, Y = {born_pos_y}, Z = {born_pos_z}")
-            #born_pos = f"{(match.group(1), match.group(2), match.group(3))}"
-            pos = Vector(born_pos_x, born_pos_y, born_pos_z)
-            #print(f"{pos}")
-        else:
-            print("Values not found in line")
-            pos = Vector(-0.4, -5.2, 64.7)
-            rot = Vector(0, 0, 0)
+        except:
+            born_pos_x = 0
+            born_pos_y = 0
+            born_pos_z = 0
+        #born_pos = f"{(match.group(1), match.group(2), match.group(3))}"
+        pos = Vector(born_pos_x, born_pos_y, born_pos_z)
+        #print(f"{pos}")
 
         print(scene_id)
         
@@ -76,7 +65,8 @@ def handle_PlayerEnterDungeonReq(conn: Connection, msg: PlayerEnterDungeonReq):
 
         conn.send(conn.player.get_teleport_packet(scene_id, pos, EnterType.ENTER_DUNGEON))
         
-        # conn.player.scene_id = scene_id
+        conn.player.scene_id = scene_id
+        # load_scene_stuff(lua_map, scene_id, pos, conn)
 
         player_enter_dungeon = PlayerEnterDungeonRsp()
         player_enter_dungeon.retcode = 0
@@ -98,6 +88,8 @@ def handle_PlayerQuitDungeonReq(conn: Connection, msg: PlayerQuitDungeonReq):
     global player_z
     pos = Vector(player_x, player_y, player_z)
     conn.player.pos = pos
+    conn.player.scene_id = scene_id
+    # load_scene_stuff(lua_map, scene_id, pos, conn)
     conn.send(conn.player.get_teleport_packet(scene_id, pos, EnterType.ENTER_JUMP))
     #time.sleep(5)
     #player_x = conn.player.pos.x

@@ -1,9 +1,6 @@
 -- Trigger变量
 local defs = {
-	gadget_id = 385004,
-	gadget_1 = 385001,
-	gadget_2 = 385002,
-	group_id = 133103385
+	gadget_id = 385004
 }
 
 
@@ -34,7 +31,6 @@ regions = {
 
 -- 触发器
 triggers = {
-	{ name = "GROUP_LOAD_385003", event = EventType.EVENT_GROUP_LOAD, source = "", condition = "", action = "action_EVENT_GROUP_LOAD_385003", trigger_count = 0 },
 	{ name = "GADGET_STATE_CHANGE_385005", event = EventType.EVENT_GADGET_STATE_CHANGE, source = "", condition = "condition_EVENT_GADGET_STATE_CHANGE_385005", action = "action_EVENT_GADGET_STATE_CHANGE_385005", trigger_count = 0 },
 	{ name = "GADGET_STATE_CHANGE_385006", event = EventType.EVENT_GADGET_STATE_CHANGE, source = "", condition = "", action = "action_EVENT_GADGET_STATE_CHANGE_385006" },
 	{ name = "GADGET_CREATE_385007", event = EventType.EVENT_GADGET_CREATE, source = "", condition = "condition_EVENT_GADGET_CREATE_385007", action = "action_EVENT_GADGET_CREATE_385007" }
@@ -71,7 +67,7 @@ suites = {
 		monsters = { },
 		gadgets = { 385001, 385002 },
 		regions = { },
-		triggers = { "GROUP_LOAD_385003", "GADGET_STATE_CHANGE_385005", "GADGET_STATE_CHANGE_385006", "GADGET_CREATE_385007" },
+		triggers = { "GADGET_STATE_CHANGE_385005", "GADGET_STATE_CHANGE_385006", "GADGET_CREATE_385007" },
 		rand_weight = 100
 	}
 }
@@ -81,22 +77,6 @@ suites = {
 -- 触发器
 -- 
 --================================================================
-
--- 触发条件
-
--- 触发操作
-function action_EVENT_GROUP_LOAD_385003(context, evt)
-	local sum = 0
-	if ScriptLib.GetGadgetStateByConfigId(context, defs.group_id, defs.gadget_1) == GadgetState.GearStart then
-	sum = sum + 1
-	end
-	if ScriptLib.GetGadgetStateByConfigId(context, defs.group_id, defs.gadget_2) == GadgetState.GearStart then
-	sum = sum + 1
-	end
-	
-	ScriptLib.SetGroupVariableValue(context, "start", sum)
-	return 0
-end
 
 -- 触发条件
 function condition_EVENT_GADGET_STATE_CHANGE_385005(context, evt)
@@ -111,7 +91,7 @@ end
 function action_EVENT_GADGET_STATE_CHANGE_385005(context, evt)
 	if evt.param1 == GadgetState.GearStart then
 		ScriptLib.ChangeGroupVariableValue(context,"start",1)
-	elseif evt.param1 == GadgetState.Default and evt.param3 == GadgetState.GearStart then
+	elseif evt.param1 == GadgetState.Default then
 		ScriptLib.ChangeGroupVariableValue(context,"start",-1)
 	end
 	

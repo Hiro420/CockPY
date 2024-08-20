@@ -6,6 +6,14 @@ class LifeState(Enum):
     LIFE_DEAD = 2
     LIFE_REVIVE = 3
 
+class PlayerDieType(Enum):
+	PLAYER_DIE_NONE = 0
+	PLAYER_DIE_KILL_BY_MONSTER = 1
+	PLAYER_DIE_KILL_BY_GEAR = 2
+	PLAYER_DIE_FALL = 3
+	PLAYER_DIE_DRAWN = 4
+	PLAYER_DIE_ABYSS = 5
+
 class EquipType(Enum):
     EQUIP_NONE = 0
     EQUIP_BRACER = 1

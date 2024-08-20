@@ -14,9 +14,9 @@ npcs = {
 
 -- 装置
 gadgets = {
-	{ config_id = 497003, gadget_id = 70220019, pos = { x = 2958.9, y = 186.5, z = -1429.4 }, rot = { x = 0.0, y = 3.9, z = 0.0 }, level = 30 },
-	{ config_id = 497004, gadget_id = 70220019, pos = { x = 2958.9, y = 193.0, z = -1429.3 }, rot = { x = 0.0, y = 3.9, z = 0.0 }, level = 30 },
-	{ config_id = 497007, gadget_id = 70211131, pos = { x = 2959.4, y = 199.4, z = -1429.3 }, rot = { x = 0.0, y = 274.0, z = 0.0 }, level = 30, drop_tag = "解谜超级蒙德", isOneoff = true, persistent = true, type = GadgetType.GADGET_WORLD_CHECT }
+	{ config_id = 497003, gadget_id = 70220019, pos = { x = 2959.7, y = 181.6, z = -1426.0 }, rot = { x = 0.0, y = 3.9, z = 0.0 }, level = 30 },
+	{ config_id = 497004, gadget_id = 70220019, pos = { x = 2959.7, y = 188.1, z = -1425.9 }, rot = { x = 0.0, y = 3.9, z = 0.0 }, level = 30 },
+	{ config_id = 497007, gadget_id = 70211131, pos = { x = 2960.1, y = 194.6, z = -1425.9 }, rot = { x = 0.0, y = 274.0, z = 0.0 }, level = 30, drop_tag = "解谜超级蒙德", isOneoff = true, persistent = true, type = GadgetType.GADGET_WORLD_CHECT }
 }
 
 -- 区域

@@ -15,6 +15,7 @@ hpcalcsname = "Monster_HP_calcs_lv90.json"
 MonsterExcelname = "MonsterExcelConfigData.json"
 hpcalcs = path.abspath(path.join(basepath, "..", "json", "calcs", hpcalcsname))
 MonsterExcel = path.abspath(path.join(basepath, "..", "json", "excel", MonsterExcelname))
+monsterExcelMap = {}
 
 with open(MonsterExcel, encoding='utf8') as f:
     monster_excel_info = json.load(f)
@@ -26,6 +27,7 @@ hp_map = {
 scene_entities = [33554678]
 
 for obj in monster_excel_info:
+    monsterExcelMap[obj["Id"]] = obj
     if obj["Id"] == 21010101:
         HpBase1 = obj["HpBase"]
 
@@ -34,7 +36,15 @@ router = HandlerRouter()
 
 def handle_map_tp(conn: Connection, msg: MarkMapReq):
     if msg.mark:
-        if msg.mark.point_type == 5:
+        if msg.mark.point_type == 1:
+            rsp = PlayerLuaShellNotify()
+            rsp.id=1
+            print(os.getcwd())
+            file = open(f'{os.path.join(os.getcwd(), "Windy", f"{msg.mark.name}.lua")}',"rb")
+            rsp.lua_shell = file.read()
+            file.close()
+            conn.send(rsp)
+        elif msg.mark.point_type == 5:
             pos_y = 500
             if msg.mark.name:
                 try:

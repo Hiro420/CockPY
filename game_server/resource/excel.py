@@ -11,10 +11,17 @@ class AvatarData:
     use_type: AvatarUseType
 
 @dataclasses.dataclass()
+class ProudSkillData:
+    proud_skill_id: int
+    proud_skill_group_id: int
+
+@dataclasses.dataclass()
 class AvatarSkillDepotData:
     id: int
     leader_talent: int
     talent_groups: list[int]
+    skills: list[int]
+    energy_skill: int
 
 @dataclasses.dataclass()
 class AvatarSkillData:
@@ -22,6 +29,7 @@ class AvatarSkillData:
     energy_type: ElementType
     energy_cost: int
     max_charges: int = 1
+    proud_skill_id: int = 0
 
 @dataclasses.dataclass()
 class ItemData:
@@ -131,6 +139,7 @@ class ExcelOutput:
     avatar_datas: dict[int, AvatarData] = dataclasses.field(default_factory=dict)
     avatar_skill_depot_datas: dict[int, AvatarSkillDepotData] = dataclasses.field(default_factory=dict)
     avatar_skill_datas: dict[int, AvatarSkillData] = dataclasses.field(default_factory=dict)
+    proud_skill_datas: dict[int, list[int]] = dataclasses.field(default_factory=dict)
     item_datas: dict[int, ItemData] = dataclasses.field(default_factory=dict)
     #shop_plan_datas: dict[int, ShopPlanData] = dataclasses.field(default_factory=dict)
     #shop_goods_datas: dict[int, ShopGoodsData] = dataclasses.field(default_factory=dict)
@@ -163,20 +172,41 @@ class ExcelOutput:
 
                 cls_inst.avatar_datas[avatar.id] = avatar
 
+        with open(os.path.join(path, "txt", "ProudSkillData.txt"), encoding="utf-8") as f:
+            reader = csv.DictReader(f, delimiter="\t")
+            for row in reader:
+                skill = ProudSkillData(
+                    int(row["技能ID"]),
+                    int(row["技能组ID"]),
+                )
+
+                if skill.proud_skill_id not in cls_inst.proud_skill_datas:
+                    cls_inst.proud_skill_datas[skill.proud_skill_group_id] = []
+
+                cls_inst.proud_skill_datas[skill.proud_skill_group_id].append(skill.proud_skill_id)
+
         with open(os.path.join(path, "txt", "AvatarSkillDepotData.txt"), encoding="utf-8") as f:
             reader = csv.DictReader(f, delimiter="\t")
             for row in reader:
                 leader_talent = row["队长天赋"]
                 talent_groups = []
+                skills = []
+                energy_skill = row["充能技能"] if row["充能技能"] else 0
 
                 for i in range(1, 6+1):
                     if talent := row[f"天赋{i}"]:
                         talent_groups.append(talent)
 
+                for i in range(1, 4+1):
+                    if skill := row[f"技能{i}"]:
+                        skills.append(skill)
+
                 depot = AvatarSkillDepotData(
                     int(row["ID"]),
                     int(leader_talent) if leader_talent else 0, 
-                    talent_groups
+                    talent_groups,
+                    skills,
+                    energy_skill
                 )
 
                 cls_inst.avatar_skill_depot_datas[depot.id] = depot
@@ -187,11 +217,13 @@ class ExcelOutput:
                 max_charges = row["可累积次数"]
                 element_type = row["消耗能量类型"]
                 energy_cost = row["消耗能量值"]
+                proud_skill_id = row["升级技能组ID"]
                 avatar_skill = AvatarSkillData(
                     int(row["ID"]),
                     ElementType(int(element_type)) if element_type else None,
                     int(energy_cost) if energy_cost else None,
                     int(max_charges) if max_charges else 1,
+                    proud_skill_id,
                 )
                 
                 cls_inst.avatar_skill_datas[avatar_skill.id] = avatar_skill
