@@ -131,8 +131,30 @@ class GachaRuleData:
     gacha_guarantee_reset_type: GachaGuaranteeResetType #保底重置类型
     gacha_guarantee_reset_param: str                    #保底重置参数
 
+@dataclasses.dataclass()
+class InvestigationMonsterData:
+    id: int                           #ID
+    city_id: int                      #所属城市ID
+    monster_id: int                   #怪物ID
+    group_id_list: list[int]          #所属GroupID列表
+    unlock_parent_task: str           #指示存活Group变量
 
+@dataclasses.dataclass()
+class InvestigationDungeonData:
+    entrance_id: int                  #入口ID
+    city_id: int                      #所属城市ID
+    dungeon_id_list: list[int]        #入口下地城ID
 
+@dataclasses.dataclass()
+class InvestigationData:
+    id: int                  #调查ID
+    city_id: int             #所属城市ID
+
+@dataclasses.dataclass()
+class InvestigationTargetData:
+    quest_id: int                  #目标子任务ID
+    investigation_id: int          #所属调查ID
+    reward_id: int                 #奖励ID
 
 @dataclasses.dataclass()
 class ExcelOutput:
@@ -152,6 +174,10 @@ class ExcelOutput:
     gacha_prob_datas:dict[(int,GachaItemType), GachaProbData] = dataclasses.field(default_factory=dict)
     gacha_pool_datas:dict[(int,int), GachaPoolData] = dataclasses.field(default_factory=dict) #(gachaId, itemId)
     gacha_rule_datas:dict[int, GachaRuleData] = dataclasses.field(default_factory=dict)
+    investigation_monster_datas:dict[int, InvestigationMonsterData] = dataclasses.field(default_factory=dict)
+    investigation_dungeon_datas:dict[int, InvestigationDungeonData] = dataclasses.field(default_factory=dict)
+    investigation_datas:dict[int, InvestigationData] = dataclasses.field(default_factory=dict)
+    investigation_target_datas:dict[int, InvestigationTargetData] = dataclasses.field(default_factory=dict)
 
     dungeon_data: dict[int, DungeonData] = dataclasses.field(default_factory=dict)
 
@@ -257,6 +283,51 @@ class ExcelOutput:
                     int(row["场景ID"])
                 )
                 cls_inst.dungeon_data[dungeon.id] = dungeon
+
+        with open(os.path.join(path, "txt", "InvestigationMonsterData.txt"), encoding="utf-8") as f:
+            reader = csv.DictReader(f, delimiter="\t")
+            for row in reader:
+                monster = InvestigationMonsterData(
+                    id=int(row["ID"]),
+                    city_id=int(row["所属城市ID"]),
+                    monster_id=int(row["怪物ID"]),
+                    group_id_list=[int(i) for i in row["所属GroupID列表"].split(',')],
+                    unlock_parent_task=row["指示存活Group变量"],
+                )
+                if monster.city_id not in cls_inst.investigation_monster_datas:
+                    cls_inst.investigation_monster_datas[monster.city_id] = []
+                cls_inst.investigation_monster_datas[monster.city_id].append(monster)
+
+        with open(os.path.join(path, "txt", "InvestigationDungeonData.txt"), encoding="utf-8") as f:
+            reader = csv.DictReader(f, delimiter="\t")
+            for row in reader:
+                dungeon = InvestigationDungeonData(
+                    entrance_id=int(row["入口ID"]),
+                    city_id=int(row["所属城市ID"]),
+                    dungeon_id_list=[int(i) for i in row["入口下地城ID"].split(',')]
+                )
+                if dungeon.city_id not in cls_inst.investigation_dungeon_datas:
+                    cls_inst.investigation_dungeon_datas[dungeon.city_id] = []
+                cls_inst.investigation_dungeon_datas[dungeon.city_id].append(dungeon)
+
+        with open(os.path.join(path, "txt", "InvestigationData.txt"), encoding="utf-8") as f:
+            reader = csv.DictReader(f, delimiter="\t")
+            for row in reader:
+                investigation = InvestigationData(
+                    id=int(row["调查ID"]),
+                    city_id=int(row["所属城市ID"])
+                )
+                cls_inst.investigation_datas[investigation.id] = investigation
+
+        with open(os.path.join(path, "txt", "InvestigationTargetData.txt"), encoding="utf-8") as f:
+            reader = csv.DictReader(f, delimiter="\t")
+            for row in reader:
+                target = InvestigationTargetData(
+                    quest_id=int(row["目标子任务ID"]),
+                    investigation_id=int(row["所属调查ID"]),
+                    reward_id=int(row["奖励ID"])
+                )
+                cls_inst.investigation_target_datas[target.quest_id] = target
 
         with open(os.path.join(path, "txt", "GachaNewbieData.txt"), encoding="utf-8") as f:
             reader = csv.DictReader(f, delimiter="\t")

@@ -6,8 +6,8 @@ quest_excel_file_name = "QuestExcelConfigData.json"
 
 quest_data = json.load(open(os.path.join(os.getcwd(), "game_server", "json", "excel", quest_excel_file_name)))
 
-async def get_quest_ids():
-    return (quest["mainId"] for quest in quest_data)
+def get_quest_ids():
+    return [int(quest["mainId"]) for quest in quest_data]
 
 async def get_blacklist_map():
     retlist = {}

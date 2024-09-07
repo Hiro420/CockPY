@@ -2,7 +2,9 @@ from game_server.protocol.packet import Packet
 from game_server.protocol.cmd_id import CmdID
 from game_server.encryption import new_key
 from game_server import HandlerRouter,Connection
+from game_server.resource import resources
 from lib.proto import *
+from lib.openstate import OpenStateType
 from game_server.game.player import Player
 from game_server.game.gacha import Gacha
 from game_server.resource.excel import *
@@ -40,6 +42,12 @@ def handle_login(conn: Connection, msg: PlayerLoginReq):
     open_state.open_state_map = {}
     for x in range(600):
         open_state.open_state_map[x] = 1
+    
+    # add open states (dirty way)
+    open_state.open_state_map[OpenStateType.OPEN_ADVENTURE_MANUAL] = 1
+    open_state.open_state_map[OpenStateType.OPEN_ADVENTURE_MANUAL_CITY_MENGDE] = 1
+    open_state.open_state_map[OpenStateType.OPEN_ADVENTURE_MANUAL_CITY_LIYUE] = 1
+    open_state.open_state_map[OpenStateType.OPEN_ADVENTURE_MANUAL_MONSTER] = 1
     
     store_weight_limit = StoreWeightLimitNotify()
     store_weight_limit.store_type = StoreType.STORE_PACK
@@ -92,6 +100,27 @@ def handle_login(conn: Connection, msg: PlayerLoginReq):
         #dont ask me please
         player_data_notify.prop_map[prop._value_] = PropValue(type=prop._value_, val=value, ival=value)
 
+    player_investigation_all_info_notify = PlayerInvestigationAllInfoNotify()
+    player_investigation_all_info_notify.investigation_list = []
+    player_investigation_all_info_notify.investigation_target_list = []
+    if resources.excels.investigation_datas:
+        for investigation_id in resources.excels.investigation_datas:
+            info = resources.excels.investigation_datas.get(investigation_id)
+            investigation = Investigation()
+            investigation.id = investigation_id
+            investigation.progress = 1              # idk about those 2
+            investigation.total_progress = 1
+            investigation.state = InvestigationState.REWARD_TAKEN
+            player_investigation_all_info_notify.investigation_list.append(investigation)
+    if resources.excels.investigation_target_datas:
+        for quest_id in resources.excels.investigation_target_datas:
+            data = resources.excels.investigation_target_datas.get(quest_id)
+            investigation_target = InvestigationTarget()
+            investigation_target.quest_id = quest_id
+            investigation_target.investigation_id = data.investigation_id
+            investigation_target.state = InvestigationTargetState.REWARD_TAKEN
+            player_investigation_all_info_notify.investigation_target_list.append(investigation_target)
+
     rsp = PlayerLoginRsp()
     rsp.game_biz = "hk4e"
     rsp.is_use_ability_hash = False
@@ -104,13 +133,14 @@ def handle_login(conn: Connection, msg: PlayerLoginReq):
     conn.send(player_data_notify)
     conn.send(avatar_data_notify)
     conn.send(conn.player.get_teleport_packet(conn.player.scene_id, conn.player.pos))
+    conn.send(player_investigation_all_info_notify)
     conn.send(rsp)
 
     asyncio.run(send_quest_list(conn))
 
 async def send_quest_list(conn: Connection):
     quest_list = QuestListNotify()
-    quest_ids = await get_quest_ids()
+    quest_ids = get_quest_ids()
     for quest_id in quest_ids:
         quest = Quest()
         quest.quest_id = quest_id

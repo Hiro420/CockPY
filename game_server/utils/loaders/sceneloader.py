@@ -146,6 +146,25 @@ async def spawn_monster(monster: dict, group_id: int, conn: Connection):
     hp_map[int(test_monster.entity_id)] = int(hp)
     return test_monster
 
+def get_monster_pos_by_group(lua_map, scene_id:int, group_id:int, monster_id:int):
+    path_str = f"\\{scene_id}\\scene{scene_id}_group{group_id}.lua"
+    if path_str not in lua_map:
+        return
+    group_data = lua_map[path_str]
+    if 'monsters' in group_data and len(group_data['monsters']) > 0:
+        monsters = group_data['monsters']
+        for monster in monsters:
+            if monster['monster_id'] != monster_id:
+                continue
+            born_pos = monster['pos']
+            pos = Vector()
+            pos.x = born_pos['x']
+            pos.y = born_pos['y']
+            pos.z = born_pos['z']
+            return pos
+    return None
+
+
 def spawn_gadget(gadget: dict, group_id: int, connection: Connection):
     # print(f"Spawning gadget {gadget['gadget_id']}")
     config_id = gadget['config_id']

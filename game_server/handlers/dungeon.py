@@ -3,20 +3,8 @@ from game_server import HandlerRouter,Connection
 from lib.proto import *
 from lib.retcode import Retcode
 from game_server.resource import resources
-import time
-from game_server.utils.time import current_milli_time
-from game_server.protocol.reader import BinaryReader
-from game_server.resource.enums import *
-import enet
-import re
-import os
 from lib.proto import Vector
-from . import map_commands
-from random import randrange
-from os import path
-import time
 from .scene import lua_map
-from ..utils.loaders.sceneloader import load_scene_stuff
 
 router = HandlerRouter()
 
@@ -95,3 +83,21 @@ def handle_PlayerQuitDungeonReq(conn: Connection, msg: PlayerQuitDungeonReq):
     #player_x = conn.player.pos.x
     #player_y = conn.player.pos.y
     #player_z = conn.player.pos.z
+
+
+@router(CmdID.GetDailyDungeonEntryInfoReq)
+def handle_get_investigation_monster_req(conn: Connection, msg: GetDailyDungeonEntryInfoReq):
+    rsp = GetDailyDungeonEntryInfoRsp()
+    rsp.daily_dungeon_info_list = []
+
+    dungeon_datas = resources.excels.investigation_dungeon_datas.get(1) # dirty hack for now
+    if not dungeon_datas:
+        return conn.send(rsp)
+    for dungeon_data in dungeon_datas:
+        for dungeon_id in dungeon_data.dungeon_id_list:
+            dungeon_entry = DailyDungeonEntryInfo()
+            dungeon_entry.dungeon_entry_id = dungeon_data.entrance_id
+            dungeon_entry.dungeon_entry_config_id = dungeon_id
+            dungeon_entry.recommend_dungeon_id = dungeon_id
+            rsp.daily_dungeon_info_list.append(dungeon_entry)
+    conn.send(rsp)
