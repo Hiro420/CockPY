@@ -209,6 +209,7 @@ class Player:
                 return avatar_entity
 
     def get_teleport_packet(self, scene_id: int, pos: Vector, enter_type: EnterType = EnterType.ENTER_SELF):
+        print(f"Trying to enter scene {scene_id} with pos {pos.x}, {pos.y}, {pos.z}")
         player_enter_scene_notify = PlayerEnterSceneNotify()
         player_enter_scene_notify.scene_id = scene_id
         player_enter_scene_notify.pos = pos

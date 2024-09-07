@@ -13,11 +13,11 @@ def get_blacklist_group_ids(scene_id: int):
         return []
     with open(json_path, 'r') as f:
         data = json.load(f)
-        return [x['groupId'] for x in data]
+        return [int(x['groupId']) for x in data]
 
 async def load_scene_stuff(lua_map, scene_id: int, pos: Vector, conn: Connection):
     print(f"Loading scene stuff for scene {scene_id}")
-    # blacklist_group_ids = get_blacklist_group_ids(scene_id)
+    blacklist_group_ids = get_blacklist_group_ids(scene_id)
     b_map = await get_blacklist_map() # TODO: make static
     scene_path = f'\\{scene_id}\\scene{scene_id}.lua'
     if scene_path not in lua_map:
@@ -25,10 +25,10 @@ async def load_scene_stuff(lua_map, scene_id: int, pos: Vector, conn: Connection
     scene_base_data = lua_map[scene_path]
     blocks = scene_base_data['blocks']
     for block in blocks:
-        await load_block(scene_id, block, pos, lua_map, conn, b_map)
+        await load_block(scene_id, block, pos, lua_map, conn, b_map, blacklist_group_ids)
     pass
 
-async def load_block(scene_id: int, block_id: int, pos: Vector, lua_map, connection: Connection, b_map):
+async def load_block(scene_id: int, block_id: int, pos: Vector, lua_map, connection: Connection, b_map, blacklist_group_ids):
     path_str = f'\\{scene_id}\\scene{scene_id}_block{block_id}.lua'
     if path_str not in lua_map:
         return
@@ -39,7 +39,9 @@ async def load_block(scene_id: int, block_id: int, pos: Vector, lua_map, connect
         return
     for group in groups:
         group_id = group['id']
-        #                                            supposed to be { scene_id: [group_ids] }                                    
+        if group_id in blacklist_group_ids:
+            continue
+        #                                    supposed to be { scene_id: [group_ids] }
         if "refresh_id" in group or str(group_id) in b_map[str(scene_id)]:
             # hacky way to not load too many unneeded groups
             continue
@@ -61,6 +63,7 @@ async def load_group(scene_id: int, group, pos: Vector, lua_map, connection):
     pass
 
 async def process_group(group_id: int, scene_id: int, lua_map, connection: Connection):
+    print(f"Processing Group {group_id}")
     path_str = f"\\{scene_id}\\scene{scene_id}_group{group_id}.lua"
     if path_str not in lua_map:
         return
@@ -160,7 +163,8 @@ def spawn_gadget(gadget: dict, group_id: int, connection: Connection):
     motion_info.rot.y = gadget['rot']['y']
     motion_info.rot.z = gadget['rot']['z']
     motion_info.pos.x = gadget['pos']['x']
-    motion_info.pos.y = gadget['pos']['y']
+    # Dirty hack because for some weird reason they decide to spawn *a bit* too high up, may need some adjustment
+    motion_info.pos.y = gadget['pos']['y'] -1
     motion_info.pos.z = gadget['pos']['z']
     entity_info.motion_info = motion_info
     entity_info.gadget = SceneGadgetInfo()

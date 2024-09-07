@@ -164,10 +164,11 @@ def handle_enter_world(conn: Connection, msg: PostEnterSceneReq):
     asyncio.run(load_scene_stuff(lua_map, conn.player.scene_id, conn.player.pos, conn))
     conn.send(PostEnterSceneRsp(retcode=0))
 
+"""
 @router(CmdID.SceneInitFinishReq)
 def handle_scene_init_finish_req(conn: Connection, msg: SceneInitFinishReq):
     conn.send(SceneInitFinishRsp(retcode=0))
-
+"""
 
 @router(CmdID.GetAllMailReq)
 def handle_get_all_mail(conn: Connection, msg: GetAllMailReq):
@@ -410,12 +411,6 @@ def handle_combat_invocations_notify(conn: Connection, msg: EvtBeingHitsCombineN
         newpacket = msg
         conn.send(newpacket)
     # Done!
-        
-@router(CmdID.SceneEntitiesMovesReq)
-def handle_SceneEntitiesMoves(conn: Connection, msg: SceneEntitiesMovesReq):
-    scene_entities_moves_rsp = SceneEntitiesMovesRsp()
-    scene_entities_moves_rsp.retcode = 0
-    conn.send(scene_entities_moves_rsp)
 
 @router(CmdID.PersonalSceneJumpReq)
 def handle_PersonalSceneJump(conn: Connection, msg: PersonalSceneJumpReq):
